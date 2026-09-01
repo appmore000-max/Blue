@@ -1,0 +1,109 @@
+{
+  "id": "energy_system",
+  "source": "能量體系 v1",
+  "two_axes": {
+    "cun": {
+      "name": "存",
+      "is": "還剩多少",
+      "in_combat_regen": 0,
+      "bands": {
+        "極少": 40,
+        "少": 60,
+        "中等": 100,
+        "多": 150,
+        "極深": 260
+      },
+      "recovery": {
+        "快": "幾小時",
+        "一般": "一個晚上",
+        "慢": "幾天"
+      }
+    },
+    "ben": {
+      "name": "本",
+      "is": "根基",
+      "reversible": false,
+      "persistence": "outside_savefile",
+      "cost_per_force": "存上限永久 −8%",
+      "quote": "那句話的意思不是「你會受傷」。是「你如果動了，那件事就回不去了」"
+    }
+  },
+  "costs": {
+    "極低": 5,
+    "低": 10,
+    "中": 15,
+    "高": 20,
+    "極高": 35
+  },
+  "entries": [
+    {
+      "id": "realized",
+      "name": "領悟",
+      "knows_which_system": false,
+      "note": "某一刻突然就有了。沒有規律，沒有師承"
+    },
+    {
+      "id": "trained",
+      "name": "練出來的",
+      "knows_which_system": true,
+      "cost": "教過你的人知道你會什麼"
+    },
+    {
+      "id": "made_on",
+      "name": "被做上去的",
+      "has_cun": false,
+      "has_abilities": false,
+      "has_ben": false,
+      "always_on": true,
+      "removable": false,
+      "note": "而那一類的人幾乎不會被辨識出來。他們自己多數也不知道那是怎麼來的",
+      "in_game": "無魔法模式。而遊戲不會告訴你你選了什麼"
+    }
+  ],
+  "perception": {
+    "trainable": false,
+    "quote": "這是整套東西裡最不講道理的一條",
+    "values": {
+      "清楚": "精確的數字",
+      "抓不準": "模糊的條",
+      "沒有": "什麼都沒有。你要自己記"
+    },
+    "in_game": "這不是難度選項。那是你這一輩子的儀表板"
+  },
+  "cap": {
+    "raisable": true,
+    "guaranteed": false,
+    "methods": [
+      "某種練法（綁在特定體系上）",
+      "外物（難找、難買，或根本沒在流通）",
+      "某一天突然就多了（而那個人自己也說不上來為什麼）"
+    ],
+    "quote": "同一套練法，有人推上去了，有人做了十年一動也不動"
+  },
+  "first_task": "弄清楚自己屬於哪一套",
+  "first_task_note": "在你對出來之前，你連怎麼變強都不知道",
+  "books": {
+    "hard_to_find": false,
+    "hard_to_match": true,
+    "note": "難的不是拿到書。難的是對"
+  },
+  "cost_types": [
+    "數值",
+    "BEN",
+    "LIFE",
+    "ALL"
+  ],
+  "consumption_vs_price": {
+    "consumption": [
+      "存"
+    ],
+    "price": [
+      "本",
+      "壽命",
+      "那八秒之後的痛",
+      "華邦剩下的次數"
+    ],
+    "quote": "那不是消耗，那是代價",
+    "rule": "右邊那一欄，全部是回不去的東西"
+  }
+}

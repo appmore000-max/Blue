@@ -1,0 +1,195 @@
+{
+  "id": "map",
+  "source": "地圖 v1",
+  "scope": "台灣全島二十二縣市",
+  "density": [
+    {
+      "lv": "密",
+      "can": "進得去建築、NPC 有作息、巷子是通的",
+      "eyes_digit": [
+        2,
+        3
+      ]
+    },
+    {
+      "lv": "中",
+      "can": "街道完整。多數建築不可進",
+      "eyes_digit": [
+        1,
+        2
+      ]
+    },
+    {
+      "lv": "疏",
+      "can": "可通行。只有地標與必要地點",
+      "eyes_digit": [
+        0,
+        1
+      ]
+    },
+    {
+      "lv": "過",
+      "can": "只在移動中經過",
+      "eyes_digit": [
+        0,
+        0
+      ]
+    }
+  ],
+  "density_is_eyes_digit": true,
+  "density_note": "空的地方才是事情發生的地方。一件不能被看到的事，不會發生在台北車站",
+  "cores": [
+    {
+      "id": "taipei_metro",
+      "lv": "密",
+      "is": "界",
+      "residents": 13,
+      "has": [
+        "界的總部（位置留白）",
+        "醫院",
+        "通報系統",
+        "眼睛最多的地方"
+      ]
+    },
+    {
+      "id": "yilan",
+      "lv": "密",
+      "is": "體制外的那三個",
+      "residents": 4,
+      "has": [
+        "阿智的補習班",
+        "阿仁的拳擊館",
+        "阿和的素食餐廳",
+        "張福貴那個罐子",
+        "羅東夜市",
+        "那座寺"
+      ],
+      "note": "這一區完全沒有界的東西。所以制度不存在"
+    },
+    {
+      "id": "taichung_longjing",
+      "lv": "密",
+      "is": "那個頂樓",
+      "residents": 2,
+      "content": "一整個新透天社區、幾條巷道、一片田",
+      "note": "密度是密，而內容幾乎是零。而那正是重點"
+    },
+    {
+      "id": "pingtung_chaozhou",
+      "lv": "密",
+      "is": "那個三合院",
+      "residents": 2,
+      "has": [
+        "三合院",
+        "國小",
+        "隔壁那隻狗",
+        "那面裂掉的牆"
+      ],
+      "note": "離所有東西都很遠。而那不是劇情，那是地圖"
+    }
+  ],
+  "secondary": [
+    {
+      "id": "kaohsiung",
+      "lv": "中",
+      "why": "高志遠與黑石的出生地。而高志遠每個月回去一次"
+    }
+  ],
+  "unmarked": [
+    {
+      "id": "jie_hq",
+      "region": "台北",
+      "on_map": false,
+      "minimap": false,
+      "address": false,
+      "unlock": "加入界之後，有人帶你去一次"
+    },
+    {
+      "id": "huabang_mountain",
+      "on_map": false,
+      "minimap": false,
+      "how": "有人帶你，或者你已經去過"
+    }
+  ],
+  "travel": {
+    "is": "傳送＝去搭車。這個世界沒有傳送點",
+    "networks": [
+      {
+        "id": "hsr",
+        "name": "高鐵",
+        "covers": "西部走廊，南港到左營",
+        "fast": true,
+        "expensive": true,
+        "not_reach": [
+          "宜蘭",
+          "花蓮",
+          "台東",
+          "屏東潮州"
+        ]
+      },
+      {
+        "id": "tra",
+        "name": "台鐵",
+        "covers": "環島",
+        "slow": true,
+        "cheap": true
+      },
+      {
+        "id": "metro",
+        "name": "捷運",
+        "covers": [
+          "台北",
+          "新北",
+          "桃園",
+          "台中",
+          "高雄"
+        ]
+      },
+      {
+        "id": "bus",
+        "name": "國道客運",
+        "note": "而台北到宜蘭走雪隧最快"
+      }
+    ],
+    "costs": [
+      "時間",
+      "錢"
+    ],
+    "note": "島是一整座這件事，不是靠地圖大小做出來的，是靠移動成本做出來的"
+  },
+  "longjing_detail": {
+    "station": "台鐵海線龍井站",
+    "hsr_taichung_at": "烏日。方向是反的",
+    "note": "所以要去那個頂樓，你得搭慢的那一條"
+  },
+  "save": {
+    "tiers": [
+      {
+        "id": "base",
+        "name": "據點",
+        "examples": [
+          "家",
+          "界的總部",
+          "拳館",
+          "補習班",
+          "餐廳"
+        ],
+        "save": true,
+        "fast_travel": true,
+        "ends_day": true
+      },
+      {
+        "id": "temp",
+        "name": "臨時點",
+        "examples": [
+          "便利商店"
+        ],
+        "save": true,
+        "fast_travel": false,
+        "ends_day": false
+      }
+    ],
+    "rule": "只有回到那個地方，這一天才結束",
+    "source": "每一個人都有一份要回去的生活"
+  }
+}
