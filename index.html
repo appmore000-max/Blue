@@ -340,7 +340,17 @@ button:focus-visible,select:focus-visible,input:focus-visible{
 .recnote{padding:12px 18px 0;font-size:11px;color:var(--far);line-height:1.9}
 .recnote b{color:var(--sky)}
 
+/* ⚠ hidden 屬性的 display:none 優先權很低 ——
+   任何在 CSS 裡設了 display 的東西，都會把它蓋掉。
+   而那讓一個面板永遠關不掉。 */
+[hidden]{display:none!important}
+
 /* ── 那條路 ───────────────────────── */
+/* ⚠ hidden 屬性的 display:none 優先權很低 ——
+   任何在 CSS 裡設了 display 的東西，都會把它蓋掉。
+   而那讓一個面板永遠關不掉。 */
+[hidden]{display:none!important}
+
 /* ── 那條路 ───────────────────────
    ⚠ 全部疊在畫布上面。而不是切格子 ——
      切格子的話，畫布會被下面那些東西擠扁。 */
@@ -478,6 +488,11 @@ button:focus-visible,select:focus-visible,input:focus-visible{
 .rc .e{margin-left:auto;font-size:11px;color:var(--far)}
 .recnote{padding:12px 18px 0;font-size:11px;color:var(--far);line-height:1.9}
 .recnote b{color:var(--sky)}
+
+/* ⚠ hidden 屬性的 display:none 優先權很低 ——
+   任何在 CSS 裡設了 display 的東西，都會把它蓋掉。
+   而那讓一個面板永遠關不掉。 */
+[hidden]{display:none!important}
 
 /* ── 那條路 ───────────────────────── */
 
@@ -84103,6 +84118,15 @@ function mountRoad(app, M, arg, back){
   wireBack(app, back);
   const $ = s => app.querySelector(s);
 
+  /* ⚠ 按鈕先接。
+     因為下面那個 WebGL 如果掛掉會 return —— 而那會讓「關閉」永遠接不上線。 */
+  $('#bInfo').onclick   = () => { $('#info').hidden = false; };
+  $('#ibClose').onclick = () => { $('#info').hidden = true; };
+  $('#info').onclick    = e => { if (e.target === $('#info')) $('#info').hidden = true; };
+  addEventListener('keydown', e => {
+    if (e.key === 'Escape' && $('#info') && !$('#info').hidden) $('#info').hidden = true;
+  });
+
   /* 而那一頁是他寫的 */
   function onMarkDone(n){
     const card = $('#noteCard');
@@ -84164,14 +84188,14 @@ function mountRoad(app, M, arg, back){
     $('#view').innerHTML =
       `<div class="err"><b>畫不出來。</b><p class="dim">${e.message}</p>
        <p class="dim">而這一頁需要 WebGL。<br>如果你的瀏覽器很舊，或顯示卡驅動關掉了它，就會這樣。</p></div>`;
+    /* 而那不代表整頁要死掉 —— 返回、說明都還要能用 */
+    $('#bMark').disabled = true;
     return;
   }
 
-  $('#bInfo').onclick = () => { $('#info').hidden = false; };
-  $('#ibClose').onclick = () => { $('#info').hidden = true; };
   $('#bMark').onclick = () => {
     const r = sim.mark();
-    if (r && r.done) app.querySelector('#noteCard') && onMarkDone(r.done);
+    if (r && r.done) onMarkDone(r.done);
   };
 
   /* 年份。而那是書裡那條線 */
