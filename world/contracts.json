@@ -1,0 +1,74 @@
+{
+  "id": "na_yi_hang",
+  "source": "那一行 v1",
+  "name": null,
+  "name_note": "它沒有名字。一個需要名字的東西，就是一個需要被指認的東西",
+  "layers": [
+    {
+      "pos": "上面",
+      "does": "出案子，出錢",
+      "sees_down": "中間",
+      "sees_up": null
+    },
+    {
+      "pos": "中間",
+      "does": "拆案、分派、洗錢",
+      "sees_down": "窗口",
+      "sees_up": "上面"
+    },
+    {
+      "pos": "窗口",
+      "does": "找人、發訊息、結帳",
+      "sees_down": "執行者",
+      "sees_up": "中間"
+    }
+  ],
+  "executor_is_not_a_layer": true,
+  "executor_note": "東西到他們這裡就不再往下了",
+  "rule": "任何一個中間的人，都不得透露上面。而那條規定沒有例外",
+  "rule_purpose": "那條線就是為了不讓人往上走才長成那樣的。而它也不讓上面往下走",
+  "job_format": [
+    "地點",
+    "時間",
+    "內容",
+    "錢"
+  ],
+  "job_omits": [
+    "甲方",
+    "為什麼",
+    "支援",
+    "四碼"
+  ],
+  "accuracy": {
+    "準的": "多數",
+    "不準的": "中間層拆案時漏了東西。不是惡意，是耗損",
+    "有人在等你": "而窗口不知道"
+  },
+  "progression": {
+    "vertical": false,
+    "horizontal": true,
+    "unit": "多認識一個窗口",
+    "crack": "同一件案子從兩個窗口下來，內容不一樣。而那是唯一一個往上看的縫"
+  },
+  "window_traits": {
+    "結帳": [
+      "拖、坑、或本來就沒打算給",
+      "準時而且不囉嗦"
+    ],
+    "情報": [
+      "照抄上面給的",
+      "他自己會多查一點"
+    ],
+    "出事的時候": [
+      "消失",
+      "也消失——而他之後會補一筆給你"
+    ]
+  },
+  "no_one_rescues_you": true,
+  "the_position": {
+    "has_face": false,
+    "appears": false,
+    "reachable": false,
+    "note": "它永遠差兩層。而建議永遠不要有臉"
+  }
+}

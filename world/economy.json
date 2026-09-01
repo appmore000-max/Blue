@@ -1,0 +1,59 @@
+{
+  "id": "economy",
+  "source": "傷與錢 v1",
+  "pay_by": "規模（階位）",
+  "difficulty_by": "難善後（四碼）",
+  "uncorrelated": true,
+  "uncorrelated_note": "所以會有「錢很少，而它很難」的案子。那就是界賠錢做事的地方",
+  "jie": {
+    "split": "依每個人實際出力的程度分配",
+    "legal": true,
+    "traceable": true,
+    "reliability": 1.0,
+    "medical": "林若霜。而她只有一個",
+    "job_frequency": "有時候一個月三件，有時候三個月一件"
+  },
+  "na_yi_hang": {
+    "multiplier": [
+      1.3,
+      2.3
+    ],
+    "legal": false,
+    "traceable": false,
+    "paid": {
+      "準時給足": 0.7,
+      "拖": 0.2,
+      "短給或不給": 0.1
+    },
+    "expected_ratio": 0.9,
+    "medical": "自付"
+  },
+  "monthly_fixed_example": {
+    "who": "chen_tingya",
+    "total": 22000,
+    "items": {
+      "水電瓦斯": 2500,
+      "伙食（兩個人）": 13000,
+      "弟弟的學雜補習": 2500,
+      "機車油錢": 1000,
+      "網路與兩支手機": 1200,
+      "弟弟長高換衣服": 800,
+      "雜項與看醫生": 1000
+    },
+    "note": "三合院是祖父母留下來的。沒有房租，也沒有房貸",
+    "conclusion": "只靠界的收入，不夠"
+  },
+  "clinic": {
+    "id": "unregistered",
+    "asks": false,
+    "reports": false,
+    "note": "而那要錢。品質看你找到的是哪一間"
+  },
+  "hospital": {
+    "cheap": true,
+    "asks": true,
+    "reports": true,
+    "consequence": "一份被送進醫院的傷單，就是一個目擊者"
+  },
+  "the_math": "那一行給得多，是因為它把醫療、風險、與不確定性的成本全部推給你了"
+}
