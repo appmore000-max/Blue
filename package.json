@@ -1,0 +1,30 @@
+{
+  "name": "blue-sky-inheritance",
+  "version": "0.1.0",
+  "description": "藍天白雲傳承",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "build": "node build.mjs",
+    "test": "node test/lint.mjs && node test/contract.mjs && node test/spec.mjs && node test/smoke.mjs && node build.mjs && node test/single.mjs && node test/fileopen.mjs && node test/road.mjs && node test/counting.mjs && node test/layout.mjs && node test/arena.mjs && node test/deploy.mjs",
+    "test:data": "node test/contract.mjs",
+    "test:spec": "node test/spec.mjs",
+    "test:ui": "node test/smoke.mjs",
+    "test:single": "node build.mjs && node test/single.mjs",
+    "test:open": "node test/fileopen.mjs",
+    "test:3d": "node test/road.mjs",
+    "test:count": "node test/counting.mjs",
+    "test:layout": "node test/layout.mjs",
+    "test:arena": "node test/arena.mjs",
+    "test:lint": "node test/lint.mjs",
+    "test:deploy": "node test/deploy.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "jsdom": "^26.1.0"
+  }
+}

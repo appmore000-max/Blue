@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<title>藍天白雲傳承</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@200;300;500;700&family=Noto+Serif+TC:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./src/style/tokens.css">
+<link rel="stylesheet" href="./src/style/app.css">
+<style>
+/* 這一段不能靠 tokens.css —— 因為要在什麼都載不到的時候還看得見 */
+#nofile{display:none;padding:44px 22px;max-width:460px;margin:0 auto;
+  color:#9AA0A6;font-family:system-ui,"Noto Sans TC",sans-serif;font-weight:300;line-height:2}
+#nofile h2{font-size:15px;letter-spacing:.2em;color:#EDEAE4;font-weight:400;margin:0 0 18px}
+#nofile b{color:#EDEAE4;font-weight:500}
+#nofile a{display:block;margin:22px 0;padding:15px;border:1px solid #2A2E33;border-radius:2px;
+  color:#EDEAE4;text-decoration:none;font-size:13px;letter-spacing:.2em;text-align:center}
+#nofile a:hover{background:#15181C}
+#nofile code{font-family:ui-monospace,monospace;font-size:11.5px;color:#EDEAE4;
+  background:#15181C;padding:2px 6px;border-radius:2px}
+#nofile pre{background:#15181C;border:1px solid #22262B;border-radius:2px;
+  padding:11px 13px;font-family:ui-monospace,monospace;font-size:11.5px;color:#9AA0A6;
+  overflow-x:auto;margin:10px 0}
+#nofile .s{font-size:12px;color:#565D64;line-height:1.95}
+</style>
+</head>
+<body style="background:#0F1114">
+
+<div id="app"></div>
+
+<div id="nofile">
+  <h2>這一頁要用伺服器開</h2>
+  <p><b>而你現在是直接點開檔案的。</b></p>
+  <p class="s">
+    它用 ES 模組，而瀏覽器從 <code>file://</code> 開會直接擋掉。<br>
+    <b>而那個擋是在程式跑起來之前——所以連錯誤訊息都出不來。</b><br>
+    你看到的全黑，就是那個。
+  </p>
+  <a href="../藍天白雲傳承.html">改用單檔版　→</a>
+  <p class="s">
+    那一個點兩下就能開，<b>六個模式都在裡面</b>，不需要任何東西。
+  </p>
+  <p class="s" style="margin-top:26px">——或者，如果你要用伺服器：</p>
+  <pre>cd app
+python -m http.server 8000</pre>
+  <p class="s">
+    然後開 <code>http://localhost:8000</code><br>
+    <b>而要開在 app 這一層，不是外面那一層。</b>
+  </p>
+</div>
+
+<!-- 這一支是普通 script，不是 module。所以它一定跑得到 —— 而那正是重點。 -->
+<script>
+(function(){
+  function show(){
+    var n=document.getElementById('nofile'), a=document.getElementById('app');
+    if(n) n.style.display='block';
+    if(a) a.style.display='none';
+  }
+  if (location.protocol === 'file:'){ show(); return; }
+  setTimeout(function(){
+    var a=document.getElementById('app');
+    if(a && a.innerHTML.trim()==='') show();
+  }, 3000);
+})();
+</script>
+
+<script type="module">
+  import { boot } from './src/ui/shell.js';
+  boot();
+</script>
+</body>
+</html>
