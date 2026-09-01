@@ -1,0 +1,847 @@
+{
+ "id": "03_一天沒有任何事件",
+ "title": "一天沒有任何事件",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "四點五十，園奏醒了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他睡在四樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一層本來是空的。屋主過世之後也還是空的——他們沒有動過那個人的房間，也沒有把那些東西收起來。而園奏睡在最外面那間，靠樓梯的，因為那裡上頂樓最快。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他坐起來，手先摸了一下胸口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "隔著衣服，那個吊飾在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他自己沒有意識到這個動作。他做了二十幾年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "上頂樓的時候天還是灰的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風躺在水塔旁邊，棚架外面那一塊水泥地上。膝蓋微彎，一隻手枕在腦後。他穿的是隨機一件短袖、一條普通長褲，腳上那雙拖鞋已經看不出原本什麼顏色。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有轉頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「早。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個「嗯」很短。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏聽得出來——短的那一種是「聽到了」，長一點的那一種是「他記住了」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而這一聲是聽到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五點十四，太陽出來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "從那個角度看過去，前面是空地跟田，什麼都沒有擋著。這個社區蓋在最邊緣，再過去就是那樣一片。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那大概是他們會留下來的唯一理由。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風看著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏站在他左後方半步的地方，也看著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那半步從來沒有變過，也從來沒有人教過他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點，他下樓泡茶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高山茶。水溫、時間、火候，全部憑感覺——那是二十幾年練出來的，而他沒有算過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他做的每一件事都有目的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "演七歲，是為了守住秘密。應付鄰居，是為了守住秘密。設定手機、記日期，是為了順風。不跑、不跳、不冒任何險——那也是為了順風。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "只有泡茶不是。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "泡茶對誰都沒有幫助。順風不需要喝茶，也不會因為沒茶就怎麼樣。這件事對傳承、對秘密、對任何一個人的安危，都毫無影響。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就是喜歡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "喜歡水溫剛好的那一刻。喜歡茶葉在熱水裡慢慢展開的樣子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他端上去的時候，順風還是那個姿勢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把杯子放在水泥地上，離那個人的手大概二十公分的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "這一聲長一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏在旁邊坐下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "坐下來之前他先看了一眼樓梯口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是二十幾年的流浪留下來的，而他自己沒有察覺。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八點四十，有人敲門。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏下去開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是隔壁那個阿姨，手上拿著一個袋子。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「弟弟，早喔。」",
+   "pause_before": 0,
+   "who": "neighbor",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「阿姨早。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「這個給你們，我今天早上蒸的。」",
+   "pause_before": 0,
+   "who": "neighbor",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "園奏抬起頭，眼睛睜得比平常大一點，把手伸出去接。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「謝謝阿姨。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你家大人呢？」",
+   "pause_before": 0,
+   "who": "neighbor",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我跟哥哥住在一起。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那句話他是十年前當場想出來的。七個字，沒有一個字是假的——他確實跟順風住在一起。而「哥哥」這兩個字剛好可以解釋所有的問題，又剛好什麼都沒有回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個阿姨笑了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那你哥哥有沒有好好照顧你？」",
+   "pause_before": 0,
+   "who": "neighbor",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有在吃飯嗎？」",
+   "pause_before": 0,
+   "who": "neighbor",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "門關上之後，他站在那裡兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他在心裡把「哥哥」那兩個字放回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為私下他從來不這樣叫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點，他把日期看了一遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "水費這個月十五號。電費二十號。網路是自動扣的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些全部不是他們在付。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是真琪姐從屋主過世之後就接過去的。她沒有問過順風的意見，也沒有等他開口——她就是從那個月開始，把所有費用轉到自己名下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風只「嗯」了一聲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有拿這件事說過任何一句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不提、不暗示、不在任何時候拿出來講。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "就像那件事本來就該是她做的一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "中午下了一場雨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不大，而下了大概二十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏在四樓的窗邊看著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "雨停了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是慢慢變小，是停了。而雲從中間散開，光從那個縫掉下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "樓下那條路上有一個人在走，穿雨衣，推著一台裝滿回收物的推車。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人抬起頭，看了一下天，然後把雨衣的帽子拉下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他繼續走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏站在窗邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他完全懂那是什麼，也知道那是為了誰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個推車的人一輩子都不會知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那正是順風要的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "下午兩點多，他坐在頂樓滑手機。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他自己的那一支。順風那一支的設定全部是他弄的——開機、帳號、通訊軟體、聯絡人的順序、桌布，沒有一項是順風自己做的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他自己這一支，滑的東西不多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那則貼文是紫儀姐前一天發的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一隻柯爾鴨，矮矮胖胖的，蹲在水塔旁邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "底下有兩萬多個追蹤者在按，留言一堆，都是「好可愛」「這哪裡」「我也想養」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏看著那張照片。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天他在洗杯子。她上來的時候順風不在——至少她以為不在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把他抱起來，問了他一堆有的沒的：今天吃了什麼、有沒有乖乖的、茶好不好喝。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他配合得很好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她放他下來，回頭，看到那隻鴨子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她整個人亮了起來，蹲下去，拍了大概三十張。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "拍完之後她才想起來問：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「诶?對了，順風先生咧？」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他頭也沒抬。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「去他想去的地方了吧。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個回答含糊到沒有任何資訊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她完全沒有多想。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他是全世界唯一一個看到那張照片、而且知道那是誰的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他不能講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不能跟紫儀姐講那是誰。不能跟順風講有人拍到了。不能跟任何一個人講他看到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那則貼文有兩萬多個讚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "多一個少一個，不會有人注意到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他按了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他把手機放下，看了一眼旁邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風在看天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人的手插在口袋裡——而只要一談到天空，那隻手就會伸出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "現在沒有伸出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他沒有在想天空。他只是在看。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五點半，他下去做晚飯。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他自己不需要吃。順風也不需要。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他還是做了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那是一件每天都要做的事，而每天都要做的事會讓一天有形狀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他煮了麵，加了一顆蛋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還有一顆茶葉蛋——那是他自己下午去巷口買的，用真琪姐塞給他的零錢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她不知道他們根本不需要吃東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些錢這幾年累積下來，如果他們真的是兩個普通人，那個數字要撐過一個月的正常生活是綽綽有餘的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他只拿它做一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "晚上八點多，天完全暗了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "兩個人在頂樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風躺著看星星，園奏坐在旁邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「順風。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯沒事。」",
+   "pause_before": 0,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那是「聽到了」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他本來要講的是別的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他本來要問，那個推車的人為什麼是那個推車的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有問，因為他知道答案是「就那樣」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "或者更可能的是——順風會抬頭看天，然後不接那句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是逃避。他是真的在看。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點半，園奏下樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風不會下來。他一年只睡幾次，而多數時候他就在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "園奏躺在四樓那間房裡，看著天花板。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他每天躺下來的時候都會想同一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "如果他哪一天死了——不是被誰殺，只是死了，車禍、從樓梯上摔下去、任何一件足以殺死一個普通七歲小孩的事——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那他所有的記憶都會完整地回到順風身上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一秒不缺。從他的視角。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風會知道他當下看見了什麼、聽見了什麼、痛不痛、有沒有來得及想起誰。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "順風會把他的死亡，從頭到尾，親自經歷一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後受罰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而罰則是順風自己選的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事順風沒有講——他只是把那八項一項一項唸過去，天閉修、天雷、削名、折源、緘言、凡守、溯憶、失格，講得非常完整，一項都沒有漏。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而園奏是從那個排列順序自己推出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "順風不知道他知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以「活著」對他而言，是一項每天都在執行的任務。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不跑。不跳。不爬高。過馬路一定牽手。走樓梯一定扶著。不吃來路不明的東西——雖然他根本不需要吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個成人靈魂，用一具七歲的、會流血的身體，每一天、每一小時、每一個動作，都在防止一件他無法完全控制的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有跟順風提過這件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為說了，順風會知道他在害怕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他閉上眼睛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個吊飾在胸口，隔著衣服。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他伸手按了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一整天，什麼事都沒有發生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "雨停了二十分鐘。有一個推回收物的人抬了一次頭。有一個阿姨送了一袋蒸的東西過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有兩萬多個人按了一則貼文的讚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而其中一個是他按的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一個人知道。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 153,
+  "narration": 129,
+  "emphasis": 5,
+  "speech": 19,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yuanzou",
+ "⚠_label_rule": {
+  "shunfeng": "哥哥",
+  "zhang_zhenqi": "真琪姐姐",
+  "wu_ziyi": "紫儀姐姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   9,
+   10
+  ],
+  [
+   38,
+   40
+  ],
+  [
+   42,
+   44
+  ],
+  [
+   47,
+   50
+  ],
+  [
+   115,
+   118
+  ]
+ ]
+}

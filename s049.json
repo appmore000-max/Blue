@@ -1,0 +1,603 @@
+{
+ "id": "49_而它被放掉了",
+ "title": "而它被放掉了",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件事發生過好幾次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而每一次的形狀都一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "它動了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後它被困住了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而「困住」這兩個字要先講清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是被打倒。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它沒有被打倒過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那也不是被殺。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那條誓約沒有例外。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是它在原地，而它出不去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在四十六億年裡，是唯一一種它遇過的、它處理不了的狀況。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "它有絕對終焉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "它有因果吞噬。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它有極速暗影。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它有多元分身。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "它有一整個永夜領域。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些在那個狀況下，一項都沒有用。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而理由不複雜。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個誓約管的是「殺」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而讓一個威脅在面前無法繼續執行——那件事沒有被禁止。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而傳承者做得到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事第一次發生的時候，是哪一代，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次它在那裡待了多久，也沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為它自己沒有算。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是它第一次遇到一件不需要算的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而在那段時間裡，它在做的事情是等。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它等的是那一代下一步要做什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為它算得出來的下一步只有三種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第一種：殺。 而那被禁止。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第二種：一直關著。 而那需要一個永久的機制。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第三種： 它那時候想不出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而第三種發生了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那一代鬆手了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有懲罰。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "沒有警告。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "就只是放了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒它站在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它那一秒不知道要做什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那不在它算過的任何一種可能裡面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個把你困住的人，會做兩件事的其中一件。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他會處理掉你，或者他會一直看著你。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而不會有第三種。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為第三種代表那個人放棄了對你的控制。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個放棄控制的人，等於承認自己拿你沒辦法。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事對任何一個存在來說，都是損失。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一代沒有損失。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那一代從頭到尾，就沒有想要控制它。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一代要的只有一件事：那一次，到此為止。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事已經達成了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那一代走了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那才是那件事真正讓它處理不了的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它被放掉，不是因為那一代仁慈。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為它在那一代眼裡，已經不是一個需要繼續處理的問題了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生了好幾次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而每一次都一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "困住。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後放掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後那一代走了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而其中有一次，它做了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一次它在原地待了很久之後，那一代來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它開口了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它要問的是：為什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它那一秒發現了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它講不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是它不能講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是它四十六億年裡，只講過一次話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一次是對那個站在紅色天空底下的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那之後，它沒有再開過口。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個幾十億年沒有講過話的存在，要開口的時候會發生什麼——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事沒有人寫過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為只有它自己知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一代那天沒有等。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那一代鬆手，然後走了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "跟前面每一次一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，它沒有再試著開口。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它試的頻率，從那之後往下掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那不是它怕了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是它在算。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它算的是一個很簡單的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "成功率。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字在前面那幾萬代裡，一直在往下掉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是因為傳承者變強了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為每一代都被告知了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那條慣例從第一代起就沒有斷過。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "每一代都會把它的一切完整地告訴下一代。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的意思是：它每一次面對的，都是一個已經知道它會怎麼做的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它的做法一共只有四種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那四種在幾萬代之後，全部被寫進了那份要告訴下一代的東西裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以它沒有新的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而數千代之前，它停了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是投降。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是它算完了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "每一種辦法都走過一遍了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而結論一直沒有變過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個結論是：它做不到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事它接受了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為它從來就不是為了那件事在等。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它在等的東西，跟能不能帶走那個分身沒有關係。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它在等的是那句話的下半段。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話的上半段是四十六億年前它自己問的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而下半段從來沒有出現過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事最奇怪的地方是這樣的：",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那些困住它的傳承者，每一個都可以回答它。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個問題問的就是他們在做的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它從來沒有問過他們。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是它問不出口。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那個問題不是問他們的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個問題是問一個站在紅色天空底下、什麼都沒有的地方、而還是站在那裡的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個東西已經不在了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而後面那四萬多代，只是站在同一個位置上的別人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它們回答不了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為它們不是被問的那一個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事它算得很清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以它從來沒有問。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它一直在等。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 116,
+  "narration": 71,
+  "emphasis": 45,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "jiyuan",
+ "⚠_label_rule": {
+  "kong": "那個東西",
+  "shunfeng": "那個新的",
+  "⚠": "它不用名字"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

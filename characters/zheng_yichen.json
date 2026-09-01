@@ -1,0 +1,477 @@
+{
+  "schema_version": "0.1",
+  "id": "zheng_yichen",
+  "source_file": "角色檔案_鄭翊辰.docx",
+  "identity": {
+    "name_zh": "鄭翊辰",
+    "sex": "male",
+    "age": 27,
+    "birth": "1998-03-22",
+    "ethnicity": "人類．韓國裔台灣人",
+    "birthplace": "韓國首爾",
+    "residence": {
+      "region": "台北市",
+      "district": "信義區",
+      "type": "中型公寓"
+    },
+    "public_identity": {
+      "label": "拳館教練",
+      "is_cover": false,
+      "note": "那是他真的在做的工作"
+    },
+    "faction": {
+      "id": "jie",
+      "joined": "2020",
+      "registered": true,
+      "channel": "正常管道"
+    },
+    "rank": {
+      "tier": 4,
+      "sub": "中",
+      "label": "異"
+    },
+    "energy_system": {
+      "has": true,
+      "name": null,
+      "known_to_self": false,
+      "note": "那個東西沒有名字。而他沒有查過"
+    },
+    "addresses": {
+      "by_others": {
+        "qiang_zang": "全名",
+        "lin_xueyun": "翊辰",
+        "gao_zhiyuan": "小辰",
+        "jie_members": "阿辰",
+        "mother": "翊辰",
+        "gym_students": "教練"
+      },
+      "to_others": {
+        "qiang_zang": "指揮",
+        "lin_xueyun": "林統籌",
+        "gao_zhiyuan": "遠哥",
+        "jie_members": "名字",
+        "mother": "媽"
+      }
+    }
+  },
+  "body": {
+    "height_cm": 178,
+    "weight_kg": 71,
+    "build": "精瘦結實",
+    "skin": "偏白",
+    "hair": {
+      "color": "黑",
+      "style": "短髮有層次，前髮稍微下垂"
+    },
+    "eyes": "深棕",
+    "face": "偏清秀，線條乾淨",
+    "first_impression": "銳利、俐落、看起來很不好惹的青年。而那個印象是對的",
+    "marks": [
+      {
+        "type": "耳環",
+        "loc": "左耳",
+        "desc": "銀色圓環，直徑約一公分",
+        "removable": false,
+        "origin": "他父親留下來的"
+      },
+      {
+        "type": "刺青",
+        "loc": "右手腕內側",
+        "desc": "「辰」。自己刺的，線條有點歪",
+        "age_at": 17,
+        "note": "而他沒有去補過"
+      }
+    ]
+  },
+  "wardrobe": [
+    {
+      "id": "gym",
+      "context": "拳館",
+      "items": [
+        "黑色合身運動上衣",
+        "黑色運動長褲",
+        "赤腳或訓練鞋"
+      ]
+    },
+    {
+      "id": "field",
+      "context": "出勤",
+      "items": [
+        "深黑色輕量機能衣",
+        "深黑色軍規長褲",
+        "輕量化戰鬥靴",
+        "黑色戰術手套（指尖裸露）"
+      ],
+      "note": "靴子輕量化是他自己挑的。因為重量會慢"
+    },
+    {
+      "id": "daily",
+      "context": "日常",
+      "items": [
+        "黑色高領合身毛衣",
+        "深灰色合身長褲",
+        "黑色皮鞋"
+      ]
+    },
+    {
+      "id": "seoul",
+      "context": "去韓國",
+      "items": [
+        "全黑"
+      ],
+      "note": "第一次剛好那樣穿，然後就一直那樣了。他自己知道那看起來像什麼"
+    },
+    {
+      "id": "home",
+      "context": "居家",
+      "items": [
+        "深灰色棉質長袖",
+        "黑色運動長褲",
+        "軟拖鞋"
+      ]
+    }
+  ],
+  "tells": [
+    {
+      "action": "碰一下左耳",
+      "trigger": "idle",
+      "freq": "一天大概幾十次",
+      "self_aware": false
+    },
+    {
+      "action": "講話時身體往前傾",
+      "trigger": "dialogue",
+      "note": "那不是攻擊性。那是他急"
+    },
+    {
+      "action": "站著時重心一直在換",
+      "trigger": "idle_combat",
+      "self_aware": false
+    },
+    {
+      "action": "切換韓文",
+      "trigger": "stress_high",
+      "note": "現場沒有人聽得懂",
+      "reads_as": "他一講韓文，那件事就大了"
+    },
+    {
+      "action": "纏繃帶",
+      "trigger": "pre_combat",
+      "speed": "slow",
+      "note": "他唯一一件會慢下來做的事"
+    },
+    {
+      "action": "講話的時候身體會往前",
+      "note": "而那不是攻擊性。那是他急"
+    },
+    {
+      "action": "站著的時候腳不會停",
+      "note": "重心一直在換"
+    },
+    {
+      "action": "生氣或興奮會切韓文",
+      "note": "而他自己是後來才發現的"
+    },
+    {
+      "action": "纏繃帶纏得很慢",
+      "note": "而那是他唯一一件會慢下來做的事"
+    }
+  ],
+  "voice": {
+    "pace": "fast",
+    "sentence_length": "short",
+    "politeness": "direct",
+    "patience_for_long_speech": "none",
+    "stress_language": "ko",
+    "silence_rule": "現場多數時候不出聲——因為他已經衝出去了",
+    "raises_voice_when": "他要叫某個人不要過去",
+    "exception": {
+      "target": "mother",
+      "note": "完全是另一個人。而那是他唯一會撒嬌的對象"
+    },
+    "signature_lines": [
+      {
+        "line": "走了。",
+        "when": "他要動之前",
+        "note": "而多數時候他講完就已經不在了"
+      },
+      {
+        "line": "아이씨",
+        "when": "急、氣、或者搞砸的時候"
+      },
+      {
+        "line": "知道了。",
+        "when": "被念的時候",
+        "reliability": "very_low",
+        "note": "而他自己也知道"
+      },
+      {
+        "line": "……那不然咧。",
+        "when": "極少",
+        "note": "一輩子大概只講過幾次"
+      }
+    ]
+  },
+  "resource": {
+    "stamina": {
+      "max": 100,
+      "regen_per_sec": 22,
+      "roll_cost": 18,
+      "note": "遊戲層新增"
+    },
+    "cun": {
+      "max_band": "low",
+      "regen_band": "normal",
+      "in_combat_regen": 0,
+      "uses_per_fight": "很小的數字",
+      "max": 60
+    },
+    "ben": {
+      "can_force": true,
+      "forced_before": false,
+      "reversible": false,
+      "persistence": "outside_savefile",
+      "confirm_required": true,
+      "why_never": "理由不是他自制。是他沒有想到",
+      "trigger_condition": "大概是他前面有一個人，而他沒有辦法到"
+    },
+    "perception": "accurate",
+    "perception_note": "他清清楚楚知道自己還剩多少。而那不是問題所在"
+  },
+  "combat": {
+    "role": "burst_closer",
+    "type_tags": [
+      "爆發",
+      "突進",
+      "近身"
+    ],
+    "melee_baseline": {
+      "跆拳道": "頂級。他父親打的底",
+      "短刀": "頂級。兩把各四十公分。同一個人教的",
+      "實戰": "六年。而那六年沒有規則",
+      "抗打": "好"
+    },
+    "style_note": "底子非常正統，而他用那個底子做的事情一點都不正統",
+    "abilities": [
+      {
+        "id": "the_fast",
+        "label": null,
+        "label_note": "沒有名字。而他沒有查過",
+        "type": "burst_close",
+        "cost": "high",
+        "cooldown": null,
+        "range_m": 50,
+        "falloff": "超出五十公尺效果掉得很快",
+        "effect": "對方判斷完他在哪裡的時候，他已經不在那裡了",
+        "aftermath": "他會有一小段時間慢下來",
+        "counters": [
+          {
+            "who": "有氣的",
+            "why": "他們感覺得到他要動"
+          },
+          {
+            "who": "有感知的",
+            "why": "同上"
+          },
+          {
+            "who": "規格高兩階以上的",
+            "why": "那個差距不是速度可以補的"
+          },
+          {
+            "who": "已經知道他要來的人",
+            "why": "因為他只有一招。他從正面來",
+            "severity": "critical"
+          }
+        ],
+        "self_aware_of_hole": true
+      }
+    ],
+    "empty_profile": {
+      "still_can": [
+        "跆拳道頂級",
+        "短刀極熟",
+        "六年實戰",
+        "抗打"
+      ],
+      "lost": [
+        "the_fast"
+      ],
+      "one_line": "一個很會打但不快的人",
+      "positioning": "而他從進去到現在做的事只有一件：到得比別人快。而那件事沒有了之後，他的位置就不對了"
+    },
+    "fight_shape": {
+      "pattern": "前段衝得很漂亮，而衝完就沒有了",
+      "engine_note": "這是他每一場的真實形狀，不是失敗狀態"
+    },
+    "weaknesses": [
+      "存的量很少。而那是最硬的限制",
+      "他從來不算。而那讓那個限制變得更糟",
+      "只有一招",
+      "遠距離完全沒有辦法",
+      "沒有任何防禦性的東西。他快，而他不硬"
+    ],
+    "behaviour_flaw": {
+      "id": "never_counts",
+      "desc": "他知道自己還剩幾次。而那個資訊在他要衝出去的那一秒，完全不在他腦子裡",
+      "post_fight": "那一場結束之後，他很清楚地知道自己用掉了幾次。而下一次他還是一樣",
+      "irony": "而他在拳館教的是相反的東西：先看。不要急。你衝過去之後呢，你想過沒有",
+      "engine_note": "AI 控制時，前三次突進不做存量判斷"
+    }
+  },
+  "knowledge": {
+    "knows": [
+      "他父親十一年前不見了，而沒有任何一個可以查的東西",
+      "他自己那個東西沒有名字，而他不在意",
+      "他每年那趟不會有答案"
+    ],
+    "does_not_know": [
+      "順風的存在",
+      "強葬看完他第一份回報之後什麼都沒說，那代表什麼",
+      "林雪芸為什麼那幾天不排他的任務",
+      "他父親是做什麼的",
+      "那個人為什麼要教他那兩樣東西",
+      "「那種事情，不會有人來跟你講的」是哪一種意思"
+    ],
+    "believes_falsely": [
+      {
+        "he_thinks": "林雪芸那聲「嗯」就是隨口問問",
+        "actually": "從那之後他每年那幾天的任務都不會排到他頭上",
+        "secret_id": "xueyun_zheng_seoul"
+      },
+      {
+        "he_thinks": "高志遠喊「慢點」是在講他太急",
+        "actually": "那個人講的是別的",
+        "secret_id": "gao_zheng_slowdown",
+        "⚠": "這一條在《現況與留白》3.1 那張表上沒有。見知識層附註"
+      }
+    ]
+  },
+  "relations": [
+    {
+      "id": "zheng_junhao",
+      "rel": "父親",
+      "status": "missing_11y",
+      "note": "而他到現在都相信那個人還活著。理由不是證據，理由是沒有證據"
+    },
+    {
+      "id": "lin_xiuqin",
+      "rel": "母親",
+      "age": 55,
+      "note": "兩個人都知道那件事，而兩個人都不提"
+    },
+    {
+      "id": "gao_zhiyuan",
+      "rel": "前線調度",
+      "dynamic": "一個一直在喊，而一個一直沒聽",
+      "note": "而那個人從來沒有真的生氣過。那才是最讓他難受的地方"
+    },
+    {
+      "id": "qiang_zang",
+      "rel": "上級",
+      "contact": "極少"
+    },
+    {
+      "id": "lin_xueyun",
+      "rel": "統籌",
+      "note": "唯一一個問過他那件事的人。問了一次，然後沒有再問"
+    },
+    {
+      "id": "shunfeng",
+      "rel": "none",
+      "knows_of": false
+    }
+  ],
+  "routine": {
+    "weekday": [
+      {
+        "t": "05:30",
+        "at": "home_xinyi",
+        "act": "起床"
+      },
+      {
+        "t": "05:30-06:30",
+        "at": "home_xinyi",
+        "act": "訓練。速度與爆發"
+      },
+      {
+        "t": "06:30-07:30",
+        "at": "home_xinyi",
+        "act": "早餐。韓式的"
+      },
+      {
+        "t": "08:00-18:00",
+        "at": "gym_xinyi",
+        "act": "教課，或者自己練"
+      },
+      {
+        "t": "19:00-22:00",
+        "at": "home_xinyi",
+        "act": "他自己的時間"
+      },
+      {
+        "t": "22:30",
+        "at": "home_xinyi",
+        "act": "睡覺",
+        "note": "睡得很淺"
+      }
+    ],
+    "monthly": [
+      {
+        "when": "每月一次",
+        "at": "taoyuan_restaurant",
+        "duration": "整天",
+        "act": "幫忙、包餃子、洗東西、陪她坐",
+        "note": "而那是他一個月裡話最多的一天"
+      }
+    ],
+    "yearly": [
+      {
+        "when": "每年一到兩次",
+        "at": "seoul",
+        "duration_days": [
+          3,
+          7
+        ],
+        "act": "去那幾個地方，問那幾個人",
+        "streak_years": 11,
+        "engine_note": "那幾天他不在地圖上。而派遣系統不會把任務排給他",
+        "player_visible_reason": false
+      }
+    ]
+  },
+  "locations": {
+    "home": {
+      "id": "home_xinyi",
+      "region": "台北市信義區",
+      "savepoint": true,
+      "type": "據點"
+    },
+    "work": {
+      "id": "gym_xinyi",
+      "region": "台北市",
+      "savepoint": true,
+      "type": "據點",
+      "note": "他教的多數是十歲到十六歲的小孩"
+    },
+    "family": {
+      "id": "taoyuan_restaurant",
+      "region": "桃園",
+      "savepoint": true,
+      "type": "據點"
+    },
+    "offmap": {
+      "id": "seoul",
+      "playable": false
+    }
+  },
+  "flags": [
+    "secret_linxueyun_seoul_days",
+    "secret_gao_slow_down",
+    "secret_zheng_dumplings"
+  ],
+  "playable": {
+    "mode_b": true,
+    "unlock": "default",
+    "note": "四階中。適合第一批"
+  }
+}

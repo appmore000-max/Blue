@@ -1,0 +1,764 @@
+{
+ "id": "40_那十次",
+ "title": "那十次",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十歲那年的某一個早上，張真琪在打掃。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是她家的院子。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天沒有什麼特別的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而院子裡多出了一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是走進來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是翻牆進來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是本來沒有，然後就有了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個穿拖鞋的年輕人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "看起來很懶散。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "站在那裡，抬頭看天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而十歲的她做了一件非常直覺的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她攻擊了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是害怕。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是她家院子裡有一個她不認識的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她五歲就熟稔大部分戰鬥技巧。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在家族裡幾乎打贏所有大人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以那一擊是全力的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一擊穿了過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是被擋下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是被閃開。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是穿過去了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "像打在一團空氣上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她愣在原地。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人低頭看了她一眼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他就不見了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那是她人生第一次「輸」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而且輸得莫名其妙。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她甚至不確定那算不算輸——因為那個人從頭到尾沒有做任何事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天她收拾了東西，離開了家。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她離家之後，開始找。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那是一件不可能的任務。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有住處。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何線索。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人帶著一個小男孩到處走——今天在這裡，明天可能在幾百公里外。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而某一天，她感覺到一陣風。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "很溫暖。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而且是她認得的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "跟她三歲那年跟祖母一起坐在老家大窗邊感覺到的那一陣，一模一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她愣了幾秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她朝著那個方向走。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "走到底，她看見了兩個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "一個穿拖鞋的年輕人，和一個七歲的小男孩。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那陣風是哪來的，沒有答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是那個年輕人——他那天什麼都沒做。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是那個小男孩——他那時候什麼能力都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它就是來了，來得剛剛好，然後就散了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事到現在都沒有人解釋得了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "包括那個年輕人自己。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那次找到之後，他把她送回家。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第二次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那陣風再也沒有出現過第二次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以她要自己想辦法。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她那時候十歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她想到的第一個辦法是：天氣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個人躺著看天。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個躺著看天的人，會挑天氣好的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "於是她往那些地方去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她找到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把她送回家。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "第三次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "這一次她用的是問。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「有沒有看過一個穿拖鞋的年輕人，帶著一個小男孩。」",
+   "pause_before": 2,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個描述有用。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一大一小，永遠同一套衣服，很好認。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她找到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把她送回家。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第四次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她開始算。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他移動的方向。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "速度。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "在一個地方停留的長度。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候十歲半。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她在一張紙上畫了一個東西——不是地圖，是一個表。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "日期。地點。天氣。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那張表她畫了三個月。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她找到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "第五次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她在一個地方等了三天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那三天她沒有找。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她就是待在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而第三天他來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "第六次之後。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她不再「找」了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她只是挑一個能好好看天空的地方，然後過去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而多數時候他在。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個方法一次比一次不像在找人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為她其實不是在找一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她是在一次一次地，學會怎麼理解一個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而每一次，他都把她送回家。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個「送」的方式很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他不會講「妳回去」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他也不會拉她。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他就是站起來，然後往一個方向走。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個方向是她家的方向。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她跟著。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而走到某一個地方，他會停下來，然後她就知道到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生了九次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第十次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一次他沒有站起來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她自己找來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她自己坐下了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他躺在那裡沒有動。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那天坐到自己想走的時候才走。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有問她要待到什麼時候。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有問她為什麼還要來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "從那天起就是這樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一直到今天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而有一件事她到現在都還不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他只要真的想消失，她一輩子也找不到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他能超越光速。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他能穿透一切。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他能在瞬間出現在這顆星球的任何一個角落。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個十歲的孩子，用問路和等待去追一個這樣的存在？",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以從第三次、第四次開始——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那就不是她找到了他。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是他沒有真的走。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他嘴上還是說麻煩。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "但他停下來的地方，一次比一次好找。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第三次那個地方在一條大馬路旁邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第五次那個地方是一個公園。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而第七次那個地方，是她前一天問過路的那個里的隔壁。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她畫的那張表，其實不是他的行動軌跡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他讓她畫出來的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而第十次，他放棄了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他沒有說「妳可以留下」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有說「隨便妳」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是不再動作了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他這一千年來，第一次「允許」某一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個七歲的小男孩全程都在場。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他看著那個小女孩來了一次又一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他看著那個人每一次都把人送回去。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他也看著那個人每一次停下來的位置。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他什麼都懂。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他什麼都沒說。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而十三年後，張真琪二十三歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她現在去台中，就只是去坐著。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "帶筆電處理工作。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "替他梳一梳頭髮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "跟那個孩子講幾句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她幾乎不再挑戰他了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她偶爾會想起那十次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她想起的方式是：「我那時候真的很煩。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個十歲的小孩，被送回家九次，然後第十次還去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒會笑一下。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有想過另外一種可能。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人也從來沒有講過。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 148,
+  "narration": 99,
+  "emphasis": 48,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_zhenqi",
+ "⚠_label_rule": {
+  "shunfeng": "他",
+  "yuanzou": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

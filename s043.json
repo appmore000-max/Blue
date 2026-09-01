@@ -1,0 +1,568 @@
+{
+ "id": "43_那二十年",
+ "title": "那二十年",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "一九七五年之後，他還是七、八歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他用那個樣子，一個人過了大概二十年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那二十年他做的事情很單純。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他走。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是他唯一會的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為前面九百五十年他就是那樣過的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "只是那個時候旁邊有一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是他這一千年來第一次獨處。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "九百五十年裡，那個人從來沒有讓他離開過視線範圍。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "一天都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在沒有人看著他了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那二十年是戰後台灣經濟起飛的年代。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個看起來七、八歲的小男孩，一個人走在那個年代裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有家。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有大人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有身分。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "永遠穿著最不起眼的舊衣服。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那種小孩會遇到什麼事，是可以想像的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他被送過警局。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不只一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而多數時候是有人通報的——一個大人在同一個地方看到同一個小孩三天，就會打電話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他坐在那個板凳上。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "警察問他家住哪裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他一句話都沒有說。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是他不會講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他會四十幾種語言。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他不講，是因為他那一秒沒有辦法算出「講了會怎麼樣」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而一個算不出來的東西，他不會做。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那九百五十年裡養出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些紀錄後來全部不了了之。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為沒有人再找得到那個孩子。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他被餵過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "某個時代某條路邊，某個人把一塊什麼塞給他。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他吃了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不是因為餓。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那個人給了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事九百五十年裡發生過很多次。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那二十年裡也是。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他也被趕過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "有人把他當乞丐。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有生氣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是走開。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那二十年最重的一件事，是有人想收養他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是同情。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是一時興起。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是真的想要照顧他。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是誰，這裡不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的過程也不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是他這一千年來，最接近「有一個家」的一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他推開了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他推開的理由不是他不想要。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他會永遠七、八歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人會老。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人會死。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他會眼睜睜看著那件事發生。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人到最後都不會知道自己養的是什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以他走了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他變了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事不是繼承的一部分。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他自己選的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "九百五十年來，他的樣子是別人指定的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "七、八歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個溫柔的、模糊的範圍。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "從來不是他自己決定的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一天，他第一次替自己做了一個關於自己的決定。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他選的是：一個最普通、最不起眼、丟進人群裡就再也找不出來的二十五歲成年男性。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個選擇的理由不是方便。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是只要他還是個孩子，這個世界上就一定會有人想照顧他。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他承受不起那個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "九百五十年裡，他一直是被照顧的那一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而繼承之後他才發現：",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "就算那個人不在了，還是會有人想接手。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不能再讓任何人接手了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他變成二十五歲之後，做的第一件事是躺下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是消沉。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他唯一知道的活法。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那九百五十年他就是那樣過的——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而現在他不用再等旁邊那個人先動了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他躺了很多年，才有人找到他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是一個十歲的女生。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在他家院子裡攻擊了他。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是二〇一二年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候已經三十七年沒有跟任何人講過話了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是三十七年沒有出過聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是三十七年沒有跟一個知道他是誰的人講過話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那二十年他講過話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "跟警察。跟路邊的人。跟一個把餅塞給他的阿婆。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些人不知道他是什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個十歲的女生也不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她在半年之後知道了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他化開了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她哭了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒他沒有懂。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他以為那是害怕。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他很久之後才想通。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而想通的方式很奇怪。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他想起了那個要收養他的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人那時候的表情，跟那個十歲的女生那一秒的表情，是同一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那兩次都沒有看懂。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事的差別是：",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一次他走了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二次他躺著沒有動。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個十歲的女生現在二十三歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她每隔一陣子會來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她會坐在旁邊用筆電處理工作。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有問過她要待到什麼時候。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 109,
+  "narration": 67,
+  "emphasis": 42,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "shunfeng",
+ "⚠_label_rule": {
+  "yuanzou": "那孩子",
+  "pinghe": "那個人",
+  "⚠": "他從未提過平和的名字"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

@@ -1,0 +1,710 @@
+{
+ "id": "05_撐住",
+ "title": "撐住",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "凌晨三點十九分，陳文彬醒了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是被什麼吵醒的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就是突然睜開眼睛，然後發現自己很累。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那種累不是睡不夠。是那種你剛剛做完一件很重的事、而你完全想不起來自己做了什麼的累。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他躺在那裡，聽著外面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "新莊的凌晨很安靜。樓下那家早餐店還沒開，隔壁的冷氣主機已經停了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他翻了個身，看了一下手機。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點十九。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "明天——今天——七點要到工地。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他這幾年常常這樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一開始是偶爾。半年前開始變成一個星期兩三次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他去看過醫生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "抽血、心電圖、睡眠檢查。醫生說沒有問題，可能是壓力，可能是年紀。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「陳先生你今年幾歲？」",
+   "pause_before": 0,
+   "who": "doctor",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「五十二。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那就是了。」",
+   "pause_before": 0,
+   "who": "doctor",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他五十二歲，在新北做了三十年的工。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他身上有一樣東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事是他二十幾歲的時候突然就有的，沒有規律，沒有師承，沒有任何一個人教過他。有一天他扶著一片快要倒下來的模板，然後那片模板就不倒了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是他力氣大。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是它不倒了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西沒有名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他查過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些書不難找——他花了幾年，斷斷續續，在幾個很不起眼的地方拿到過幾份影本。而那不是一本書，是散在各處的東西，一套一套的，講怎麼消耗、怎麼恢復、上限能不能推。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他對不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有些地方像。有些地方完全不像。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他對到後來就停了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事對他的生活沒有影響——他知道自己做得到，知道用完會沒有，而那就夠了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他從來沒有拿那個東西做過壞事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他也沒有加入過任何地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就是一個做工的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而工地上東西要塌的時候，他會伸手。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些人到現在都以為那是運氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三年前那一次不是運氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是新店的一個案子。舊樓拆除，而拆到一半有一段沒有照圖走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天下午三點多，三樓的一片承重牆開始出聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那種聲音他聽過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個聲音出現的時候，二樓還有四個人在收東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他伸手了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他手上那個東西那天早上已經用過兩次——他在別的地方擋過一次滑落的鋼筋，又在中午扶過一次踏板。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他不知道自己還剩多少。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一項他一輩子都抓不準。他只知道用了會少，而什麼時候會空，每一次都是賭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一次他賭錯了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他伸手的時候，那個東西已經沒有了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是伸了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是勇氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他事後想過很多次，而最誠實的說法是：他沒有想過那件事還有第二種可能。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "底下有四個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他做得到。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他就做了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那面牆撐了四十幾秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四個人跑出來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第三個人跑出來的時候，那面牆已經開始往內縮，而他還撐著。第四個是最後一個，五十幾歲，跑得很慢，出來的時候整個人是撲出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後那個東西塌了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "塌在四個人後面大概兩公尺的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一天沒有人死。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "包商請了兩桌。他坐在那裡，喝了半杯，然後說要先走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他回到家之後，在浴室裡吐了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是痛。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是空。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那種空他沒有辦法形容——像是身體裡面有一個一直都在的地方，那天之後就不在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他隔天照常七點到工地。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事之後兩個月，他發現他做不出來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是變弱。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是那一項完全不見了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他試過很多次。模板、鋼筋、板子、任何一件會掉下來的東西——他伸手，而什麼都沒有發生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "跟一般人伸手一模一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他知道為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些書上有寫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在已經沒有的地方硬擠出來，代價會落在根基上。而那不是那種養幾天就會好的傷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "做得太多的人，後來會發現自己的恢復變慢了、上限掉了，或者某一項再也用不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就是最後那一種。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他這幾年越來越累這件事，他自己也有一個解釋。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "代價。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是他撐了那四十幾秒的代價——那是他做了三十年這件事的代價。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他今年五十二歲。而他從二十幾歲開始，工地上東西要塌的時候他都會伸手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次，又一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些次數加起來，總要有一個地方去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他覺得那個解釋很合理。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而醫生也說可能是年紀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點二十七，他坐起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個累還在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他下床，走到窗邊，把窗簾拉開一個縫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "外面全黑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他看著那片黑看了一陣子，然後把窗簾放回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點三十一，他去廚房倒了一杯水。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "喝完之後他站在那裡，手撐著流理台。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個累還是沒有退。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有時候會退。有時候要撐到天亮才會慢慢好一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而今天晚上是後面那一種。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有想過那件事跟三年前有關。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也沒有想過那個東西掉出來之後去了哪裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個問題他從來沒有問過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在他的理解裡，那個東西不見了就是不見了。就像一顆牙掉了、一段記憶模糊了——不見的東西不會去別的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不見就是不見。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而現在，新北往山上那條產業道路上，三岔口過去約一公里。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一個大概兩公尺高、沒有臉、一直在變形的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它繞著同一個地方轉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它不知道自己在幹嘛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而剛剛有兩個人來過，把它切開了兩次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它又長回去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為它還在吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四點十分，陳文彬回到床上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "躺了大概二十分鐘，那個累慢慢淡了一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是好了。是變成一種背景。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他閉上眼睛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他睡著之前想的最後一件事是：這個月的水電還沒繳。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還有他女兒下個月要開學。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點四十五，鬧鐘響。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他起來，洗臉，吃了一片吐司，穿上那件已經穿了四年的工作外套。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點零二，他到工地。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "工頭在門口，看到他。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿彬，你臉色很差欸。」",
+   "pause_before": 0,
+   "who": "coworker",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「還好啦。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「睡不好？」",
+   "pause_before": 0,
+   "who": "coworker",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。年紀啦。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「哈，我也是。」",
+   "pause_before": 0,
+   "who": "coworker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那天上午十點多，有一片模板鬆了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不重，而它掉下來的位置底下沒有人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它砸在地上，發出一聲很悶的響。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "陳文彬那時候在旁邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有伸手。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他知道伸手也沒有用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就只是看著它掉下去，然後跟旁邊那個年輕的說：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那邊記得綁。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「好。」",
+   "pause_before": 0,
+   "who": "young_worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有發現的是——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看著那片模板掉下去的時候，右手還是往前抬了一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "大概五公分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是三十年留下來的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個他到現在都還在。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 131,
+  "narration": 108,
+  "emphasis": 13,
+  "speech": 10,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_wenbin",
+ "⚠_label_rule": {
+  "yu_lengchuan": "靠窗那個人",
+  "⚠": "絕對不能顯示「余冷川」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   13,
+   15
+  ],
+  [
+   112,
+   116
+  ],
+  [
+   124,
+   125
+  ]
+ ]
+}

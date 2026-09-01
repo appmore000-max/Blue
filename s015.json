@@ -1,0 +1,758 @@
+{
+ "id": "15_三次",
+ "title": "三次",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "早上五點四十，華邦在菜園裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那塊地不大，大概十坪。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "種的是幾樣很基本的東西——小白菜、蔥、地瓜葉，還有一排他每年都種但每年都長不好的番茄。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他九十八歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一百七十八公分，七十公斤。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他年輕的時候更壯。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他蹲下來的時候要扶一下旁邊那根竹竿。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "站起來的時候要慢一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事是這五年才開始的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點二十，他回屋裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "洗了手，倒了一杯水，坐在那張藤椅上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那間屋子很簡單。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個房間，一個廚房，一個放東西的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而放東西的那個地方，一整面牆是本子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六十三年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一年一本，有幾年寫得比較兇，那幾年是兩本。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他今天寫的是這樣：",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "十月十七。晴。\n\n番茄還是不行。土的問題。明年換位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就是全部。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他寫日記寫了六十三年，多數的日子都是這樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "天氣、菜、以及一兩件很小的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "真正的那幾天，他寫得更短。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "比如說有一年的某一天，那一頁只有三行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那三行沒有人看過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點多，他走到門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那把拐杖靠在牆邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "木頭的，很舊，握把的地方磨得發亮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是保養出來的亮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那把拐杖裡有一把短劍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七十三年前，他二十五歲那年，一個他不知道名字的老人給的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人交代了一句話：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「只能拔一次。」",
+   "pause_before": 0,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「而拔的時候要很清楚為了什麼。」",
+   "pause_before": 0,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個老人隔年就過世了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "從來沒有解釋過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而華邦七十三年沒有拔過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把它拿起來，掂了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個重量他很熟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他把它放回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點多，有人來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一個中年男人，開一台舊的貨車，每兩個星期上來一次，帶米、油、跟一些他自己買不到的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人不知道他是誰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "只知道山上住了一個很老的老人家，一個人住，種菜，話很少。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「華伯，這次還帶了一箱橘子。」",
+   "pause_before": 0,
+   "who": "delivery_man",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「哎唷，這麼多。」",
+   "pause_before": 0,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我朋友種的啦，不用錢。」",
+   "pause_before": 0,
+   "who": "delivery_man",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那我拿一點就好。」",
+   "pause_before": 0,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你就拿嘛。」",
+   "pause_before": 0,
+   "who": "delivery_man",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人幫他搬進去，喝了一杯茶，講了大概二十分鐘的話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "多數是他在講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而華邦聽。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他不勸人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而多數時候他不講話——他等。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人走了之後，他把橘子分了兩袋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一袋放著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一袋他打算下個月讓那個孩子帶回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「那個孩子」今年五十一歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而華邦每個月見他一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事已經二十年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "下午三點多，他坐在門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "太陽從那個方向照過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他在算一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他算了五年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八十七歲那一年他動過手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是很大的一件事。而他恢復花了三個月。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九十一歲那年，又一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "恢復花了八個月。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九十三歲，最後一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "恢復花了一年多。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而且沒有完全恢復過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個月。八個月。一年多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字每一次都在翻倍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以第四次會是幾年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他今年九十八歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個算式的答案不是「幾年」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "答案是：可能回不來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他把那件事算完之後，得到的結論是三次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是三次全力。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是三次「動手」——不管大小，不管對象，不管撐多久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三次之後，那個帳就結了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有告訴任何人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為那是秘密。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是因為講了之後會發生兩件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一件是那些人會開始算。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他們一算，就會開始替他做決定。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二件更麻煩。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他們會捨不得用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而一個「捨不得用」的東西，在該用的時候會慢半拍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而慢半拍會死人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他沒有講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個帳只有他自己在記。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九十三歲那年他完全退出經營。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為累了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他不想在還能自己決定的時候，變成別人要照顧的那一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五點多，天開始暗。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他進屋，煮了一點東西吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "吃完之後洗碗，把碗擦乾，放回架上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些動作他做得很慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為手抖。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是因為他不趕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點半，他把那本日記翻開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "今天那一頁已經寫完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他往前翻。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "翻到某一年的某一天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一頁只有三行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看著那三行看了一會兒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "千年之眼他用過十二次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事知道的人是零。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "連那個孩子都不知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那十二次裡面，有一次他很後悔。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為他看錯了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他看對了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後他做了一個決定，那個決定改變了幾個人的一生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那幾個人到現在都不知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把日記闔上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點多，他坐在門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "山上晚上很涼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他抬頭看了一下天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "星星很多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是這個地方唯一比台北好的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看了大概五分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他想起一句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是六十三年前，他三十五歲的時候，對一個他勸不動的人講的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人是漁民，剛結婚，太太有孕，而他拒絕了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而華邦沒有勸第二次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "臨走的時候，他站在門口，隨口講了一句：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「聽說往天上看，好像會有意外之喜。」",
+   "pause_before": 0,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那只是一句閒話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他每年寄一份東西過去，六十三年沒有斷過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有署名。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他不知道那個人第一年就知道了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點，他進屋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那把拐杖靠在牆邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他經過的時候，用手碰了一下握把。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他每天晚上都會做。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他自己沒有意識到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點十分，他躺下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他躺在那裡的時候，把那個數字又確認了一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "三次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他睡了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他睡得很好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是九十八年來，他做得最好的一件事。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 142,
+  "narration": 123,
+  "emphasis": 10,
+  "speech": 8,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "huabang",
+ "⚠_label_rule": {
+  "qiangzang": "那個孩子",
+  "zhang_fugui": "那個人",
+  "chen_wenbin": "（未出場）"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   31,
+   32
+  ],
+  [
+   43,
+   47
+  ]
+ ]
+}

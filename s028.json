@@ -1,0 +1,696 @@
+{
+ "id": "28_那一天他沒有去",
+ "title": "那一天他沒有去",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇一三年，某一個早上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "余冷川睜開眼睛的時候是五點四十。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是鬧鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個時間他自己就會醒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那天他沒有起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他躺在那裡，看著天花板。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個地方是租的。而他那時候已經搬過四次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "天花板上有一塊水漬。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個形狀他看了大概一年，而他一直沒有找到那像什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天有事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "時間是晚上十點。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "地點他前一天已經去看過了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而路線他算過三條。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他準備了六天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他躺在那裡沒有起來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那一秒他沒有想任何一件很大的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他沒有想那六年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他沒有想那些人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他也沒有想那個一百二十七。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個數字那時候還不是一百二十七。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他想的是一件很小的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "前一天他在那個地點外面站了大概四十分鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那條巷子的對面有一間早餐店。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那間店的老闆娘在跟一個小孩講話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩大概五、六歲，坐在最裡面那張桌子寫東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個老闆娘一邊煎蛋一邊回頭問他：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「寫完沒。」",
+   "pause_before": 0,
+   "who": "shop_auntie",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「還沒。」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「快點。」",
+   "pause_before": 0,
+   "who": "shop_auntie",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個對話大概十秒。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那時候站在對街，隔了大概二十公尺。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他在看那棟樓的出入口。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個對話是他順便聽到的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事本身沒有任何意義。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他這六年在很多個地方站過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他聽過幾百段那種東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一段他隔天早上醒過來的時候，還在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那也不是感動。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他不是那種人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那六年做的事情，跟感動這兩個字完全沒有關係。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就只是：那一段還在。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他躺在那裡想那件事的時候，發現了另外一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他沒有辦法把那一段忘掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是他選的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他從來就沒有辦法忘掉任何一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "臉。地點。時間。那一天的天氣。那個人身上穿什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是他刻意去記的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他也沒有辦法不記。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事六年來一直沒有變成一個問題。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為他記得的那些東西，他有辦法放在旁邊。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天早上他發現，那個「旁邊」滿了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是滿到裝不下。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他發現那個地方裡面有太多不該在那裡的東西了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個老闆娘叫小孩快點寫。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個人在便利商店門口講電話，講到一半笑了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個女的把摩托車停好之後回頭看了三次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一隻狗。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一雙掉在路邊的拖鞋。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西全部是他站在那裡等的時候看到的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那六年他做的每一件事，前面都有幾十個小時的等。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些等的時間，他都在看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他記得的東西裡面，那些佔的比例遠遠比另外一種多。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那天早上躺在那裡算了一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是道德。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是後悔。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個很物理的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他的頭裡面有太多別人的日子了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些日子每一段都不長。十秒。三十秒。一分鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它們加起來，比他自己的日子長得多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他六點多起來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他洗了臉，燒了水，泡了一杯很難喝的即溶咖啡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他坐在那張桌子前面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那張桌子上什麼都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不留東西在桌上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他坐了大概兩個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "八點四十，他做了一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他把那件事的東西全部收起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那三條路線的圖。那個地點的照片。那個時間表。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有燒掉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "也沒有撕掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他就只是把它們收進一個袋子，然後放到櫃子最底下。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為燒掉是一個動作。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個動作代表你做了一個決定。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那天沒有做決定。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他就只是沒有去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上十點，他在家裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他坐在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有開電視。沒有做任何事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他就只是坐著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而十點十七分的時候，他站起來，走到窗邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個時間他本來應該在別的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他站在窗邊看著外面那條路。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那條路上有人在走。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個下班回來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個牽狗的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一台機車停在對面，那個人在滑手機。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川站在那裡看了大概二十分鐘。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他那一秒沒有覺得輕鬆。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "也沒有覺得自己做了什麼好事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他就只是站在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他腦子裡的那個地方，那天晚上多了三個東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個下班回來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個牽狗的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "一個在滑手機的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上，有一個人在看著他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那件事他知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是那天知道的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是後來知道的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他知道的方式很簡單：那個人後來出現在他面前，而那個人的第一句話不是「我知道你是誰」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人的第一句話是他的名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字是他自己取的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而知道那三個字的人，在那個圈子裡不超過五個。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那個人一直都知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人從那天到現在，一個字都沒有提過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而余冷川也沒有提過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "十二年了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是默契。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "默契是兩個人講好的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們沒有講。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那就只是兩個人各自算過同一件事，然後各自算出了同一個結論。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事不需要被講出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而十二年來，那個人一次都沒有派他去做那種事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一次都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是巧合。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "余冷川算得出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有謝過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為謝了那件事就會被講出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件袋子還在櫃子最底下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他搬過幾次家。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而每一次他都把它帶著。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他一次都沒有打開過。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 132,
+  "narration": 101,
+  "emphasis": 27,
+  "speech": 4,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yu_lengchuan",
+ "⚠_label_rule": {
+  "chen_wenbin": "那個做工的人",
+  "gao_zhiyuan": "那個人",
+  "⚠": "他不知道那個人叫什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   26,
+   29
+  ]
+ ]
+}

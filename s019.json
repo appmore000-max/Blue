@@ -1,0 +1,872 @@
+{
+ "id": "19_窗戶後面",
+ "title": "窗戶後面",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "急診室的燈是二十四小時開著的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那種燈沒有時間感——凌晨三點跟中午十二點看起來一模一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而林若霜已經在裡面十四個小時了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "星期六凌晨四點二十，第三床。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個機車事故，二十幾歲，右腿開放性骨折，血壓在掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她的手很穩。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在喊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那種喊不是為了叫誰過來——那是一個人痛到那個程度的時候，身體自己會發出的聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「先生，我是醫生，你看著我。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯」",
+   "pause_before": 0,
+   "who": "patient",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「看著我。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人的眼睛轉過來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你叫什麼名字。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯阿、阿宏。」",
+   "pause_before": 0,
+   "who": "patient",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「阿宏，你等一下會覺得很不舒服，但是你不會死。聽到沒有。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯」",
+   "pause_before": 0,
+   "who": "patient",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你不會死。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "四點五十一分，那個人被推進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她站在走廊上，靠著牆，喝了半瓶水。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人不會死。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是安慰。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是判斷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她十八歲那年還沒有那種判斷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天她在自己家的窗戶後面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人倒在她家門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她看得很清楚——那個人還在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她站起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她媽媽抓住了她的手。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「不要出去。」",
+   "pause_before": 0,
+   "who": "mother",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她那時候十八歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她掙扎了幾秒，然後坐回去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那幾秒她想的東西，她記到現在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是「我要救他」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是「我出去要做什麼」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她十八歲，什麼都不會。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有力氣、沒有醫療知識、沒有任何一樣可以拿來用的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她出去，也只是多一個人倒在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個認知比什麼都難受。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "後來那個人被拖走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在窗戶後面，看著那件事發生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上她媽媽跟她講了很多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她媽媽是對的。一個十八歲的女生跑出去，什麼都改變不了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候點了頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她隔天去查了醫學系的分數。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "兩年後，她二十歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有人問了她一個問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「妳為什麼想加入？」",
+   "pause_before": 0,
+   "who": "interviewer",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她愣了兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為她準備了很多說法。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "想幫助人。認同理念。覺得自己可以做點什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她講出來的是：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「因為我不想再站在窗戶後面了。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那句話講完之後，她自己也愣了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而對面那個人沒有追問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人只是在紙上寫了幾個字，然後說：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「好。」",
+   "pause_before": 0,
+   "who": "interviewer",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她從那天起，就沒有再解釋過那句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "界裡面沒有一個人知道那扇窗戶是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有人以為那是比喻。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有人以為那跟她讀醫學系有關。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人根本沒有想過那句話有出處。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五點十分，她坐在護理站旁邊那張椅子上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她的手機震了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個群組。",
+   "pause_before": 0
+  },
+  {
+   "t": "screen",
+   "text": "【1122】桃園。\n@ 高志遠 @ 林若霜",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二碼一。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "有，而他們走得掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她看了一眼牆上的鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五點十分。她的班到八點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那則貼文上寫的是「今天」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把手機收起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有猶豫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為她冷血。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為她已經算過那個東西幾百次了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "急診室裡現在有十一個病人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "其中兩個重症，而那兩個都已經進去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "剩下的九個，有兩個學長在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而桃園那邊，第二碼是一。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "有人在裡面，而他們走得掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「走得掉」的意思是：他們自己會跑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而如果他們跑不掉，那一碼會是二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那不急。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她八點下班之後過去，還來得及。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而如果那一碼是二——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她會現在就走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而急診室這邊的十一個人，會由那兩個學長處理。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個判斷她做得比誰都快。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有跟任何人講過她是怎麼算的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八點零四分，她下班。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她在更衣室裡把那條辮子拆下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後重新綁成一個緊髮髻。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為救人的時候頭髮不能掉下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作在界裡面已經變成訊號了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有人看到她那樣綁，就知道那一場會有人倒下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她自己不知道有那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點四十七分，桃園。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高志遠已經在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一場打了二十幾分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而中間有一個人倒下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是界的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是那個現場的一個工人，五十幾歲，本來已經跑出去了，然後為了拿他放在裡面的東西又跑回來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西砸下來的時候，他在正下方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "林若霜看到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四十一公尺。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在她的範圍裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她在那一秒算了三件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一件：那個人的狀態。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大量出血。而那還在她可以帶回來的範圍裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二件：距離。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四十一公尺，中間有兩堆料擋著。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那要花的精氣比直線多一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第三件：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "還有沒有別人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒她確認了一遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高志遠站著。他吃了幾下，但他站著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "現場沒有第二個人在往下掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以她去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點五十三分，那個工人被帶出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他活著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一點二十分，收了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個工人躺在擔架上，眼睛是張開的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他在看天花板——那是鐵皮，什麼都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他一直在講一句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我東西還在裡面。」",
+   "pause_before": 0,
+   "who": "worker",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「先生。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我東西——」",
+   "pause_before": 0,
+   "who": "worker",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你的東西還在。沒有人會拿。」",
+   "pause_before": 0,
+   "who": "lin_ruoshuang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人看著她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他哭了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而林若霜蹲在那裡，一隻手放在他的肩膀上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她什麼都沒有講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她在那裡蹲了大概兩分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "回到總部之後，她做的第一件事是去洗手間洗臉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是她把現場放下的方式。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "冷水，三次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她抬起頭的時候，鏡子裡那個人的頭髮還綁著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把它拆開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有想那個工人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她想的是那扇窗戶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十八歲那年，那個人倒在她家門口，而她坐回去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事她從來沒有跟任何人講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她也沒有打算講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個需要被理解的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就只是一個十八歲的女生坐在窗戶後面，看著一件她沒有辦法改變的事發生。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而八年之後，她可以了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就夠了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二點十分，她走出總部。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "外面是台北的中午。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她昨天早上七點上班，到現在二十九個小時。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她今天下午還有一台刀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她從口袋裡拿出一顆糖，剝開，放進嘴裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那包糖她口袋裡永遠有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是給她自己吃的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是給那些現場的人的——那些不知道自己為什麼在那裡、被嚇到、講不出話的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她會蹲下來，把糖遞過去，然後說一句「沒事了」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有在任何一份任務說明裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是她自己加上去的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她今天沒有機會給出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個工人一直在講他的東西還在裡面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以她自己吃了。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 161,
+  "narration": 132,
+  "emphasis": 12,
+  "speech": 16,
+  "quote": 0,
+  "screen": 1,
+  "section": 0
+ },
+ "pov": "lin_ruoshuang",
+ "⚠_label_rule": {
+  "lin_xueyun": "統籌",
+  "qiangzang": "指揮"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   8,
+   10
+  ],
+  [
+   12,
+   16
+  ],
+  [
+   124,
+   127
+  ]
+ ]
+}

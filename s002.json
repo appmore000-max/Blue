@@ -1,0 +1,961 @@
+{
+ "id": "02_第二次",
+ "title": "第二次",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "九點半，陳再壬上床。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他從來不拖。那不是因為他懂什麼——那是規定，而他很守規定。至於規定是誰定的，是他自己。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他躺好，把棉被拉到胸口，閉上眼睛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他等。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大概十點到十一點之間，那個門會響一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那是她出去的聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點二十。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "陳婷雅在客廳把槍拆開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她每次出門前都會拆一遍。彈匣退出來、滑套拉開、復進簧、槍管——一樣一樣攤在桌上，看過，再一樣一樣裝回去。那件事她做得極快，快到不用開燈也可以。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她今天開了燈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為她要看那條紅繩有沒有磨到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那條繩子綁在她左手腕上，五年了，顏色已經掉得差不多。是她弟弟五歲那年在廟會買的，十塊錢，他自己的錢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他跑回來遞給她的時候講了一句：「這個可以保平安。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那句話是攤子老闆說的。他聽到了，記住了，然後照著講了一遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她那時候十一歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "訊息是下午三點進來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n高雄。舊倉庫區。\n一個人。要處理掉。\n今晚。\n24,000\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有甲方。沒有為什麼。沒有支援。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她看的是最後一行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "二十四。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "這個月已經過了二十一天，界那邊到現在一件都沒有 @ 到她。而水電、伙食、弟弟的補習、他長高了要換的那兩件衣服——加起來是二萬二。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "二十四夠。而只夠這一個月。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把槍裝回去，插進腰後，外套拉下來蓋住。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "書包裡是另一把，拆開的。刀在小腿外側。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她從來不讓自己空著手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是謹慎。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是她的能力有沒有存在的問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點四十一。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "門響了一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "陳再壬睜開眼睛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他躺在那裡，聽著外面那個機車發動的聲音，聽著它出巷口，聽著它變小，然後沒有了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他閉上眼睛，繼續等。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "潮州到高雄，台鐵四十幾分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她十一點五十到現場。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一整排廢掉的倉庫，鐵皮，鏽得很嚴重。路燈壞了兩盞，剩下的那幾盞照不到裡面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她在外面待了四十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "繞了一圈，看門在哪、窗在哪、鐵皮哪裡是破的、如果要跑要往哪邊跑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那四十分鐘是她自己給自己的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為沒有人會告訴她裡面是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二點三十六，她進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "訊息上寫的是一個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而裡面有兩個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她第一秒想的不是「有埋伏」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她想的是：上面拆案的時候漏了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件案子從上面下來，經過中間，再到那個窗口，再到她。三層。而三層之後掉東西是常態——上面寫「一個人」的時候，可能真的只有一個人；也可能那個人身邊一直有另一個，而沒有人覺得那需要寫上去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是陷阱。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是耗損。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她一次只能處理一個目標。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是她這輩子最硬的限制，而它不是能力的問題——是物理的問題。她一百五十七公分，四十三公斤，而她面對的人多數比她大。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "槍能打到拳頭打不到的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而槍一次只有一發。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "左邊那個先動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她開了一槍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "普通的一發——因為那個人身上什麼都沒有，沒有防護、沒有能力、沒有硬化。這種目標用普通的一發就結束了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一發是零消耗。就是一把槍、一顆子彈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人倒下去的時候，右邊那個已經過來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而右邊那個不一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她第二發打在他胸口，而那一下的手感不對——不是打進去的感覺，是打在什麼上面然後彈開的感覺。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人沒有停。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他身上有東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她退了三步，同時在算。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "放不放。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西不是自動的。她開的每一槍不會自己帶著它，是她在扣扳機之前決定要不要把它放進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她放進去的每一發，都代表她那一秒認定了一件事：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "這個東西擋得住我。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她放了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一發穿過去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是威力變大——她的槍還是那把槍，子彈還是那顆子彈。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而它就是會穿過去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人往後仰，撞在鐵皮上，整片牆震了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他站起來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二發。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也穿了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他還是站起來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西不是防護——是他不會倒。而她的能力對「擋不擋得住」有用，對「倒不倒」沒有用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她扣第三次的時候，那個人已經到她面前了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "手被撞開的時候，槍飛了出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它落在三公尺外的地上，滑進暗處。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒，那個東西從她身上消失了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是消耗不足。不是用完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是它不存在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她手上沒有槍，所以那個能力連影子都不會出現。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "刀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她從小腿外側抽出來，往上劃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人的手臂被切開一條，血噴在鐵皮上，而他沒有退——他抓住了她的外套前襟，把她整個人往上提。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一百五十七公分的人離地。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "四十三公斤。被壓住就完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她做了她最不想做的那一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "近身。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為近身代表對方碰得到她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她鬆手放掉刀，兩隻手抓住那個人的手腕，膝蓋往上頂進去，同時整個身體往側邊扭——那不是力氣的問題，那是角度的問題。她從十二歲開始練這件事，沒有教官，沒有靶場，沒有任何一個人教過她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人的手鬆了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她落地，滾了一圈，右邊肩膀撞在地上，磨掉一塊皮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她已經在往那把槍的方向去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三公尺。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人比她快。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她比他早出發。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "手指碰到槍托的那一秒，那個東西回來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她翻過身，兩隻手握著，往上抬。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她在那一秒又算了一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "還剩多少。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個她看得很清楚的數字——她從來就不是那種抓得準的人。她只知道用了會少，而什麼時候會空，每一次都是賭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "放，還是不放。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不放，那一發就是普通的一發，而它剛剛已經彈開過一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "放，如果空了——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那她就沒有東西了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她放了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一發穿過去，從下往上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人這一次沒有站起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一點五十二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她坐在那片鐵皮外面，右手撐著地，喘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "肩膀那一塊在流血，而那是擦傷，過幾天自己會好。不用去那個沒有登記的地方，也不用去醫院。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "醫院會問。醫院會通報。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那要八千。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "八千是這個月的三分之一。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把槍拆了，放進書包，刀擦乾淨插回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那條紅繩還在。有一段被血沾到了，暗掉一塊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她用手指抹了兩下，抹不掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點十四，台鐵。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個窗口的訊息在她坐上車之後進來，兩個字：",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n收到\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而錢什麼時候到，他沒有寫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把手機收起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七成的機率明天會進帳。兩成的機率會拖幾天。剩下那一成——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她沒有往下想。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四點零六，潮州。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把機車停在三合院外面，熄火，推進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "門是舊的，開的時候會響。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她推的時候慢了一點，讓那個聲音短一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她不知道那沒有用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四點零六。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "陳再壬躺在床上，眼睛是張著的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個門響了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他翻了個身，把棉被拉高一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他睡著了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點十分，她起來煮早餐。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "炒了一個蛋，煎了兩片火腿，白飯是昨天晚上剩的，加了一點水下去回鍋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點四十，她叫他起床。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「早。」",
+   "pause_before": 0,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「早。」",
+   "pause_before": 0,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他坐下來，吃了兩口，然後抬頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「好吃。」",
+   "pause_before": 0,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他每一餐都會說這句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她一直以為那是客套。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點十分出門。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她騎車，他坐後面，手抓著她的外套。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "風有一點冷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她在紅燈的時候伸手往後摸了一下他的手。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「會冷嗎。」",
+   "pause_before": 0,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不會。」",
+   "pause_before": 0,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個回答四年來沒有變過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她以為那是手套的功勞。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以她每年冬天都會確認那副手套還在，破了就換一副。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點二十五，校門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他下車，背好書包，轉過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「姐。」",
+   "pause_before": 0,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯掰掰。」",
+   "pause_before": 0,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「掰掰。」",
+   "pause_before": 0,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他走進去，走了幾步，回頭看了一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她還在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他就進去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把車騎回去的路上，在算。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "二十四扣掉車錢，扣掉今天要買的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "這個月差不多了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而下個月從零開始。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天下午她去接他的時候，他手上拿著一張圖。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「這什麼。」",
+   "pause_before": 0,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「畫的。」",
+   "pause_before": 0,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「給我看。」",
+   "pause_before": 0,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不要。」",
+   "pause_before": 0,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他把那張紙折起來，塞進書包最裡面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她笑了一下，沒有再問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個紙箱裡有很多張。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "全部是同一個女生，跟同一間房子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有給她看過。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 178,
+  "narration": 154,
+  "emphasis": 10,
+  "speech": 14,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_tingya",
+ "⚠_label_rule": {
+  "chen_zairen": "他",
+  "⚠": "她不知道他知道"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   139,
+   140
+  ],
+  [
+   142,
+   143
+  ],
+  [
+   150,
+   151
+  ],
+  [
+   157,
+   160
+  ],
+  [
+   169,
+   172
+  ]
+ ]
+}

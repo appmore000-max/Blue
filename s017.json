@@ -1,0 +1,732 @@
+{
+ "id": "17_一具都沒有",
+ "title": "一具都沒有",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個封鎖區的第七天，張真琪十二歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她那時候還沒有氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十五歲才有。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那四年她身上只有五歲起累積的全部技巧，跟四十一公斤。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那已經夠了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為她五歲就熟稔大部分武功與戰鬥技巧。因為她在家族裡跟大人比拚甚至幾乎打贏。因為她十歲以前極少嚐到敗北。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而更重要的是——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她能把力道收放到任何她要的程度。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "要制伏就制伏。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "要打斷就打斷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "要讓對方站不起來但不死，她也做得到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是五歲起的累積，不是後來練的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那四年，她一直在用那一項。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第七天下午，那個街區。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "前方那條路被堵死了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "二十幾個被感染的人站在那裡，沒有焦距，等著下一個指令。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她已經在看角度了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "誰從左邊進、誰壓右側、先解決哪一群。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而旁邊那兩個也在看。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個是女生，比她小一歲，淡紅色瞳孔，站得很近。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個是男生，最大的那一個，深膚色。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個男生沒有在看那二十幾個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個人已經一起行動兩天了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他們到現在還沒有交換過名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯那邊有通風井。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個男生在看樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「什麼？」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「從那邊繞，可以直接到後面。不用打。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "張真琪看了那條路一眼，又看了他一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「繞多遠？」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「大概八分鐘。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「打過去呢？」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「兩分鐘。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "四倍的時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她沉默了兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那兩秒裡她算的不是時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她算的是：那二十幾個人，如果她過去，會有幾個站不起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "以她那時候的技術，二十幾個三階，她要在不取人性命的前提下把他們全部壓下去——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "兩分鐘不夠。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "兩分鐘是「打過去」的時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是「制伏」的時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而如果她要在兩分鐘內過去，那就不是制伏了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯走通風井。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那條路他們走了八分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那二十幾個人，一個都沒有被碰到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天之後，這三個人多了一個習慣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "動手之前，會先有人問一句「有沒有別的路」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個習慣是那個男生帶進來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那四年她看過的屍體，多到數不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一些是被感染的人殺的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一些是自己人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一些是那個街區裡本來就住在那裡、而沒有跑掉的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而其中有一具她記到現在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一個女的，大概三十幾歲，倒在一間藥局門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她手上抓著一個東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一盒退燒藥。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個藥局的鐵門是拉下來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那盒藥是她自己從裡面找出來的，或者是她進去之後才被弄成那樣的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張真琪那天站在那裡看了大概五秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個街區還有三棟樓沒有清。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那四年裡有一次，她差一點做了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是第二年，還是第三年，她記不清楚了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個現場有一個被感染的人抓住了一個沒有被感染的小孩。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩大概七歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人的手已經扣在小孩的脖子上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三階。而距離十二公尺。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二公尺對那時候的張真琪來說，是一個很尷尬的距離。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "太遠，她過不去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "太近，她沒有時間繞。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她手上有一把匕首。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "丟過去可以。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她算得出來那個角度。她算得出來那個力道。她甚至算得出來那個人會往哪個方向倒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有丟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為丟過去的那個位置只有一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個位置會死人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以她沒有丟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她跑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二公尺，她用了大概一秒半。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒半裡面，那個人的手收緊了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她到的時候，那個小孩的臉已經開始變色。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把那個人的手扳開，那不是力氣，那是找那三根手指裡最沒有力的那一根，先扳那一根。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩活下來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果她慢半秒，就不會。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上她一個人在一個屋簷底下坐著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她想的不是「好險」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她想的是：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "如果她丟了，那個小孩會更安全。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是道德問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是效率問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有丟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她到現在都說不清楚那一秒她在守什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那四年就這樣過去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二歲，十三歲，十四歲，十五歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她看過的屍體多到數不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一具是她造成的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是她刻意在維持的紀錄。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她從來沒有算過那個數字。她也沒有跟任何人講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那只是每一次她伸手的時候，那個手停在了同一個位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個再往上兩公分就會斷、而現在只是動不了的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十六歲那年，她第一次殺人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是茲克瓦。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是四年之後的另外一件事，而對面不是無辜的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那天結束之後，她一個人在房間裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有哭。沒有崩潰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "就只是坐在那裡，情緒低到底。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候想的不是那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她想的是那四年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那四年她在那些封鎖區裡走過那麼多條路。她繞過通風井。她跑過十二公尺。她把手停在同一個位置停了幾百次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那四年裡，她一次都沒有失手。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在那個數字不是零了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西回不去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在那裡的時候，窗外那片天變了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "整片，變成了一片乾淨得不像話的藍天白雲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人來。沒有人說話。沒有任何一句安慰。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "就只是天空變藍了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她看著那片天，坐了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "壓在自己身上的那份罪惡與愧疚，慢慢地隨著那片天空一起撐白。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她慢慢地變回原本的那個張真琪。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那天的天氣，是自然的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人為她做任何事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就只是一個剛好在那個時間點放晴的下午——這種事一年會發生很多次，而那天剛好輪到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她認定那是他做的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有查證過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七年後，她二十三歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她在台北一間公司當業務員。輪休制。名片上印著她的名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她的登錄階位是二階上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個數字是別人替她推上去的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她自己從來沒有申請過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個數字對她來說，一點幫助都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她有一個習慣，是那四年留下來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "進屋的時候先掃一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "出入口、可利用物品、視線死角。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她自己不覺得那算戒備。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就只是一個進門的動作。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "跟她把手停在那個位置一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "已經不需要想了。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 137,
+  "narration": 115,
+  "emphasis": 14,
+  "speech": 8,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_zhenqi",
+ "⚠_label_rule": {
+  "shunfeng": "他",
+  "yuanzou": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   26,
+   27
+  ],
+  [
+   29,
+   32
+  ]
+ ]
+}

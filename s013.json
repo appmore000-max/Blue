@@ -1,0 +1,825 @@
+{
+ "id": "13_剛好",
+ "title": "剛好",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "星期二晚上六點十分，黑石到了醫院。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是他今天第一次來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "早上七點多他也來過一趟，站在門口看了兩分鐘，然後去上班。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "電梯門一開他就把手機轉成靜音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他做了六年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他往病房那個方向走的時候，抬頭看了一下天花板。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是習慣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "軍方那十一年留下來的——他在看那個空間的承重。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那是一間兒童病房。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "天花板上有貼紙。有雲、有太陽、有一隻不知道是什麼的動物。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他每一次進去都會看。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次都知道那沒有意義。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "門口那個位置他站了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一百八十九公分，九十五公斤。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他把身體側開，因為那個門框對他而言有點窄。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「爸爸。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他女兒十三歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "先天性免疫疾病，長期住院。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她今天氣色比上個星期好一點——那是他自己在心裡講的，而他知道那不一定是真的。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你今天穿這件。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「怎樣。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「還可以啦。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「還可以是什麼意思。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「就還可以啊。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那件是白色的短袖，很寬鬆，配牛仔褲跟球鞋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那是他刻意挑的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為六年前她講過一句：「爸爸你穿那樣好像老頭。」",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從那天起就沒有再穿那一套去過醫院。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點，晚餐。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把餐盤打開，把菜分好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她吃得很慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「今天有沒有畫。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有啊。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「給我看。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她從枕頭底下抽出一張。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一隻鳥，畫在一片藍色上面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "顏色塗得很滿，邊緣有點超出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「這什麼。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「鳥。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「什麼鳥。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不知道。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "黑石看了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「不錯。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「爸你每次都說不錯。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「因為都不錯。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「敷衍。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「哪有。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她笑了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他腰包裡有一張。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六歲的時候畫的——一座山，旁邊寫了兩個字：「爸爸」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那張紙已經快要斷了。摺痕的地方變成半透明的，纖維都散了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有換過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他女兒後來畫過幾百張。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他帶在身上的還是那一張。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八點四十，護理師來了一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點，他把餐盤收好，把窗簾拉上。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「爸。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你明天會來嗎。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不知道，看情況。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個「喔」很短。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他站起來，把椅子推回原位。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「小磐。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「幹嘛。」",
+   "pause_before": 0,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯沒事。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "九點十五分，他走出病房。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "到一樓的吸菸區，他點了一根。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個地方在側門旁邊，一個鐵皮棚子底下，牆邊有一個沙桶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "晚上這個時間通常沒有人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他抽得很兇。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一根接一根，中間幾乎不停。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他知道不好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他左手在褲子上抹了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他摸了那個缺口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是虎口下面，靠近手腕的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個大概兩公分的凹陷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那是軍方那十一年留下來的其中一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他想事情的時候會摸那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他自己沒有意識到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點三十四分，手機震了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是醫院。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是那個群組。",
+   "pause_before": 0
+  },
+  {
+   "t": "screen",
+   "text": "【2122】桃園。工業區。\n@ 高志遠 @ 林若霜 @ 蕭羽嫣\n14 小時內",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "黑石把螢幕點開，讀了一遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一碼二。第二碼一。第三碼二。第四碼二。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "明確越過人類極限的東西。裡面有人，而他們走得掉。眼睛多，會上新聞。剩幾小時。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那種案子需要重型防護。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有被 @。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手機放回口袋，抽完那根。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是第一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他有想過一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大概是去年的某個時候。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他那天晚上也在醫院，也是這個時間，而群組上出來一件很明顯需要他的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他不在名單上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天他回到車上，坐了一會兒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他打開手機，把過去那幾個月的貼文往回滑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一則一則。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他滑到第七則的時候停下來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "星期二晚上。星期四晚上。星期天下午。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那三個時段裡出的案子，他一次都不在名單上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三個時段，他在醫院。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他坐在那裡看了大概兩分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他把手機關掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那天想到的結論是：剛好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是他笨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個在軍方待過十一年的人，看得懂什麼叫模式。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他選擇了另一個結論。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為如果那不是剛好——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就代表有一個人知道他女兒的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人從來沒有問過他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也沒有講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而是替他做了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而如果是那樣的話，他就要決定一件事：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他要不要去謝那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他不想。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為他沒有禮貌。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是因為一旦他去謝了，那件事就會被講出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人就會知道他知道了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "然後那個人可能就會停。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人會覺得那樣做太明顯了、太打擾了、或者黑石不需要。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三個時段就會回來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他選了「剛好」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他選完之後，就沒有再回去滑過那個群組了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點五十一，他把菸捻熄，丟進沙桶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他走回停車場，坐進車裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他發動之前，看了一眼那棟樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八樓那個窗戶還亮著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他從腰包裡把那張圖拿出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "摺開，看了兩秒，再摺回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那張紙的中間快要斷了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次摺回去的時候，都會刻意避開那條線。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點零二，他把車開出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他明天早上七點還會再來一趟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "站在門口看兩分鐘，然後去上班。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他做了六年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而在同一個晚上，在台北的另外一個地方，有一個人在看那則貼文的名單。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手機放在桌上，然後在心裡確認了一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "星期二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人也沒有跟任何人講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們兩個都以為對方不知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而只有一個人是對的。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 144,
+  "narration": 107,
+  "emphasis": 9,
+  "speech": 27,
+  "quote": 0,
+  "screen": 1,
+  "section": 0
+ },
+ "pov": "hei_shi",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   16,
+   17
+  ],
+  [
+   21,
+   25
+  ],
+  [
+   33,
+   35
+  ],
+  [
+   39,
+   42
+  ],
+  [
+   44,
+   48
+  ],
+  [
+   58,
+   62
+  ],
+  [
+   65,
+   67
+  ]
+ ]
+}

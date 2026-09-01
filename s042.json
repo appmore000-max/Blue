@@ -1,0 +1,758 @@
+{
+ "id": "42_四樓空著",
+ "title": "四樓空著",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個社區是十幾年前才蓋起來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "白色磁磚配深灰色石材的外牆。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一排排相連，中間留著巷道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "門口有鐵柵欄跟矮圍牆。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而牆上掛著社區的告示牌。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四層樓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "每一戶都有陽台跟鐵格柵窗。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而頂樓架著金屬棚架。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個位置很邊緣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "再過去就是空地跟田。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "什麼都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很實際的結果：",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "晚上抬起頭，沒有任何東西擋著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個屋主買了其中一戶。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人住。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而四樓一直空著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個人是誰，這裡不會寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不寫性別。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不寫年齡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不寫職業。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "也不寫名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為那件事不重要。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那個人自己不會想要被寫下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而這件事本身就是那個人的樣子。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "某一年，那個人在社區外的路上看到兩個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個年輕人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "跟一個小男孩。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是好幾次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "同樣的兩個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "同樣的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "同樣的那身衣服。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而最後那一項是關鍵。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個屋主注意到的不是那兩個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是那身衣服。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個人如果每一次出現都穿一樣的，那個人可能是不在意。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人如果每一次出現都穿一樣的，那件事就不一樣了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個人問了一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一句是什麼，那個屋主自己後來也記不太清楚。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "大概是那種很普通的、隨口問的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個年輕人沒有回答。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人本來就不太說話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "倒是那個小男孩很有禮貌地開口了。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「我跟哥哥住在一起。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那句話是那孩子當場想出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "七個字。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一個字是假的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他確實跟那個人住在一起。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而「哥哥」那兩個字剛好可以解釋所有的問題，又剛好什麼都沒有回答。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個屋主看了他們一會兒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一會兒有多長，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一會兒裡那個人在想什麼，也沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「四樓空著。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "就這樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有問他們從哪裡來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有問那個年輕人做什麼的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有問那個小孩的家人在哪裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有講任何一句「你們是不是有困難」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來那個小孩想過很多次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次想到最後，都會停在同一個地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人沒有問，不是因為那個人不好奇。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為問了會讓那件事變成別的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一旦問了，那就變成「幫助」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而幫助是一個需要被接受的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個需要被接受的東西，會讓接受的人欠著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而「四樓空著」四個字不是幫助。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個事實。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個事實不需要被感謝。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他們搬進去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個年輕人沒有住四樓。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他搬上了頂樓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "水塔旁邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "金屬棚架的陰影之外。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那片什麼都沒有、只有天空的水泥地。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他不需要遮陽。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他躺的位置永遠在棚架外面，正對著天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子睡四樓。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "靠樓梯的那一間。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那裡上頂樓最快。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那幾年他們跟那個屋主碰過幾次面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不多。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人自己也是一個不太出門的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而其中一次，那個屋主在樓下問了那孩子一句：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「你哥哥都不下來喔？」",
+   "pause_before": 2,
+   "who": "landlord",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子說：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「他喜歡在上面。」",
+   "pause_before": 1,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個屋主「喔」了一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「那也好。」",
+   "pause_before": 1,
+   "who": "landlord",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三個字那孩子記到現在。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個判斷。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個判斷的意思是：我不需要知道為什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而後來那個人病了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是一種發現的時候已經來不及的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "無法治癒。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "只能等。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個年輕人能替他做什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他能把整顆地球推到數億萬光年之外。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他能在瞬間替換掉整片天空。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他能穿過任何物質、超越光速、在宇宙大爆炸的中心毫髮無傷。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他救不了一個生病的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那件事的原因這裡不展開。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它不是「做不到」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它是「他還沒有學會」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而五十年來第一次，他重新體驗到了那九百五十年的感覺。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "有一個人要死了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他伸出手，什麼都沒有發生。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子在旁邊看著那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那幾個月做的事情很少。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他去了幾次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "帶了一些東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西是他自己去買的，用真琪姐塞給他的零錢。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個屋主每一次都說：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「不用啦。」",
+   "pause_before": 1,
+   "who": "landlord",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而每一次都收下了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人走的那天，天空是藍的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是他唯一能做的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟那個人當年對他做的，一模一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而依法，那棟房子應該歸屋主的家人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人留了東西下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "指明要給那兩個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那份東西上面寫的是什麼，那孩子後來沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那也不重要。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為家人來過一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "看見一個年輕人和一個七歲的小孩站在客廳裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "什麼都沒說，就走了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那棟透天成了那兩個人的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而四樓還空著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人的房間他們沒有動過。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "東西也沒有收起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子睡在最外面那一間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事是誰決定的，他自己也說不上來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個決定從來沒有被講出來過。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是沒有人去動。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而現在那個社區的鄰居裡面，還記得那個屋主的人不多了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而記得的那幾個，講起來的時候會說：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯以前那間有一個人喔。一個人住。很安靜。」",
+   "pause_before": 1,
+   "who": "neighbor",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他們不會講四樓的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他們不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個年輕人到現在都沒有下來過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子每天早上五點會上去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他站在那個人左後方半步的地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個位置，剛好看得到四樓那扇窗戶。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 145,
+  "narration": 91,
+  "emphasis": 47,
+  "speech": 5,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yuanzou",
+ "⚠_label_rule": {
+  "shunfeng": "哥哥",
+  "zhang_zhenqi": "真琪姐姐",
+  "wu_ziyi": "紫儀姐姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

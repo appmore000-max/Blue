@@ -1,0 +1,881 @@
+{
+ "id": "23_伊佮別人無仝",
+ "title": "伊佮別人無仝",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "一月，蘇澳。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那份東西是十號到的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "跟每一年一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "張福貴那天早上在門口坐著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那張藤椅是他自己的。兒子換過兩次，兩次他都說不用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而郵差把那個袋子放在他旁邊的矮桌上。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿伯，掛號。」",
+   "pause_before": 0,
+   "who": "postman",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "zhang_fugui",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個「嗯」很長。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他簽名的時候手有點抖。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個字他寫了八十幾年，抖歸抖，形狀還是那個形狀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個包裹沒有寄件人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "只有一個地址，而那個地址每隔幾年會換一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "裡面是一盒東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "今年是烏龍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有些年是包種。有一年是紅茶——那一年他喝不太習慣，而他還是喝完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把那個盒子拿進去，放在櫃子上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個櫃子上有一個舊的鐵罐。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他把新的那一盒拆開，倒了一點進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個罐子裡是六十三年份的東西混在一起的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是每一年都倒完。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "每一年倒一點，剩下的另外放。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那個罐子裡永遠有一點是很多年前的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個味道到底是什麼味道，他自己也講不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他倒完之後，把罐子蓋起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他用手掌在那個罐身上抹了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他每次都做。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他自己沒有意識到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三十九歲那年，有一個人來找他。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個人比他小幾歲。三十五歲左右，講中文，穿得很普通。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他一開始以為那是來收東西的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人講了一段話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那段話張福貴到現在都記得每一個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有跟任何人講過那段話的內容。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人講完之後，看著他。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那句話是：",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "「那時候，其實有很多人可以去。」\n\n「而沒有人去。」\n\n「⋯⋯下一次呢？」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人就不講話了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴那三天在想什麼，他從來沒有跟任何人講過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "包括他太太。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三天他每天都在算。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個東西要花多少時間。要離開多久。他有沒有辦法回來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算得出來的每一種答案，都需要他離開。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那年他太太肚子裡有一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第三天，他給了那個人答案。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯我某有身了。」",
+   "pause_before": 1,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有勸。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一句都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人把茶喝完，站起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他講了兩句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「那就好好顧家。」\n\n「⋯⋯對了，聽說往天上看，好像會有意外之喜。」\n\n「雖然是聽以前長輩說的，你也可以選擇不聽，當作我在說說也可以。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人就走了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上張福貴沒有睡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那年秋天，第一份東西到了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有署名。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴拆開的時候，看了大概三秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就知道是誰了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是猜的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個時機本身就是答案。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個人來過，被拒絕了，然後幾個月之後有一份不署名的東西到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "這個世界上不會有第二個人做那種事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有回過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有寫信。沒有查地址。沒有寄任何東西回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "理由有兩個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第一個是：那份東西不是要他回的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他看得出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是禮物。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個人每年做一次的事情。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而一個人每年做一次的事情，不需要有人回應。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二個理由是：他拒絕過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個拒絕過的人，再去攀那個關係，那件事不對。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那六十三年他做的事情只有一件。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "收下，然後放好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他知道那件事後來成了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是有人跟他講的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是這幾十年下來，那個名字偶爾會出現。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不多，也不明顯。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "某個人講起某件事的時候順帶提到。某個廟裡的人講過一句。報紙上一個看起來完全不相關的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他拼得出那個形狀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西成了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而且活了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "至於細節，他不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個地方叫什麼，有多少人，在做什麼，現在誰在管。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他全部不知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有去查。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "早上十點多，他孫子從樓上下來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十六歲，高一，睡到十點。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿公。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "zhang_fugui",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個孩子看到桌上那個盒子。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「這什麼？」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「茶。」",
+   "pause_before": 0,
+   "who": "zhang_fugui",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「誰送的？」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴那一秒沒有回答。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他坐在那裡，手放在膝蓋上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個姿勢是他打坐坐出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯一個朋友。」",
+   "pause_before": 1,
+   "who": "zhang_fugui",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個孩子就沒有再問了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他去廚房拿了東西吃，然後坐到旁邊的椅子上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴看著他。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個孩子今天穿的是制服的外套，裡面是便服。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他左手手腕上有一條紅色的線——不是繩子，是那種很細的、綁完之後剩下的一截。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個孫子六歲的時候還很怕生。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十歲那年他變了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴不知道那年發生了什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他看得出來那個孩子身上有東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是能力。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他一百年看人看出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個孩子如果身上有一樣他自己還沒有搞懂的東西，那個孩子看人的方式會不太一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他會多看半秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那半秒是在確認一件事：這個人有沒有發現。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴從來沒有問過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他也從來沒有想過那件事跟自己有關。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那不可能。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他一輩子在海上。他一百零二歲。他什麼都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有能力、沒有讀過幾年書、沒有任何一樣可以留給誰的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他孫子有一樣他看不懂的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事跟他能有什麼關係。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "中午，他孫子出門了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴一個人在客廳。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他泡了一杯茶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "用那個罐子裡的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個味道是六十三年混在一起的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他喝了一口，坐在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一年他三十九歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人問了他一句「下一次呢」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他想了三天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他從來沒有後悔過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那年他太太肚子裡有一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他如果去了，那個孩子可能不會有爸爸。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子後來有一個兒子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個兒子，就是現在那個十六歲的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那件事的算式，六十三年前就算完了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他只有一件事沒有想通。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人為什麼要寄。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他拒絕了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個被拒絕的人，通常會走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人走了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後每一年寄一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六十三年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是為了拉攏。因為那個人從來沒有再來過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是為了讓他愧疚。因為那個人從來沒有留過名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那也不是為了被感謝。因為那個人沒有留任何一個可以回的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴想過很多年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他想出來的答案只有一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人只是覺得他應該收到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案不合理。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個被拒絕的人，覺得對方應該收到一份東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴一輩子沒有跟任何人講過他對那個人的評價。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那句話他在心裡講過很多次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有講出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那句話是這樣的：",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯伊佮別人無仝。」",
+   "pause_before": 0,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（他跟別人不一樣。）",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "下午三點多，他把那杯茶喝完。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他走到門口，坐回那張藤椅。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "蘇澳一月的下午，太陽是斜的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他坐在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "過了一會兒，他抬頭看了一下天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那沒有為什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是抬頭看了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作他做了六十三年。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 164,
+  "narration": 128,
+  "emphasis": 23,
+  "speech": 9,
+  "quote": 4,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_fugui",
+ "⚠_label_rule": {
+  "huabang": "那個人",
+  "ahe": "那個孫子",
+  "⚠": "他不知道華邦叫什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   6,
+   7
+  ],
+  [
+   87,
+   88
+  ],
+  [
+   90,
+   92
+  ],
+  [
+   96,
+   97
+  ]
+ ],
+ "⚠_taigi_review": "見 _台語檢查表.md。未經母語者確認"
+}

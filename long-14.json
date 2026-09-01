@@ -1,0 +1,669 @@
+{
+ "id": "長篇_14_照時間排",
+ "title": "第三部｜十月",
+ "boxes": [
+  {
+   "t": "section",
+   "text": "第十四章｜照時間排",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十月七號，星期二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那天早上七點十一分在那間早餐店。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個做工的人來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是二十八天以來第一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那一秒沒有抬頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那是誰。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個腳步。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個腳步今天不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而不一樣的地方是這樣的",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那兩隻腳的間隔變小了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他走快了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是那一步跨得比較短。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那一秒把那件事記了下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟前面三年一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人今天點的是一樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「阿姨，火腿蛋餅，冰奶茶。」",
+   "pause_before": 3,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「好——」",
+   "pause_before": 1,
+   "who": "shop_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個阿姨那一秒說了一句。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「欸你好久沒來喔。」",
+   "pause_before": 3,
+   "who": "shop_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人說：「⋯⋯有事。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個阿姨說：「喔喔，那沒事就好。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她繼續煎。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那一秒抬起頭了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是因為那個對話。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那兩個字。",
+   "pause_before": 2
+  },
+  {
+   "t": "section",
+   "text": "而那兩個字是「有事」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是一個回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個把問題結束掉的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他自己做過很多次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒看著那個人的背。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒沒有想什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是看著。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人吃完是八分二十秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而三月那天是六分四十秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而三年前的十月，是四分五十幾秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川知道那三個數字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他今天做了一件他從來沒有做過的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他把那三個數字在心裡排了一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "四分五十幾。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "六分四十。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "八分二十。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三個數字之間，是三年、七個月。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那條線在往上彎。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒坐在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒手上那杯豆漿沒有動。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而「往上彎」這三個字他今天早上用過一次",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是用在這個人身上。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是用在那個東西身上。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有把那兩件事放在一起。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他沒有理由把它們放在一起。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把那件事推開了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而九點十七，那條產業道路。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他今天數的是四十四。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "四十四。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "四十四。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "四十四。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而上次是四十一。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而中間四個星期。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把那個數字寫下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "10/7 二 晴\n\n44 / 44 / 44\n\n上次 41",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而下午一點多，他回到那間套房。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒坐在那張桌子前面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那張桌子上什麼都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒把那本本子拿出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他把它放下了。",
+   "pause_before": 2
+  },
+  {
+   "t": "section",
+   "text": "因為那本本子上只有一條線",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他今天要看的不是那一條。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒站起來，去拿了一疊紙。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是白紙。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那疊紙他放了很久，一次都沒有用過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那個下午做的事情，是排。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他排的是他記得的每一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而那件事要解釋一下",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他記得每一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而「每一件」是字面的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "臉。地點。時間。那一天的天氣。那個人身上穿什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西在他腦子裡不是一份清單。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它們是散的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他這輩子沒有把它們排過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他沒有理由排。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他今天有一個理由。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個理由是那六個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "那個人是誰。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他要回那六個字，就要先確定一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他到底知道什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他自己也不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "因為知道跟排過是兩件事",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒理解了那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從第一張開始。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而第一張上面寫的是那個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "日期。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個數字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "天氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些他從本子上抄過去。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那花了他四十分鐘。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而第二張，他寫的是那間早餐店。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而他那一秒沒有想清楚為什麼要寫那一張",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他就是寫了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一張上面有幾樣東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人每個月來幾次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人吃完要多久。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個杯子剩多少。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個腳步。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一張他寫了兩個小時。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那些東西在他腦子裡是散的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他要一件一件把它們的日期找出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個工作很難。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是因為他記不得。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他記得太多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而下午五點多，那兩張紙寫完了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他把它們放在桌上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒沒有把它們放在一起。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那張桌子夠大。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩張紙可以分開放。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒站起來，去倒了一杯水。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他喝完之後，回到那張桌子前面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩張紙那一秒在他眼前。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們是分開的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒把左邊那一張，往右邊移了一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而那個動作沒有任何意思",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他只是要騰出位子放那個杯子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那兩張紙那一秒靠在一起了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那一秒看著它們。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他站在那裡沒有動。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩張紙上，各有一條線。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩條線的形狀是一樣的。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 127,
+  "narration": 42,
+  "emphasis": 71,
+  "speech": 3,
+  "quote": 2,
+  "screen": 0,
+  "section": 9
+ },
+ "pov": "yu_lengchuan",
+ "⚠_label_rule": {
+  "chen_wenbin": "那個做工的人",
+  "gao_zhiyuan": "那個人",
+  "⚠": "他不知道那個人叫什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   16,
+   17
+  ]
+ ]
+}

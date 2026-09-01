@@ -1,0 +1,696 @@
+{
+ "id": "長篇_17_十一天",
+ "title": "第十七章｜十一天",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十月十四號，星期二。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那天做第六天。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是十月的第六天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他算的是十一天。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在剩五天。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而月底剩十七天。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那個算式是成立的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天早上他七點十一分到那間店。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「阿姨，火腿蛋餅，冰奶茶。」",
+   "pause_before": 3,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「好——」",
+   "pause_before": 1,
+   "who": "shop_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個靠窗的位置今天有人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是那個穿深色外套的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒沒有多看。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人多數的星期二都在。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他吃的時候，那個人講了一句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是對他講的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是對那個阿姨。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「阿姨，那個豆漿今天比較燙。」",
+   "pause_before": 3,
+   "who": "yu_lengchuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有喔？我調一下。」",
+   "pause_before": 2,
+   "who": "shop_auntie",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不用，我是說好喝。」",
+   "pause_before": 1,
+   "who": "yu_lengchuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個阿姨笑了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而陳文彬那一秒抬起頭了。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而他抬頭的理由不是那個對話",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個人講話了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而三年來，那個人在那間店裡講過的話，加起來不到二十句。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事陳文彬記得。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他每天都在。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒看了那個人一眼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人沒有看過來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬低下頭繼續吃。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒沒有想那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而七點二十六，他站起來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他把那個杯子拿去回收桶那邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而今天那個杯子剩了一半多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他走回來拿東西的時候，那個人那一秒說了一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而這一次是對他講的。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「你那個先放著就好。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒愣了半秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不知道那句話什麼意思。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人接著說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「阿姨會收。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬說：「⋯⋯喔。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他說：「習慣了。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人「嗯」了一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那就是全部。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒走出去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他騎車的時候在想那句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而他想的不是那句話的內容",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個人為什麼要講。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那句話沒有任何用處。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個杯子他放不放，跟那個人沒有關係。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想出來的答案是：那個人在客氣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個答案很正常。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它可能是對的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而它不是。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天工地那邊很順。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而中午那個二十幾歲的坐過來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「彬哥。」",
+   "pause_before": 3,
+   "who": "young_worker",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我問你一件事喔。」",
+   "pause_before": 0,
+   "who": "young_worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒抬起頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「你以前是不是做過別的。」",
+   "pause_before": 3,
+   "who": "young_worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有回答。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩秒他在算一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而他算的是：這個孩子為什麼問",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算出來的答案有兩個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "這個孩子聽到了什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "或者他自己在想要不要換工作。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說：「怎麼問這個。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子說：「沒有啦，就覺得你怪怪的。」",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「哪裡怪。」",
+   "pause_before": 3,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你看東西的樣子。」",
+   "pause_before": 2,
+   "who": "young_worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒說：「⋯⋯什麼樣子。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子想了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「你都在看上面。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒沒有講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而那個孩子講的是對的",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己不知道那是為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而陳文彬知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個看上面的人，是在算什麼會掉下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是三十年。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是三年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說：「做久了就這樣。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子說：「喔。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他說：「那我也要看喔？」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「你要。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字他講得比平常重。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個孩子那一秒愣了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他說：「好。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天下午三點多，那個東西又來了一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一次大概三秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他扶了一下柱子。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而這一次那個孩子看到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他走過來，把陳文彬手上那個東西接過去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他什麼都沒有說。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒也沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他讓他接了。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而那件事在那個工地上是有意思的",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個五十三歲的老師傅，讓一個二十幾歲的接他的東西——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事平常不會發生。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那天發生了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人都沒有講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天收工是五點四十。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬騎車回家。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一路上想的是那個孩子。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是那個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "因為那個孩子今天做了兩件事",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他問了一句他不該問的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他接了一個他不用接的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事都是好意。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事加起來的意思是：他看出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒在紅燈前面停下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒抬頭看了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而天已經暗了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想的是一句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "還有幾個人看出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題他那一秒沒有答出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而正確的答案是三個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他太太。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他女兒。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "還有那個孩子。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而還有第四個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人今天早上跟他講了一句話。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而陳文彬以為那是客氣。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 127,
+  "narration": 42,
+  "emphasis": 63,
+  "speech": 11,
+  "quote": 5,
+  "screen": 0,
+  "section": 6
+ },
+ "pov": "chen_wenbin",
+ "⚠_label_rule": {
+  "yu_lengchuan": "靠窗那個人",
+  "⚠": "絕對不能顯示「余冷川」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   8,
+   9
+  ],
+  [
+   17,
+   19
+  ],
+  [
+   57,
+   59
+  ],
+  [
+   70,
+   71
+  ]
+ ]
+}

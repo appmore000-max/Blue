@@ -1,0 +1,1112 @@
+{
+ "id": "10_不需要被說出來",
+ "title": "不需要被說出來",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "星期六早上，宜蘭下雨。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "張真琪在客運上看著窗外那片灰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "雪隧出來之後就是這樣——台北出發的時候天是亮的，出隧道之後常常變成另一種天氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她今天要去的那個地方，那孩子在下雨的時候幾乎什麼都做不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事她第一年就發現了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是他跟她講的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是她看出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點四十，蘇澳。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那棟透天的鐵捲門開了一半。阿和坐在門口的塑膠椅上，手上拿著一本書。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十六歲，高一。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "看到她的時候他站起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「真琪姐。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「早。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯今天下雨。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我知道。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個孩子把書合起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一本佛學的東西，封面很舊，看起來像是廟裡拿的。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那今天要練嗎？」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「練。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「可是——」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「就是因為下雨。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他們去了那間國中後面的空地。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那裡有一片水泥地，旁邊是圍牆，圍牆後面是田。而下雨天沒有人會去那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「開。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿和站在那裡，閉了一下眼睛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後那一片空地上的光變了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是打開一盞燈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也不是雲散開。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是那一塊地方變成了白天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大概十公尺見方。裡面的雨還在下，而光是晴天的光——那種很乾淨、有點刺眼、影子邊緣清楚的光。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "外面還是灰的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "張真琪站在裡面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她每一次看到這個東西，都會想起同一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「多久。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯不知道。看情況。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「上次多久。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「六分鐘。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那今天目標八分鐘。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯好。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她開始動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是打——那是陪練。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她放慢到大概三成，用最基本的直線攻擊，一次一個方向，讓他有時間反應。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子的近身很差。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他躲不掉。他擋不住。他的重心太高，腳步太窄，被推一下就要退兩步。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他是三個人裡最弱的那一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是評價，那是事實。而他自己也知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四分鐘之後，那片光開始有點不穩。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "邊緣的地方變薄，外面那些灰滲進來一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「還可以嗎。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「可以。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「講實話。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯還可以。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她沒有再問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她只是把速度再放慢一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第七分鐘的時候，那孩子做了一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他往後退了半步，右手往前推。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而空氣中出現了一個東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一個洞。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是黑的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是藍的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大概兩個手掌那麼大，邊緣不規則，而裡面——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "裡面不是那片水泥地，也不是圍牆。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "裡面是天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有雲在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "張真琪停住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為那個東西擋住了她。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為她認得。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她十歲那年在台中的某一個地方，看過一整片那個東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那時候她攻擊了半分鐘，一擊都沒有進去。她停下來喘氣，抬頭，而那個人低頭看著她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他化開了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是消失。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是變成了藍天白雲本身。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一瞬間四周整個換掉了。有雲在動，有光從高處落下來，空氣裡有一種說不出來的、非常安穩的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西她認得。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "跟她三歲那年在窗邊感覺到的那一陣風，一模一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那天哭了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為害怕。也不是因為打不贏。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那片天空是真的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個洞在三秒之後消失了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿和喘著氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯抱歉。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「幹嘛道歉。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我還沒有辦法撐久。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "張真琪看著他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十六歲。一百七十幾公分，很瘦，制服的外套穿在便服外面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他不知道自己剛剛做了什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是不知道那是什麼——他當然知道那是他練出來的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他不知道那個東西在別的地方是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿和。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯？」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她把那句話停住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她本來要問的是：你那個東西，是誰教你的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她已經知道答案了——沒有人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子是靠打坐、靠佛學、靠一個十歲的下午抬頭看見的東西，自己花了好幾年長出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一個藍洞硬幣那麼大，三秒就消失了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那花了他兩年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那不是她真正想問的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她真正想問的是另一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她問不出口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個問題長成這樣：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你有沒有見過一個穿拖鞋的人。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「他的眼睛是天空藍的。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你有沒有覺得，你身上那個東西跟他有關。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而如果她問了，那孩子會怎麼回答？",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子四年前在路上遇過那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她知道那件事——不是那孩子講的，是那個人自己「嗯」過一聲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那次見面總共兩句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人看了他的眼睛一眼，問了一句「那個顏色，你自己弄的？」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後說了三個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。可以。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子到現在都以為那是一個路人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個很奇怪的路人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以如果她問了——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子會愣住，會想很久，然後說：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯有關嗎？」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一秒之後，有些東西就永遠不會再一樣了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子那些招式的意義，不在於它們像什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在於它們是一個徹底的凡人，用旁門的路徑，自己摸出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那當然遠遠不及本源。差的不是一點半點。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "但它確實成立。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而它跟那個人一點關係都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "如果她講了，那件事就變成別的東西了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那會變成「有人給了他一點什麼」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是真的。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿和。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯？」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯你剛剛那個，撐了幾秒。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「三秒吧。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「上個月幾秒。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯也是三秒。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那就是沒有進步。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯對。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「所以下次要四秒。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那孩子低下頭，然後點了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「好。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那片光在第九分鐘的時候散掉了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "雨落回來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他們回到那棟透天，那孩子的爺爺在裡面泡茶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個很老的老人，坐在那張藤椅上，背有點駝。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「真琪啊。」",
+   "pause_before": 0,
+   "who": "zhang_fugui",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「阿公早。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「今天下雨還來喔。」",
+   "pause_before": 0,
+   "who": "zhang_fugui",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個老人笑了一下，倒了一杯給她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她坐下來的時候，那個老人看了阿和一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一眼很短。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而張真琪注意到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她沒有問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個老人也沒有講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一點多，她準備走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿和送她到巷口。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「真琪姐。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我可以問一個問題嗎。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "張真琪停下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「問。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯妳為什麼要教我們？」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個問題她已經被問過兩次了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次是阿智，一次是阿仁。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她兩次都用同一句話帶過去。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「因為你們很弱。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿和笑了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「掰。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「掰掰。」",
+   "pause_before": 0,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而客運上她看著窗外。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "真正的答案她從來沒有講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是很多年前的某一天，她問了一個人一個問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你到底會什麼？」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯沒有。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「沒有什麼？」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「都沒有。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那三個孩子跟著那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人一招一式都給不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "不是他藏私。是他真的什麼都不會。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三個孩子不知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他們以為那是「不教」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以她接了下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有宣布，也沒有跟那個人說過一句。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人也一次都沒有問過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "雪隧進去的時候，外面又亮了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "台北是晴的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她抬頭看了一下天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那只是天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她已經很久沒有把手指往上比了。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 185,
+  "narration": 114,
+  "emphasis": 15,
+  "speech": 56,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_zhenqi",
+ "⚠_label_rule": {
+  "shunfeng": "他",
+  "yuanzou": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   11,
+   14
+  ],
+  [
+   17,
+   20
+  ],
+  [
+   33,
+   38
+  ],
+  [
+   48,
+   51
+  ],
+  [
+   80,
+   82
+  ],
+  [
+   88,
+   89
+  ],
+  [
+   100,
+   102
+  ],
+  [
+   124,
+   132
+  ],
+  [
+   139,
+   142
+  ],
+  [
+   151,
+   153
+  ],
+  [
+   155,
+   156
+  ],
+  [
+   162,
+   164
+  ],
+  [
+   168,
+   171
+  ]
+ ]
+}

@@ -1,0 +1,729 @@
+{
+ "id": "45_只有這個不會突然不見",
+ "title": "只有這個不會突然不見",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二月十四號是她的生日。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那也是她母親的忌日。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那年白嵐十歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天的細節她記得很清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "太清楚了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "清楚到她從來沒有跟任何人講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那之後她做的事情很單純。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她開始把所有的時間投進電腦裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她父親的店就在樓下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是一間修電腦的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那種店那幾年還很多——修主機、灌系統、清灰塵、換電源。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那裡有拆到一半的主機。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一整櫃的零件。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "有各種不知道是誰留下來的舊硬碟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她一台一台拆過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "十歲的時候她拆的是螺絲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "十一歲她開始認得那些零件。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "十二歲她第一次把一台不會開機的東西弄開機了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的感覺，她記得。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "不是成就感。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個東西在她做了 A 之後，發生了 B。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在她十歲那年之後，是稀有的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而理由她後來自己講過一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而且是對著螢幕講的。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯只有這個不會突然不見。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話講出來的時候，房間裡沒有別人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己也不確定她是講給誰聽的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "十五歲那年，她駭進了一個她不該進的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她不是為了偷什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她只是想知道自己做不做得到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個地方是她挑的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而挑的標準只有一個：難。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有想「那裡面有什麼」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是重點。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她進去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她進去之後，什麼都沒有拿。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她看了一眼，然後就要出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後她被追了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而對方的速度非常快。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是她第一次遇到一個追得比她想像中快的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人在三小時之內就摸到了她真實的位置。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那三小時裡做了很多事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "換節點。清紀錄。走了三條她準備好的路。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三條全部被跟上了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的反應不是跑。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是回頭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是勇敢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她十五歲那年還不知道害怕。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她只知道那個人很強，而她想看那是什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她反追蹤回去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "兩小時四十五分。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她做到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她把那個人的來源反追出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她看見了那是什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的感覺不是得意。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是害怕。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個地方裡面，有很多東西是她不應該看得到的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒做的第一件事，是把螢幕關掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作沒有用。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她自己也知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為對方已經知道她在哪裡了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒在算的是：接下來會發生什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她算出來的可能性有三種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第一種：什麼都不會發生。 而她排除了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第二種：有人會來。 而她那一秒在等的是這個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第三種： 她那時候想不出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而三個小時之後，第三種發生了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她的螢幕上出現了一行字。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「如果妳不想被某些人盯上，我建議妳選一個能保護妳的地方。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在那裡看了很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一行字沒有威脅。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有要求。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有留任何一個可以聯絡的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是一句建議。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人講完就走了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事最讓她愣住的地方，不是那句話的內容。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個「妳」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個追了她三小時的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個被她反追回去的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個知道她真實位置的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人打的第一個字，是「妳」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而不是「你」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是「小朋友」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "更不是任何一種對一個入侵者的稱呼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的意思是：那個人知道她是誰。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人在那一秒之後，什麼都沒有做。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那兩年她沒有停。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "但她也沒有再做那種事了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那兩年她做的是另外一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她開始查那個人是誰。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不容易。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而且花了她很久。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她查到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她查到那行字是從哪裡來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那條線通到什麼地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "以及那個地方叫什麼名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有立刻去。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她看了那個組織兩年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩年她在確認的是一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個地方會不會把她變成別的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她確認的方式很簡單。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她看那個地方的人的生活。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有幾個在上學。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有幾個在上班。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "有一個每個星期回台中一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事讓她決定的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一個會把人變成別的東西的地方，那些人不會有星期天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "十七歲那年，她自己去申請的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "填資料。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "評估。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "測試。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "登錄。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "跟每一個正常加入的人一模一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一欄問的是：為什麼想加入。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她寫的是七個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「我想在這裡工作。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一格她想了很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為真正的理由她沒有辦法寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "真正的理由是：她想看看那個人長什麼樣子。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她進去的第一天就看到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人跟她握了手，講了兩句話，然後就去處理別的事了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人沒有認出她。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐那一秒站在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她腦子裡跑完了三種可能。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而第三種是對的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的感覺，不是失望。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個「妳」，原來也不是給她的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那個人打字的習慣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒站在那裡，想了大概兩秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她說：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「我是白嵐。技術。」",
+   "pause_before": 1,
+   "who": "bai_lan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人說：「好。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後就去處理別的事了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而五年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她每天凌晨兩點到三點還在改那套系統。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她左手腕內側有四個很小的字元。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "`2/14`",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她父親到現在都不知道。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 141,
+  "narration": 90,
+  "emphasis": 47,
+  "speech": 1,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "bai_lan",
+ "⚠_label_rule": {
+  "lin_xueyun": "統籌",
+  "⚠": "而她記了七年"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

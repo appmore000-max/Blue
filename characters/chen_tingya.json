@@ -1,0 +1,310 @@
+{
+ "schema_version": "0.4",
+ "id": "chen_tingya",
+ "source_file": "角色檔案_陳婷雅.docx",
+ "⚠": "撞出 requires 與 opt_in。見規格 v0.4",
+ "identity": {
+  "name_zh": "陳婷雅",
+  "sex": "female",
+  "age": 16,
+  "residence": {
+   "region": "屏東縣",
+   "district": "潮州",
+   "type": "三合院"
+  },
+  "faction": {
+   "id": "jie",
+   "joined_age": 14,
+   "registered": true,
+   "channel": "正常管道"
+  },
+  "second_job": {
+   "id": "na_yi_hang",
+   "known_to_jie": false,
+   "note": "她沒有隱瞞，只是沒有人問過"
+  },
+  "rank": {
+   "tier": 4,
+   "sub": "中",
+   "label": "異"
+  },
+  "energy_system": {
+   "has": true,
+   "name": null,
+   "category": "槍枝那一類",
+   "known_to_self": "partial",
+   "note": "而再往下她沒有查"
+  }
+ },
+ "body": {
+  "height_cm": 157,
+  "weight_kg": 43,
+  "combat_note": "43 公斤。而她面對的人多數比她大。被壓住就完了"
+ },
+ "resource": {
+  "stamina": {
+   "max": 78,
+   "regen_per_sec": 24,
+   "roll_cost": 17
+  },
+  "cun": {
+   "max": 70,
+   "in_combat_regen": 0
+  },
+  "ben": {
+   "can_force": true,
+   "forced_before": true,
+   "forced_year": 2024,
+   "reversible": false,
+   "persistence": "outside_savefile"
+  },
+  "perception": "rough"
+ },
+ "combat": {
+  "role": "ranged_primary",
+  "role_note": "槍為主。而近身是備案",
+  "origin": "十二歲。而她沒有受過任何一個人的訓練",
+  "priority": [
+   "槍",
+   "刀",
+   "格鬥"
+  ],
+  "why_ranged": {
+   "距離": "不用靠近就代表不用冒險",
+   "體格": "43 公斤",
+   "時間": "一發子彈的時間，比任何一種近身都短",
+   "而最重要的": "她要回家。每一次都要"
+  },
+  "abilities": [
+   {
+    "id": "death_shot",
+    "label": "死槍",
+    "label_note": "※ 檔案標示。故事裡沒有任何人這樣叫過它",
+    "type": "shot_modifier",
+    "requires": {
+     "held_item_class": "firearm",
+     "if_absent": "這個能力連影子都不會出現",
+     "engine_note": "不是消耗不足，是不存在。技能欄整格消失"
+    },
+    "opt_in": {
+     "is_automatic": false,
+     "decided_at": "扣扳機之前",
+     "note": "她開的每一槍不會自己帶著它"
+    },
+    "cost": {
+     "normal_shot": 0,
+     "normal_shot_note": "零。就是一把槍、一顆子彈",
+     "loaded_shot": "variable",
+     "loaded_shot_note": "而那要看她放進去多少"
+    },
+    "effect": "可擊穿多數硬度極高的障礙物或防護",
+    "not_effect": "而它不是威力變大。槍還是那把槍，子彈還是那顆子彈——而它就是會穿過去",
+    "targets": [
+     "物理防禦",
+     "能力型防護",
+     "硬化",
+     "結界類"
+    ],
+    "meaning": "「這個東西擋不住我」這件事，對她而言不成立",
+    "her_framing": "那個東西對她而言不是武器。是保險",
+    "每放一發代表": "她那一秒認定了一件事：這個東西擋得住我",
+    "misjudged_before": true,
+    "cooldown": null
+   }
+  ],
+  "weapons_are_prerequisite": true,
+  "weapons_note": "所以她從來不讓自己空著手——連度假時草編包裡都放著一把",
+  "empty_profile": {
+   "still_can": [
+    "普通射擊（零消耗）",
+    "刀",
+    "格鬥（強到能打贏職業選手）"
+   ],
+   "lost": [
+    "death_shot"
+   ],
+   "one_line": "一個槍法極準、而且打得贏職業選手的十六歲",
+   "⚠": "而普通射擊不吃存。所以她「空掉」的影響比多數人小",
+   "real_limit": "她一次只能處理一個目標"
+  },
+  "worst_case": "近身。因為近身代表對方碰得到她",
+  "death_shot_precondition": {
+   "from": "小說 84｜第五發",
+   "rule": "她必須先認定「那個東西擋得住我」，那一發才會成立",
+   "why": "那個能力不是威力變大。它是「這個東西擋不住我」對她不成立",
+   "so": "要推翻一件事，那件事必須先成立",
+   "in_game": "開火前有一個判斷：目標防護 → 是／否。判斷「是」才消耗",
+   "misjudge_a": "以為擋得住而其實擋不住 → 那一發白扣，代價是存",
+   "misjudge_b": "以為擋不住而其實擋得住 → 那一發沒有用，代價是那一秒",
+   "note": "她三年裡遇過三次 b。而她從來沒有跟任何人講過"
+  },
+  "hard_constraint_note": {
+   "from": "小說 76｜空著手",
+   "value": "手上沒有槍，那個東西連影子都不會出現",
+   "not": "那不是消耗不足。那是不存在",
+   "so": "一個手上空著的她，是一個 157／43 的十六歲女生"
+  }
+ },
+ "knowledge": {
+  "knows": [
+   "死槍穿得過她弟弟身上那個東西"
+  ],
+  "knows_note": "而她沒有試過，她就是知道",
+  "does_not_know": [
+   "甲方是誰、為什麼要弄她",
+   "那三天找上她的人是誰",
+   "她弟弟每天晚上都在等門聲",
+   "她弟弟身上有東西",
+   "界的任何核心成員長什麼樣子"
+  ],
+  "believes_falsely": [
+   {
+    "she_thinks": "他九點半就睡了",
+    "actually": "他一千多個晚上都在等第二次門聲"
+   }
+  ],
+  "never_told_anyone": [
+   "死槍穿得過石頭之身"
+  ]
+ },
+ "economy": {
+  "monthly_fixed": 22000,
+  "monthly_fixed_note": "而那個三合院的支出是每個月都在的",
+  "income": [
+   {
+    "src": "jie",
+    "per_job": 15000,
+    "frequency": "有時候一個月三件，有時候三個月一件",
+    "legal": true,
+    "traceable": true
+   },
+   {
+    "src": "na_yi_hang",
+    "per_job": "20000-35000",
+    "paid_ratio": 0.9,
+    "legal": false,
+    "traceable": false
+   }
+  ],
+  "conclusion": "只靠界的收入，不夠"
+ },
+ "hard_constraint": {
+  "id": "must_be_home",
+  "desc": "她要接弟弟、煮飯、送他上學",
+  "engine_note": "所有任務的可接與否，第一個判斷是距離與時間，不是難度"
+ },
+ "playable": {
+  "mode_b": true,
+  "unlock": "mid",
+  "note": "而扮演她的那一段，最難的不是戰鬥，是行程表"
+ },
+ "tells": [
+  {
+   "action": "進門先聽",
+   "note": "而不是先看。她判斷一個地方安不安全，靠的是聲音"
+  },
+  {
+   "action": "洗手",
+   "note": "而且洗很久。她自己完全沒有意識到那個時間有多長"
+  },
+  {
+   "action": "把弟弟的鞋擺正",
+   "note": "每天。而她從來沒有跟他講過這件事"
+  },
+  {
+   "action": "在人多的地方靠牆走",
+   "note": "而她自己完全沒發現"
+  },
+  {
+   "action": "睡覺的時候不脫外套",
+   "note": "從四年前開始"
+  },
+  {
+   "action": "把頭髮往後撥",
+   "note": "而那是她準備要動手的動作"
+  }
+ ],
+ "routine": {
+  "daily": [
+   {
+    "t": "清晨",
+    "act": "做早餐、叫弟弟起床"
+   },
+   {
+    "t": "早上",
+    "act": "送弟弟到學校，然後自己去上學"
+   },
+   {
+    "t": "下午放學",
+    "act": "先去接弟弟，然後兩個人一起回家"
+   },
+   {
+    "t": "傍晚",
+    "act": "煮飯。而她從來沒有讓弟弟一個人吃過晚餐"
+   },
+   {
+    "t": "晚上",
+    "act": "弟弟寫功課，她坐在旁邊"
+   },
+   {
+    "t": "弟弟睡了之後",
+    "act": "那是她出門的時間"
+   }
+  ]
+ },
+ "wardrobe": [
+  {
+   "id": "1",
+   "context": "校園制服",
+   "items": "日系水手服（白色系），偶爾是連身裙式校服。深藍色領巾、深藍色百褶裙、白色過膝襪、黑色學生皮鞋"
+  },
+  {
+   "id": "2",
+   "context": "執行裝",
+   "items": "黑色合身高領薄毛衣（內襯防彈纖維）＋黑色合身機能長褲＋黑色軍規短靴（鞋底特殊紋路）＋黑色手套（觸感極薄）＋黑色頭巾＋小型腰包（彈夾、急救用品）"
+  },
+  {
+   "id": "3",
+   "context": "日常潛入裝",
+   "items": "學生制服或日系休閒裝＋一個普通書包（內藏拆解過的手槍與彈夾）＋鴨舌帽。而那個時候她的表情是天真的"
+  },
+  {
+   "id": "4",
+   "context": "居家",
+   "items": "白色短袖 T 恤＋真理褲或寬鬆家居短褲＋拖鞋。頭髮隨意綁起"
+  },
+  {
+   "id": "5",
+   "context": "度假休閒（極少）",
+   "items": "淡藍色薄棉短袖＋卡其色短褲＋白色帆布鞋＋草編包。而那個包裡藏著手槍"
+  },
+  {
+   "context": "執行任務",
+   "note": "用深色帽子或黑色頭巾整個包起來"
+  },
+  {
+   "context": "學校制服",
+   "note": "自然散下來，前髮稍微夾住"
+  },
+  {
+   "context": "居家",
+   "note": "綁成簡單的低馬尾，或用髮圈固定在後腦勺"
+  },
+  {
+   "context": "近身搏鬥",
+   "note": "用一條黑色細髮帶把所有頭髮往後綁"
+  },
+  {
+   "context": "手槍與彈夾",
+   "note": "她的主武器（見 13.2）"
+  },
+  {
+   "context": "一把摺疊小刀",
+   "note": "隨身"
+  },
+  {
+   "context": "手機",
+   "note": "舊型號，螢幕有裂痕。而她的 Line 裡有一個群組是界的"
+  }
+ ]
+}

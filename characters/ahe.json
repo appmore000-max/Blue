@@ -1,0 +1,243 @@
+{
+ "id": "ahe",
+ "source_file": "角色檔案_阿和.docx",
+ "identity": {
+  "name_zh": "阿和",
+  "age": 16,
+  "residence": {
+   "region": "宜蘭縣",
+   "district": "蘇澳鎮",
+   "spot": "聖愛路某透天"
+  },
+  "faction": null,
+  "faction_note": "不隸屬於界，也不隸屬於任何組織",
+  "rank": {
+   "tier": 4,
+   "sub": "下",
+   "label": "異",
+   "under_ability": {
+    "tier": 4,
+    "sub": "上",
+    "via": [
+     "day_barrier"
+    ]
+   }
+  },
+  "energy_system": {
+   "has": true,
+   "name": null,
+   "known_to_self": "partial",
+   "note": "而他大概知道自己在哪一區"
+  }
+ },
+ "resource": {
+  "stamina": {
+   "max": 85,
+   "regen_per_sec": 19,
+   "roll_cost": 20
+  },
+  "cun": {
+   "max": 90,
+   "regen_band": "fast",
+   "in_combat_regen": 0,
+   "note": "而在對的環境裡，那個量會顯得比實際上大——因為他回得快"
+  },
+  "ben": {
+   "can_force": true,
+   "forced_before": false
+  },
+  "perception": "rough"
+ },
+ "combat": {
+  "role": "environment_rewrite",
+  "role_note": "極致輔助與精神壓制型。他本身並不以戰鬥為專長",
+  "⚠_global_constraint": {
+   "id": "time_and_weather",
+   "desc": "他的能力表現會受時間與天氣影響，而且影響非常明顯",
+   "engine_note": "這是角色層級的乘數。晴天白天最強，陰雨夜間最弱"
+  },
+  "abilities": [
+   {
+    "id": "day_barrier",
+    "label": "白天結界",
+    "cost": "high",
+    "cooldown": null
+   },
+   {
+    "id": "blue_hole",
+    "label": "藍洞",
+    "cost": "medium",
+    "cooldown": null
+   },
+   {
+    "id": "sky_pour",
+    "label": "藍天傾注",
+    "cost": "very_high",
+    "used_in_combat": false,
+    "note": "從未在實戰用過",
+    "cooldown": null
+   }
+  ],
+  "empty_profile": {
+   "still_can": [
+    "打坐",
+    "佛學",
+    "體力"
+   ],
+   "lost": [
+    "全部"
+   ],
+   "one_line": "一個什麼都不會的十六歲",
+   "⚠": "他的近戰與單挑本來就不足。所以空掉之後他是這群人裡最脆的"
+  },
+  "weather_structure": {
+   "from": "小說 80｜陰天那一條",
+   "sunny_curve": "每一年都在往上",
+   "overcast_curve": "六年沒有動過",
+   "not": "那不是練得不夠。練得不夠的東西會慢慢往上",
+   "is": "那是結構問題。他用的不是天空，是他十歲那天看到的東西",
+   "unfixable": "要改它，要改掉他十歲那天看到的東西",
+   "what_actually_scales": "白天結界的持續時間",
+   "duration_14": "3 分鐘",
+   "duration_16": "9 分鐘",
+   "so": "陰天那條的長度在變長，而不是高度",
+   "nobody_knows": "阿智畫了兩條曲線，而沒有畫第三條"
+  },
+  "bai_chai_note": {
+   "from": "小說 35｜那片霧",
+   "value": "白柴是給的。而別的是他自己長出來的",
+   "so": "他很少用那一項",
+   "why": "他不知道那兩種東西可不可以放在同一個身體裡",
+   "nobody_knows": "在別人看起來，他就只是很少用"
+  }
+ },
+ "origin": {
+  "source": "自學。靠打坐、靠佛學、靠一個十歲孩子在某個很普通的晴天抬頭看見的那一整片天空",
+  "⚠_not_from": "跟順風完全沒有關係。順風沒有給過他任何東西",
+  "first_result": "他花了兩年才做出第一個，硬幣那麼大，三秒就消失了"
+ },
+ "knowledge": {
+  "does_not_know": [
+   "那個人跟藍天白雲有任何關係",
+   "那尊神像刻的是哪一代",
+   "他爺爺張福貴跟華邦六十三年前的事"
+  ]
+ },
+ "playable": {
+  "mode_b": true,
+  "unlock": "early"
+ },
+ "schema_version": "0.5",
+ "tells": [
+  {
+   "action": "打坐",
+   "note": "每天早上三十分鐘。而那是他爺爺教的（見 4.2）"
+  },
+  {
+   "action": "進門先合十",
+   "note": "那是他家裡的習慣"
+  },
+  {
+   "action": "講話前會停一下",
+   "note": "他習慣先把句子想完再開口"
+  },
+  {
+   "action": "摸手腕上的佛珠",
+   "note": "緊張或思考的時候"
+  },
+  {
+   "action": "抬頭看天",
+   "note": "而他自己完全沒有意識到那個頻率有多高"
+  }
+ ],
+ "routine": {
+  "daily": [
+   {
+    "t": "05:00",
+    "act": "起床"
+   },
+   {
+    "t": "05:00–05:30",
+    "act": "打坐"
+   },
+   {
+    "t": "05:30–06:30",
+    "act": "早餐，跟爺爺講話"
+   },
+   {
+    "t": "07:00–17:00",
+    "act": "學校"
+   },
+   {
+    "t": "17:00–19:00",
+    "act": "回家、晚餐"
+   },
+   {
+    "t": "19:00–22:00",
+    "act": "讀書、練能力"
+   },
+   {
+    "t": "22:30",
+    "act": "睡覺"
+   }
+  ]
+ },
+ "wardrobe": [
+  {
+   "id": "1",
+   "context": "校園制服",
+   "items": "白色短袖襯衫 + 深藍色長褲 + 黑色皮鞋 + 黑色書包"
+  },
+  {
+   "id": "2",
+   "context": "日常",
+   "items": "淺藍色襯衫（袖子捲起）+ 深色休閒長褲 + 白色運動鞋"
+  },
+  {
+   "id": "3",
+   "context": "家居",
+   "items": "灰色棉質短袖 + 深藍色運動短褲 + 拖鞋"
+  },
+  {
+   "id": "4",
+   "context": "戰鬥服",
+   "items": "深藍色合身機能上衣 + 黑色機能長褲 + 深色輕便運動鞋"
+  },
+  {
+   "context": "木製佛珠",
+   "note": "戴在左手腕。爺爺給的"
+  },
+  {
+   "context": "書包",
+   "note": "學生用的普通款式"
+  },
+  {
+   "context": "手機",
+   "note": "一般款式。Line 跟 Discord 都在"
+  },
+  {
+   "context": "語言",
+   "note": "中文、台語"
+  },
+  {
+   "context": "通訊",
+   "note": "Line + Discord。訊息簡短但完整標點"
+  },
+  {
+   "context": "作息",
+   "note": "極為規律。五點起床打坐，晚上十點半睡"
+  },
+  {
+   "context": "飲食",
+   "note": "家裡吃素。而他在外面偶爾會吃葷"
+  },
+  {
+   "context": "興趣",
+   "note": "讀書。佛學、哲學、以及各種他覺得應該知道的東西"
+  }
+ ],
+ "body": {
+  "height_cm": 172,
+  "weight_kg": 62
+ }
+}

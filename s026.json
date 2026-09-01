@@ -1,0 +1,746 @@
+{
+ "id": "26_會有東西來",
+ "title": "會有東西來",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那顆星球後來冷下來了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那花了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而「很久」在那個時候還是沒有意義——因為還是沒有東西可以拿來量。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "天空從紅色變成別的顏色。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有一段時間是灰的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後有一天，它變成了藍的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而空站在那裡看著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是他第一次看到那個顏色。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那顆星球上還是什麼都沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有水了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有雲了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一樣東西是自己在動的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "水是被風推的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "雲是被熱推的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "石頭是被水推的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "每一樣東西背後都有另一樣東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他等。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個時候他已經被問過那個問題了。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「而你在守什麼？」",
+   "pause_before": 1,
+   "who": "jiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候答不出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他說的是：「這裡會有東西。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而對方問：「你怎麼知道會有？」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「⋯⋯不知道。」",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「可是會有。」",
+   "pause_before": 1,
+   "who": "kong",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那句話他自己也不知道是從哪裡來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是預言。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是計算。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是一個他一直都知道的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西後來真的來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "只是它來的方式跟他想的完全不一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是從水裡長出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他自己弄出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他召喚了一個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那件事怎麼做的，沒有記載。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼要那樣做，也沒有記載。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "能確定的只有一件事：那一天之後，那顆星球上有兩個東西在動了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩睜開眼睛的第一個動作，是抬頭看天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而空蹲了下來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他對他講了一句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話沒有任何一份紀錄。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他給了他一個名字。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "日。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是那顆星球上第一個會自己動的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是被風吹的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是被熱推的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是自己動的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它會往那個方向走，而不往另外一個方向。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它會停下來看某一樣東西，而不看別的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "它會選。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而空看著它選。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他們在一起多久，沒有記載。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那段時間裡發生了什麼，也沒有記載。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而唯一被留下來的，是後面那一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "日死了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "怎麼死的，沒有記載。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為沒有人寫。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那個時候，這顆星球上會寫東西的存在只有一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有寫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而空那一秒知道了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個問題他四十六億年前答不出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他說「這裡會有東西」，然後對方問他怎麼知道，而他說不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在他知道了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他守的不是那顆星球。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他守的是那個他還沒有見過的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而現在他見過了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在它不在了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那之後過了多久，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他做了同一件事第二次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩睜開眼睛的第一個動作，也是抬頭看天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而空蹲了下來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而這一次，那句話是什麼，同樣沒有紀錄。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他給了他一個名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "靜。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個字有三種可能。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種：那是希望。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他要那個孩子過得安穩一點。要那個孩子不要像前面那一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "第二種：那是哀悼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那顆星球在日不在了之後，安靜了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個字是那段時間的名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "第三種：那是他當時腦子裡唯一剩下的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三種，沒有一種被寫下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為寫的人就是取名字的那一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那之後，他做了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他把規則寫下來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不殺。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "確保分身存在與安全。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果沒有做到，當代必須受罰。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "每一代都要把該告訴下一代的事，完整地告訴下一代。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些規則後來被守了四萬多代。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一次都沒有斷過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些規則裡面，有一條是給他自己的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那一條的意思是：不要再有第二次了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而後來的四萬多代，沒有一代知道那條規則是從哪裡來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他們只知道那是規則。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一天來得比多數人以為的早。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那顆星球才剛開始有海。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而生命連影子都還沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而有一個東西朝著它過來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個東西夠大。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "如果它撞上去，這顆星球會回到它最開始的樣子。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而空站在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他那時候有十六樣東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而其中有六樣，他一輩子都沒有用過。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那六樣全部是拿來對付攻擊的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為在那之前，這顆星球上沒有任何一個東西攻擊過他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一天他也沒有用。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那個東西不是在攻擊他。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它就只是往這個方向來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他做了另外一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他化進了天空裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有過程。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是倒下，不是碎裂，不是任何一種有時間的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一瞬間的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西沒有撞上去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "或者說——它撞上了，而它撞出來的東西被留在那裡了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個東西後來繞著這顆星球轉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它一直在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "四十五億年。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而它現在還在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "每一天晚上，那顆星球上的東西抬起頭，就會看到它。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它們給它取了很多名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而沒有一個名字跟他有關。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而四萬多代裡，沒有任何一代知道那是什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而在同一秒，那個叫做「靜」的孩子，得到了全部十六項。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候多大，沒有記載。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他站在那裡想了什麼，也沒有記載。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個問了那個問題的東西，那一天沒有出現。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有阻止。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有旁觀。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一種可以被稱為「反應」的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它到現在都還在等那個答案。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案，空在很久以前就想出來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那就是「日」那兩個字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有機會講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那個東西沒有再來過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西沒有再來的理由很簡單。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "它伸過一次手，而它被拒絕了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以它不會再伸第二次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那顆星球上現在有很多東西在動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "它們會往那個方向走，而不往另外一個方向。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它們會停下來看某一樣東西，而不看別的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "它們會選。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它們每一個，都會有一天抬頭看天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事，就是他守的東西。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 144,
+  "narration": 106,
+  "emphasis": 36,
+  "speech": 2,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "kong",
+ "⚠_label_rule": {
+  "shunfeng": null,
+  "⚠": "四十六億年前，那些人還不存在"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

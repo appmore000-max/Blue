@@ -1,0 +1,732 @@
+{
+ "id": "32_那時候有很多人可以去",
+ "title": "那時候有很多人可以去",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "一九六二年，華邦三十五歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那年夏天，他一個人上了屏東的一座山。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "隔天早上他才下來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而中間發生了什麼，從來沒有被記錄過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而這裡也不會寫。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "能確定的只有兩件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事之後，他手上多了一把短劍。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他做了一個決定。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那把短劍是一個老人給的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人比他大很多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在那座山上做什麼，華邦沒有問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他遞過來的時候，講了兩句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「只能拔一次。」\n\n「而拔的時候要很清楚為了什麼。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人就走了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "隔年那個人過世了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有解釋過那把劍是什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個決定是另外一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那件事在山上發生的時候，華邦想的不是「幸好我在」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他想的是另外一句。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那時候，其實有很多人可以去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是猜的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那座山附近有村子。而那一帶他知道有幾個人身上有東西——不多，而不是零。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一夜沒有一個人去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為他們壞。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為沒有人叫他們。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有一個地方在做那件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有人整理誰在哪裡、誰做得到什麼、誰現在有空。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些人各自坐在各自的家裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他們多數到今天都不知道那年夏天發生過那件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他做的第一件事，是去找人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一年他去了很多地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那些人的名字他寫在一本本子上。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他日記的第一年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而多數人拒絕了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不奇怪。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個三十五歲的陌生人走進你家，講一件你沒有聽過的事，然後問你要不要做一件沒有名字、沒有錢、也沒有保證的事——",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "多數人會說不。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而華邦每一次都只問一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有第二次。沒有加碼。沒有「你再想想」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而其中有一個人，他想了三天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人在宜蘭蘇澳。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "三十九歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "比他大四歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是漁民。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "華邦那天講的東西不多。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他把那年夏天的事講了一遍。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他講得很平淡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是因為那件事不嚴重。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他不想用那件事去推誰。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "講完之後他問了一句。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「那時候，其實有很多人可以去。」\n\n「而沒有人去。」\n\n「⋯⋯下一次呢？」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他就不講話了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人想了三天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那三天華邦在蘇澳等。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他住在一間很便宜的地方，白天在港邊坐著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有再去找那個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事已經講完了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "再去就是催。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第三天，那個人給了他答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯我某有身了。」",
+   "pause_before": 1,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "而華邦沒有勸。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "一句都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為他覺得那個理由夠好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個理由當然夠好。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是重點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "重點是那個人想了三天。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個想了三天的人，已經把每一種可能都算過了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個把每一種可能都算過的人，你再講什麼都沒有用。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "你只會讓他難受。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他把茶喝完，站起來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他講了兩句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「那就好好顧家。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一句是真的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而第二句是他隨口講的。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯對了，聽說往天上看，好像會有意外之喜。」\n\n「雖然是聽以前長輩說的，你也可以選擇不聽，當作我在說說也可以。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那句話他為什麼要講，他自己也說不上來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是安慰。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是暗示。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那就是一個人在一段很難的對話結束之後，隨口丟出來的一句閒話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他講完就走了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他這輩子再也沒有想起過那句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "隔年年初，他寄了一份東西過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "茶葉，還有一些點心。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有署名。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼要寄，他從來沒有跟任何人講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是為了拉攏。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他沒有再去過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是為了讓那個人愧疚。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他沒有留名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那也不是為了被感謝。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他沒有留任何一個可以回的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個理由如果真的要講——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他覺得那個人應該收到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個想了三天的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而三天是一段很長的時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他做了六十三年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有查過那邊有沒有收到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那不重要。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是要那個人回的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一九六七年，他四十歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個東西成立了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天來的人不多。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他講了三句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「歡迎你們來到這裡，從此以後大家就是一家人。」\n\n「來到這裡不要有壓力，大家繼續原本做什麼就做什麼就好了。」\n\n「以後大家就是——有難同當，有福同享！」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那三句話講完之後，有一個人問了一句：",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「那我們平常要做什麼？」",
+   "pause_before": 1,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而華邦說：",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「做你原本在做的。」",
+   "pause_before": 0,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯那我們什麼時候要來？」",
+   "pause_before": 1,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有事的時候。」",
+   "pause_before": 1,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那沒事的時候呢？」",
+   "pause_before": 1,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「沒事的時候你就回家。」",
+   "pause_before": 2,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那條規則後來被寫下來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "界的成員全部是自由之身。\n\n上學、工作、成家都不受影響。\n\n加入的實際意思只有一個：你同意在有事的時候被派遣。\n\n而要不要留下來，是每一個成員自己的決定。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那條規則五十八年沒有改過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而多數人以為那是體貼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是一九六二年那一夜留下來的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那一夜有很多人可以去。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是他們不願意。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是沒有人叫他們。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那條規則要解決的問題只有一個：",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "讓那些人不用放棄自己的日子，就可以被叫到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為一個必須放棄自己日子的人，會走。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而一個走了的人，下一次就叫不到了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那把短劍現在在他那根拐杖裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "七十三年。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有拔過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他捨不得。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個條件到現在都還沒有成立。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「而拔的時候要很清楚為了什麼。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他七十三年來遇過的每一件事，他都算過一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而每一次算完，他的結論都一樣：",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "這一件不需要。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而九十八歲那年，那把劍還是新的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己已經不是了。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 138,
+  "narration": 85,
+  "emphasis": 39,
+  "speech": 6,
+  "quote": 8,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "huabang",
+ "⚠_label_rule": {
+  "qiangzang": "那個孩子",
+  "zhang_fugui": "那個人",
+  "chen_wenbin": "（未出場）"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   108,
+   112
+  ]
+ ],
+ "⚠_taigi_review": "見 _台語檢查表.md。未經母語者確認"
+}

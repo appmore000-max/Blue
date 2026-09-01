@@ -1,0 +1,661 @@
+{
+ "id": "29_已經失去顏色的石頭",
+ "title": "已經失去顏色的石頭",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇二二年，張磐三十八歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一年他妻子走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事不是突然的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是一個拖了很久的東西——久到最後那幾個月，醫院的人講話的方式已經換過三次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第一次是「我們再看看」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二次是「先把身體養好」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而第三次他們不講話了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他那時候已經知道那個順序是什麼意思。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為同一套順序他在另外一個地方也在聽。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他女兒那邊。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那孩子那年十歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "先天性免疫疾病。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事從她三歲開始。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以二〇二二年那一年，張磐同時在兩個病房之間跑。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "八樓那個是他女兒的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而另外一層是他妻子的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩層之間他走了大概八個月。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他妻子走了之後，剩下的東西很簡單。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個生病的小孩。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "跟一筆一直在跑的費用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他那時候的工作是建築公司的顧問。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那份工作他做得很好。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他是真的懂那一行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為他讀過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為軍方那十一年裡面，有很多年他在看承重。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個空間會不會塌、從哪裡塌、塌了之後上面那一層會怎麼樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事他學得很好。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是為了決定要不要進去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而現在他用同一套東西，去看一棟房子蓋得對不對。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那份薪水不夠。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他算過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他算的方式跟多數人不一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "多數人算的是「這個月夠不夠」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算的是「還可以撐幾年」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字算出來是四年半。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "四年半之後，那孩子十五歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是一個可以結束的年紀。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他找了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他去查了這座島上有在處理事情的組織。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那些地方多數是公開的——不是招牌那種公開，是如果你知道要查什麼，就查得到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他一個一個看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有幾個他直接排除了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是因為它們危險。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他看得出來那些地方的人進去之後會變成什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不用查，看那些地方的結構就知道了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個要求你搬進去的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個要求你切斷原本關係的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "一個把「加入」寫得像是換一種身分的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三種他一眼就過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而界那邊有一項跟別人不一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "它不要求你放棄自己的生活。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "上學。工作。成家。照顧生病的家人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那些本來就比任務重要。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一條他讀了很多遍。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那一條不是承諾。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個結構。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個承諾可以被收回。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個結構不會。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他去填了那份表。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一欄問的是：為什麼想加入。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他寫的是兩個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「錢。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一格他沒有多寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有覺得那需要被解釋。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "登錄之後有一份資料。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "上面有他的名字：張磐。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而第一次出勤回來要寫報告。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那份報告的最後有一格是署名。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他在那一格寫了兩個字。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "黑石。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有人問他為什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字後來就一直用下去了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "群組裡。報告上。界裡的人叫他的時候。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而只有兩個地方還在用「張磐」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個是那份登錄資料。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而另一個是他女兒的病歷上，家屬那一欄。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那兩個字的意思，他心裡有一個說法。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「已經失去顏色的石頭。」",
+   "pause_before": 1,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那是他自己的說法。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他從來沒有跟任何人講過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個說法不是自憐。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一顆失去顏色的石頭還是一顆石頭。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它還是可以擋東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第一次出勤的時候，他做的事情是站在前面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是他被 @ 的理由。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個理由從第一次到現在都沒有變過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "需要有人站在前面的時候。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而現場他講的話很短。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "多數時候只有兩個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「我擋。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字後面沒有任何東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是「我擋，你們快走」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是「我擋，撐三十秒」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "就只是「我擋」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為後面那些不用講。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他站在那裡，那就是全部的意思。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他不是靠打贏的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他是靠不倒。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事在戰場上完全不一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個靠打贏的人，會有贏不了的時候。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個靠不倒的人，只要他還站著，那件事就沒有結束。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他的量是中等。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他恢復得慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他那個東西空掉之後，還有很長一段時間他是沒有的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是站在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為軍方那十一年學的東西不吃那個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "三年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他每個星期至少去三次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他去的時候會刻意穿年輕一點的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那孩子六年前講過一句：",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「爸爸你穿那樣好像老頭。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他從那天起就沒有再穿那一套去過醫院。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他腰包裡有一張圖。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那孩子六歲的時候畫的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一座山，旁邊寫了兩個字：「爸爸」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那張紙已經快要斷了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "摺痕的地方變成半透明的，纖維都散了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有換過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那孩子後來畫過幾百張。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他帶在身上的還是那一張。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個算式他現在還在算。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "四年半那個數字，現在變成別的了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它變成多少，他沒有告訴任何人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "包括那個每個月會問他一次「還可以嗎」的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人問的時候，他每一次都回同一個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「好。」",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 127,
+  "narration": 96,
+  "emphasis": 24,
+  "speech": 2,
+  "quote": 5,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "hei_shi",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

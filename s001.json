@@ -1,0 +1,920 @@
+{
+ "id": "01_慢點",
+ "title": "慢點",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "手機在桌上震的時候是凌晨一點四十。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰醒了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他一直睡得很淺，而那不是他練出來的——那是首爾那六年留下來的東西，回台灣之後就沒有再走。他伸手把手機拿過來，螢幕的光打在臉上，眼睛還沒有完全張開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "Line 的群組。最上面那一則是統籌貼的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n【2013】新北。往山上的產業道路，三岔口過去約一公里。\n@ 高志遠 @ 鄭翊辰\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看了那四個數字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一碼二。明確越過人類極限的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二碼零。裡面沒有人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第三碼一。少數，而且處理得掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "第四碼三。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他坐了起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他換衣服的時候動作很快。深黑色的機能衣、軍規長褲、那雙輕量化的靴子——那雙鞋他花了不少錢，因為重量會慢，而那幾百公克在他的打法裡是真的有差。手套是指尖裸露的那一種。兩把短刀各四十公分，一左一右。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他坐下來纏繃帶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他唯一一件會慢下來做的事。左手，右手，一圈一圈，繞過虎口，收在手腕上方。他自己也說不上來為什麼，反正這件事他不趕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "繃帶纏完的時候是一點五十二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手機塞進口袋，摸了一下左耳那個銀環——那個動作他一天做幾十次，而他從來沒有發現過——然後往門口走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在群組裡打了兩個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「走了。」",
+   "pause_before": 0,
+   "who": "lin_xueyun_post",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那條產業道路上沒有燈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他從三岔口下車的時候是兩點四十三分。往上走了幾百公尺，柏油變成碎石，兩邊的樹壓得很低，而空氣裡有一種很淡的、像是燒過的味道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠已經在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人一百八十八公分，九十五公斤，站在路中間，背對著他。前面二十幾公尺的地方，那個東西在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「遠哥。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "高志遠沒有回頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你比我想的快。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你到多久了。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「二十分鐘。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那不是二十分鐘的差別。那是二十分鐘的觀察——路的形狀、樹的密度、那個東西移動的節奏、以及它繞著同一個地方轉了幾圈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰是剛到的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他自己知道那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「它會不會跑。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不會。」高志遠說，「它已經在這裡三個小時了。它不知道自己在幹嘛。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個東西大概兩公尺高。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有臉。至少沒有一個可以被叫做臉的地方。它的形狀一直在變，而那個變不是攻擊性的——它就只是不穩定，像一團被壓住又擠出來的東西，邊緣一直在往外掉，然後又長回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它沒有看他們。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它沒有在看任何東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「這什麼。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不知道。」高志遠的聲音很低，音量偏大，那是他一貫的講話方式，「上面寫二。而我看不出來它想幹嘛。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「它不想幹嘛。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "高志遠往前跨了半步。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那半步很小，小到幾乎看不出來——他只是把自己挪到了鄭翊辰跟那個東西中間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他做了很多年，而他自己完全沒有意識到。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「照舊。」高志遠說，「我在前面。你等我把它撞住。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你剩幾次。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰沒有回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他知道那個數字。清清楚楚——三次。他一直都知道自己還剩多少，那不是他要去感覺的東西，那就在那裡，像口袋裡有幾張鈔票一樣清楚。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「三。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那你留一次。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「知道了。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "高志遠動的時候，地面震了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西的邊緣往外炸開，像一團被打進去的水。而它沒有退——它不知道要退——它只是把炸開的部分收回來，然後往前壓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠站住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九十五公斤的人，肩膀往下沉半吋，腳往後滑了大概十公分，然後停住。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「上。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰已經不在原地了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五十公尺之內，多數人反應不過來。而那不是速度快到看不見——那是對方判斷完他在哪裡的時候，他已經不在那裡了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "短刀從左側切進去，那個東西的一整塊掉下來，落在碎石上的時候還在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰已經退到了三公尺外。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "存，剩二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「還在動。」高志遠喊。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「我知道。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "第二次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "這一次是從上面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他踩著旁邊那棵樹的樹幹上去，短刀反握，整個人往下砸——而那一下切得比第一次深得多，那個東西整個扭了一下，發出一種不像聲音的聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它的形狀塌了一半。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一塊沒有長回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「有效。」高志遠說。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "存，剩一。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西又站起來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是重組。是它塌下去的地方，重新有東西填上來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個過程很慢，慢到你可以看著它一寸一寸長回原本的樣子。掉在地上那幾塊也在往回移動，像被什麼拉著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰站在那裡看著。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯아이씨。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你講什麼。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「沒有。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "「它在吃什麼東西。」高志遠說。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「什麼意思。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「這種東西不會自己長。」那個人的聲音壓得更低了，「它後面有東西在給它。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「在哪。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不在這裡。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰看著那個東西站直。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它還是沒有在看他們。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它從頭到尾沒有看過他們一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他往前了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是決定。他自己事後回想的時候，最誠實的說法是：他沒有想過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看到那個東西站起來了，看到它又要往前壓，看到高志遠的腳已經在往後滑——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他就到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "存，一。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個數字就在那裡。他看得到。他一直都看得到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它在那一秒完全不在他腦子裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一隻手抓住了他的後領。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一下的力道大到他整個人被扯回來，腳離地，往後摔進碎石堆裡。肩膀撞到地面的時候他聽見自己出了一聲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高志遠站在他前面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "背對著他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "面對那個東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "站在中間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「它打不完。」高志遠說。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我知道。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你知道你還往前。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰撐著地面坐起來。碎石卡進手掌，繃帶那一圈磨破了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那不然咧。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那三個字他一輩子沒有講過幾次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠沒有回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人只是站在那裡，看著那個東西一寸一寸長回原本的樣子，然後從口袋裡拿出手機，看了一眼時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點二十一分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手機收回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「回報。」高志遠說，「第一碼改二，第二碼零不動，第三碼一不動，第四碼從三改成一。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「為什麼是一。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「因為它不會跑，而它打不完。」那個人轉過來，「這不是幾小時的事了。這是要有人去找那個給它東西的人。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「誰去。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不是我們。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他們走下山的時候天還沒有亮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高志遠走在他左邊，那個位置剛好在他跟路肩之間，而鄭翊辰沒有注意到。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「手怎麼樣。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「沒事。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「破了。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「破了而已。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人伸手拍了一下他的肩膀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一下對高志遠而言是輕的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰整個人晃了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "到車子旁邊的時候，高志遠停了下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「小辰。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「慢點。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰把手上那圈磨破的繃帶拆下來，繞成一團，塞進口袋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他這輩子聽過這句話大概幾百次了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次都懂那是什麼意思——那個人嫌他太急，嫌他不看清楚，嫌他每次都第一個衝出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「知道了。」他說。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高志遠看了他一會兒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人點了一下頭，轉身往自己的車走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有真的生氣過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "鄭翊辰有時候會覺得那才是最麻煩的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為如果那個人罵他，他就可以吵回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人只是每次都再講一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四點十一分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高志遠坐進車裡，發動，然後在方向盤上停了兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看了一眼手機。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四點十一。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "如果現在走，六點前到家。他老婆五點半起床，小孩六點二十要出門。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還來得及。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把車開出去，經過鄭翊辰那一輛的時候按了一下喇叭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人在裡面舉了一下手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那句話他從來沒有解釋過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是嫌他急。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那種人他在軍方看過。不是不聽話，是那個資訊在他要動的那一秒，真的不在他腦子裡——你講一百次，他每一次都答應，而他每一次都不是在敷衍。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他是真的想不到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那種人多數活不久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他每次都再講一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為講一百次裡面，只要有一次剛好卡在那個縫上——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就夠了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰不知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他這輩子大概也不會知道。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 155,
+  "narration": 110,
+  "emphasis": 4,
+  "speech": 41,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zheng_yichen",
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   24,
+   26
+  ],
+  [
+   30,
+   31
+  ],
+  [
+   36,
+   39
+  ],
+  [
+   43,
+   45
+  ],
+  [
+   48,
+   50
+  ],
+  [
+   75,
+   77
+  ],
+  [
+   79,
+   82
+  ],
+  [
+   100,
+   101
+  ],
+  [
+   109,
+   113
+  ],
+  [
+   116,
+   119
+  ],
+  [
+   124,
+   126
+  ]
+ ]
+}

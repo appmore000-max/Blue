@@ -1,0 +1,634 @@
+{
+ "id": "30_而她不是那塊料",
+ "title": "而她不是那塊料",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇〇六年，林雪芸十九歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她進來的時候是一般成員。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候練的是格鬥。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "理由很單純：那是她能想到唯一可以做的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個十九歲的人走進一個處理事情的地方，她會以為那個地方要的是什麼？",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "打。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以她練。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那兩年她每天練。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她的底子其實很紮實——不是天分，是量。她做得比多數人多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她二十一歲那年發現了一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天她跟一個人對練。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人比她大四歲，普通成員，不是什麼特別厲害的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在第二十幾秒的時候，做了一個動作。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個動作不快也不重。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她擋住了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她的手就麻了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是痛。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是那隻手在接下來的三秒裡，不是她的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有停。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他繼續，而那三秒裡他做了兩件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後結束了。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「妳擋得不錯。」",
+   "pause_before": 2,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯嗯。」",
+   "pause_before": 0,
+   "who": "lin_xueyun",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不過妳擋完就沒了。」",
+   "pause_before": 0,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人講的時候是好意。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話林雪芸記到現在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是技術問題。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她身上什麼都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她沒有領悟過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "也沒有練出來過。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是她努力不夠。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事跟努力沒有關係——多數人一輩子都不會有，而她是多數人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而在這個組織裡，比她能打的人太多了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上她一個人在總部。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那時候的總部比現在更破。二樓那間辦公室是三張桌子拼起來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有難過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "她在算。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "如果她不是那塊料，那她在這裡做什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個算式她算了大概兩個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後她發現了另外一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天下午有三份回報進來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "三個不同的人寫的，三個不同的現場。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她在等著練習的時候，順手把那三份讀了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒發現：那三份講的可能是同一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是同一個現場。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是同一個東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第一份寫的是「有東西在那附近」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第二份寫的是一個時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而第三份寫的是一個方向。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三份分別交給了三個不同的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一個人讀過另外兩份。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那個時候界的資料是散的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "各自的回報。各自的紀錄。各自的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一個地方是全部都在的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上她做的第一件事，是把那三份抄在同一張紙上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有人叫她做。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她就是覺得那些東西應該被放在一起。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "隔天她多讀了幾份。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "再隔天她讀完了那個星期的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個月之後，她開始讀每一份。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事一開始沒有人在意。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那看起來就是一個年輕成員在做一件很閒的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而三個月之後，有人問她一句：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯上個月南邊那件，跟去年的那件是不是一樣的？」",
+   "pause_before": 1,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「是。差七個月。而那次是往北。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個人愣了一下。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「妳怎麼知道。」",
+   "pause_before": 1,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我讀過。」",
+   "pause_before": 2,
+   "who": "lin_xueyun",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那八年，那件事慢慢變成她在做的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個過程沒有一個明確的時間點。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "某一年她開始接電話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "某一年她開始決定誰去。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "某一年她發現自己已經不出現場了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有申請過那個位置。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "也沒有人任命過她。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那些事情就是慢慢變成她在做的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那兩年練的格鬥沒有丟掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她現在還在練。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而練的是防禦、脫離、拖時間。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不是打贏。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為她二十一歲就知道了：她打不贏能力者。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也不打算。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很實際的意義。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個統籌如果在現場，那個現場已經很糟了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她要做的不是解決那個現場。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是活著回來，然後把那件事寫進去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那把短刀在她包包裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她真的用過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事沒有幾個人知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她也沒有寫進任何一份回報。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那一份回報是她自己寫的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一次沒有寫她自己。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那本紙的筆記本，是從十九歲開始的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一開始那本子上寫的是名字跟日期。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為她記人記得很好，而她怕自己以後會忘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而後來那本子上開始有另外一種東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是那些名字後面的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "家裡有幾個人。哪一天不方便。哪一種現場他會退不掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些東西不在任何一份登錄資料上。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她自己一句一句聽來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那本本子上現在有幾百個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它有一頁是她自己的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那一頁三個月才寫一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁上有一行很小的字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是幾年前寫的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她寫的時候，寫得比其他任何一行都小。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "三十八歲了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有做過界以外的任何一份工作。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她十九歲進來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是她選的職涯。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她二十一歲那天晚上算完之後，剩下來的那一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三份回報她到現在還記得。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那三個人的名字。那三個現場。那三個日期。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三個人裡面，有一個在二〇一四年沒有回來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個名字在那本本子上。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有被劃掉。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 118,
+  "narration": 87,
+  "emphasis": 25,
+  "speech": 6,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "lin_xueyun",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫她「雪芸」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   21,
+   23
+  ],
+  [
+   67,
+   68
+  ]
+ ]
+}

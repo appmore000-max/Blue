@@ -1,0 +1,1034 @@
+{
+ "id": "長篇_05_那個醫生",
+ "title": "第五章｜那個醫生",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "四月八號，星期二。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那天請假。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他今年第一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而請假的理由，他跟工頭講的是「家裡有事」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是假的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他跟他太太講的是「去看一下醫生」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是真的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而它不是全部。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他去的那間是新莊的一間骨科。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那間他去過三次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而每一次都是右邊肩膀。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三次的結論是同一個。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「五十幾歲了，就是這樣。」",
+   "pause_before": 2,
+   "who": "ortho_doc",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「要不要復健？」",
+   "pause_before": 1,
+   "who": "ortho_doc",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我上班。」",
+   "pause_before": 1,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那就多休息。」",
+   "pause_before": 1,
+   "who": "ortho_doc",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而「多休息」那三個字他聽過很多次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字的問題不是它沒有用。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是它需要錢。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事那個醫生不會知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而今天他去的不是骨科。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是神經內科。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他掛那一科的理由，他自己也不太確定。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他昨天晚上坐在客廳，用手機查了一個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他查的關鍵字是：「會突然睡著」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一個小時查出來的東西很多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而多數是廣告。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而有幾條不是。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那幾條裡面，有一條寫的是一種病。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個病的名字他看了三遍。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他看不懂。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他懂的是後面那一段。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "患者可能在白天出現無法控制的睡眠。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒把手機放下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒沒有想那件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他在想別的。",
+   "pause_before": 2
+  },
+  {
+   "t": "section",
+   "text": "因為那個東西如果是一種病，那件事就簡單多了",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "一種病是有名字的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個有名字的東西，可以被處理。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他要的就是那個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他今天早上七點多到那間醫院。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他掛的是九點多的號。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他七點多就到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他緊張。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他不知道要去哪裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為他請了假。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個請了假的人，那個上午是空的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他二十六年沒有遇過那件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他坐在那個候診區。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個地方很亮。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那種亮沒有影子。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那兩個小時做的事情，是看人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他看到的東西是這樣的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個候診區裡有二十幾個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而多數是老人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數有人陪。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而沒有人陪的，大概三個。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他是其中一個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他那一秒注意到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有覺得那有什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為他太太要上班。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有跟她講他掛的是哪一科。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而九點二十幾，叫到他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個醫生大概四十幾歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他問的第一句話是：「哪裡不舒服？」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒愣了兩秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不知道要怎麼講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他昨天晚上想過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想的版本是這樣的：",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「我最近很容易累。」",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話不對。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個五十三歲的做工的人講那句話，那不是症狀。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他的職業。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒講的是另外一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「我中午會睡著。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個醫生「嗯」了一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「以前不會嗎？」",
+   "pause_before": 2,
+   "who": "neuro_doc",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不會。」",
+   "pause_before": 1,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「什麼時候開始的？」",
+   "pause_before": 1,
+   "who": "neuro_doc",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒又愣了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說的是：「⋯⋯這一兩年吧。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他能講出來最接近的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而正確的答案是三年。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個醫生問了七、八個問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "晚上睡得好不好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "睡多久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "會不會半夜醒。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "有沒有打呼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬有幾題答不出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那些事他從來沒有注意過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個醫生問到一題的時候，他停了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「你有沒有覺得力氣變小？」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒沒有回答。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而那兩秒他在想的東西，跟那個問題沒有關係",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他在想三年前那一天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那天伸手的時候，那個東西已經沒有了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是伸了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那面牆撐了四十幾秒。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他從來沒有跟任何人講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說的是：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯有一點。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個醫生點了點頭，然後在螢幕上打字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而打字的時候他說了一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「我開個檢查。」",
+   "pause_before": 2,
+   "who": "neuro_doc",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「什麼檢查？」",
+   "pause_before": 1,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「先抽血。看一下有沒有貧血、甲狀腺那些。」",
+   "pause_before": 1,
+   "who": "neuro_doc",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯這個要多少錢？」",
+   "pause_before": 2,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個醫生那一秒抬起頭了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他看了陳文彬一眼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一眼不到一秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「健保有給付。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬說：「喔。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他說：「那好。」",
+   "pause_before": 2
+  },
+  {
+   "t": "section",
+   "text": "而那一秒有一件事發生了，而兩個人都沒有講",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個醫生看出來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有問。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而陳文彬知道他看出來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有講。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個檢查十點多做完。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而報告要一個星期。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他走出那間醫院的時候是十一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個上午還剩三個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒站在那個門口，不知道要去哪裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他最後做的事情，是騎車回家。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他到家的時候，家裡沒有人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他坐在客廳。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個房子在中午是安靜的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他很少在那個時間在家。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他坐了大概二十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他做了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他把那個紙箱拉出來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個紙箱在床底下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他上一次拉出來是十一月。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是五個月前。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而裡面的東西還是用橡皮筋綁著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那條橡皮筋已經有一點脆了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他拆的時候它斷了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把那些紙攤在桌上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他找的是那一頁。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他很快就找到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那一頁他折了一個角。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "失控產物。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那四個字下面只有兩行說明。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩行他背得出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒看的不是那四個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他在看那兩行。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩行裡面有一個詞，他五個月前跳過去了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "「來源」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩行寫的是：這一類東西的來源通常無法追溯。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他五個月前讀到那一句的時候，理解的是：沒有人知道它從哪裡來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是那句話的意思。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "因為「無法追溯」跟「不知道從哪裡來」不一樣",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "「不知道從哪裡來」是沒有答案。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而「無法追溯」是有答案，而查不到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒坐在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他看那兩行看了很久。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想到的問題，跟五個月前那個是同一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "那是誰的能力。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而這一次他沒有把它推回去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他把那些紙收起來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那條橡皮筋斷了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他用了一條新的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那條新的是從廚房那個抽屜拿的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把紙箱推回床底下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他推的時候，比五個月前輕。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而下午兩點多，他睡著了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一次不是在工地。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是在自己家的沙發上。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他醒過來的時候是四點多。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他睡了兩個小時。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒坐在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒有一點慌。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那兩個小時他沒有做任何事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他三十年來第一次在下午睡兩個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而五點多，他太太回來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「醫生怎麼說？」",
+   "pause_before": 2,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他說：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「叫我多休息。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「那你就多休息啊。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「嗯。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有講抽血那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而理由不是他要瞞。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是報告還沒有出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個還沒有出來的東西，講了只會讓她開始等。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上他九點多躺下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他睡不著。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他躺了大概一個半小時。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一個半小時，他一直在想那三個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "無法追溯。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上，山上那條產業道路——",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個東西繞了一圈。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一圈是二十八秒。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 195,
+  "narration": 97,
+  "emphasis": 73,
+  "speech": 12,
+  "quote": 9,
+  "screen": 0,
+  "section": 4
+ },
+ "pov": "chen_wenbin",
+ "⚠_label_rule": {
+  "yu_lengchuan": "靠窗那個人",
+  "⚠": "絕對不能顯示「余冷川」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   12,
+   15
+  ],
+  [
+   76,
+   78
+  ],
+  [
+   105,
+   108
+  ]
+ ]
+}

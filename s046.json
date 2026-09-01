@@ -1,0 +1,599 @@
+{
+ "id": "46_四十幾公尺",
+ "title": "四十幾公尺",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇一九年，林若霜二十三歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那年她剛從醫學系畢業，剛進急診。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她已經在界三年了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個現場是一棟工廠。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那天在後面。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她的位置。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她不指揮，也不主攻。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她在後面，看著誰快不行了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天倒下的那個人在四十幾公尺外。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "在她的範圍裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "五十公尺。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒算了三件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人的狀態——大量出血，而那還在她可以帶回來的範圍。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "距離——四十幾公尺，而中間有一段沒有掩體。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "還有沒有別人——沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以她去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她跑那四十幾公尺，花了三十秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三十秒不是因為她慢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為中間那一段她要繞。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一條直線是四十幾公尺。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她實際跑的是九十幾。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她到的時候，那個人已經不在那個範圍裡了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是死了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是掉到了她救不回來的那一側。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個界線在哪裡，她講不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個數字。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她伸手的時候，那個東西有沒有反應。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天沒有反應。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她在那裡蹲了大概兩分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那兩分鐘裡在做的事情，是急救。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "用手。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "醫學系七年。急診科。而她做得比普通外科醫師快三倍。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那也不夠。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天回到總部之後，她做的第一件事是去洗手間洗臉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "冷水，三次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她抬起頭的時候，鏡子裡那個人的頭髮還綁著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有拆。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她在算那個距離。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "四十幾公尺。三十秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而如果她跑直線呢。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那大概是十五秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那十五秒夠不夠——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她算不出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個可以算的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人掉到哪一側，不是時間決定的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她知道那件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她還是在算。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一次之後，她試了五年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那些書上有寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個上限是可以被推上去的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而方法有三種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "某種練法。 而她第一件事是弄清楚自己屬於哪一套。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "外物。 而她找了三年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "某一天突然就多了。 而那一項沒有辦法做。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她把前兩項全部試遍了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那五年她讀完了她找得到的每一份東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她試過十幾種練法。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "她甚至去了兩次她不應該去的地方，只是為了看一樣東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個數字一次都沒有動過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "五十公尺。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那五年裡她量過很多次。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "每一次都是五十。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是因為丟臉。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為講了會變成一個安慰的場合。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她不需要那個。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她需要的是那個數字變大。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "二〇二〇年，那一次她算完了，然後發現不夠。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一次是誰、發生了什麼——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她從來沒有寫進任何一份回報裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而這裡也不會寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的只有一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那一次現場不只一個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒做的事情，是選。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她選了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她記得自己選了誰。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次都記得。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她沒有辦法不記。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為她的感知是常駐的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在救那一個的時候，另外那一個還在她的範圍裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她感覺得到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那才是這件事真正殘忍的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是「她只能救一個」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是她在救那一個的時候，另外那一個的心跳，她從頭到尾都聽得到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個聲音慢下來的過程，她也聽得到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個過程有多長，她知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那一項她每一次都在數。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己也說不上來為什麼要數。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "二〇二二年，那一天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那份回報上有兩行。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「我還可以再一次。」\n\n「而我沒有。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她為什麼那天沒有那樣做，她沒有寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人也沒有問。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那份回報他看完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他什麼都沒有講。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒站在那裡等。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她等的是被罵。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "或者至少是被問。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人只是把那份東西放下，然後說：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「知道了。」",
+   "pause_before": 1,
+   "who": "qiangzang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字她想了很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她到現在都不確定那代表什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而現在她二十九歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字還是五十。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她還在試。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是每天。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而是每隔一陣子，她會再試一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她試的時候是一個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "在那間公寓裡，那隻貓在旁邊睡覺。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她每一次試完，都會坐在那裡幾分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她去洗臉。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "冷水，三次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作她做了很多年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而在界裡面，那個動作是「她把現場放下了」的意思。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而只有在那間公寓裡，那不是。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 115,
+  "narration": 74,
+  "emphasis": 39,
+  "speech": 1,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "lin_ruoshuang",
+ "⚠_label_rule": {
+  "lin_xueyun": "統籌",
+  "qiangzang": "指揮"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

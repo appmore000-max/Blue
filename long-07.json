@@ -1,0 +1,621 @@
+{
+ "id": "長篇_07_那個數字",
+ "title": "第七章｜那個數字",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "六月十七號，星期二。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天陳文彬回家的時候是六點多。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那比平常早。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那天下午下雨。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而下雨的時候有些東西不能做。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他到家的時候，他女兒在客廳。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那天沒有在寫東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她在看手機。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而桌上有一張紙。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「爸。」",
+   "pause_before": 3,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「這個要簽。」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他走過去看。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是一張繳費單。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是學校的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是補習班的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字在右下角。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那一秒看了那個數字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒沒有反應。",
+   "pause_before": 2
+  },
+  {
+   "t": "section",
+   "text": "而「沒有反應」不是他不在意",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他已經知道那個數字了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個數字每一期都一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他上個月就算過那一期要多做兩天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「什麼時候要繳。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「九月十號。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說了一個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 2,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個「喔」跟他平常那個一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他女兒沒有聽出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她低頭繼續看手機。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他拿了那張紙，走到房間。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把它放在那個抽屜裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個抽屜裡已經有幾張了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "水電。瓦斯。還有那台機車的保險。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒站在那裡，看著那個抽屜。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有把它關上。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他站了大概十秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那十秒他在算。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而那個算式他每個月都跑",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "這個月進來多少。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "這個月出去多少。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而剩下多少。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個「剩下」這三年一直在變小。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是因為出去變多。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為進來變少。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而進來變少的原因很簡單。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他做的天數變少。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他跟他太太講的是年紀。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她信了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她信了，是因為那是真的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒把抽屜關上了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他關的時候，那個抽屜卡了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為裡面東西太多。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把它拉出來一點，把那疊紙壓平，再關一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而這一次順了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而晚上八點多，他坐在客廳。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而電視開著。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有在看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他太太在旁邊摺衣服。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒說了一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「你最近好像比較早回來。」",
+   "pause_before": 2,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬說：「下雨啊。」",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「不是啦。」她說，「這幾個月都是。」",
+   "pause_before": 2,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有回答。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而那兩秒他在算一件事",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她注意到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她注意到了多久。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說的是：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯工頭那邊排的。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是假的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他這輩子講過的第二個謊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而第一個是三年前。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個謊是：「那天我不在現場。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「喔。那也好啦。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她繼續摺。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有再問。",
+   "pause_before": 3
+  },
+  {
+   "t": "section",
+   "text": "而她沒有再問的理由，跟他以為的不一樣",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他以為她信了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有信。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她這三個月，已經問過四次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而四次的答案分別是：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「下雨。」",
+   "pause_before": 1,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「今天早收。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那邊做完了。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「工頭那邊排的。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四個答案裡，有兩個是可以查證的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有查。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有查的理由，她自己知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她如果查了，她會知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她知道了之後，就要處理。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她不知道要怎麼處理。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒摺完了那件衣服。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她摺得很整齊。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件衣服是他的工作服。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件工作服的右邊肩膀那一塊，磨得比左邊薄。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她知道那件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而九點多，陳文彬躺下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那天睡得很快。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上，往山上那條產業道路——",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個東西繞了一圈。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一圈是二十九秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那天沒有人在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是星期二。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而余冷川那個星期沒有上去。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個星期他在別的地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來變成一個問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個星期的數字沒有人記。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那條線上，六月有一格是空的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一格他後來用推的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他推的是二十九。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個推是對的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己不知道。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 114,
+  "narration": 47,
+  "emphasis": 52,
+  "speech": 10,
+  "quote": 1,
+  "screen": 0,
+  "section": 4
+ },
+ "pov": "chen_wenbin",
+ "⚠_label_rule": {
+  "yu_lengchuan": "靠窗那個人",
+  "⚠": "絕對不能顯示「余冷川」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   9,
+   11
+  ],
+  [
+   82,
+   85
+  ]
+ ]
+}

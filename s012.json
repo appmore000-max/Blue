@@ -1,0 +1,723 @@
+{
+ "id": "12_那一頁",
+ "title": "那一頁",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "補習班的燈是白的，那種很亮、亮到沒有影子的白。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "星期四晚上九點四十，最後一批學生走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿智把桌子推回去，關了投影機，把黑板擦乾淨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他坐下來，把那本筆記本打開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那本是牛皮紙封面的，A5，用了大概三年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它不是教學用的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一頁到第四十幾頁是他的能力。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一項一項，每一項後面是：怎麼發動、消耗多少、範圍多遠、上一次用是什麼時候、那一次有沒有失手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他讀物理。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他碰到任何一件事的第一個反應，都是弄清楚那是怎麼運作的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第五十一頁的標題是一個問句。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一頁他寫了兩年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它還沒有寫滿。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他二十歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他是那三個人裡唯一一個真的去查過的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些書不難找。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有任何一個組織把它們鎖起來——因為鎖了也沒有用，那些東西早就散在各個地方了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是一本書。那是一套一套的東西，散在很多地方，有些是影本，有些是掃描檔，有些是某個論壇上有人一段一段貼出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他花了兩年，一項一項對過去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他對到一半就卡住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為他身上那套東西跟書上寫的沒有一項完全對得上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有些地方像。有些地方完全不像。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "比如說「組織分離」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他六歲那年從樹上摔下來，四肢散開，然後他想著「回來」，那些東西就回來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而書上有幾套講到類似的東西——分離、重組、局部脫離。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "但那幾套全部都寫著同一件事：分離出去的部分不能獨立運作。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他的可以。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四肢分出去之後，每一個都能用全部的能力。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "再比如「剪紙回朔」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "生成八秒前的自己，並且可以返回那個時間點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而書上找得到的所有跟時間有關的東西，全部要付出他付不出來的東西——記憶、壽命、或者一整個體系。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他付的是存。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "貴，但是只是存。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而最麻煩的是第三件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他寫在第五十一頁的最下面，用最小的字。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「連鎖炸對我本人與分離出去的肢體完全無效。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那些書上一個字都沒有寫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是寫得不清楚。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四十幾套他對過的東西裡面，沒有任何一套提到「一個人的能力對他自己無效」這件事需要被解釋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事在多數體系裡是預設的——你的東西當然不會傷你自己。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他知道那不對。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那些炸彈是有實體的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它們會炸開周圍三公尺內的東西。牆、地面、車、人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們炸不到他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是「他很會算距離」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他站在正中間，五顆一起引爆，然後他站在那裡什麼事都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而所有人都以為那是前面那一種。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿仁以為他很會算。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿和以為他很會算。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "真琪姐以為他很會算。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有更正過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是隱瞞。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是因為他自己也不知道那是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而在他弄清楚之前，把它講出來只會變成一個沒有答案的問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點零五分，他把筆蓋打開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他在那一頁上加了一行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一行是這樣寫的：",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "十月三日。第四十七套。仍然不符。\n\n而那一套裡面提到「被做上去的」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他那天下午在圖書館看到的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一段講的是一類很罕見的東西——那不是領悟來的，也不是練出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是被做上去的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一類是常駐的。沒有發動，沒有結束，也不消耗任何東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把那一段抄了下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他在旁邊寫了一行：",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "那件事跟存是分開的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他停在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那一段的後面還有一句。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「而那一類的人幾乎不會被辨識出來。因為他們身上那樣東西看起來就是天生的。」",
+   "pause_before": 0,
+   "who": "book",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「而他們自己多數也不知道那是怎麼來的。」",
+   "pause_before": 0,
+   "who": "book",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿智坐在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "補習班的燈很亮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他六歲那年從樹上摔下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他記得很清楚——那棵樹在後院，他爬到第三根分枝，然後手滑了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他掉下來的時候，四肢散開。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他想著「回來」，那些東西就回來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候六歲，他只覺得那很有趣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一天之前呢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他不記得那一天之前有沒有什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是正常的。沒有人記得六歲之前的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把筆放下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個推論太遠了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「炸彈傷不了他」跟「被做上去的」之間，只有一個共通點：兩者都是常駐的、不消耗的、而且弄不掉的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一個共通點不夠。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不夠寫進那一頁。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點十一分，他把那一行劃掉了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他重新寫：",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "第四十七套。不符。\n\n而「不消耗」這個特徵，目前有兩套提過。要再找。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一頁的標題是一個問句。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個問句他兩年前寫下去的時候，字很小。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點二十，他把筆記本闔上，放進背包。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "背包側邊那個口袋裡有另外一本。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那本比較舊，也比較薄。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它只有一頁有字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一頁上面只有兩個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "華邦。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那兩個字他是三年前寫的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那時候他剛開始查，而那個名字在幾個不同的地方出現過——一個組織的創立者，一個活很久的人，一個據說什麼都見過的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他寫下來的時候想的是：這個人可能知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有試圖接觸過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是找不到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個活了快一百年、創立過一個組織的人，要找到並不難。他查得到那個組織，查得到那個組織現在誰在管，甚至查得到幾個可以問的方向。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "理由他自己知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為如果那個人告訴他答案，那一頁就寫完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁寫完之後，他就不會再查了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是他要的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他要的不是知道自己屬於哪一套。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他要的是弄清楚那是怎麼運作的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事差非常多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個是答案。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "一個是過程。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點二十五，他把補習班的燈關掉，鎖門。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "外面在下小雨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "宜蘭市的十月，晚上有點涼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他騎車回去的路上經過一間便利商店。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "停了，買了一顆茶葉蛋跟一瓶無糖的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他站在騎樓底下吃的時候，想起了那個小孩。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子七歲，跟著一個穿拖鞋的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿智帶他吃過很多次宜蘭小吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "炸彈蔥油餅、卜肉、糕渣、正常鮮肉湯包。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子從來沒有問過任何一樣是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他吃什麼給什麼。他說「謝謝智哥」。他會問好不好吃，會說很好吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有問過「這是什麼」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿智那時候只覺得那孩子很懂事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而現在他站在騎樓底下，想起那件事，愣了兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個七歲的小孩，被帶去吃一樣他沒有看過的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "正常的第一句話是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把茶葉蛋吃完，把袋子丟進垃圾桶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他從背包裡把那本筆記本拿出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "翻到第五十一頁。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他在最下面加了一行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一行跟那一頁上其他所有的字都沒有關係。",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "那孩子從來不問「這是什麼」。\n\n為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他把本子闔上，騎車走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁到現在都還沒有寫滿。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 138,
+  "narration": 118,
+  "emphasis": 13,
+  "speech": 3,
+  "quote": 4,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "azhi",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   68,
+   69
+  ]
+ ]
+}

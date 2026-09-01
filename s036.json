@@ -1,0 +1,623 @@
+{
+ "id": "36_那個閘門",
+ "title": "那個閘門",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇一四年，鄭翊辰十六歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天他跟他母親去了機場。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是一件大事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一件他們做過很多次的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "八歲那年他們回台灣。而那之後每年寒暑假他回首爾。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而偶爾——一年一次或者兩年一次——那個人會來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那次日期定好了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "票也買了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他母親前一天晚上還在講要煮什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他們九點多到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那班飛機十點二十落地。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "出關要多久，那件事他們也知道——大概四十分鐘到一個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以他們在那裡等。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十一點十分，第一批人出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "推著行李。有些人在講電話。有一個小孩在哭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他母親往前站了半步。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那半步是很自然的動作。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "看到人開始出來的時候，站在接機的地方的人都會往前半步。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一批裡面沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第二批。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第三批。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十一點四十幾分的時候，出來的人開始變少了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是一個很清楚的訊號。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一班飛機的人出關是有形狀的——前面密，中間穩，後面稀。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而後面稀的時候，就快結束了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他母親沒有動。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "十二點多，他母親打了電話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有人接。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她又打了一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第三次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第四次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那四次之間她沒有講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她就是打，聽，然後掛掉，然後再打。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰站在她旁邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候在看那個閘門。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個閘門一直有人出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一批，又一批。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他每一批都看完了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "從左邊看到右邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "每一張臉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候在做的事情，他自己後來想起來覺得很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他在檢查。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人不會混在別人裡面走出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個要躲的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是每一張都看了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作他做了大概一個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一點多，那個閘門沒有人出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他母親還在打。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第七次的時候，她的手停在半空中大概兩秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後她把手機放進包包裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她就沒有再打了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒鄭翊辰在旁邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他看到了她的臉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個表情他到現在都描述不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是難過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是害怕。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那甚至不是「發生了什麼事」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是一個人在很短的時間裡，把一件事情算完了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而算出來的結果，她自己也不想承認。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他母親那一秒說的是：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯我們回去吧。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有講「他可能有事」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有講「我再問問」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有講任何一句留一點餘地的話。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她已經算完了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他們搭客運回桃園。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一路上兩個人都沒有講話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他母親坐在窗邊，看著外面。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上，她煮了她前一天講要煮的那一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人把它吃完了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那之後是查。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而查的東西全部是零。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有屍體。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有紀錄。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一個可以查的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人的房子還在。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "東西還在。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "錢還在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事最難處理的部分，不是「他不見了」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那不像是出事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有掙扎的痕跡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有帶走的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一個「他在害怕」的跡象。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人的房間裡，桌上有一杯喝了一半的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而床是整理過的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事放在一起是不成立的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個要走的人不會留一杯喝了一半的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個突然被帶走的人不會先整理床。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事鄭翊辰想了很多年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他到現在都沒有想出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那年他中輟。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他做的第一件事，是飛去首爾。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他十六歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有錢。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有大人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他中文韓文都會。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他離開之前，跟他母親講了一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是「我要去找爸」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他說的是：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「我過一陣子回來。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他母親那一秒看著他。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有問他要去哪裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有攔他。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她說：「⋯⋯錢帶夠。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而十一年後，他二十七歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他每個月回桃園一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他去的時候會待一整天——幫忙、包餃子、洗東西、陪她坐。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他一個月裡話最多的一天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有問過他為什麼每年要飛韓國。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "兩個人都知道那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人都不提。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他到現在都相信那個人還活著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由不是證據。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "理由是沒有證據。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他母親相不相信，他從來沒有問過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事只要問了，就會有一個答案。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個答案不管是哪一種，都會讓那頓飯變得不一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他不問。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他每個月回去，包餃子，洗東西，陪她坐。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那已經十一年了。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 121,
+  "narration": 95,
+  "emphasis": 24,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zheng_yichen",
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

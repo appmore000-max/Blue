@@ -1,0 +1,1144 @@
+{
+ "id": "11_第四天",
+ "title": "第四天",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個小孩十一歲，姓什麼阿仁忘了，館裡的人都叫他小胖。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他不胖。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個綽號是他自己講的，第一天來的時候，站在門口說：「我叫小胖。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而沒有人問他為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "星期三下午四點，員山那間拳擊館裡只有三個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個是館主，在後面修沙包的鏈條。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個是阿仁。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個是那個小孩。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你昨天跟人打架。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩沒有講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「手上那個是誰弄的。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯自己撞的。」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿仁沒有再問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手套丟給他。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「戴上。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩打得很兇。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是強——是兇。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一歲，四十幾公斤，而他每一拳都用全部的力氣，打完之後手就垂在那裡，肩膀完全沒有收回來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那種打法阿仁很熟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十歲的時候他也是那樣打的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那時候他在宜蘭已經沒有同齡的對手了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他打贏了每一個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「停。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩停下來，喘。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你為什麼要打贏。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯什麼？」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你打贏那個人，然後呢。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩看著他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他答不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十年前有一個人問過阿仁一個問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候也答不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「來。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿仁把手套脫掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你打我。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯蛤？」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「全力。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩猶豫了兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他打了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一拳打在阿仁的腹部。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁沒有動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是他硬扛。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個東西開了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西沒有名字——至少他從來沒有替它取過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那八秒裡面，痛感被壓下去，而身體會加倍修復。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "如果他是重傷狀態，那個修復會更兇。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩不知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他只看到一個十九歲的人被他全力打了一拳，然後站在那裡沒有反應。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「再來。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩又打了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「再來。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "第三拳。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯你為什麼不會痛。」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿仁沒有回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第五秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「因為我比你強。」他說，「而你昨天打的那個人，比你弱。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩的手垂了下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第七秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「所以你贏了。」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「然後呢。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "第八秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西關了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那八秒鐘被壓下去的所有痛感，一次全部回來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而修復來不及的地方還在裡面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿仁感覺得到。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而且非常清楚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是三拳，全部落在同一個位置，一個十一歲的孩子用全力打的三拳——那不重，而它們是重疊的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他站在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩在看他。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯仁哥？」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你在幹嘛。」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「想事情。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他把手放在腹部那個位置，隔著衣服壓了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他鬆手。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「去跑十圈。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "kid",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩出去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿仁在那裡站了大概三十秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他坐下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "館主從後面走出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿仁。」",
+   "pause_before": 0,
+   "who": "gym_owner",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你臉色不好。」",
+   "pause_before": 0,
+   "who": "gym_owner",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「還好啦。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人看了他一會兒，然後回去修他的鏈條。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁在那裡坐著，等那個東西過去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "問題是他多數時候沒有辦法坐著等。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在真的打的時候，那八秒結束的那一秒，他通常還在打。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不會因為這個就停下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是硬撐。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他從十歲就開始的東西——他撐得最久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是天分，也不是能力給的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他還沒有那個東西的時候就已經在的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五點多，吳紫儀來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她一個月會來一兩次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是安排好的——她就是有空的時候會晃過來，然後蹲下來跟館裡那幾個小孩講一堆有的沒的。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「小仁——」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「小儀。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個笑容停了半秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她走過來，用手肘往他肋骨頂了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不痛。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次都是這個力道。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你今天怎麼了。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「沒有啊。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你臉很白欸。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯打太多。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「跟誰？」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「一個十一歲的。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「噗。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她笑得很開心。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁沒有解釋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點多，那個小孩跑完回來，兩個人陪他練了半小時。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "吳紫儀的教法跟阿仁完全不一樣——她會蹲下來，會拆步驟，會用很誇張的方式示範一次錯的再示範一次對的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩笑了兩次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁在旁邊看著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點，收了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩走了之後，兩個人坐在門口的階梯上。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「紫儀姐。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯？」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他停了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯順風大哥那句話，妳知道是什麼意思嗎。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "吳紫儀轉過頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「哪句。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「『跟著我學不到任何事物，即使如此，你還是想要跟上來嗎』。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她沒有立刻回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個停頓只有一下下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她笑了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那你跟上來了嗎。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯有啊。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那不就好了。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不是啦。」阿仁說，「我是說——那到底是什麼意思。他是不是在測試。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "吳紫儀把手撐在階梯上，往後靠。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你覺得呢。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我覺得是。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔——」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個聲音拉得很長。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有再說了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿仁點了點頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「我也是這樣想。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而吳紫儀看著前面那條巷子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她十六歲那年在一個頂樓上，一邊收東西一邊問過一次：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯順風先生，你以前是跟誰學的呀？」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯沒有。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「诶？沒有是什麼意思～」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「都沒有。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她的手停了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "只有一下下，然後就繼續收東西了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「喔～～這樣啊。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她從那天起，再也沒有問過第二次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在必須提到「跟順風對練」的場合，她一律講好話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是撒謊，是只講真的那一半——他化解得多漂亮、時機抓得多準、力道收放得多細。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而「他根本沒有任何招式」這一半，一個字都不會出現。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事從來沒有人交代過她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也沒有人跟她約好。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她就是覺得那不需要被講出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「小仁。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯？」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你要不要吃東西。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「要。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「走。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "兩個人往巷口走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁一輩子都會以為那句話是一個考驗。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那年他九歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上他被一個十三歲的女生一擊撂倒，趴在地上，而那個穿拖鞋的人從頭到尾沒有動過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二天他跪在路邊求那個人教他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人講了那句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他說「我要」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那之後的第四天，他做了一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把那些人一個一個找出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "員山、宜蘭市、羅東——那三年裡他打過的人，他記得每一張臉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個一個去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "站在人家門口，或者在學校的走廊上把人叫住。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「對不起。」",
+   "pause_before": 0,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "多數人愣在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有幾個以為他又要打架，退了兩步。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一個直接關門。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一個什麼都沒說，看了他很久，然後點了一下頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他做了兩個月。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有跟任何人講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為那是秘密。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是因為那件事跟別人沒有關係。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而這個世界上沒有一個人知道。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 187,
+  "narration": 117,
+  "emphasis": 7,
+  "speech": 63,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "aren",
+ "⚠_label_rule": {
+  "shunfeng": "順風大哥",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   10,
+   12
+  ],
+  [
+   25,
+   27
+  ],
+  [
+   34,
+   36
+  ],
+  [
+   59,
+   61
+  ],
+  [
+   72,
+   75
+  ],
+  [
+   78,
+   79
+  ],
+  [
+   84,
+   87
+  ],
+  [
+   100,
+   101
+  ],
+  [
+   106,
+   112
+  ],
+  [
+   121,
+   122
+  ],
+  [
+   126,
+   127
+  ],
+  [
+   131,
+   134
+  ],
+  [
+   136,
+   138
+  ],
+  [
+   145,
+   148
+  ],
+  [
+   159,
+   163
+  ]
+ ]
+}

@@ -1,0 +1,619 @@
+{
+ "id": "44_門開了",
+ "title": "門開了",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "她六歲以前的記憶是破碎的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而能確定的只有四件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "白色的燈。 一直開著，而且沒有窗戶。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個編號。 六。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "還有別人。 而她不知道有幾個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "還有一個聲音。 打雷。而她不確定那是不是真的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她只知道有一天門開了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她在外面。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而「外面」那一秒是什麼樣子，她記得。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "太亮了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是她記得最清楚的一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是害怕。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是自由。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個光太亮了，而她的眼睛痛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒做的事情是蹲下來，把臉埋在膝蓋裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她蹲了很久。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而沒有人來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那八年就是從那一秒開始的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "六歲到十四歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個六歲的小孩在街上。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她活下來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "至於怎麼活下來的，她講過的次數是零。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而這裡也不會寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那八年她學會的東西只有一件。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "看人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "誰可以靠近。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "誰不行。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "誰在笑但是不對。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "誰現在很急。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "誰身上有東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是天賦。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個六歲的小孩必須在三秒之內判斷完的事情。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而三秒是她自己定的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是因為三秒剛好。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為超過三秒，那個人就已經走到她面前了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那八年她判斷錯過幾次，沒有人知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也沒有算。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而有一件事幫了她。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她晚上看得到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而多數人看不到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事她是什麼時候發現的，她自己也說不上來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個「發現」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她一直都這樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她七歲那年才知道那件事不正常。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為她那天晚上看到一個東西，而她跟旁邊一個大人講了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個大人說：「哪裡有。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她說：「⋯⋯喔，看錯了。」",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她七歲那年學會的第二件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以她的八年是在晚上過的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "白天她睡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為白天她跟所有人一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個跟所有人一樣的六歲小孩，在白天的街上是很危險的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而晚上她起來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而在晚上，她比所有人都多一樣東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那樣東西讓她活了八年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "十四歲那年，她找到了那個圈子。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是別人找她的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是她自己找的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而理由很單純：街上的錢有上限。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她算過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個十四歲的女生，在街上能拿到的東西，撐不到二十歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她進去的方式很簡單。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她在晚上做了一件事，讓一個人看見。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人隔天找她講話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那六年她在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "十四歲到二十歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她做的那幾件活是什麼，這裡不會寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己也沒有寫過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而二十歲那年她離開了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由不是良心。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "理由是她算出來那條路也有上限。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個上限比街上高一點。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它一樣會到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一年她做了兩件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一件是那隻蝴蝶。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "頸下到鎖骨那一片。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置剛好可以蓋掉另外一樣東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那樣東西是什麼，她沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它從她六歲以前就在了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而有人問過。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「這個蝴蝶好漂亮，為什麼弄這裡？」",
+   "pause_before": 2,
+   "who": "customer",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「上班比較好看啊。」",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她講的時候在笑。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "第二件事是那個名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那年她要填一份表格。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個欄位不能空著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她坐在那裡想了大概十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那十分鐘不是在想要取什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她是在想她可不可以取。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為一個名字是別人給的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她這輩子沒有被任何人給過名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "只有一個編號。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那十分鐘算完之後，得到的結論是：那一格反正要填。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以她填了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "「蘇」是隨便挑的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而「月」不是。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她六歲之後那八年，唯一一個每天晚上都在的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而生日那一格也要填。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她不知道自己是哪一天生的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以她挑了三月三十日。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由是那天剛好是春天。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一年是三月找到界的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒在心裡對自己講了一句：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「就在春天裡選一天吧。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而七年後，她二十七歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而每一年三月三十號，界裡面會有一兩個人跟她說生日快樂。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而其中一個是統籌。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人每一年都記得。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月每一次都會說謝謝。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有跟任何人講過那個日期是她自己挑的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事一旦講出來，那些生日快樂就會變成別的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那個名字也是。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而界裡面有三個人的名字是自己取的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那三個人互相不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而其中一個每年三月三十號會跟她說生日快樂。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人叫她「蘇月」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次聽到都會愣半秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那半秒沒有人看得出來。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 119,
+  "narration": 80,
+  "emphasis": 37,
+  "speech": 1,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "su_yue",
+ "⚠_label_rule": {
+  "qiangzang": "那個人",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

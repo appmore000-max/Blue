@@ -1,0 +1,551 @@
+{
+ "id": "48_六百年",
+ "title": "六百年",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "大約公元三五〇年，有一個人被召喚出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一天在哪裡，沒有記載。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而召喚他的那一位是誰，也只剩下一個數字。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第 41,284 代。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人的名字沒有被留下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是被忘記。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是那一代自己沒有留。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在四萬多代裡不算罕見。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為名字不是規則。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是第二代自己記住的，後來變成慣例。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而慣例會斷。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他睜開眼睛的第一個動作，是抬頭看天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一天的天空是什麼樣子，也沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一位蹲了下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一位對他講了一句話。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話是什麼，沒有人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後那一位給了他一個名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "平和。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字為什麼是那兩個字，也沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那六百年，他是分身。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有能力。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有力量。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "被固定在一個年紀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他被固定在幾歲，沒有記載。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那六百年他做了什麼，也沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是因為那六百年不重要。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為沒有人在寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而能推的只有一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那六百年他一直在旁邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那條鐵則寫著：確保分身存在與安全。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話的實際意思是：不要離開視線範圍。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以那六百年，他跟著那一位走。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那六百年裡，那一位做的事情跟他後來做的一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他走，然後他看。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而在必要的時候，他做一件不會被任何人看見的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那六百年裡，平和伸過幾次手。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而每一次什麼都沒有發生。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一位有沒有跟他解釋過那件事——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有記載。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那大概也沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為六百年之後，輪到他自己的時候，他也沒有解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他學來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是每一代都會做的同一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的理由，四萬多代裡沒有一代寫下來過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而最接近的推測是這樣的：",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個大人不會跟一個小孩解釋自己在做什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "尤其那個小孩會跟著他六百年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "大約公元九七五年，那一位不在了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是怎麼發生的，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一天平和在旁邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那條鐵則就是那個意思。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "分身一定在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以那一秒，他看見了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他從來沒有講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而全部十六項灌了進來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒的第一個念頭是什麼，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而九百五十年之後，另外一個人在同一個位置，有了一個念頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個念頭是：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "這雙手，再也牽不到那個人了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個念頭是不是從六百年前那一秒傳下來的——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那兩件事之間，隔著一個沒有講過的九百五十年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那之後，平和有五十年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "九七五年繼承。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他召喚順風，是一〇二五年。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "中間五十年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那五十年他做了什麼，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個數字後來重複了一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "順風繼承之後，拖了三十年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而平和拖了五十年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個數字之間有沒有關係——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為平和從來沒有講過那五十年。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而順風也沒有問過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而一〇二五年，他做了那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他站在一個開闊的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而空氣的密度先變了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後一個形體由內而外，一寸一寸長成。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而最後浮現的是臉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一具赤裸的、閉著眼睛的、沒有稚氣的空白軀殼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而睜眼的那一秒，它才成為一個有意識的存在。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "全程不到五分鐘。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子睜開眼睛的第一個動作，是抬頭看天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟他當年一模一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而平和站在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒在想什麼，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他蹲了下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他講了一句話。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話是什麼，沒有人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他給了那孩子一個名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "順風。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字為什麼是那兩個字，也沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子後來用那兩個字過了一千年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有問過那是什麼意思。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而平和也從來沒有講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在四萬多代裡，重複了四萬多次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人蹲下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "講一句沒有人知道的話。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後給一個名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那四萬多次裡，有多少次那個名字是有理由的——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而最早那一次是有的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第一個叫日。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二個叫靜。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字的理由，第一代自己也沒有寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為寫的人就是取名字的那一個。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 106,
+  "narration": 67,
+  "emphasis": 38,
+  "speech": 0,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "pinghe",
+ "⚠_label_rule": {
+  "shunfeng": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

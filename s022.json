@@ -1,0 +1,717 @@
+{
+ "id": "22_那不是一個人",
+ "title": "那不是一個人",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那台電腦不上網。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是一台很舊的筆電，二〇一七年的機型，螢幕右下角有一塊漏光。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它從來沒有連過任何一個網路。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "上網的是另外一台。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她二十五歲，在內湖那間中型公寓的房間裡，把那台舊的打開。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "風扇轉了大概十秒才穩下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那台電腦裡面只有一個資料夾。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個資料夾裡面有九年份的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "蕭羽嫣十四歲那年，她父親沒有回來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一年死了十二萬人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而對外的說法是「特殊流感」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她父親的紀錄上沒有確切的日子。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "只有一個很粗的時間區間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那年那個地方死了太多人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十四歲那年之後，她做的事情只有一件。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "查。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她大學讀資訊工程。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是巧合。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十六歲的時候她已經很清楚自己要什麼——她要一個可以合法接觸到大量資料的位置，跟一套可以自己去挖東西的技術。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事她二十二歲的時候都有了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事的形狀她其實很早就知道了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是病疫。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一次整肅。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她父親是那件事的後台之一。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一年她十七歲，第一次拼到那一層。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她坐在那裡看了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她繼續查。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是她要的答案。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她要的不是「他做了什麼」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她要的是「誰讓他死的」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個階段的事情她二十歲那年拼出來了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事失敗之後，有一些東西必須被處理掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而處理的方式是清掃。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她父親在那個名單上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以問題只剩下一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "誰下的令。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她花了最後那三年在查那一件。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "二〇二三年春天，她二十三歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她查完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案是：",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是一個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "當時那一派的人有好幾個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個決定是在一連串的會議、備忘、口頭指示裡面慢慢形成的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有一份文件上有一個可以被指認的名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一份備忘上寫的是「請相關單位依既定程序辦理」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而「既定程序」四個字在那個時間點沒有定義。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一次會議紀錄上的決議欄是空白的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一次會議有七個人出席。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那七個人現在：",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有兩個退了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一個調到別的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一個已經不在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而有三個，從頭到尾就沒有出現在任何一份紀錄上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以她查到的東西是這樣的：",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事真的發生過。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一個人要為它負責。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一天是二〇二三年三月的某一個晚上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她坐在那台不上網的電腦前面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她把最後一份東西存進去，關掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她做了一件她自己也沒有預期的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "她哭了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為難過。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為她生氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她生氣的不是那七個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她生氣的是——她準備了九年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她準備好了要恨一個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她準備好了那個人可能已經死了、可能還活著、可能是一個她這輩子都碰不到的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她甚至準備好了那個人可能有他自己的理由。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有準備好那個位置上沒有人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上她坐到三點多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她想的是一件很奇怪的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "如果那是一個人，她可以決定要不要原諒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而現在她連要不要原諒都不能決定。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為沒有對象。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四點多，她躺下來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那天早上七點照常起床，八點出門上班。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事她從來沒有跟她母親講過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她母親現在五十幾歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個人住在台中，在一間小公司做會計。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她們每個月見一次面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "見面的時候她們不談那件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是刻意避開。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個話題已經在很多年前就不存在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣知道一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她母親早就決定不要知道了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是她母親跟她講的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她自己看出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十四歲那年，她母親從來沒有問過警方任何一個問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "領遺物的時候，她母親沒有打開那個袋子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而後來每一年掃墓，她母親只會講一件事：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「今年的花開得比較早。」",
+   "pause_before": 0,
+   "who": "mother",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣二十歲那年試過一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那次她們在台中的一間小吃店。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她說：「媽。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她母親抬起頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣看著她母親那個表情，看了大概兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她說：「⋯⋯這個湯好喝。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她母親「嗯」了一聲，繼續吃。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，她再也沒有試過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個掃墓的日子是她母親挑的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是她父親的忌日——因為沒有人知道那是哪一天。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "所以她們挑了蕭羽嫣的生日。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "理由是那樣比較好記，而且那個孩子那天不會忘記回家。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她母親決定的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那年十四歲，什麼都沒有說。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "今年生日那天她們也去了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個墓園在台中的山邊，三月的時候有一整排杜鵑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她母親蹲下來擦那塊碑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "擦得很慢，很仔細，連字的凹槽裡面都擦。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣站在後面。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「羽嫣。」",
+   "pause_before": 1,
+   "who": "mother",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "xiao_yuyan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「今年的花開得比較早。」",
+   "pause_before": 0,
+   "who": "mother",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯嗯。」",
+   "pause_before": 0,
+   "who": "xiao_yuyan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒蕭羽嫣想的是：",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她手上有一份東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那份東西在一台不上網的電腦裡，裡面有九年份的資料、七個名字、三個從頭到尾沒有出現的空白、跟一個沒有人要負責的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而如果她講了——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她母親會知道那件事真的發生過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不會讓任何事情變好。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為她母親不需要知道那是誰。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她母親早就決定不要知道了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個決定，是她母親十四年前為自己做的一件很難的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以蕭羽嫣什麼都沒有講。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她走過去，蹲下來，跟她母親一起擦那塊碑。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "回台北的高鐵上，她睡了半個小時。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "醒來的時候滑手機。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她滑到某一張照片。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十四歲那年，跟她父親在台中的一個公園。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "構圖是歪的。光線不對。她的表情還帶著一點不耐煩。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她手上最後一張。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那張照片放在相簿裡，跟其他幾百張混在一起。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有分類。沒有加密。也沒有特別放在哪裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她滑過去了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有停下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "繼續往下。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 136,
+  "narration": 110,
+  "emphasis": 21,
+  "speech": 5,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "xiao_yuyan",
+ "⚠_label_rule": {
+  "gao_zhiyuan": "那個人",
+  "⚠": "她不知道那句話他一天講幾十次"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   110,
+   113
+  ]
+ ]
+}

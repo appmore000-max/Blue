@@ -1,0 +1,765 @@
+{
+ "id": "37_那種事情",
+ "title": "那種事情",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "首爾的冬天，凌晨兩點多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十八歲的鄭翊辰站在一條巷子裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那條巷子在哪一區不重要。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那六年他站過的巷子太多了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他那時候在等一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人是他花了七個月才找到的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "七個月不是在找那個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是在找一個可以帶他去見那個人的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那條線他換過四次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他那六年在做的事情有兩件。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一件是打。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事說起來很簡單。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個十六歲、沒有錢、沒有大人、中文韓文都會的小孩，在那個城市裡能做的事情不多。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他找到的那件事，是地下場。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那六年他在那裡打。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他打得很好。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為他天分特別高。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他不怕。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而不怕的理由是：他那時候覺得自己反正沒有別的地方要去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那句話他後來想起來的時候，會停一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是勇敢。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個十六歲的小孩對自己的處境做出的一個很準的判斷。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二件事是找。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那六年他每一次拿到錢，就拿去做同一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "問人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "去那些地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "找那些可能知道的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很花錢。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是付給誰。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那件事要時間。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而在那個城市裡，時間就是錢。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那六年他查到的東西是零。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那天凌晨兩點多，他在那條巷子裡等。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人三點多才出現。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是一個大概六十歲的男人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他走過來的時候，看了鄭翊辰一眼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一眼很短。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一眼裡面有東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十八歲的鄭翊辰那時候還讀不出那是什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他到現在都還在想那一眼。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「你就是那個小孩。」",
+   "pause_before": 3,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯是。」",
+   "pause_before": 1,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你找我幹嘛。」",
+   "pause_before": 1,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他把那個名字講出來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "鄭俊浩。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人沒有反應。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是裝的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他真的沒有反應。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰那一秒的判斷是：這個人不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個判斷是錯的。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯你是他兒子。」",
+   "pause_before": 3,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「是。」",
+   "pause_before": 1,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「多大。」",
+   "pause_before": 1,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「十八。」",
+   "pause_before": 1,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人點了一下頭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他從口袋裡拿出菸，點了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有給鄭翊辰。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那時候鄭翊辰十八歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「你找他多久了。」",
+   "pause_before": 3,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「兩年。」",
+   "pause_before": 1,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人抽了一口。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯兩年。」",
+   "pause_before": 2,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他那個語氣不是嘲笑。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是同情。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個人在確認一個數字。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「他做什麼的，你知道嗎。」",
+   "pause_before": 3,
+   "who": "old_man",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰說：「做生意。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人那一秒笑了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個笑很短。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "短到鄭翊辰不確定那算不算笑。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人講了那句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「那種事情，不會有人來跟你講的。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他講完之後，把菸抽完，然後走了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有補一句。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有讓他問第二個問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而十八歲的鄭翊辰站在那條巷子裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他那一秒聽懂的意思是：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「我不能講。」",
+   "pause_before": 1,
+   "who": "zheng_yichen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個理解讓他接下來那四年一直在做同一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "找到那個「不能講」的原因。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他過了很多年才想到另外一種解讀。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那時候他已經回台灣了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "某一天他在拳館裡，教一個小孩綁繃帶。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩問了一個他答不出來的問題。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說的是：「⋯⋯我不知道。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他講完之後，站在那裡停了大概五秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那句話的另外一種意思是：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「沒有人知道。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩種意思差非常多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第一種的意思是：有人知道，而他們不會講。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那代表那件事有一個答案。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而第二種的意思是：沒有人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那代表那件事沒有答案。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那六年他都在追第一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "至於是哪一種——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他到現在都不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那六年最後的兩年，他過得不好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是打不贏。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他有一次躺了三個星期。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三個星期他沒有事情做。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有人來看他。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個地方沒有那種東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他躺在那裡想事情。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他想的第一件事，是那個閘門。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天他母親打了七通電話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後就沒有再打了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他看到了她的臉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他想到第二件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "如果他哪一天在這裡沒了，那個人的臉會再變成那樣一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而這一次不會有人打電話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那天決定要回去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "二〇二〇年他二十二歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他回來的那天，是他母親去桃園客運站接的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她看到他的時候，先看的不是他的臉。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他的手。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒把手插進口袋。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上她煮了東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他吃了兩碗。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在對面看著他吃。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一整個晚上，她只問了他一句：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯有找到嗎。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「沒有。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她「嗯」了一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後那件事之後，她再也沒有問過第二次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也再也沒有講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而十一年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他每年還是去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那幾個地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那幾個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那幾句他已經問過幾十次的話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些人現在看到他都認得了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個六十歲的男人現在七十幾了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰每一年都會再去問他一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人每一年都講同一句話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而今年，他講了不一樣的。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「你不要再來了。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那句話不是趕他。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話的語氣是別的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而鄭翊辰那天回旅館之後坐了很久。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他明年還是會去。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 142,
+  "narration": 93,
+  "emphasis": 33,
+  "speech": 12,
+  "quote": 4,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zheng_yichen",
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   40,
+   42
+  ],
+  [
+   50,
+   53
+  ],
+  [
+   58,
+   59
+  ]
+ ]
+}

@@ -1,0 +1,613 @@
+{
+ "id": "47_而她笑得很開心",
+ "title": "而她笑得很開心",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十一歲那年，吳紫儀離開了家族。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是慣例。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有修練武功傳承的家族，多半會讓孩子在某個年紀獨立出去歷練。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不是驅逐，也不是逃走。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數家族是十三、十四歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她是十一。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個差別的理由，這裡不會寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事她從來沒有講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她離開的那天早上，家裡沒有什麼特別的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她吃了早餐。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那天吃得比平常慢一點。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人問她為什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她走出去的時候，回頭看了一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次她記到現在。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "不是因為那個畫面。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為沒有人在門口。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他們不在意。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那個慣例的一部分。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個要出去歷練的孩子，家裡不會送。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為送了，那件事就變成離別了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是離別。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是歷練。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候懂那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她還是回頭看了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那之後她走了幾年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那幾年她走過哪裡，這裡不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她自己也沒有跟任何人講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的只有一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那幾年她一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而一個十一歲的女生一個人在外面，會遇到什麼——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟蘇月那八年不一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為她有底子。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "六歲就已經是專家。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她十一歲那年打得贏多數的成年人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以她沒有被欺負過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她遇到的問題是另外一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人跟她講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是排擠。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那幾年她走的地方，本來就沒有人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "山裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "海邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那些沒有觀光客的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而理由很單純：那些地方睡覺不用錢。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那幾年她一天講的話大概是零到五句。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「一個。」",
+   "pause_before": 3,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「多少錢。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「謝謝。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那就是全部。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那幾年裡有一個習慣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她會自己講話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是自言自語。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是她會把一整天的事情，在睡覺前講一遍。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「今天走了很遠。」",
+   "pause_before": 2,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「今天那個阿姨多給了一顆蛋。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「今天下雨。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她講給誰聽——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "她就是講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做了幾年。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一直到她十四歲那年，那個東西出現了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那之後她不再自己講話了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由不是那個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那一年她開始遇到人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而十四歲之後，她變成了另外一種人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "愛講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "愛拍照。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "愛黏人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在任何一個場合都不會冷場。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己知道那是什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是個性變了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那三年的東西，一次出來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她從來沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而現在她二十二歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "社群上有兩萬個追蹤者。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她每天發東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "吃的。看到的。天氣。一隻路邊的貓。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那些貼文的內容，跟她十一到十四歲那三年每天晚上講的那些，是同一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「今天走了很遠。」",
+   "pause_before": 2,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「今天那個阿姨多給了一顆蛋。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「今天下雨。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而唯一的差別是：現在有人回。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她每一則都會回。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "每一個留言。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她做了很多年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有想過那兩件事是同一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "或者說——她想過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒把它推開了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為她不喜歡想那三年。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "不是因為那三年很苦。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那三年不苦。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她有底子。她打得贏人。她睡得著。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她不喜歡想那三年，是因為那三年她過得還可以。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個十一歲的女生，一個人在山裡，過得還可以。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事本身是不對的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她十一歲的時候不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她二十二歲的時候知道了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以她不想。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那個「不想」的做法，跟她處理另外一件事的做法是一樣的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她從來沒有去查過她十一歲那年壓制過的那些人後來怎麼樣了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也不打算查。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事的理由是同一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為查了會有一個答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個答案不管是哪一種，都會讓現在這件事變得不一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她現在這件事很簡單。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她愛講話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她愛拍照。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她愛黏人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在任何一個場合都不會冷場。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很實際的用處。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一個在講話的人，不會被問。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是她十四歲那年學會的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她一直用到現在。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 112,
+  "narration": 60,
+  "emphasis": 43,
+  "speech": 9,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "wu_ziyi",
+ "⚠_label_rule": {
+  "shunfeng": "順風先生",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   44,
+   46
+  ],
+  [
+   52,
+   54
+  ],
+  [
+   77,
+   79
+  ]
+ ]
+}

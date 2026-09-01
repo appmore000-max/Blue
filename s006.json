@@ -1,0 +1,814 @@
+{
+ "id": "06_我不確定",
+ "title": "我不確定",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那則貼文是早上七點多出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "```\n【2011】新北。承前案。\n找出那個來源是誰。\n不需要處理。\n@ 程以今\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第四碼從一變成一——沒有變。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而第一碼從二變成二。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "變的是那一行字。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「不需要處理。」",
+   "pause_before": 0,
+   "who": "lin_xueyun_post",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "程以今把它讀了兩遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那五個字的意思是：找出來，然後不要動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是體貼。那是因為沒有人知道要動什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "出門之前他在心裡默念了一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "「孩子，你不是那種為了打贏什麼都做得出來的人。」\n\n「這樣很好。繼續這樣就好。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那句話是十年前一個老人對他講的，就那麼一次，之後再也沒有提過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次出任務前都會念一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十年了，一次都沒有斷過。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有跟任何人講過這件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他做的第一件事不是去那條山路。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他去了圖書館。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西是三年前左右掉出來的——這是他自己推的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個東西吃的量已經穩定到可以讓它繞著同一個地方轉三個小時，而不是一次爆掉。那需要時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而三年前，這一帶有沒有發生過什麼應該塌而沒有塌的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他花了兩天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "舊報紙、地方新聞的網頁備份、幾個工程相關的論壇、勞檢的公開紀錄。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他找的關鍵字不是「意外」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是「沒有人受傷」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二天下午他找到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "新店。三年前的十一月。舊樓拆除，三樓一片承重牆倒塌，而底下四個人全部跑出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "新聞只有兩行。因為沒有人死。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而論壇上有一則貼文，是當時在場的人隔了幾天發的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人寫：",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "那面牆撐得很奇怪。它已經在垮了，然後它就停了一下。\n大概四十幾秒。\n我到現在還會想那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今把那則貼文的日期記下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他去查那個案子的承包商。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "再從承包商查到當時的班表。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不難。那些東西不是機密，只是散在很多地方，而多數人不會想到要把它們拼在一起。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第三天早上七點零二，他站在新北一個工地的門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件灰色 T 恤上有洗不掉的漬。牛仔褲寬鬆，安全鞋磨損得剛好。鴨舌帽壓低。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而最重要的不是那身衣服。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是背。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他的體格太紮實了，站直了會被記住。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他改變的是站姿。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "進去的時候他掃了三秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "出入口在哪、堆料的位置、哪裡是死角、如果要走要往哪邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他自己完全沒有意識到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五十二歲，中等身材，臉色偏差。灰色的工作外套穿了很多年，袖口磨白了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他叫陳文彬。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一整天，程以今離他大概十五公尺。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他在旁邊那一組。搬東西、遞工具、聽人講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有靠近過那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "上午十點十一分，那個人跟另一個年輕的講了一句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今那時候在收料，隔了十幾公尺。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那邊記得綁。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「好。」",
+   "pause_before": 0,
+   "who": "young_worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "中午吃便當的時候，那個人坐在陰影裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "吃得很慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他吃到一半停下來，右手撐著膝蓋，坐了大概二十秒沒有動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他繼續吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "下午兩點五十幾分，那個人去牆邊喝水。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "喝完之後站著沒有動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大概一分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今那時候在算。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是算距離，也不是算路線。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他在算時間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "前一天晚上兩點四十三分到三點二十一分，那個東西被切開了兩次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人今天中午停了二十秒，下午停了一分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那對不上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "或者說——那個關聯不是即時的。它是慢的。它是一個累了三年的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四點多，有一個工頭走過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「新來的？」",
+   "pause_before": 0,
+   "who": "worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "程以今抬頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「哪裡介紹的？」",
+   "pause_before": 0,
+   "who": "worker",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯蛤?」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個聲音音量偏大，而且完全是反射。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個工頭笑了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你耳朵不好喔。」",
+   "pause_before": 0,
+   "who": "worker",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有點。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「哈，我也是啦，做久都這樣。」",
+   "pause_before": 0,
+   "who": "worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人拍了一下他的肩膀就走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今低下頭，繼續做手上的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想的是：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是偽裝。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他真的沒有聽清楚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而在這裡，那剛好是對的反應。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五點四十，收工。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "陳文彬把外套穿上，跟旁邊幾個人講了兩句，然後往停機車的地方走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他推車的時候動作有點慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他把安全帽戴上之前，抬手抹了一下臉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今沒有跟。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他往反方向走，過了一條街，進了一間麵店。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他坐的位置面對門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是他選的。那是他坐下來之前會先換一次位置，換到看得到門的那一邊——而他自己完全沒有意識到這個動作。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他點了一碗麵。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "等麵的時候，他的手指在敲桌面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是不耐煩。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他在算東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他已經知道要寫什麼了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "事實的部分很簡單：",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人是誰、在哪裡上班、住哪、三年前那件事是什麼、時間對不對得上、他每天的狀態怎麼樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些他一天就查完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而問題不在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "問題是：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人沒有做錯任何事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他二十幾歲有一天突然有了一樣東西。他做了三十年的工。工地上東西要塌的時候他會伸手，而那些人到現在都以為那是運氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而三年前有一天，底下有四個人，而他已經沒有了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是伸了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是失控。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是濫用。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個做工的人在四十幾秒裡做的一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的結果，現在在山上繞圈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "麵來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今吃完，把碗推到旁邊，拿出手機。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他打字打得很慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "前面那幾段是事實。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "日期、地點、姓名、職業、住址、當年那個案子的編號、論壇那則貼文的連結、以及時間軸的對照。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "寫完之後他停在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他多寫了一段。",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "那個人不知道那件事跟他有關。\n\n他以為那是三十年做下來的代價，而他也去看過醫生。\n\n而我確認過他沒有任何一次違規的紀錄。\n\n我不確定接下來該做什麼。\n\n如果那個東西要停下來，我目前想得到的方法只有一種，而那一種我沒有辦法寫在這裡。\n\n我不確定那是不是唯一的方法。\n\n而我認為在確定之前，不應該有人去做那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把那一段讀了一遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他按了送出。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是五點五十八分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十年前他學會了那四個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那時候他十三歲，在茲克瓦的某一個街區找到了一條可以繞過去的路。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他算錯了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人死。但傷得很重，而且有幾個人是替他擋下來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "事後那兩個女生什麼都沒說，而他自己坐在那裡想了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他想的不是「我怎麼會失誤」——他很清楚失誤是必然的，情報永遠不會完整。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他想的是：他們為什麼會直接走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為他當時講得像是他很確定。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "從那次之後，他一直是這樣講話的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他仍然會去找那條路，仍然會第一個開口。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他會把自己不確定的部分，一起攤出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "六點十二分，他走出那間麵店。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "老闆找了他零錢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個五十、兩個十塊、一個一塊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把那四枚放進口袋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他有一個收藏。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "各國的硬幣，全部是從潛入任務裡順手帶回來的。不是偷的——是找零、是掉在地上的、是某個攤販給的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而每一枚他都記得是哪一次任務。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他從來沒有跟任何人展示過那個收藏。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手插進口袋，摸到那四枚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他知道，他這輩子都會記得這一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上他回到林口那棟透天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "家裡亂得像被搶劫過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把外套丟在沙發上，泡了一碗麵，然後放了一部六〇年代的港片。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "看到一半的時候他睡著了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那份回報，林雪芸讀了兩遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二遍她只讀最後那一段。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她把它存進去，沒有回覆。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她在那本紙的筆記本上，翻到中間某一頁，寫了一個名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "陳文彬。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有劃掉。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 152,
+  "narration": 125,
+  "emphasis": 14,
+  "speech": 10,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "cheng_yijin",
+ "⚠_label_rule": {
+  "shunfeng": "那個人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   51,
+   52
+  ],
+  [
+   70,
+   72
+  ],
+  [
+   75,
+   77
+  ]
+ ]
+}

@@ -1,0 +1,627 @@
+{
+ "id": "38_夠三天",
+ "title": "夠三天",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇二一年，陳婷雅十二歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事發生之後，那個三合院裡剩下兩個小孩。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十二歲，跟六歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而怎麼發生的、那天是什麼日子、有沒有人要負責——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "這裡不會寫。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也從來沒有跟任何人講過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "能確定的只有三件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有親戚來。一個都沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有通報任何一個單位。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為通報了，他們兩個會被分開。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事她是自己算出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是有人告訴她。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是她十二歲那年在客廳裡坐著，把那個流程從頭到尾推了一遍。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有人來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "問話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "登記。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後兩個小孩，一個十二歲，一個六歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數地方不會把他們放在一起。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有查證。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她不需要。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個十二歲的女生跟一個六歲的男生，那件事她用想的就想得出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第一天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "有人找上她。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人怎麼知道她的、為什麼會找一個十二歲的小孩——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人告訴過她。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她到現在都不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個人講完之後，她沒有答應。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有拒絕。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她只說了一句：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯我想一下。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有催她。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他也沒有講「你想清楚」或者「機會不多」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是掛了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來她想起來的時候會停一下。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個不催的態度，本身就是一種很專業的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她真的想了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "三天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那三天她一直在同一件事上打轉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那件事是殺人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她十二歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她不是不懂那是什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她很清楚。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她也很清楚那件事一旦做了就回不去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三天她把每一個別的辦法都想過了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "打工。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "十二歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有人會用她。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而就算有人用，那個錢也不夠。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她算過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個月的水電、瓦斯、伙食、弟弟要上學的東西——",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個十二歲的能拿到的時薪，乘上她能工作的時數，差得非常遠。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "找鄰居。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而潮州那一帶的人不壞。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有幾個阿姨那幾天真的有拿東西過來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些人自己也不寬裕。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而借了要還。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她算過還的部分——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那個算式跟打工那個算式是同一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "跟學校講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個等於通報。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而通報了他們兩個會被分開。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "找親戚。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一項她只想了三秒。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為已經沒有人來過了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那三天弟弟不知道發生了什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他六歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那三天照常起床、吃飯、去幼兒園。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為她照常送他去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第三天早上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她起來得比平常早。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她走到廚房，打開冰箱。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "裡面剩下的東西，夠三天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是估的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她算過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一顆蛋。半條吐司。一包麵。冰在下面那格的一小塊肉。還有一些醬。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒在腦子裡把那些東西分成六餐。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "兩個人，三天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她站在冰箱前面很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "冰箱的門開著。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個冷氣一直在往外跑。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有關。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後她關上了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她走到房間門口，看了一眼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那孩子還在睡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他睡的姿勢很亂。棉被踢到腳邊。而他的手張開著。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她站在那裡看了大概十秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她回到客廳，拿起手機。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她回了那通電話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那天想的最後一句話是這樣的：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯反正也沒有別的辦法了。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那句話她從來沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那句話裡面沒有任何一個字是關於正義。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有任何一個字是關於恨。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有任何一個字是關於不得已。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是一個算完了的人，講出來的一句話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個過程這裡不會寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上她回到三合院。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "弟弟已經睡了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她洗了很久的手。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是象徵。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那雙手真的髒了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她洗完之後，去廚房煮了一鍋粥。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為冰箱裡快沒有東西了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是她那天真正在想的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那鍋粥她煮得不好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "太稀。而底下有一點焦。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她那時候不會煮。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "十二歲那年她什麼都不會。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而隔天早上弟弟起來吃了兩碗。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「好吃。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是他第一次講那兩個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有什麼反應。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她說：「快吃，要遲到了。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而四年後，那孩子每一餐都會說那兩個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她一直以為那是客套。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而現在她會做十幾樣菜。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "全部是弟弟喜歡吃的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "至於她自己喜歡吃什麼——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她大概已經忘了。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 121,
+  "narration": 82,
+  "emphasis": 36,
+  "speech": 0,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_tingya",
+ "⚠_label_rule": {
+  "chen_zairen": "他",
+  "⚠": "她不知道他知道"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

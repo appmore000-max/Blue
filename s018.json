@@ -1,0 +1,797 @@
+{
+ "id": "18_我很確定",
+ "title": "我很確定",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那天是茲克瓦的第三十幾天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "程以今十三歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他七歲就把該學的都學完了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十三歲那年他離開家族——那是慣例，不是驅逐，也不是逃走。有修練武功傳承的家族，多半會讓孩子在某個年紀獨立出去歷練。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他走出來的時候，帶著一個世家子弟該有的全套底子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些東西在這場事件裡，一樣都不夠用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他那時候還沒有氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他發現了一件事：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "多數場合是不需要正面衝突的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為他打不贏。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是因為他從第一天就在算另外一件事——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "這場仗要怎麼打，才能少死幾個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天下午，那一隊有十一個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是他的隊。他不隸屬任何一個組織，那時候的他什麼都不是。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一個中型組織的人，二十幾歲到四十幾歲，帶隊的那個大概三十五。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他們要進一個工業區的倉庫群，把裡面幾個沒有跑掉的人帶出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今那天早上剛好在那附近。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他跟著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人趕他走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個年紀的孩子在那個時期滿街都是——有些是被家族丟出來的，有些是自己跑出來的，有些是本來就沒有家。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而多數人的處理方式是：不要管，也不要趕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "下午兩點多，他們卡在正面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "倉庫的大門那一側有十幾個被感染的人。而那個位置很難處理——沒有掩體，路是直的，兩邊是鐵皮牆。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "帶隊的那個在算。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而程以今在看圖。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是地圖。那是他前一天在一個公車站牌旁邊看到的工業區導覽圖，他站在那裡看了大概三分鐘，然後把它記下來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那邊有一條路。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個帶隊的轉過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「什麼？」",
+   "pause_before": 0,
+   "who": "squad_lead",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「東側。從那排廠房中間過去，可以直接到倉庫後面。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你確定？」",
+   "pause_before": 0,
+   "who": "squad_lead",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而程以今說：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「確定。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那兩個字他講得很快。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為他那時候真的確定。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他記得那張圖。他記得那條路的位置。他記得那兩排廠房之間的間距。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他算過了——那條路可以走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一隊十一個人，走了東側。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那條路的另一端有東西在等。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是埋伏。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "被感染的人不會設埋伏。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是那條路的另一端本來就有一群。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那張導覽圖上沒有畫那個東西——因為那不是建築物，那是一個臨時堆放的貨櫃區，圖上是空白。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個空白，程以今讀成了「沒有東西」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一隊十一個人進去的時候，是一列縱隊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而縱隊在那種地形裡是最糟的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "前面被堵住，後面被繞過來，中間那幾個沒有辦法轉身。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今在第四個位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他做的第一件事是轉頭往後看。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看到最後面那三個人被壓住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他往回跑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是勇敢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他那一秒唯一想得到的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他跑了大概四公尺。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後有一隻手把他往後拉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是第五個位置那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個大概三十歲的男的，程以今不知道他叫什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人把他往後拉，同時把自己整個人往前塞。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "塞進他跟前面那個東西中間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一下的力道大到程以今整個人往後摔。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他坐在地上，抬頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人已經在他前面了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一場打了大概十二分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人死。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那十一個人裡面，有六個受傷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "其中三個很重。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三個，全部在他前面或者後面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上，程以今一個人坐在一個貨櫃旁邊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人罵他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個帶隊的走過來，蹲下來，拍了一下他的肩膀。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「小弟，你沒事吧。」",
+   "pause_before": 0,
+   "who": "squad_lead",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯沒事。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那就好。」",
+   "pause_before": 0,
+   "who": "squad_lead",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人就走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有提那條路。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "界那邊也沒有追究。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為在那種規模的事件裡，這種程度的誤判每天都在發生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而程以今坐在那裡想了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他想的不是「我怎麼會失誤」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他很清楚失誤是必然的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "情報永遠不會完整。那張圖是一張導覽圖，不是工程圖；貨櫃是臨時堆的，圖上當然不會有；而他昨天看那張圖的時候，那些貨櫃可能還不在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那個失誤本身，是沒有辦法避免的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他想的是另外一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他們為什麼會直接走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個帶隊的問了一句「你確定？」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他說「確定」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後那十一個人就走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人問他有多大把握。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人問他是在哪裡看到那張圖的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人問他那張圖是什麼時候的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為他們笨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是因為他當時講得像是他很確定。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而一個講得像是他很確定的人，會讓所有人省掉「我要不要再問一句」的那零點五秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那零點五秒，就是那三個人受傷的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個晚上他坐到很晚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他在那裡改掉了一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三天後，另外一個現場。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "這一次是那兩個女生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他們三個已經一起行動一段時間了，而還是沒有交換過名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "前面又堵住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個白髮的女生已經在看角度了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「等一下。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "兩個人轉過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今指了一個方向。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那邊可能有路。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「但我沒看到底，不確定。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個白髮的女生看了他一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一眼大概兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她說：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯那就我先進去。」",
+   "pause_before": 0,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今站在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒理解了一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "如果他講「確定」，她就會直接走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而如果他講「不確定」——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她還是會走。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "但她會用不一樣的方式走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那條路那天是通的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她進去的方式，跟她如果相信那條路一定通的方式，完全不一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她走得很慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她的重心一直是低的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她每過一個轉角都停半秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那半秒，是那四個字買來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一年後，他二十四歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在界裡面，他是那個潛入的、偽裝的、找情報的、清理現場的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他是那個會先問「有沒有別的做法」的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他有一個習慣，所有跟他共事過的人都知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他講話的時候會把不確定的部分一起攤出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那邊可能有路。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「這份資料我只確認到一半。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我不確定。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而多數人以為那是謹慎。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有些人以為那是他不夠有自信。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一次一個別的組織的人在聯合行動裡跟他講：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「程先生，你可以講得肯定一點。大家聽起來會比較安心。」",
+   "pause_before": 0,
+   "who": "other_org",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而程以今那時候點了一下頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「好。」",
+   "pause_before": 0,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "然後他還是照原本那樣講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是自信的問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是他很清楚，那零點五秒是拿三個人換來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三個人他到現在都不知道名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天他坐在地上抬頭的時候，只看到那個人的背。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一件深色的外套。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人從頭到尾沒有回頭。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 145,
+  "narration": 115,
+  "emphasis": 13,
+  "speech": 17,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "cheng_yijin",
+ "⚠_label_rule": {
+  "shunfeng": "那個人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   28,
+   30
+  ],
+  [
+   70,
+   72
+  ],
+  [
+   105,
+   106
+  ],
+  [
+   129,
+   131
+  ]
+ ]
+}

@@ -1,0 +1,960 @@
+{
+ "id": "14_你要回來",
+ "title": "你要回來",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "星期五晚上六點二十八分，高志遠到家。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是準時。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "準時是六點半，而他早了兩分鐘——因為那條路今天很順。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "門一開，兒子從沙發上跳下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「把拔——」",
+   "pause_before": 0,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「哎。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個小孩五歲，衝過來的時候整個人撞在他大腿上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一百八十八公分，九十五公斤。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那一下他連晃都沒有晃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "女兒沒有動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她八歲，在桌上寫作業，抬頭看了一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你今天很早。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「路很順。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "他把外套掛好，脖子上掛了一條毛巾。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是給小孩擦嘴用的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點，晚餐。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點四十，洗澡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八點半，他老婆從房間出來，兩個人坐在客廳。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你今天怎麼樣。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「還好。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「還好是多好。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯就還好。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個聲音低沉，粗獷，音量偏大。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他自己不覺得。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點十分，小孩睡了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把玩具收一收，把地上那幾塊拼圖撿起來，放回盒子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個櫃子上面有一盒球員卡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "MLB 跟 NBA，收了二十幾年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它們放在那麼高的地方，是因為他女兒會拿。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點零四分，手機震了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個群組。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n【1233】新北。三峽。老市場那一帶。\n@ 高志遠 @ 阿智（外聘）\n現在。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把它讀完，花了大概四秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一碼一。一般人或低規格。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二碼二。有，而他們走不掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第三碼三。已經在傳了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第四碼三。現在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三峽。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他家。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他站起來的時候動作很快。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他做的第一件事不是換衣服。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他走到小孩房間門口，看了一眼裡面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "兩個都睡了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "女兒的腳伸到棉被外面，他進去把它塞回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他走到主臥。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他老婆躺在那裡，背對著門。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他彎下腰，親了一下她的額頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他做了九年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她多數時候是醒著的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有睜開眼睛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點十九分，他到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不遠。他家騎車過去六分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "老市場那一帶晚上沒有人，而今天有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有人在錄影。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第三碼三——已經在傳了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿智已經在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子二十歲，從宜蘭過來，不知道用什麼方式，總之比他快。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「遠哥。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「幾個。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「三個。而裡面卡了兩個一般人。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「走不掉？」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「走不掉。他們在那個鐵皮屋裡面，而門口那個東西不會動。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "高志遠往前走了三步。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他停在阿智前面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他自己沒有意識到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他做了很多年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你在後面。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我可以——」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你在後面。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯好。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他往那個門口去的時候，講了一句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿智。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯？」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你要回來。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那孩子愣了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯什麼？」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我說你要回來。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。好。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠已經進去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事花了十七分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個東西。而高志遠一直站在同一個位置——那個鐵皮屋的門口，把自己塞在裡面那兩個人跟外面那三個之間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有打贏任何一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是站在那裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而阿智從後面繞過去，把兩個人帶出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十點四十七分，收了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那兩個人是一對夫妻，收攤收到一半。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "太太一直在發抖。先生講不出話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他們兩個都沒有受傷。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你們可以走了。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個先生看著高志遠。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯謝謝、謝謝、謝謝。」",
+   "pause_before": 0,
+   "who": "civilian",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「快回去。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那兩個人走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一點零二分，現場處理完。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "阿智在旁邊收東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「遠哥。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你剛剛那句是什麼意思。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "高志遠轉頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「哪句。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「『你要回來』。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯就那個意思啊。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿智沒有再問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他回宜蘭的路上想了那句話一陣子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他從來沒有被那樣講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他媽媽不會那樣講。他爸爸不會那樣講。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他認識的所有人裡面，沒有一個人會在他出門的時候，跟他說那四個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那天晚上回到宜蘭之後，把那句話寫進了筆記本。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是第五十一頁。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是最後面那幾頁——他放雜項的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一行只有六個字：",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "遠哥：你要回來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有寫為什麼要記下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一點三十九分，高志遠到家。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把鞋子脫在門口，很輕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "小孩房間他看了一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有醒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "主臥的燈是關的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他洗完澡出來，在床邊坐下。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「回來了。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個聲音很小。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「幾點。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「十一點半多。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有轉過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "高志遠躺下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "天花板是黑的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他躺在那裡的時候，沒有想那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有想過那句話是從哪裡來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也沒有想過他對別人講過幾次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他這幾年講過六次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次是對一個二十七歲的、每次都第一個衝出去的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次是對一個在總部待到很晚的技術。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次是對一個從來沒有被人問過近況的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次是對一個在計程車上想了一路的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次是對一個他叫「老張」的、比他大很多的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而今天是第六次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那六次裡面，有幾次那個人愣住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他一次都沒有注意到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為對他而言，那不是一句特別的話。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那就是他出門前會被講的那一句。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他把它變成了對每一個人的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一點五十六分，他睡著了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而在他旁邊，他老婆睜開了眼睛。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她看著天花板看了一會兒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四年前的某一個晚上，她坐起來，跟他說了那四個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那四個字的意思不是「小心」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話的意思是：她知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒能做的事情有兩種。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一種是解釋。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他說：「好。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他就出去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，兩個人都沒有再提過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "四年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她翻了個身，面向他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她只是伸手，摸了一下他的手臂。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "確認他在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她也睡了。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 163,
+  "narration": 114,
+  "emphasis": 9,
+  "speech": 39,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "gao_zhiyuan",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   4,
+   5
+  ],
+  [
+   11,
+   13
+  ],
+  [
+   19,
+   22
+  ],
+  [
+   59,
+   63
+  ],
+  [
+   68,
+   71
+  ],
+  [
+   73,
+   75
+  ],
+  [
+   77,
+   79
+  ],
+  [
+   92,
+   93
+  ],
+  [
+   97,
+   99
+  ],
+  [
+   101,
+   104
+  ],
+  [
+   124,
+   127
+  ]
+ ]
+}

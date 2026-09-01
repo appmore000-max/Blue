@@ -1,0 +1,656 @@
+{
+ "id": "08_一百二十八",
+ "title": "一百二十八",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "第一週，星期二。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "余冷川把車停在三岔口，剩下的路用走的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一公里，柏油變成碎石，兩邊的樹壓得很低。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他走到最後那個彎的時候停下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "站了兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "看出口在哪、路的寬度、樹的密度、如果要退要往哪個方向。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他自己完全沒有意識到。他做了二十幾年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大概兩公尺高，沒有臉，形狀一直在變。它繞著同一片空地轉，繞得很慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它沒有看他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它沒有在看任何東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "余冷川在那裡待了三個小時。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有靠近。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他也沒有帶任何東西——沒有刀、沒有槍、沒有一件可以拿來擋的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那些對他而言沒有意義。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他身上什麼都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有領悟過，也沒有練出來過。他這輩子從來沒有任何一種可以被消耗的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他知道那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "如果那個東西朝他過來，他能做的只有一件事：跑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他跑得掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個東西不追。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那份回報他寫了四行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n到達 14:20，離開 17:20。\n繞行同一區域，未離開範圍。\n未接近，未受刺激。\n速度：慢。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二週，星期二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一樣的時間，一樣的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n到達 14:15，離開 17:15。\n與上週相同。\n速度：慢。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第五週。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n速度：比第一週慢。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第八週，他多寫了一行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n速度持續下降。而不是週期性的。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第十一週的星期二，他沒有去那條山路。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天他去了新莊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那間早餐店在巷口，六點半就開了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "余冷川七點零四分進去，站了兩秒，然後在靠窗的位置坐下。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "不是最裡面那一桌。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也不是最外面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點十一分，那個人進來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "五十二歲，灰色工作外套，袖口磨白了。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「阿姨，火腿蛋餅，冰奶茶。」",
+   "pause_before": 0,
+   "who": "chen_wenbin",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「好——」",
+   "pause_before": 0,
+   "who": "shop_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "余冷川沒有轉頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他看得很清楚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人今天比較慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是走路慢——是他等餐的時候一直靠在牆上，而那個靠法不是隨便靠的，那是一個人在把重量交出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他喝那杯冰奶茶的時候，右手撐在桌上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點二十二分，那個人走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把塑膠袋掛在機車的掛勾上，戴安全帽，發動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他在發動之前，抬手抹了一下臉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "余冷川坐了十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他站起來，把桌上那個杯子推到旁邊，起身。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他離開之後，那張桌子看起來像沒有人坐過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事不在他的任務範圍裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "貼文上寫的是「定點觀察」。而那個點是那條山路。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有把那件事寫進回報。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第十二週，他上山。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n速度：比第八週再慢。\n未離開範圍。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第十三週。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n同上。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第十四週的星期二晚上，他在自己那間套房裡，坐在桌前。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個地方很普通。而他搬過幾次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "桌上什麼都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他打開那份回報，開始打字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "前面四行照舊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他停了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他右手的手指在指節上摸了兩下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是他想事情的時候會做的動作。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他自己沒有意識到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西越來越慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而多數人看到那件事，第一個反應會是：好事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "它在衰退。它在弱掉。它總有一天會停。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而余冷川想的不是那個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西在吃。而它吃的東西越來越少。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為它吃得少了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那邊給得少了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把那一段打出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他把它刪掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他重新打。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n速度持續下降，且下降的幅度沒有變小。\n而我認為那不代表它在衰退。\n那代表來源那邊在減少。\n建議把觀察對象加一個。\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看著最後那一行。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「建議把觀察對象加一個。」",
+   "pause_before": 0,
+   "who": "yu_lengchuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那句話是他能寫出來的最遠的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "再往下寫，就是他不該寫的東西了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他按了送出。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是十一點四十七分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二年前他停下來的時候，沒有任何一件事情逼他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有被抓，沒有被勸，也沒有誰跟他講過什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就是有一天不做了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一天有一個人在看著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人知道他知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而十二年來，兩個人一個字都沒有提過那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以當那則貼文出來、上面 @ 的是他的時候，他沒有問為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他也沒有想過那個問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個名字是他自己取的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是化名，也不是代號——那是他二十幾歲那年，在一個他到現在都不會講出來的地方，替自己取的三個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而在他之前的那個名字，這個世界上已經沒有人在用了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他記得一百二十七個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是總數。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他記得的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "臉、地點、時間、那一天的天氣、那個人身上穿什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些不是他刻意去記的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他也沒有辦法不記。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那一百二十七個一個都沒有少。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把電腦關掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "房間裡剩下窗外的光。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他今天早上在那間早餐店裡看到的那個人——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "灰色工作外套，袖口磨白，火腿蛋餅，冰奶茶。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "靠在牆上把重量交出去，右手撐著桌子，出門前抹了一下臉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他已經記住了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有辦法不記。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是第一百二十八個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個不一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人還活著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他這一次做的事，是去看著他不要死。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "余冷川躺下來的時候，想起很久以前有一個人跟他講過一句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是在總部的樓梯間，很晚了，兩個人剛好在同一個時間下樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人比他高，比他重，聲音很低而且音量偏大。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「那你早點回去。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那句話沒有別的意思。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人講完就走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川想了那句話一陣子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "到現在還是。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 124,
+  "narration": 109,
+  "emphasis": 11,
+  "speech": 4,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yu_lengchuan",
+ "⚠_label_rule": {
+  "chen_wenbin": "那個做工的人",
+  "gao_zhiyuan": "那個人",
+  "⚠": "他不知道那個人叫什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   38,
+   39
+  ]
+ ]
+}

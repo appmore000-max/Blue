@@ -1,0 +1,908 @@
+{
+ "id": "25_他什麼都沒有講",
+ "title": "他什麼都沒有講",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那孩子那年大概八歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他已經跟著走了三十幾年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天他們在一個地方，那個地方後來被叫做什麼，平和不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那時候還沒有名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是災後。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一場地震。而那個聚落塌了三分之二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子站在一堆瓦礫上，看著下面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有一個人快死了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子看得很清楚。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人的手指還在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "在抓地上的什麼東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "可能是想抓住什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也可能只是抽搐。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子伸出手。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "什麼都沒有發生。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為他是一個七、八歲的小孩。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有能力。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有力量。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一種可以伸過去的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他的手就停在半空中。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而平和站在他旁邊。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個人活下來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那些足以致命的傷，在幾天之內收斂成了不會死人的程度。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人自己也搞不懂發生了什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "只當是老天爺賞了一條命，然後就那樣繼續活下去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "一輩子都不知道有誰救過他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子轉頭看平和。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他沒有問「你做了什麼」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他那時候還不會問這種問題。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而平和也什麼都沒說。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "只是把手放在他頭上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上，天空是藍的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "明明已經入夜了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "明明剛剛下過雨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而頭頂上是一整片乾淨得不像話的藍天白雲，一直到天亮才散。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子那一秒看到的，是一個什麼都沒有做的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有光。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一個可以被稱為「出手」的動作。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在九百五十年裡發生過很多次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "每一次，那孩子都伸手。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "每一次，什麼都沒有發生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "每一次，平和都在他看不見的地方做了些什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而每一次，天空都會變回藍色。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而平和一次都沒有解釋過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為他覺得那孩子不需要知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他從來沒有想過那孩子會怎麼理解那件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是他這九百五十年裡，唯一一件他真正做錯的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那孩子後來長成的樣子是這樣的：",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「他做得到，而我不行。」",
+   "pause_before": 0,
+   "who": "shunfeng",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那不是平和要教的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他要教的東西完全是別的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他教的是：不要還手。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他教的是：只給善意。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他教的是：人看天空，看的是自己。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子學到的是：我什麼都做不到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事平和到最後都不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "九百五十年裡，他做過的事情很多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一場即將淹沒整個河谷的洪水，在最後改了道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "瘟疫肆虐的城鎮上空，維持了三個月不合季節的晴天——讓屍體能被處理，讓陽光曬進屋子裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一支迷路的商隊，被風帶往了水源的方向。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一場燒向村落的森林大火，在燒到最後一排房子之前遇上了雨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "連續數年的大旱，某一年突然下了一場毫無道理的雨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一艘在暴風裡快要翻掉的船，風向在最後一刻轉了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "火山灰遮天蔽日的那幾年，有一小片區域的天空一直是乾淨的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一場大地震之後，該來的餘震沒有來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些事情沒有一件被記載進任何史書。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那正是他要的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是為了謙虛。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "也不是為了保密。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為一旦被看見，那件事就會變成「有人來救了」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他要的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他要的是：那件事沒有發生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那場洪水改了道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那場火遇上了雨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人活了下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人知道那不是運氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而其中有一次，他救了一個後來屠殺別人的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人被救起來的時候，他就知道了那個人以後會做什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他還是救了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子在旁邊，把整件事從頭看到尾。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "先是那個人被救。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後是很多年以後，那個人做了什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那孩子那時候沒有問。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而平和也沒有解釋。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那孩子後來記得的那四句話，其實只是幾千幾萬句裡的四句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那九百五十年，平和對他講過的話不下幾千幾萬句。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "哄的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "教的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "隨口回答的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "指著某樣東西告訴他那是什麼的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一個大人對一個孩子，說了將近一千年的話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子記得最清楚的，是那四句。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是因為平和特別強調過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "也不是因為那是什麼臨別遺言。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "只是那四句的分量，比其他所有話加起來都重。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而前三句是他相信的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那些東西他大概從繼承之前就有了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而第四句不是。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是他在那九百五十年裡，一點一點看出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他們看了九百五十年的戰爭。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些戰爭的形狀全部一樣：",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有人動手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "對方還手。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "然後那件事就不會停了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次，兩次，幾十次，幾百次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他站在旁邊，什麼都沒有做。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為人與人之間的事他不管。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他就只是一直在看。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而看了九百五十年之後，他得出了一個結論。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "問題從來不在第一拳。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "在第二拳。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有解釋過那句話是怎麼來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有說那些戰爭。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有說那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他就只是講了那句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他試過教一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "只有一件。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是招式，也不是技巧。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是治癒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他試了很多種說法。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而每一種講出來之後，他自己都覺得不對。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "最後他停了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那時候還沒有能力。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他連試都試不了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那件事就那樣過去了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子到現在都不知道有那件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼什麼都不講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有記載。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而最接近的推測是這樣的：",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "講了，那孩子就會開始擔心。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個七、八歲的孩子，如果知道旁邊那個人做了那麼多事——",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那孩子就會開始算。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "算他做了多少，算他還能做多久，算他為什麼要這樣做。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子接下來還有九百五十年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他什麼都沒有講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後就那樣走完了九百五十年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那九百五十年裡，他每天晚上都睡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "傳承者不需要睡眠。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他一千六百年沒有睡過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他睡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "理由不是他累。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那孩子會睡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個七、八歲的小孩，在陌生的地方，如果旁邊的人一直醒著——",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個小孩會睡不著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以他睡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他睡的時間永遠比那孩子晚一點。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "起的時間永遠比那孩子早一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九百五十年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子一直到很久很久以後才想通那是為什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他走路的時候，永遠在那孩子的右後方半步。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置有一個非常實際的作用。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那裡正好擋住風。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九百五十年。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子從來沒有發現。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "至於他為什麼要擋風——",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那孩子是分身。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "會冷、會累、會不舒服。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而傳承者不會。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那半步，是他唯一能替那孩子做的、而且不會被發現的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一九七五年那一秒，他沒有留下任何一句遺言。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有交代。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有告別。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一個「接下來要怎麼辦」的說明。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就只是不在了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子站在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "七、八歲的樣子，赤著腳，跟九百五十年前一模一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後全部十六項灌了進來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他低頭看自己的手。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那雙手還是小孩的手。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那雙手現在可以推動地球。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他的第一個念頭是：",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "這雙手，再也牽不到那個人了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "至於平和那一秒在想什麼——",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有記載。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事永遠不會有人知道。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 177,
+  "narration": 144,
+  "emphasis": 32,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "pinghe",
+ "⚠_label_rule": {
+  "shunfeng": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

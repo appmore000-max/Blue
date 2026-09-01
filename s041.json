@@ -1,0 +1,572 @@
+{
+ "id": "41_三十年",
+ "title": "三十年",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "一九七五年，那個人不在了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒，全部十六項灌了進來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他還是七、八歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那之後他用那個樣子過了大概二十年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那二十年裡他做的事情，跟前面九百五十年一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他走，然後他看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "只是那一次沒有人在旁邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那二十年之後，他變成了一個二十五歲的成年男性。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由這裡不重複。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事不是重點。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "重點是接下來那三十年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "傳承有一條鐵則。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "確保分身存在與安全。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是建議。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是四萬多代裡每一代都被告知的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個沒有分身的傳承者，是這條線上唯一的斷點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他死了，那件事就結束了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "四十六億年，四萬多代，全部結束。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他知道那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "平和講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一字不差，完整地，跟四萬多代做過的一模一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他拖了三十年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一九七五年繼承。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他召喚那個分身，是二〇〇〇年代初。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "中間隔了將近三十年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那三十年他在做什麼，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為沒有人在寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那三十年他在想什麼，能推的只有一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "召喚一個分身，就是製造一個跟他當年一模一樣的存在。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有能力。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有力量。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "被固定在某個年齡。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而且要跟著本體走上幾百年。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那是什麼滋味。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他知道那個小孩會伸出手，然後什麼都不會發生。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他知道那個小孩會看著旁邊那個人做那些事，而看不見。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他知道那個小孩會交到一個朋友，然後那個朋友會長大、會變老、會死。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個小孩不會。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他知道那個小孩會在某一天想通「我什麼都做不到」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個想通會變成那個小孩的地基。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他知道這些，不是因為別人告訴他。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那九百五十年是他過的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那條鐵則沒有給他選擇。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它只是沒有寫時間。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「確保分身存在與安全。」",
+   "pause_before": 2,
+   "who": "rule",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而它沒有寫什麼時候。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他拖。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "五年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三十年裡，他有沒有想過那條線可能會斷——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事沒有人知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而某一年，他做了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一天在哪裡，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一天他為什麼決定，也沒有記載。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他做了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他選了七歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而平和當年給他的是一個範圍。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「七、八歲左右。」",
+   "pause_before": 1,
+   "who": "pinghe",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個模糊的、不需要精確的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他給的是七歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "精確的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他自己也說不上來為什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "可能是因為他想給那孩子一個確定的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "可能是因為他這一千年來唯一擁有過的，也只是一個確定的名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個分身睜開眼睛的第一個動作，是抬頭看天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟他當年一模一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他站在原地沒有動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一秒他在想什麼，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個小孩後來也沒有問過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "過了一會兒，他把脖子上那個吊飾摘下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他繼承之後第一次把它拿下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個東西有四十六億年了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它從第一代開始就在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他彎腰，把它掛到那孩子脖子上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那孩子抬頭看他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「戴著。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "就這兩個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他沒有說「這是傳承物」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有說「這東西有四十六億年了」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有說「這是我從那個人那裡拿到的」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有說「這會保護你」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "就兩個字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩後來把那個習慣長出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他想事情的時候，手會放在胸口。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "隔著衣服按一下。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "確認它還在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作沒有人教他。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他自己也沒有意識到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "至於那個名字，是後來取的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字為什麼是那兩個字，這裡不寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事只有兩個人知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而二十幾年之後，那個小孩還是七歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他還是二十五歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而每天早上五點，他躺在那個頂樓看日出。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩會上來，站在他左後方半步的地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那半步從來沒有變過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "也從來沒有人教過他。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而順風從來沒有發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個位置，跟他自己當年站的那個位置，剛好是鏡像的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "平和走在他的右後方半步。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個位置正好擋住風。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而園奏走在他的左後方半步。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置什麼都擋不住。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為順風不需要被擋。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子還是站在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "二十幾年。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己也不知道那是為什麼。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 109,
+  "narration": 72,
+  "emphasis": 34,
+  "speech": 2,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "shunfeng",
+ "⚠_label_rule": {
+  "yuanzou": "那孩子",
+  "pinghe": "那個人",
+  "⚠": "他從未提過平和的名字"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

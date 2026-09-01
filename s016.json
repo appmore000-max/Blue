@@ -1,0 +1,744 @@
+{
+ "id": "16_同一個房間",
+ "title": "同一個房間",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那一年吳紫儀十一歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她剛離開家族四個月，身上什麼都沒有——沒有組織、沒有登錄、沒有人管。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她走進了封鎖區。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個封鎖區的圍籬有一段是壞的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是被誰弄壞的，是本來就沒有接好——鐵網跟水泥柱之間有一個大概三十公分的縫。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她四十公斤。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "進去之後那條路上沒有人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一台機車倒在中間，鑰匙還插著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一家便利商店的門開著，燈亮著，裡面沒有人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她走過去的時候，那個自動門「叮咚」響了一聲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她停了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她繼續往前走。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那棟建築物在第三個路口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七層樓，公寓，很舊。而三樓有一扇窗戶的窗簾一直在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個動法不對。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "風不會那樣吹。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她從東側的破口鑽進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "樓梯間很暗。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她上到三樓的時候，聽到了聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是很多人同時呼吸的聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把門推開一條縫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個房間裡有七、八個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "站著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "眼睛沒有焦距。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他們的身體是鬆的——不是站直，是那種被掛在那裡的姿勢。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "等著下一個指令。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些人原本是這棟樓的住戶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一個穿著睡衣。有一個手上還拿著遙控器。有一個大概六十幾歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那種東西的戰力，至少是三階。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一歲的吳紫儀站在門口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她算了一遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七、八個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三階。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她一個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她要退。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她退的時候，另外兩個進來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個從樓梯間。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個從天花板上的維修孔。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個人在同一個房間裡碰頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有人開口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是來不及自我介紹。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那個房間裡不只有他們三個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個從樓梯間進來的是女生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "白髮，髮尾帶一點淡粉，在昏暗的房間裡意外地顯眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個從維修孔下來的是男生。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "深膚色，個子最高。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十三歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而房間裡那七、八個人同時轉過來了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個一個轉。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是同時。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "像有人在很遠的地方按了一個鍵。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後三個人同時動了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "吳紫儀往左跨了一步。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個位置是那個白髮女生的側後方——她的視線死角。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而吳紫儀補了進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而就在同一瞬間，那個女生也往右移了半步。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "補上了那個男生的死角。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個男生退了半步。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "正好把她們兩個背後空出來的位置擋住。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個人，三個動作，在同一秒之內完成。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有一個人講過一句話。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是信任。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一歲的吳紫儀不認識那兩個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她沒有任何理由要相信誰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那只是三個孩子各自把當下的局面算了一遍，然後各自算出了自己該站的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而三個答案剛好可以拼在一起。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一個過來的是那個穿睡衣的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而吳紫儀那時候還沒有掌握氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她十四歲才有那個東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那一天她身上只有六歲以來練的全部技巧，跟四十公斤。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人的手往她臉上抓過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個速度不像一個穿睡衣的中年人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "三階。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她低頭，往內側切，一隻手扣住那個人的手腕，另一隻手推那個人的肘關節，同時整個身體轉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是力氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是角度。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人被翻過去，臉朝下摔在地板上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她跪下去，膝蓋壓在那個人的背上，一隻手把那隻手臂往上折。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有折斷它。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她停在一個很精確的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個再往上兩公分就會斷、而現在只是動不了的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人在底下掙扎。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個力氣大到她整個人被抬起來了一點。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯欸。」",
+   "pause_before": 0,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她講的是那個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那是叫另外兩個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個白髮女生看了一眼，然後從口袋裡拿出一條束帶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "丟過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "吳紫儀接住，把那個人的手綁起來，然後綁腳。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十七秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個房間裡還有六、七個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那三個孩子那天在那個房間裡待了四十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而四十分鐘之後，那七、八個人全部躺在地上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "綁著。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有一個死。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個白髮女生的嘴角破了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個男生的肩膀脫臼，他自己接回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而吳紫儀的手臂上有一道抓痕，從手肘到手腕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個人站在那裡喘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個房間裡有一個聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個穿睡衣的人，趴在地上，臉朝下，在講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是求救。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是罵人。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一串沒有意義的音節。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人的嘴一直在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個孩子看著他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有一個人講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而後來吳紫儀想起那一天的時候，記得的不是那四十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個聲音。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人不是他自己在講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是有東西透過他在講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她從來沒有跟任何人講過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個房間清完之後，他們也沒有交談。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個男生把束帶收好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個白髮女生擦了一下嘴角。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而吳紫儀把外套的袖子拉下來，蓋住那道抓痕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後三個人往不同的方向走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個從樓梯下去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個從維修孔上去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她從東側的破口出去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而三個人都沒有回頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一天在那個封鎖區裡，還有很多棟一樣的樓。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一年最後統計出來的死亡數字，是十二萬人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而對外的說法是「特殊流感」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三個孩子從那天起，就再也沒有真正分開過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一年後，吳紫儀二十二歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她社群上有兩萬個追蹤者。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她愛講話、愛拍照、愛黏人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她在任何一個場合都不會冷場。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她記得每一張臉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一年她壓制過的每一個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "穿睡衣的那個。手上拿著遙控器的那個。六十幾歲的那個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還有那個封鎖區裡的、另外幾十個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她全部記得。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有去查過那些人後來怎麼樣了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一次都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她也不打算查。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為她已經知道自己會怎麼樣了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "如果查出來那些人活著，她會鬆一口氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她不想要那個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那會變成一件她可以放下的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她不想放下。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 144,
+  "narration": 124,
+  "emphasis": 19,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "wu_ziyi",
+ "⚠_label_rule": {
+  "shunfeng": "順風先生",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

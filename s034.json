@@ -1,0 +1,588 @@
+{
+ "id": "34_他沒有問",
+ "title": "他沒有問",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十五歲那年的夏天，阿仁走進一個山谷。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是登山。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他那天是跟他爸吵完架出門的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的原因很小——小到隔天他自己就想不起來了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他騎車往山上。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有目的地。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "就是往上騎。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而騎到某一個地方路沒有了，他就把車停在旁邊，用走的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那條路走了大概四十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那四十分鐘裡什麼都沒有想。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是他的方式。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他不擅長想事情。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他擅長的是把身體弄累。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而身體累了之後，那個東西就會小一點。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個山谷是他走到的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是他找到的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是他發現的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是走著走著，前面變開了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那裡沒有什麼特別的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "樹。石頭。一條水。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那條水的聲音很大。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他在一顆石頭上坐下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他坐了大概十分鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他抬頭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那裡有一隻鳥。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "全身漆黑。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "比他還高。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它站在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不知道站了多久。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁那一秒做的第一件事，是站起來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "不是要跑。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是要打。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是勇敢。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他十五年來的第一個反應。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個東西出現在你面前，而你不知道它要幹嘛——",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那就站起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為坐著的人打不到人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那隻鳥沒有動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁站在那裡，維持那個姿勢大概三十秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他的手放下來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是因為他判斷出那個東西沒有敵意。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他站不住了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那三十秒裡他全身緊繃，而他剛剛走了四十分鐘的山路。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他喘了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那隻鳥在他喘的時候，往前走了一步。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一步很慢。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁沒有退。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他退不了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他那時候的腿已經在抖了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它自稱八咫烏。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字他不認識。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他也沒有問那是什麼意思。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它講了一段話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那段話有多長，阿仁不記得。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那時候在想別的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他在想：如果它要動，他要往哪邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個山谷右邊那顆石頭比較大。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他可以繞到後面。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那段話他有一半沒有在聽。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是因為丟臉。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他沒有想過那件事需要被講。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他離開的時候，身上多了一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他是走下山的時候發現的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那時候他在想一件很普通的事——他在想晚餐。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒突然知道自己做得到某一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個「知道」不是想出來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "跟你知道自己會走路是同一種知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他停在路邊試了一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "成功了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒的反應是：「喔。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他繼續往下走。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "至於那是什麼、為什麼是他、那隻鳥從哪裡來、那個山谷在哪裡——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他沒有問。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有想。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是他的個性。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他拿到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就開始練了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個晚上他回到家。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他爸在客廳看電視。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人都沒有講話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他上樓，洗澡，吃了他媽留的飯。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他在房間裡練到兩點多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而四年後，那一項是他兩張底牌之一。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而多數跟他打過的人記得的不是那一項。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他們記得的是他很難倒。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是能力給的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他十五歲那年在一顆石頭旁邊，站著站到腿抖的那三十秒。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三十秒他一次都沒有跟人講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他到現在都沒有回去過那個山谷。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是找不到。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他沒有想過要回去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事已經結束了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不是那種會回去看的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "有一次阿智問過他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是他們認識之後大概第二年。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「你那個是哪裡來的。」",
+   "pause_before": 1,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「山上。」",
+   "pause_before": 1,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「哪座山。」",
+   "pause_before": 1,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯不知道。」",
+   "pause_before": 1,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "阿智看著他。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「你沒有記？」",
+   "pause_before": 1,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯要記幹嘛。」",
+   "pause_before": 2,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那天回去之後，在筆記本上寫了一行。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一行不是關於八咫烏的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一行是：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "阿仁沒有記。\n\n而他不覺得那件事需要被記。\n\n⋯⋯而他可能是對的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一行後面，阿智畫了一個問號。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問號到現在還在。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 109,
+  "narration": 77,
+  "emphasis": 25,
+  "speech": 6,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "aren",
+ "⚠_label_rule": {
+  "shunfeng": "順風大哥",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   96,
+   99
+  ],
+  [
+   101,
+   102
+  ]
+ ]
+}

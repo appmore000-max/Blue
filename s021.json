@@ -1,0 +1,818 @@
+{
+ "id": "21_她不想知道",
+ "title": "她不想知道",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "星期四晚上七點，蘇月在補習班。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是一間成人補習班，在台北車站附近的一棟舊大樓裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三樓，走廊很窄，燈管有一根一直在閃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她的課是英文。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "初級班。二十幾個人，多數是三十幾歲到五十幾歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有一個是計程車司機。有一個在市場賣魚。有一個是護理師，跟她一樣上大夜。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她在那裡幾乎不講話。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "老師點名的時候她會舉手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "老師問問題的時候她會低頭。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她坐在最後一排，靠窗那一個位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為她害羞。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那個位置看得到門。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那是二十一年的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點四十，下課十分鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個賣魚的阿姨轉過來。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「蘇同學，妳這個怎麼寫的？」",
+   "pause_before": 0,
+   "who": "fish_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "蘇月接過那張紙，看了兩秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「這裡。」",
+   "pause_before": 0,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "她的聲音很小。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「動詞要加 s。」",
+   "pause_before": 0,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「為什麼要加。」",
+   "pause_before": 0,
+   "who": "fish_auntie",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯因為他是一個人。」",
+   "pause_before": 0,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「一個人就要加喔？」",
+   "pause_before": 0,
+   "who": "fish_auntie",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個阿姨「喔」了一聲，把紙拿回去。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「妳很聰明欸。」",
+   "pause_before": 0,
+   "who": "fish_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "蘇月沒有回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她低下頭，看自己那本課本。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那本課本很乾淨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她每一課都寫。每一個字都抄。而她抄的時候手很穩。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為她認真。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是因為她沒有辦法不認真。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個必須在三秒之內判斷完一件事、判斷錯了就沒有下一次的人，做每一件事都是那樣的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她二十七歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她從六歲到十四歲，在街上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那八年她學會的東西只有一件：看人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "誰可以靠近、誰不行、誰在笑但是不對、誰現在很急、誰身上有東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是天賦。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一個六歲的小孩必須在三秒之內判斷完的事情。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那雙眼睛幫了她。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "晚上她看得到。而多數人看不到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以她的八年是在晚上過的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她六歲之前的記憶是破碎的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "能確定的只有四件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "白色的燈。 一直開著，而且沒有窗戶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個編號。 六。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還有別人。 而她不知道有幾個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還有一個聲音。 打雷。而她不確定那是不是真的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一個計畫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她是那個計畫裡的其中一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個計畫失敗了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "至於是怎麼失敗的、為什麼失敗、那些人後來怎麼樣了——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人告訴過她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她只知道有一天門開了，然後她在外面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八點半，下課。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她把課本收進包包，跟那個賣魚的阿姨說了聲掰掰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "走廊上那根燈管還在閃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她經過的時候，抬頭看了一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是她的習慣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她會確認光源在哪裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "九點四十，她到了店裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個地方在中山區，一間看起來很普通的店。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她在那裡用的不是「蘇月」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「蘇月」那三個字是她自己取的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "二十歲那年，她要填一份表格，而那個欄位不能空著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她坐在那裡想了大概十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她寫了那三個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有理由。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她只是覺得那兩個字放在一起看起來還可以。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那份表格是界的入會申請。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十一點多，她在店裡的更衣室裡換衣服。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "深酒紅色的短禮服。有肩帶。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件衣服永遠是有肩帶的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為肩帶下面那個位置，有一樣東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她二十歲那年在頸下到鎖骨那一片弄了一隻蝴蝶。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個位置剛好可以蓋掉它。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "有人問過。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「這個蝴蝶好漂亮，為什麼弄這裡？」",
+   "pause_before": 0,
+   "who": "customer",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「上班比較好看啊。」",
+   "pause_before": 0,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她講的時候在笑。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "凌晨一點四十，手機震了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個群組。",
+   "pause_before": 0
+  },
+  {
+   "t": "screen",
+   "text": "【2011】新北。\n@ 蘇月\n今晚。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她看了一眼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一碼二。第二碼零。第三碼一。第四碼一。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人在裡面。眼睛少。而不趕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那種案子在晚上做，剛好。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她回了兩個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "screen",
+   "text": "好的",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有想別的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她在店裡的班到三點。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點下班，四點到，五點多可以做完，六點多回家，八點睡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個算式她算了七年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而在那個算式裡面，有一件事她從來不做。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "她不查。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些書她知道在哪裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不難找。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而界裡面有人有。而她只要開口，就會有人給她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有開口。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七年了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為她不好奇。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為她不想知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些書會告訴她一件事：她身上那個東西屬於哪一套。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而如果她對出來了——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就代表那個東西有一個來源。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個來源可能就是那些白色的燈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是猜測。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是一個很簡單的推論。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個六歲以前被關在沒有窗戶的房間裡、身上有一個編號、而現在有一雙晚上看得到的眼睛的人——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那兩件事之間有沒有關係，答案很明顯。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她不想要那個答案被寫下來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為現在的狀況是這樣的：",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那雙眼睛是她的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她用它在晚上活了八年。她用它在街上判斷過幾千次。她用它做完了那六年的每一件活。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而如果她查出來那是被做上去的——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就變成別人給的了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她這輩子什麼都沒有。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "只有那一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "凌晨四點零六，新北。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那件事花了她一個小時二十分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她做完之後在那棟樓外面站了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "天還沒有亮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她抬頭看了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有星星，那是台北。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "回家的路上，她在便利商店買了一個飯糰。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "站在騎樓底下吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她吃的時候在想那個文法。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個人要加 s。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "兩個人就不用加。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她想不通為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不合理。一個人跟兩個人的差別，為什麼要動那個動詞。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她昨天問過老師。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "老師說：「就是規定啊。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把飯糰吃完，把袋子丟進垃圾桶。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "六點十分，她回到那間套房。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個地方很小。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一張床、一個小桌子、一個衣櫃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而桌上有那本課本。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她坐下來，翻開，寫了大概二十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三十六個單字，抄三遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "手很穩。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點多，她把課本闔上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她躺下來的時候，把窗簾拉得很緊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一點光都不留。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她晚上看得到。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她想睡的時候，那件事會變成一個麻煩。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她閉上眼睛。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她睡著之前想的最後一件事是那個賣魚的阿姨。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「妳很聰明欸。」",
+   "pause_before": 0,
+   "who": "fish_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候沒有回答。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為她那一秒不知道要講什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她其實想講的是謝謝。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 153,
+  "narration": 122,
+  "emphasis": 18,
+  "speech": 11,
+  "quote": 0,
+  "screen": 2,
+  "section": 0
+ },
+ "pov": "su_yue",
+ "⚠_label_rule": {
+  "qiangzang": "那個人",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   19,
+   23
+  ],
+  [
+   77,
+   78
+  ]
+ ]
+}

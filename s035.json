@@ -1,0 +1,687 @@
+{
+ "id": "35_那片霧",
+ "title": "那片霧",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十四歲那年，阿和在山裡走著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是登山。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "蘇澳往上有幾條產業道路，走上去大概四十分鐘就是山。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他一個星期會去一次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "理由很單純。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為山上比較安靜。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他要練的東西，在有人的地方練不了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他那時候會的東西不多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "十二歲那年他做出了第一個藍洞。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "硬幣那麼大。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "浮在他手掌上。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "三秒鐘就消失了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西一點用都沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "它什麼都沒有吸收到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天他哭了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "不是因為沒用。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為它出現了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "兩年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他每一天都在做同一件事，而每一天都沒有發生任何事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那天它出現了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那之後兩年，他做出了另外幾樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些東西沒有一樣是誰教的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有一樣是他照著什麼做的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他做的方式很笨。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他坐著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他在腦子裡把十歲那年那一片天重建一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他試著讓它出來一點點。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而多數時候什麼都沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天他在山裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他走到某一個地方的時候起霧了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不奇怪。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "宜蘭的山起霧是常態。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他也不是第一次遇到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那片霧不對。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他是走了大概三分鐘之後才發現的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第一個不對的地方是：那片霧沒有在動。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "霧會流。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它會被風推，會沿著地形走，會在某一個地方比較濃、某一個地方比較薄。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那片沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它就是在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第二個不對的地方是：它是暖的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而霧是涼的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是他學過的，那是他每個星期上山，走過幾十次霧之後身體記得的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他停下來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他那一秒沒有害怕。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為他勇敢——他一點都不勇敢。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那片霧的感覺他認得。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個感覺跟他十歲那年抬頭的時候，是同一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "「那裡有東西」的感覺。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西很安穩、很大、而且離他很遠。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天在霧裡，那個東西離他很近。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "它是從他左邊出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一隻白色的柴犬。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "比他還大。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它走過來的時候，那個走法跟一般的狗一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "搖搖晃晃的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而阿和站在那裡沒有動。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "它走到他前面大概兩公尺的地方，坐下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後它看著他。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "它自稱白柴神。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它講話的時候，阿和發現一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "它的嘴沒有動。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他那一秒也沒有覺得奇怪。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為在那片霧裡面，很多事情都不用動。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它講了一段話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿和聽完之後，做了一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他鞠躬了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為它是神。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他也不覺得它是神。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是因為他去那座寺去了兩年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那座寺裡面有一尊像。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每個星期去看那尊像的眼睛。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而在那個地方待久了，人會學會一件事：",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "你在一個你不懂的東西面前，先低頭。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是崇拜。那是承認你不懂。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它沒有反應。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "它就是坐在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而阿和抬起頭的時候，它已經不在了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那片霧也開始動了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "它沿著地形往下流。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它是涼的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他走下山的時候，身上多了一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他跟那兩個人不一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "阿智回去寫了十幾頁。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "阿仁停在路邊試了一次，然後說「喔」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而阿和什麼都沒有做。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他回到家，洗澡，吃飯，寫作業。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "九點半上床。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他躺在那裡的時候想的是一件很小的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "它為什麼是狗。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "至於那是什麼、為什麼是他——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他沒有問。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有回去找過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是像阿仁那樣「他沒有想過那件事需要被問」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他想過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他想了很多次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次想到最後，都會停在同一個地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他知道自己身上那些東西，是自己弄出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "藍洞。那片白天。那一整片天。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那些東西沒有一個是誰給的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他花了兩年、四年、六年，一點一點長出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而白柴不是。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那一項是給的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他每次想到那裡就會停下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不知道那兩種東西可不可以放在同一個身體裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他到現在都沒有想出答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以他很少用那一項。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為在別人看起來，他就只是很少用而已。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三個人裡面，他本來就是最弱的那一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "十六歲，高一。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他每個星期還是會去那座寺。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那尊像的眼睛是天空藍的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個顏色跟他做出來的那個一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他到現在都不知道為什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有問過任何人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一次真琪姐來，他差一點問了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那天他們在那片水泥地，練完了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他想問的是：那個顏色，妳有沒有看過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒看了她一眼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：「⋯⋯真琪姐，我去買水。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「嗯。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他走去便利商店的路上，把那個問題收回去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由他自己說不上來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那大概是因為，他覺得問了會很奇怪。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個十六歲的問一個二十三歲的：妳有沒有看過那個藍色。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那聽起來不像一個問題。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那聽起來像在講一件他自己也搞不清楚的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他不喜歡那樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以他買了兩瓶水。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一瓶給她。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她接過去的時候說了聲謝謝。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後那件事就過去了。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 133,
+  "narration": 98,
+  "emphasis": 35,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "ahe",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "zhang_zhenqi": "真琪姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

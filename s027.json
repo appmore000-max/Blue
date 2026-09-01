@@ -1,0 +1,725 @@
+{
+ "id": "27_回得來",
+ "title": "回得來",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇一六年，高志遠二十五歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "役期滿了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個單位那邊有留他的意思。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是隨口講的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他們找了他兩次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一次是他的隊長。在一個很普通的下午，兩個人站在停車場旁邊抽菸——高志遠不抽，而他站在那裡陪。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你留下來嘛。」",
+   "pause_before": 0,
+   "who": "squad_lead",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我想想。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "第二次是三個月之後。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一次來的人比較大，而那個人講得比較直。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「你是我看過站在前面站得最好的。」",
+   "pause_before": 0,
+   "who": "officer",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯謝謝長官。」",
+   "pause_before": 0,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不是誇你。」",
+   "pause_before": 0,
+   "who": "officer",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那個人把菸捻掉。",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「是那個位置很少有人做得來。多數人會退。你不會。」",
+   "pause_before": 0,
+   "who": "officer",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那句話是對的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那七年他做的事情很單純。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "站在前面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是誰指定的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他一開始就發現自己做得比別人好的一件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他在那裡學到三樣東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "怎麼擋。 而那是可以練的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "什麼時候該退。 而那更難。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個場地的形狀。 誰在哪裡、什麼東西會從哪個方向來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而最後那一項他學得最好。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他想了大概半年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那半年他每天都在算同一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是薪水的問題。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個單位給的比外面好。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那份工作他做得很好，而且他喜歡那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他喜歡的不是危險。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他喜歡的是那個位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "站在最前面，而後面那些人可以做他們該做的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事他做得比誰都好，而且他知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他還是走了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "理由他跟所有人講的是：他要結婚。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是真的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "但那不是全部。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那半年裡他去了一趟。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個地方是南部的一個公墓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他去的理由是那年他們單位有一個人不在了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人跟他同梯。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "比他大兩歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人有兩個小孩，一個四歲一個一歲多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天在那裡，那個人的太太站在最前面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個小孩不知道發生了什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "小的那一個在玩自己的鞋子。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "大的那一個一直在問「爸爸咧」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而沒有人回答他。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "高志遠那天站在後面。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想的不是「我可能會變成那樣」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他想的是那個四歲的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那個四歲的會記得。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個一歲多的不會。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事，哪一件比較好，他到現在都不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天回去的路上，他在車上坐了很久。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想清楚了一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那份工作沒有一個「回得來」的保證。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是說它危險。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "任何一份工作都可能出事。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話的意思是：那份工作的結構裡面，沒有那一項。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "你出去，然後你回來——那是運氣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是設計。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他二十五歲那年退下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他發現了一件他沒有預期的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那七年他練出來的東西，在外面沒有地方用。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "擋。判斷。看一群人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那些東西在民間，一樣都用不上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他去了一間工程公司。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那份工作他做得下去。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "只是那不是他會的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而還有一件很現實的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他要結婚了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他們算過一間房子要多少。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個二十五歲的退役軍人，那份薪水不夠。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個數字他們兩個坐在一張桌子前面算了一個晚上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而算完之後，她說：",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「那不然先租。」",
+   "pause_before": 0,
+   "who": "wife",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「⋯⋯嗯。」",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那一個「嗯」是他這輩子講得最不甘願的一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他找了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他找的方向很清楚：一個他做得來的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而多數他找到的，跟那個單位是同一種結構。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "你出去，然後你回來——那是運氣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他一個一個看過去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他看到了一條。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "加入的實際意思只有一個：你同意在有事的時候被派遣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一條他讀了三遍。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一條的意思是：",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "平常的時候，那不是你的生活。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "你有你自己的工作。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "你有你自己的家。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們找你的時候你才去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是「回得來的保證」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有一個地方給得出那個。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "但那是一個可以回去的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事不一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他去填了那份表。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一欄問的是：為什麼想加入。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他坐在那裡想了一下。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他寫了六個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "「我要有一個家。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一欄多數人寫的是別的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有人寫理念。有人寫能力。有人寫「我想做點什麼」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他寫那六個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "九年後，他三十四歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他每天六點半回家。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是他堅持的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是規定。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "界沒有那種規定。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他自己每天在算的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他一天看很多次時間。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而多數時候他在算幾點可以回家。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他有一個習慣，所有人都知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他站的位置永遠在人跟門中間。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他自己完全沒有意識到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是那七年學的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那七年學的是怎麼擋。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而站在人跟門中間，是另外一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "門是出去的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他站在那裡的意思是：你要出去的時候，你會先經過我。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他做了很多年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個四歲的小孩現在應該十四歲了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠從來沒有再去過那個公墓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是他忘了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是他不知道去了要幹嘛。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他做的事情是另外一種。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他每一年那個日子會轉一筆錢。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個帳戶是那個人的太太的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有留言。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那九年下來，那邊從來沒有回過任何一個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有期待。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是要她回的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個人每年做一次的事情。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 136,
+  "narration": 102,
+  "emphasis": 25,
+  "speech": 7,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "gao_zhiyuan",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   6,
+   7
+  ],
+  [
+   10,
+   12
+  ]
+ ]
+}

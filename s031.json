@@ -1,0 +1,681 @@
+{
+ "id": "31_孩子",
+ "title": "孩子",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇〇五年，他三十一歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天下午他在一個地方等。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個地方在哪裡，那天他在等什麼，不重要。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三天發生了什麼，這裡不會寫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "能確定的只有一件事：那天下午，有一個老人走過來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "七十八歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "拄著一根木頭的拐杖，走得很慢。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他走過來的時候，那個節奏是穩的——不是那種怕跌倒的老人的走法。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人走到他旁邊，然後停下來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有講話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他站在那裡站了大概兩分鐘。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩分鐘裡，他沒有看那個三十一歲的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他在看前面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他從口袋裡拿出一包菸。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "抽出一根。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "遞過去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個三十一歲的人沒有動。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人也沒有收回去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他就那樣拿著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個姿勢維持了大概二十秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而在那二十秒裡，那個三十一歲的人算了一遍。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是他十六年來的習慣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "任何一個靠近他的人，他都會算一遍。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "這個人要什麼。這個人身上有什麼。這個人如果動，會從哪裡動。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一次算不出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那個老人身上有東西——那一項他看得出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個東西沒有在動。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一點都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個身上有東西、而完全沒有在動的人，站在一個三十一歲的、剛從那種地方出來的人旁邊——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那個算式沒有答案。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那個結構在他認識的世界裡不存在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後那個老人叫了他一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「孩子。」",
+   "pause_before": 2,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他已經十六年沒有被人那樣叫過了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是十六年沒有人對他好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那十六年裡有人給過他錢。有人替他擋過。有人在某個晚上把最後一點水給了他。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些全部有理由。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個給錢的人要他去做一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個替他擋的人是因為那一趟少一個人就完不成。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個把水給他的，隔天要他先走前面。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些他都算得出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些他都接受。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那就是那個地方的樣子。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而「孩子」那兩個字沒有理由。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個交易的開頭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個要求的前置。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那甚至不是一個判斷。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個老人那一秒不知道他是誰。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個人叫另一個人「孩子」的時候，他不是在描述那個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他是在描述他自己站的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他接下了那根菸。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他不抽菸。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "十六年，一根都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為菸會發亮。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在他做的那些地方，是會死人的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他接下來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他掏了一個打火機。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個東西是路邊攤貨。金屬殼，老式的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它那時候還打得出火。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他點了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是他這輩子第一根。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他抽了一口。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "嗆到了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人沒有笑。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他也沒有看過來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他就是站在那裡，看著前面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那天那個老人講了一段話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那段話有多長，那個三十一歲的人到現在都記得每一個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有跟任何人講過那段話的內容。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是勸他。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是罵他。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那也不是任何一種「你應該」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那段話講完之後，那個老人走了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有留電話。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有留地址。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有問他叫什麼名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後是那三天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三天他做了什麼，二十年來沒有一個人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "只有一次，很多年之後，他對一個人講了一句。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個人那時候大概二十幾歲，剛開始接他的東西，而她問了一個她自己也沒有預期會問出口的問題。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯指揮，那三天你在做什麼？」",
+   "pause_before": 1,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候正在看一份東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他沒有抬頭。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「我在算，那個老頭講得對不對。」",
+   "pause_before": 2,
+   "who": "qiangzang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那句話講完之後，他繼續看那份東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人也沒有再問。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有講他算出什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "三天之後，他出現在那個老人面前。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人那天在做的事情很普通。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他在整理一份東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他抬起頭，看到那個人站在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有意外。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他也沒有說「你來了」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他只是把手上那份東西放下，然後說：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「坐。」",
+   "pause_before": 1,
+   "who": "huabang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "那五年，那個老人帶他去看後果。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是講道理。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是勸他。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "不是要求他改。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是帶他去看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那些事情之後的樣子。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那些人。那些家。那些留下來的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事重複了幾百次。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個老人從來沒有講過任何一句「你應該」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "第五年，二〇一〇年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "有一次他自己停手了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "三秒鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個現場的其他人沒有發現。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那三秒鐘看起來像是他在判斷。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個老人不在場。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他到現在都不知道那件事對那個老人的意義。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為他從來沒有講過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人也從來沒有問過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個打火機十幾年前就壞了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有修，也沒有換。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "現在它就只是一塊很亮的金屬。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個亮不是保養出來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是二十年一直被同一隻手拿在同一個位置磨出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有人知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "包括那個給他菸的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他現在叫每一個人的全名。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是規矩。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他自己的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那十六年，沒有人被完整地叫過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那些地方的人有代號、有編號、有綽號、有一個誰都可以用的稱呼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一個人有名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以他叫全名。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為名字應該被完整地叫出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他自己那個，已經沒有人在用了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "包括他自己。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 130,
+  "narration": 95,
+  "emphasis": 31,
+  "speech": 4,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "qiangzang",
+ "⚠_label_rule": {
+  "huabang": "那個老人",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫每一個人的全名——除了那個老人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

@@ -1,0 +1,315 @@
+{
+ "schema_version": "0.3",
+ "id": "huabang",
+ "source_file": "角色檔案_華邦.docx",
+ "⚠": "這一份撞出了 v0.2 最後一個洞。見規格 v0.3 第一節",
+ "identity": {
+  "name_zh": "華邦",
+  "real_name": "華丞",
+  "real_name_known_by": [
+   "huabang"
+  ],
+  "sex": "male",
+  "age": 98,
+  "residence": {
+   "region": "山裡",
+   "coords": null,
+   "note": "而那個地方沒有幾個人去過。地圖不標"
+  },
+  "faction": {
+   "id": "jie",
+   "role": "創立者",
+   "status": "2020 完全退出經營",
+   "founded": 1967
+  },
+  "rank": {
+   "tier": 3,
+   "sub": "上",
+   "label": "患",
+   "note": "其他組織為了往來方便硬掛的。而他從未在意"
+  },
+  "energy_system": {
+   "has": true,
+   "name": "元氣",
+   "name_note": "※ 他自己的講法。不是這個世界通用的體系名稱，也沒有出現在任何一份文件上",
+   "known_to_self": true
+  }
+ },
+ "resource": {
+  "stamina": {
+   "max": 70,
+   "regen_per_sec": 14,
+   "roll_cost": 24,
+   "note": "九十八歲。而這一格是隨年齡掉的"
+  },
+  "cun": {
+   "max": null,
+   "max_note": "已被七十三年的動本削到不明",
+   "in_combat_regen": 0,
+   "max_display": "不明"
+  },
+  "ben": {
+   "can_force": true,
+   "forced_before": true,
+   "forced_count": "幾乎每一場",
+   "reversible": false,
+   "persistence": "outside_savefile",
+   "note": "那些對手多半比他強。而他手上那些東西，多數時候是不夠用的"
+  },
+  "perception": "accurate",
+  "perception_note": "那一項不是練出來的。而他剛好是清楚的那一種。他算了七十三年"
+ },
+ "⚠_remaining_uses": {
+  "value": 3,
+  "unit": "場",
+  "is_ability": false,
+  "is_cun": false,
+  "is_hp": false,
+  "what_it_is": "一個人剩下的次數",
+  "derivation": [
+   {
+    "age": 87,
+    "event": "茲克瓦",
+    "recovery": "三個月"
+   },
+   {
+    "age": 91,
+    "event": "併吞事件",
+    "recovery": "八個月"
+   },
+   {
+    "age": 93,
+    "event": "最後一次動手",
+    "recovery": "一年多。而且沒有完全恢復"
+   }
+  ],
+  "curve": "恢復時間每一次都在翻倍。而第四次可能回不來",
+  "known_by": [
+   "huabang"
+  ],
+  "told_anyone": false,
+  "engine_note": "這不是資源，是一個計數器。用一次就少一次，而且永遠不回",
+  "his_own_definition": {
+   "from": "小說 71｜九十三歲",
+   "safe_means": "他做完那件事之後，還可以自己走回來",
+   "why_low": "一個定得太高的標準，會讓他在該用的時候不用",
+   "the_number": "三。而真正的數字可能是二，也可能是四",
+   "why_three": "因為三比較好記。而一個要在現場那一秒被叫出來的數字，必須好記",
+   "written": "日記上有一頁只有一個字：三。沒有日期，沒有說明"
+  }
+ },
+ "combat": {
+  "role": "all_round",
+  "role_note": "全能型。而他沒有一項是特化的",
+  "origin": "二十五歲那年。而理由是他睡不好",
+  "training": "每天早上四點起來，在院子裡打一個小時。七十三年",
+  "abilities": [
+   {
+    "id": "awe",
+    "label": "威攝",
+    "cost": "medium",
+    "range_m": 500,
+    "effect": "可分層精準施加。連二階以上的強者都會全身發冷、無法主動攻擊",
+    "cooldown": null
+   },
+   {
+    "id": "danger_sense",
+    "label": "危險感知",
+    "cost": null,
+    "always_on": true,
+    "effect": "未來五分鐘感知。而且能感知危險的性質（物理／能量／陷阱／毒）",
+    "⚠": "唯一一項不用錢的。所以他空掉之後還是很難被偷襲",
+    "empty_state_note": "他還是知道接下來五分鐘會發生什麼。他只是沒有辦法再做什麼了",
+    "cooldown": null
+   },
+   {
+    "id": "harden",
+    "label": "部分硬化",
+    "cost": "scaling",
+    "charge_rule": "硬得越多、撐得越久，扣得越兇",
+    "effect": "能擋反器材狙擊與小型反裝甲飛彈。精度可到只硬化單根手指",
+    "cooldown": null
+   },
+   {
+    "id": "might",
+    "label": "巨力",
+    "cost": "medium",
+    "effect": "單拳擊穿 50 公分鋼板；單腳踢飛 5 噸重物；單手抓持 3 噸",
+    "cooldown": null
+   },
+   {
+    "id": "fly",
+    "label": "飛",
+    "cost": "scaling",
+    "charge_rule": "飛得越久扣得越多",
+    "effect": "音速級短距離衝刺；最高 3000 公尺",
+    "cooldown": null
+   },
+   {
+    "id": "blink",
+    "label": "瞬間移動",
+    "cost": "very_high",
+    "charge_rule": "而這一項扣得最兇",
+    "range_m": 50,
+    "cooldown": null
+   },
+   {
+    "id": "wanjie",
+    "label": "萬解",
+    "cost": "very_low",
+    "cooldown": null
+   }
+  ],
+  "no_cooldown": true,
+  "empty_profile": {
+   "still_can": [
+    "危險感知（常駐，不用錢）",
+    "七十三年的拳"
+   ],
+   "lost": [
+    "其餘全部"
+   ],
+   "one_line": "他還是知道接下來五分鐘會發生什麼。他只是沒有辦法再做什麼了",
+   "⚠": "這是全世界唯一一個「空掉之後還是很難被偷襲」的人"
+  },
+  "equipment": [
+   {
+    "id": "cane_blade",
+    "label": "那根拐杖裡的短劍",
+    "origin": "二十五歲時一個不知名老人給的",
+    "rule": "只能拔一次。而拔的時候要很清楚為了什麼",
+    "used": false,
+    "years_carried": 73
+   }
+  ],
+  "thousand_year_eye_control": {
+   "from": "小說 94｜那個地方開口了",
+   "first_time": "四十幾歲，意外。昏迷三天，躺兩星期",
+   "what_he_learned": "控制不是他可以讀多少，是他可以決定不讀",
+   "why_that_matters": "那天的問題不是他讀了。是他不知道它會開",
+   "rule_he_set": "「這件事，值得我一個星期都站不起來嗎？」",
+   "result": "七十幾年，只有十二次的答案是值得"
+  }
+ },
+ "knowledge": {
+  "does_not_know": [
+   "順風的存在",
+   "張福貴知道那些賀年禮是誰寄的",
+   "那句「聽說往天上看，好像會有意外之喜」六十三年後應驗在對方孫子身上"
+  ]
+ },
+ "playable": {
+  "mode_b": false,
+  "reason": "九十八歲。而他剩下的次數是劇情資源，不是玩家資源"
+ },
+ "encounter": {
+  "type": "npc",
+  "location_on_map": false,
+  "fast_travel": false,
+  "how_to_reach": "有人帶你，或者你已經去過",
+  "note": "跟順風那個頂樓同一種處理"
+ },
+ "tells": [
+  {
+   "action": "早上四點起來打拳",
+   "note": "而那件事他做了七十三年"
+  },
+  {
+   "action": "看那張照片",
+   "note": "一年一次。而那是那個孩子的生日"
+  },
+  {
+   "action": "摸那把短劍",
+   "note": "而他七十三年沒有拔過"
+  },
+  {
+   "action": "寫那一行",
+   "note": "每天。而那一行寫了六十三年"
+  }
+ ],
+ "routine": {
+  "daily": [
+   {
+    "t": "04:00",
+    "act": "起床"
+   },
+   {
+    "t": "04:00–05:00",
+    "act": "打拳。而那件事他做了七十三年"
+   },
+   {
+    "t": "早上",
+    "act": "菜園"
+   },
+   {
+    "t": "下午",
+    "act": "而多數時候他坐著"
+   },
+   {
+    "t": "晚上",
+    "act": "寫那一行"
+   },
+   {
+    "t": "而每個月有一天",
+    "act": "那個孩子會來"
+   }
+  ]
+ },
+ "wardrobe": [
+  {
+   "id": "1",
+   "context": "日常",
+   "items": "樸素的衣服。而那是他種菜穿的"
+  },
+  {
+   "id": "2",
+   "context": "見那個孩子",
+   "items": "那件深藍色的長袍"
+  },
+  {
+   "id": "3",
+   "context": "出門",
+   "items": "而他一年出不了幾次門"
+  },
+  {
+   "context": "那把短劍",
+   "note": "只能拔一次。而他七十三年沒有拔過"
+  },
+  {
+   "context": "兩瓶高粱",
+   "note": "出門的時候。而他平常不喝（見 13.4）"
+  },
+  {
+   "context": "那本日記",
+   "note": "而那是同一本的第幾本，他自己也不記得了"
+  },
+  {
+   "context": "語言",
+   "note": "中文、台語、日語"
+  },
+  {
+   "context": "通訊",
+   "note": "一支很舊的手機。而他很少用"
+  },
+  {
+   "context": "作息",
+   "note": "四點起床。而那件事七十三年沒有變過"
+  },
+  {
+   "context": "飲食",
+   "note": "極簡。多數是自己種的"
+  },
+  {
+   "context": "酒",
+   "note": "平常不喝"
+  },
+  {
+   "context": "時段",
+   "note": "做什麼"
+  }
+ ],
+ "body": {
+  "height_cm": 178,
+  "weight_kg": 70
+ }
+}

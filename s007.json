@@ -1,0 +1,610 @@
+{
+ "id": "07_打不出火",
+ "title": "打不出火",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那份回報在六點三十四分轉到他手上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "強葬讀得很慢。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "前面那幾段是事實：日期、地點、姓名、職業、住址、三年前那個案子的編號、一則論壇貼文的連結、以及時間軸的對照。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些寫得非常乾淨。乾淨到他一眼就看得出來那個人查了幾天，走了幾條路，而其中有幾條是空的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後是最後那一段。",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "那個人不知道那件事跟他有關。\n\n他以為那是三十年做下來的代價，而他也去看過醫生。\n\n而我確認過他沒有任何一次違規的紀錄。\n\n我不確定接下來該做什麼。\n\n如果那個東西要停下來，我目前想得到的方法只有一種，而那一種我沒有辦法寫在這裡。\n\n我不確定那是不是唯一的方法。\n\n而我認為在確定之前，不應該有人去做那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "強葬把那一段讀了一遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他讀了第二遍。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今沒有寫出來的那一種方法，他知道是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不需要猜。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西在吃一個人。而它吃的那個人如果不在了，它就沒有東西可以吃。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是一句很簡單的話。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人二十四歲，他寫不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "強葬把手機放在桌上，往後靠。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "總部二樓的燈是白的，而那個時間點外面已經亮了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他沒有開窗。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那十六年他做過那種事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十五歲到三十一歲，在很多個他到現在都沒有講過名字的地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那種決定他做過的次數，他自己沒有算過。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為算不出來。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那不是一個需要被算的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是冷血。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是那個工作本身。有人給你一個結果，你去把那個結果做出來，而中間有多少人不知道自己為什麼會在那裡——那不在你的範圍裡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他在那個範圍裡待了十六年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "二〇〇五年，有一個老人給了他一根菸。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天他三十一歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個老人講了一段話，而那段話他到現在都記得每一個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他花了三天。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那三天他沒有跟任何人講過他在做什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "只有一次，很多年以後，他對一個人講了一句：",
+   "pause_before": 0
+  },
+  {
+   "t": "speech",
+   "text": "「我在算，那個老頭講得對不對。」",
+   "pause_before": 0,
+   "who": "qiangzang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有講他算出什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點零二分，林雪芸傳訊息進來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n那份回報你看了嗎\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n看了\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n要怎麼處理\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "強葬看著那三個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "要怎麼處理。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個詞在這一行裡有兩個意思，而那兩個意思差非常多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手機放下，從外套口袋裡拿出那個打火機。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "金屬殼，老式的，路邊攤貨。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "外殼已經磨得很亮——那不是保養出來的亮，那是二十年一直被同一隻手拿在同一個位置磨出來的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他按了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "打不出火。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西十幾年前就壞了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有修，也沒有換。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "現在它就只是一塊很亮的金屬。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他按了第二下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "還是打不出火。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點十一分，他回了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n不處理\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點十二分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n那個東西怎麼辦\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n看著\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n多久\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "強葬看著那兩個字看了大概十秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他打了：",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n不知道\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字他很少用。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "界裡面有一種說法——強葬不講「不知道」。他要嘛回答，要嘛不回。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個說法是對的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點十四分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n那要派誰\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他想了大概二十秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人要能待得住。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "要能在同一個地方看很久而不覺得那件事沒有意義。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "要不會問為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而更重要的是——要看得出那個東西什麼時候變了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他打了三個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n余冷川\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "七點十六分，林雪芸回了一個字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n好\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有問為什麼是他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為她不想問。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是因為她問了也不會有答案——而她在這裡十九年，那件事她第三年就學會了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "強葬把手機收起來。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他站起來，走到窗邊，把百葉拉開一條縫。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "外面是清晨的台北。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他在那裡站了大概一分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "余冷川那個人他看了十二年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十二年前那個人自己停下來了——不是被抓，不是被勸，也沒有任何一件事情逼他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他就是有一天不做了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而強葬那時候在看著。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人知道自己被看到了。而強葬知道那個人知道。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而十二年來，兩個人一個字都沒有提過那件事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那個人會懂。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不需要解釋。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個做過那種事、然後有一天自己停下來的人——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "去看著一個做了一件好事、然後停不下來的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而強葬不會跟任何人講他為什麼派那個人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "包括余冷川自己。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "八點多，貼文出去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "```\n【2011】新北。承前案。\n定點觀察。每週回報。\n@ 余冷川\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那則貼文全體成員都看得到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而沒有一個人問為什麼是每週。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也沒有一個人問要看多久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而程以今在林口的家裡，八點十幾分看到那則。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他把手機放下，去廚房洗昨天那個碗。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他洗到一半停了一下。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個決定不是他要的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "也不是他不要的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那個決定的意思是：那個人會繼續累下去，而沒有人會告訴他為什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而同時它也代表另外一件事——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人會去找他。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "程以今把碗放到架上，擦了擦手。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他從口袋裡拿出那四枚零錢，放進抽屜最裡面那個鐵盒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個五十、兩個十塊、一個一塊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而在總部二樓，強葬坐了下來，開始看下一份東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天早上進來的通報有十一件。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他一件一件讀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而每一件他都給了四個數字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "中午十二點多，他從外套口袋裡把那個打火機拿出來，放在桌上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個東西在白色的燈底下很亮。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他看了一會兒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那一年那根菸他是點著了的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "用的就是這一個。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後他把它收回去，繼續工作。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 117,
+  "narration": 107,
+  "emphasis": 8,
+  "speech": 1,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "qiangzang",
+ "⚠_label_rule": {
+  "huabang": "那個老人",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫每一個人的全名——除了那個老人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

@@ -1,0 +1,698 @@
+{
+ "id": "50_把背拍直",
+ "title": "把背拍直",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "早上四點半，他醒了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他不再出海已經三十幾年了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "可是那個時間改不掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "五點，他坐下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "半個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他做了六十幾年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是他四十幾歲那年，一個廟裡的人教他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由很簡單：他那時候睡不好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是誰，他沒有問。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人也沒有講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那件事的過程很短。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他去廟裡拜。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人看了他一眼，然後說：",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「你按呢坐。」",
+   "pause_before": 1,
+   "who": "temple_keeper",
+   "label_as": null,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（你這樣坐。）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人示範了一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他跟著坐了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人把他的背拍直。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "就這樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有講原理。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有講功效。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有講那要坐多久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他回去之後，隔天早上就坐了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而六十幾年來，他一次都沒有停過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是修行。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他不覺得那有什麼玄的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是坐半個小時，然後起來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那半個小時他在做什麼——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有做什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是坐在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而有人問過他那半個小時在想什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他的回答是：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯無咧想。」",
+   "pause_before": 1,
+   "who": "zhang_fugui",
+   "label_as": null,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（沒有在想。）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是敷衍。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是真的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而六點多，他坐到門口那張椅子上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那張椅子是他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他兒子換過兩次，兩次他都說不用。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他一天大概坐八個小時。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數時候他什麼都沒有在做。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有人問過他坐在那裡幹嘛。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他的回答是：「看啊。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他看的是什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "人走過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "車。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "隔壁那個賣菜的收攤。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "還有天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而看天那件事是五十幾年的職業病。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個在海上待了五十幾年的人，看天是本能。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那已經沒有用了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是在看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個孫子出生的時候，他八十六歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子很小的時候，早上會跟著他起來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是他叫的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那孩子自己起來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個三、四歲的小孩，五點鐘會起來，走到客廳，然後坐在旁邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他什麼都沒有講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子就在旁邊看他坐。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "看了大概一年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後有一天，那孩子也坐下來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他做的事情只有一件。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他把那孩子的背拍直。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "就這樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有講原理。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有講功效。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有講那要坐多久。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他從來沒有覺得算什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而十幾年後，那個孩子十六歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子身上有東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是打坐來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是全部。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是其中一塊。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那孩子自己有講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是對他講的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是有一次那孩子在跟一個女生講話，而他剛好在門口。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我是靠打坐、靠佛學，然後自己弄出來的。」",
+   "pause_before": 3,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒坐在那張椅子上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有轉頭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想的是一件很小的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那孩子的背是不是還直的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他到現在都沒有想過跟自己有關。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那不可能。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他一輩子在海上。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他一百零二歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他什麼都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有能力。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有讀過幾年書。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一樣可以留給誰的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他那半個小時，是一個廟裡的人隨手教的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人為什麼教他，他沒有問。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有想過那算什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把那件事傳下去的方式，是把一個三、四歲的小孩的背拍直。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他做那件事的時候，沒有想過那是在傳什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是覺得，背要直。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個廟裡的人當年，大概也是這樣想的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他太太是二〇〇〇年走的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那年他七十七歲。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事怎麼發生的，這裡不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的只有一件。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那之後他還是五點鐘坐。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "一天都沒有停過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他在忍。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那件事跟她沒有關係。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個回答聽起來很冷。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它不是。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事跟她沒有關係，代表那件事她拿不走。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而在那幾年，他需要有一樣東西是拿不走的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她走之前有一段時間在床上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那段時間他每天早上五點還是坐。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他坐的位置換了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他坐在床邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她有一次醒著，看著他坐。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她說了一句：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯你按呢坐幾冬矣。」",
+   "pause_before": 1,
+   "who": "wife",
+   "label_as": null,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（你這樣坐幾年了。）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「⋯⋯袂記得矣。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "（忘記了。）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她笑了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她說：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯攏無變。」",
+   "pause_before": 1,
+   "who": "wife",
+   "label_as": null,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（都沒有變。）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是她那幾個月裡講過的話裡面，他記得最清楚的一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有跟任何人講過那句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "包括他兒子。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那句話他到現在都沒有完全弄懂。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她講的是那個姿勢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "還是別的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他坐在門口那張椅子上想過很多年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次想到最後，都會抬頭看一下天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那沒有為什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是抬頭看了一下。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 132,
+  "narration": 86,
+  "emphasis": 41,
+  "speech": 5,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_fugui",
+ "⚠_label_rule": {
+  "huabang": "那個人",
+  "ahe": "那個孫子",
+  "⚠": "他不知道華邦叫什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [],
+ "⚠_taigi_review": "見 _台語檢查表.md。未經母語者確認"
+}

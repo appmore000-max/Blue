@@ -1,0 +1,737 @@
+{
+ "id": "20_那一行字",
+ "title": "那一行字",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "凌晨兩點十四分，白嵐還醒著。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不奇怪。她多數的晚上都是這樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她住的那間公寓已經被她改造成工作的地方——三個螢幕，兩台主機，一堆線，還有一張她其實不太用的床。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她今天晚上在做的是通報系統的關鍵字判讀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那套系統不是她建的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "是很多年前一個人建起來的，用一套現在看起來已經很舊的邏輯。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個邏輯有它的道理——它是給人讀的，不是給機器讀的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "因為建它的那個人是自己讀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "每天。全部。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "白嵐第一次看到那套系統的架構的時候，坐在那裡看了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為它寫得好。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為它寫得像是「我知道我會親自看每一份」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "凌晨兩點二十九分，她在改一個判讀規則。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個規則是關於描述詞的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "通報進來的人多半不在現場，而他們用的是自己想得到的詞。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "「一團會動的」「大概兩個人那麼高」「沒有臉」——",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那些詞在舊的邏輯裡沒有對應。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以進來的時候會被歸成待判，然後由人去讀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她在做的事情很簡單：讓那一類自動歸到二。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那樣統籌那邊就不用讀第二遍了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點零四分，改完。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她測了三十六筆歷史通報，正確率是三十四筆。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "錯的那兩筆，一筆是有人形容自己家的狗，一筆是有人形容一台被撞爛的機車。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把那兩筆的例外加進去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三點十一分，上線。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有留任何一行說明。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "早上八點多，她收到兩個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "```\n好\n```",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就是全部。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她盯著那兩個字看了大概三秒。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她把手機放下，繼續睡。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那件事她做了三年了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是這一項。是這一整類。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "每隔一陣子，她會去改一個小地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "判讀規則、排序邏輯、一個沒有人會注意到的介面順序、一個會少按兩次的按鈕。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來不解釋為什麼要改。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那些改動的共通點只有一個：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "它們全部是為了讓那個人少讀一點東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人每天讀的量一份都沒有少。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十五歲那年，白嵐駭進了一個她不該進的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她不是為了偷什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她只是想知道自己做不做得到。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後她被追了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人的速度非常快。三小時之內就摸到了她真實的位置。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她反追蹤回去了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "兩小時四十五分。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把那個人的來源反追出來，然後她看見了那是什麼。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的感覺不是得意。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是害怕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上，她的螢幕上出現了一行字。",
+   "pause_before": 0
+  },
+  {
+   "t": "quote",
+   "text": "「如果妳不想被某些人盯上，我建議妳選一個能保護妳的地方。」",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有威脅。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有要求。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有留任何一個可以聯絡的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那就只是一句建議。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個人講完就走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐坐在那裡看了很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那兩年她沒有停。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她也沒有再做那種事了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那兩年她做的是另外一件事：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她開始查那個人是誰。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不容易。而且花了她很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她查到了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她查到那行字是從哪裡來的、那條線通到什麼地方、以及那個地方叫什麼名字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有立刻去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她看了那個組織兩年。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十七歲那年，她自己去申請的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "填資料、評估、測試、登錄。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "跟每一個正常加入的人一模一樣。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她進去之後才發現一件事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人沒有認出她。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一次見面的時候，那個人跟她握手，講了兩句話，然後就去處理別的事了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是裝的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐那一秒站在那裡，腦子裡跑完了三種可能。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第一種：那個人在演。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她三秒之內就排除了——那個人不需要對一個十七歲的新人演。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "第二種：那個人記得，但是覺得不需要提。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而第三種是對的。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人不記得。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她後來去查過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是查那件事本身。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是查那個人那一年做了幾次同樣的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她查到的數字讓她坐在那裡很久。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個小數字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人那一年在很多個不同的地方，留過很多行不一樣的字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而每一行都很短。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "沒有威脅、沒有要求、沒有留任何一個可以聯絡的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "就只是一句建議。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些人後來怎麼樣了，沒有一個地方有紀錄。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為那個人根本沒有在追蹤。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人做完就忘了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐記了七年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是委屈。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她從來沒有覺得那個人應該記得。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "一個每天讀完所有進來的東西、記得幾百個名字加上每一張臉的人——",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "她記得的是名單上的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而十五歲的白嵐不在那份名單上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那時候她只是螢幕另一端的一個 ID。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那件事不需要被講出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐也沒有打算講。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "因為如果她講了，會發生一件很麻煩的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人會道歉。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那是最糟的結果。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個人會說「抱歉我不記得了」，然後那句話會變成一件她要處理的事。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那行字的意義就不見了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那行字的意義在於：那個人在那一秒，對一個她根本不認識的十五歲小孩，多做了一件不需要做的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而如果那個人記得，那就變成一個決定。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人不記得，所以那是一個習慣。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而習慣比決定重要得多。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "早上十點多，白嵐醒了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "她泡了一杯咖啡，坐回椅子上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三個螢幕。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "其中一個上面跑著那套系統的日誌。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而昨天晚上那個改動已經在跑了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那天早上進來的十四筆通報裡面，有三筆被自動歸成了二。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三筆如果照舊的邏輯，會被歸成待判。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "待判的意思是：有一個人要親自去讀。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而現在她不用讀了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "三筆。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那大概省了她十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "白嵐看著那個數字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後她打開另外一個檔案。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個檔案在她電腦裡，沒有備份到任何一個地方。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而它從三年前開始記。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "每一次她改一個小地方，她就在裡面加一行。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "日期、改了什麼、大概省了多少。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而最後一欄是一個累計的數字。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那個數字現在是：",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "四百六十二小時。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她把今天那十分鐘加進去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "四百六十二小時又十分鐘。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那個檔案沒有標題。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "也沒有人知道它存在。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "包括那個一天到晚讀完所有東西的人。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐把它存起來，然後關掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "咖啡還是熱的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "她喝了一口，看著另外一個螢幕上跑著的東西。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "那是今天早上的通報。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十四筆。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而她會一筆一筆看過去。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "不是因為那是她的工作。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那樣的話，如果有哪一筆被判錯了，她會第一個發現。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她也沒有跟任何人講過。",
+   "pause_before": 0
+  }
+ ],
+ "stats": {
+  "boxes": 143,
+  "narration": 123,
+  "emphasis": 19,
+  "speech": 0,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "bai_lan",
+ "⚠_label_rule": {
+  "lin_xueyun": "統籌",
+  "⚠": "而她記了七年"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

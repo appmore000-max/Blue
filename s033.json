@@ -1,0 +1,602 @@
+{
+ "id": "33_它說話了",
+ "title": "它說話了",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十七歲那年的某一天，阿智在走路。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他本來要去哪裡，那件事後來變得不重要。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有寫在筆記上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他往前踏出去了一步。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一步落地的時候，踩到了別的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是走錯路。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是迷路。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他的腳在半空中的時候，底下那個東西換了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他第一個發現的是光。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個光不對。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "不是暗，也不是亮。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個光沒有方向。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有影子。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個沒有影子的地方，代表光不是從一個地方來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事在物理上不成立。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第二件事是聲音。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那裡沒有聲音。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是安靜。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "安靜是「有東西可以發出聲音，而它們沒有」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那裡是沒有東西可以發出聲音。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第三件事是他回頭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而來的那條路已經不在了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有跑。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是他勇敢。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他那一秒在算。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "跑要往哪裡跑。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他看不出來哪一個方向跟哪一個方向有差別。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以跑是一個沒有意義的動作。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "於是他站在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他做了一件他自己後來想起來覺得很奇怪的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他蹲下來，摸了一下地。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是硬的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它的溫度跟空氣一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事也不對。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為地面通常比空氣涼一點，或者暖一點。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而一樣是很難的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "他那時候在讀高中。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他物理很好。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒想的是熱平衡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西是在他站起來的時候出現的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "它出現的方式不是走過來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是本來就在那裡而他沒看到。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是它出現了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它有多大，阿智寫不出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是他記不得。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是他那一秒沒有辦法判斷距離。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個沒有辦法判斷距離的地方，尺寸這個東西不存在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它看著他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個「看」他也寫不出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他在筆記上試過四種寫法，全部劃掉了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "最後他留下的那一句是：",
+   "pause_before": 1
+  },
+  {
+   "t": "quote",
+   "text": "我知道它在看我。\n\n而我不知道我是怎麼知道的。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "然後它說話了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個聲音不是從一個地方來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "跟那個光一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它自稱「狻猊」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字阿智那時候不認識。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他是回去之後才查的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而查到的時候他坐在那裡很久。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那兩個字他不認識，而它講出來的時候，他聽懂了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事本身就是一個問題。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那段對話有多長，阿智不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他離開之後看了一下手機。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個時間跟他踏出那一步的時間，差不到一分鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他在裡面待了一分鐘。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那只代表那個地方的時間跟這邊對不起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事也不能證明什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他那時候可能在裡面待了一分鐘，也可能待了三個小時。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他兩種都寫在筆記上了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它講了什麼，他寫了十幾頁。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那十幾頁沒有給任何人看過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不是因為那是秘密。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他自己也不確定他寫的東西對不對。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個人在一個沒有影子、沒有聲音、沒有距離的地方，聽一個他判斷不出來有多大的東西講話——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人記下來的東西，可信度是多少。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問題他到現在都沒有答案。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他離開的時候，身上多了一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他不知道是什麼時候多的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個儀式。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那不是它伸手碰他。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "那也不是它講了一句「我給你」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是在走出來之後，發現自己身上多了一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一項是獅子。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "至於那個東西為什麼給他——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他問過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個答案他也寫在那十幾頁裡面。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不確定他有沒有聽懂。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他是怎麼離開的，他也不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他記得的是：他往一個方向走了幾步。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他就在原本那條路上了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那條路上有一台機車經過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個聲音他那一秒覺得很吵。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他剛剛在一個沒有聲音的地方待過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那之後他再也沒有進去過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也從來沒有找過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是他不敢。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是他算過了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那個地方不在任何一張地圖上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他進去的方式是「往前踏了一步」。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作他每天做幾千次。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以那不是一個位置的問題。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個他找不到變數的問題。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而一個找不到變數的問題，你沒有辦法重複實驗。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那十幾頁在那本筆記本裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是第五十一頁。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是最後面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那十幾頁的最後一行，是他十七歲那年寫的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那一行是這樣的：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "它問了我一個問題。\n\n而我到現在還沒有想出答案。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題是什麼，他沒有寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他一開始就覺得，把它寫下來會讓它變成別的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而三年了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他二十歲，在補習班教書，讀物理系。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁的最下面，還是那一行。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而後面那一格還是空的。",
+   "pause_before": 1
+  }
+ ],
+ "stats": {
+  "boxes": 116,
+  "narration": 77,
+  "emphasis": 37,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "azhi",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}
