@@ -1,0 +1,254 @@
+{
+  "schema_version": "0.5",
+  "id": "qiang_zang",
+  "source_file": "角色檔案_強葬.docx",
+  "⚠": "撞出 duration 與全域共通限制",
+  "identity": {
+    "name_zh": "強葬",
+    "real_name": null,
+    "real_name_note": "完全留白。全界沒有一個人問過，包括華邦",
+    "sex": "male",
+    "age": 51,
+    "birth_year": 1974,
+    "residence": {
+      "region": "台北",
+      "note": "而那個地方沒有幾個人去過"
+    },
+    "faction": {
+      "id": "jie",
+      "role": "指揮",
+      "joined": 2005,
+      "joined_age": 31
+    },
+    "rank": {
+      "tier": 3,
+      "sub": "中",
+      "label": "患"
+    },
+    "energy_system": {
+      "has": true,
+      "name": null,
+      "since": "十五歲以前就在了",
+      "origin": "從未講過",
+      "⚠": "他完全沒有氣。全部檔案不得寫他使用氣"
+    }
+  },
+  "resource": {
+    "stamina": {
+      "max": 150,
+      "regen_per_sec": 22,
+      "roll_cost": 20,
+      "note": "十六年國際傭兵"
+    },
+    "cun": {
+      "max": 110,
+      "in_combat_regen": 0
+    },
+    "ben": {
+      "can_force": true,
+      "forced_before": true
+    },
+    "perception": "accurate"
+  },
+  "combat": {
+    "role": "all_round_shortburst",
+    "⚠_global_constraint": {
+      "id": "everything_is_short",
+      "desc": "所有能力持續時間都很短",
+      "consequence": "他沒有辦法打持久戰",
+      "engine_note": "這一格是角色層級的，不是能力層級的。它同時套用在下面每一項上"
+    },
+    "abilities": [
+      {
+        "id": "blend",
+        "label": "混入環境",
+        "cost": "medium",
+        "duration": "short",
+        "effect": "身體變成指定物體",
+        "limit": "而無法隱藏氣息",
+        "cooldown": null
+      },
+      {
+        "id": "descend",
+        "label": "從天而降",
+        "cost": "medium",
+        "duration": "instant",
+        "effect": "落地不傷，而氣息被隱藏",
+        "cooldown": null
+      },
+      {
+        "id": "enlarge",
+        "label": "變大",
+        "cost": "high",
+        "duration": "short",
+        "effect": "攻防速全部短暫提升",
+        "cooldown": null
+      },
+      {
+        "id": "dark",
+        "label": "黑暗",
+        "cost": "high",
+        "duration": "short",
+        "effect": "方圓十里黑霧",
+        "limit": "可被抵抗",
+        "cooldown": null
+      },
+      {
+        "id": "shift",
+        "label": "順移",
+        "cost": "high",
+        "duration": "instant",
+        "range_km": 10,
+        "effect": "無聲移動",
+        "trace": "留下黑色碎片",
+        "cooldown": null
+      },
+      {
+        "id": "burst",
+        "label": "爆發",
+        "cost": "LIFE",
+        "⚠_cost_type": "燃燒氣血與壽命。而那不是存，也不是本",
+        "duration": "short",
+        "effect": "速度接近順移",
+        "⚠_risk": "沒贏就變成待宰羔羊",
+        "cooldown": null
+      }
+    ],
+    "melee_baseline": {
+      "近戰": "頂級",
+      "拳腳": "紮實。而無流派——實戰打出來的",
+      "刀": "偏好短的",
+      "槍械": "各類",
+      "就地取材": "有"
+    },
+    "empty_profile": {
+      "still_can": [
+        "近戰頂級",
+        "刀",
+        "槍械",
+        "就地取材"
+      ],
+      "lost": [
+        "全部六項"
+      ],
+      "one_line": "把能力全部拿掉他還是很難處理",
+      "⚠": "而他的能力本來就都很短。所以他一直在那個狀態附近"
+    }
+  },
+  "knowledge": {
+    "does_not_know": [
+      "順風的存在",
+      "那三個孩子的存在"
+    ],
+    "never_told_anyone": [
+      "他原本的名字",
+      "那十六年",
+      "那三天",
+      "第二次他進去了"
+    ]
+  },
+  "tells": [
+    {
+      "action": "叫每一個人的全名",
+      "why": "他覺得名字應該被完整地叫出來",
+      "exception": {
+        "who": "lin_xueyun",
+        "calls": "雪芸",
+        "since": "大概是她進來的第七、八年開始的",
+        "she_noticed": true,
+        "he_knows_she_noticed": false
+      }
+    },
+    {
+      "item": "那個打火機",
+      "state": "十幾年前就打不出火了",
+      "note": "而他沒修也沒換。現在就只是一塊磨得很亮的金屬。帶了二十年"
+    },
+    {
+      "action": "進門先掃一眼",
+      "note": "而那不到一秒"
+    },
+    {
+      "action": "坐的位置永遠看得到門",
+      "note": "而他自己完全沒有意識到"
+    },
+    {
+      "action": "那個打火機",
+      "note": "而他不抽菸（見 3.3）"
+    },
+    {
+      "action": "不看人的眼睛",
+      "note": "而那不是心虛"
+    },
+    {
+      "action": "他隨時知道現在幾點",
+      "note": "誤差不超過兩分鐘"
+    }
+  ],
+  "playable": {
+    "mode_b": true,
+    "unlock": "late",
+    "note": "三階中。而他的玩法是：每一招都只有幾秒"
+  },
+  "wardrobe": [
+    {
+      "id": "1",
+      "context": "平時",
+      "items": "黑色長袖＋黑色長褲＋黑色靴子"
+    },
+    {
+      "id": "2",
+      "context": "出勤",
+      "items": "同上。而他不換"
+    },
+    {
+      "id": "3",
+      "context": "對外",
+      "items": "加一件深色外套。而那是他唯一一件算得上正式的東西"
+    },
+    {
+      "context": "那個打火機",
+      "note": "而他不抽菸（見 3.3）"
+    },
+    {
+      "context": "一把刀",
+      "note": "而他很少用"
+    },
+    {
+      "context": "一支手機",
+      "note": "而那支手機從來不關"
+    },
+    {
+      "context": "語言",
+      "note": "中文、台語、英文，以及那十六年學的幾種"
+    },
+    {
+      "context": "通訊",
+      "note": "一支手機。而 Line 跟 Discord 都在"
+    },
+    {
+      "context": "作息",
+      "note": "睡得極少。而他醒得極快"
+    },
+    {
+      "context": "飲食",
+      "note": "極簡"
+    },
+    {
+      "context": "酒",
+      "note": "不喝"
+    },
+    {
+      "context": "菸",
+      "note": "不抽"
+    }
+  ],
+  "body": {
+    "height_cm": 186,
+    "weight_kg": 88
+  },
+  "routine": {
+    "daily": [],
+    "⚠": "原檔沒有作息表。而那是留白"
+  }
+}

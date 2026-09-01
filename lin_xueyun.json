@@ -1,0 +1,199 @@
+{
+  "schema_version": "0.2",
+  "id": "lin_xueyun",
+  "source_file": "角色檔案_林雪芸.docx",
+  "identity": {
+    "name_zh": "林雪芸",
+    "sex": "female",
+    "age": 38,
+    "birth_year": 1987,
+    "residence": {
+      "region": "台北市",
+      "district": "信義區",
+      "type": "公寓",
+      "note": "而她多數時間不在那裡"
+    },
+    "faction": {
+      "id": "jie",
+      "joined": "2006",
+      "role": "統籌",
+      "registered": true
+    },
+    "rank": {
+      "tier": 5,
+      "sub": "上",
+      "label": "常"
+    },
+    "energy_system": {
+      "has": false,
+      "note": "沒有領悟過，也沒有練出來過"
+    }
+  },
+  "resource": {
+    "stamina": {
+      "max": 105,
+      "regen_per_sec": 20,
+      "roll_cost": 20
+    },
+    "cun": null,
+    "cun_absent_note": "無。不是很少，是不存在",
+    "ben": null,
+    "perception": null,
+    "perception_note": "沒有存，所以沒有這一格。而那不是缺陷，是不適用"
+  },
+  "combat": {
+    "role": "non_combat_support",
+    "melee_baseline": {
+      "格鬥": "紮實。而那是實戰型的。十九歲那幾年練的",
+      "短刀": "隨身。而她真的用過",
+      "手槍": "會用而且準，但不喜歡帶"
+    },
+    "trained_for": [
+      "防禦",
+      "脫離",
+      "拖時間"
+    ],
+    "abilities": [],
+    "empty_profile": null,
+    "empty_profile_note": "她沒有可以空掉的東西。她一直都是這個樣子",
+    "cannot": "她打不贏能力者。而她也不打算"
+  },
+  "non_combat_capability": {
+    "讀資料": "頂級。她每天讀完所有進來的東西",
+    "記人": "幾百個名字，加上每一張臉",
+    "判斷": "誰去、誰不去、誰現在不能上",
+    "對外交涉": "而那是她最硬的一面"
+  },
+  "systems_owned": [
+    {
+      "id": "jie_dispatch",
+      "name": "界的通報系統",
+      "note": "她建起來的。而現在維護的人不是她",
+      "engine_role": "事件分級四碼的來源。派遣介面"
+    }
+  ],
+  "playable": {
+    "mode_b": true,
+    "combat": false,
+    "note": "可扮演，而那一段的玩法不是戰鬥。見《事件分級》8.2"
+  },
+  "tells": [
+    {
+      "action": "一邊講電話一邊寫",
+      "note": "而兩件事都不會漏"
+    },
+    {
+      "action": "翻那本筆記本",
+      "note": "一天很多次"
+    },
+    {
+      "action": "講話前會先確認對方的狀態",
+      "note": "而她自己完全沒有意識到"
+    },
+    {
+      "action": "揉眉心",
+      "note": "而她只在沒有人的時候做"
+    },
+    {
+      "action": "泡茶",
+      "note": "而她泡給別人的比泡給自己的多得多"
+    }
+  ],
+  "routine": {
+    "daily": [
+      {
+        "t": "早上",
+        "act": "讀前一天所有進來的東西"
+      },
+      {
+        "t": "白天",
+        "act": "派遣、調度、對外"
+      },
+      {
+        "t": "傍晚",
+        "act": "繼續"
+      },
+      {
+        "t": "晚上",
+        "act": "讀那些回來的回報"
+      },
+      {
+        "t": "深夜",
+        "act": "而那個視窗經常還開著"
+      }
+    ]
+  },
+  "wardrobe": [
+    {
+      "id": "1",
+      "context": "總部",
+      "items": "白色襯衫＋黑色窄裙或西裝褲＋低跟鞋"
+    },
+    {
+      "id": "2",
+      "context": "對外交涉",
+      "items": "深色套裝。而那一套她穿得像盔甲"
+    },
+    {
+      "id": "3",
+      "context": "日常",
+      "items": "針織衫＋長褲＋平底鞋。而她這一套穿得很少"
+    },
+    {
+      "id": "4",
+      "context": "居家",
+      "items": "寬鬆長袖＋棉褲。而那一套幾乎沒有人看過"
+    },
+    {
+      "context": "那本筆記本",
+      "note": "最重要的東西（見 3.3）"
+    },
+    {
+      "context": "兩支手機",
+      "note": "而兩支都不關機"
+    },
+    {
+      "context": "一支筆",
+      "note": "而她習慣用同一款"
+    },
+    {
+      "context": "胃藥",
+      "note": "而那件事她沒有跟任何人講過"
+    },
+    {
+      "context": "每一頁記的",
+      "note": "說明"
+    },
+    {
+      "context": "名字",
+      "note": "而她記得每一個人的臉"
+    },
+    {
+      "context": "喜歡什麼",
+      "note": "而那不是資料，是她自己觀察的"
+    },
+    {
+      "context": "最近的狀況",
+      "note": "家裡出了事、換了工作、狀態不對"
+    }
+  ],
+  "body": {
+    "height_cm": 168,
+    "weight_kg": 52
+  },
+  "knowledge": {
+    "knows": [
+      "幾百個名字，加上每一張臉",
+      "鄭翊辰每年那幾天"
+    ],
+    "does_not_know": [
+      "二〇一八年那一行字是她留的",
+      "高志遠與白嵐在接她的邊角",
+      "順風的存在"
+    ],
+    "never_told_anyone": [
+      "她把那幾天標了起來",
+      "她讀了那份回報三遍"
+    ]
+  }
+}

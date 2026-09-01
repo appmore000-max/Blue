@@ -1,0 +1,201 @@
+{
+ "id": "gao_zhiyuan",
+ "source_file": "角色檔案_高志遠.docx",
+ "identity": {
+  "name_zh": "高志遠",
+  "sex": "male",
+  "birthplace": "高雄",
+  "residence": {
+   "region": "新北市",
+   "district": "三峽區",
+   "type": "透天",
+   "note": "而那是他跟他老婆一起貸的"
+  },
+  "faction": {
+   "id": "jie",
+   "role": "前線調度"
+  },
+  "rank": {
+   "tier": 4,
+   "sub": "上",
+   "label": "異"
+  },
+  "energy_system": {
+   "has": true,
+   "name": null,
+   "origin": "軍方那一套",
+   "known_to_self": true
+  }
+ },
+ "body": {
+  "height_cm": 188,
+  "weight_kg": 95
+ },
+ "resource": {
+  "stamina": {
+   "max": 165,
+   "regen_per_sec": 19,
+   "roll_cost": 24
+  },
+  "cun": {
+   "max": 130,
+   "in_combat_regen": 0
+  },
+  "ben": {
+   "can_force": true,
+   "forced_before": true
+  },
+  "perception": "accurate"
+ },
+ "combat": {
+  "role": "heavy_guard",
+  "role_note": "重型防護。而他的位置是站在人跟東西中間",
+  "origin": "軍方那七年",
+  "signature": "他到得了那個位置",
+  "limits": [
+   "他不快",
+   "而他也不遠"
+  ],
+  "poise": 220,
+  "empty_profile": {
+   "still_can": [
+    "體格",
+    "軍方那七年的底子",
+    "擋"
+   ],
+   "lost": [
+    "防護的全部"
+   ],
+   "one_line": "一個還站在原地、而擋不住的人",
+   "⚠": "而他不會退。那是他的問題"
+  },
+  "field_command_note": {
+   "from": "小說 87｜那一瞬間他沒有喊",
+   "discovery": "他有一瞬間沒有喊，而現場停了",
+   "what_that_meant": "他如果不講，那些人就不會動",
+   "cause": "不是他要求的。是他那幾年每一次都對",
+   "cost": "那個快，是拿他們的判斷換來的",
+   "what_he_changed": "他開始問。「那邊呢。」「你看得到嗎。」「你覺得咧。」",
+   "disguise": "那三句聽起來像指令。因為他音量偏大，語氣一向是那樣",
+   "price": "現場每一次慢兩三秒。而那四年裡，那個「問」救到過三、四次"
+  }
+ },
+ "relations": [
+  {
+   "id": "zheng_yichen",
+   "line": "慢點，小辰",
+   "count": "幾百次",
+   "he_never_got_angry": true
+  },
+  {
+   "id": "hei_shi",
+   "⚠": "那幾天不排他的班是高志遠調的。而黑石以為那是巧合"
+  }
+ ],
+ "routine": {
+  "monthly": [
+   {
+    "when": "每個月一次",
+    "at": "高雄",
+    "act": "看父母",
+    "note": "而他父親現在六十八歲，還在種一小塊菜"
+   }
+  ]
+ },
+ "playable": {
+  "mode_b": true,
+  "unlock": "mid"
+ },
+ "schema_version": "0.5",
+ "tells": [
+  {
+   "action": "進門會側身",
+   "note": "而那是肩膀的問題"
+  },
+  {
+   "action": "站的位置永遠在人跟門中間",
+   "note": "而他自己完全沒有意識到"
+  },
+  {
+   "action": "講事情的時候會拍肩膀",
+   "note": "而那個力道對他而言是輕的"
+  },
+  {
+   "action": "看時間",
+   "note": "一天很多次。而多數時候他在算幾點可以回家"
+  },
+  {
+   "action": "脖子上掛毛巾",
+   "note": "在家的時候。而那是給小孩擦嘴用的"
+  }
+ ],
+ "wardrobe": [
+  {
+   "id": "1",
+   "context": "上班",
+   "items": "深藍色襯衫＋黑色長褲＋黑色皮鞋。而他穿得很不舒服"
+  },
+  {
+   "id": "2",
+   "context": "出勤",
+   "items": "深黑色半身式重型戰術裝甲＋深灰色加厚長褲＋重型戰鬥靴＋黑色戰術手套"
+  },
+  {
+   "id": "3",
+   "context": "日常",
+   "items": "深灰色寬鬆機能 T 恤（XXL）＋黑色寬鬆工作褲＋作戰靴＋腰間一個小腰包"
+  },
+  {
+   "id": "4",
+   "context": "在家",
+   "items": "寬鬆的灰色棉 T＋黑色運動短褲＋拖鞋。而週末會變成白色內衣"
+  },
+  {
+   "id": "5",
+   "context": "全家出去的時候",
+   "items": "同上，但會加一件外套。而那件外套是他老婆挑的"
+  },
+  {
+   "context": "語言",
+   "note": "中文、台語、英文"
+  },
+  {
+   "context": "通訊",
+   "note": "一支手機。Line 跟 Discord 都在。而他回得很勤"
+  },
+  {
+   "context": "作息",
+   "note": "六點起床，十點半睡"
+  },
+  {
+   "context": "飲食",
+   "note": "台灣家常菜。而他老婆做的飯永遠最好"
+  },
+  {
+   "context": "酒",
+   "note": "週末看球賽的時候一罐"
+  },
+  {
+   "context": "時段",
+   "note": "做什麼"
+  },
+  {
+   "context": "06:00",
+   "note": "起床"
+  }
+ ],
+ "knowledge": {
+  "knows": [
+   "黑石女兒的事"
+  ],
+  "does_not_know": [
+   "順風的存在",
+   "他那六件事的來源是同一句話"
+  ],
+  "never_told_anyone": [
+   "那幾天不排黑石的班是他調的",
+   "他把蘇月那星期的任務減了一件"
+  ],
+  "⚠": "他講的那四句話落在四個人身上。而他一句都不知道"
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "schema_version": "0.5",
+ "id": "lin_ruoshuang",
+ "source_file": "角色檔案_林若霜.docx",
+ "⚠": "撞出 target_class 與 selection_cost",
+ "identity": {
+  "name_zh": "林若霜",
+  "sex": "female",
+  "residence": {
+   "region": "台北市",
+   "district": "大安區",
+   "note": "跟一隻貓"
+  },
+  "public_identity": {
+   "label": "急診科住院醫師",
+   "is_cover": false,
+   "note": "而那不是掩護——那是她真的在做的工作"
+  },
+  "faction": {
+   "id": "jie",
+   "role": "戰場醫療人員",
+   "position": "後排"
+  },
+  "rank": {
+   "tier": 4,
+   "sub": "上",
+   "label": "異"
+  },
+  "energy_system": {
+   "has": true,
+   "name": "精氣",
+   "known_to_self": "partial",
+   "note": "而她從來沒有去查過那是什麼時候領悟的"
+  }
+ },
+ "resource": {
+  "stamina": {
+   "max": 110,
+   "regen_per_sec": 26,
+   "roll_cost": 16,
+   "note": "急診科。而她跑得很快"
+  },
+  "cun": {
+   "max": 95,
+   "in_combat_regen": 0,
+   "name": "精氣"
+  },
+  "ben": {
+   "can_force": true,
+   "forced_before": false
+  },
+  "perception": "accurate",
+  "perception_note": "那個東西是有底的。而她算得出來還剩多少",
+  "perception_always_on": {
+   "from": "小說 46",
+   "value": "常駐。她關不掉",
+   "cruel_part": "她在救 A 的時候，B 的心跳她從頭到尾聽得到",
+   "and": "那個聲音慢下來的過程她也聽得到。而她每一次都在數",
+   "in_game": "多目標時，未被選擇的那一個持續播放一個她聽得到的計時"
+  }
+ },
+ "combat": {
+  "role": "battlefield_medic",
+  "role_note": "她不指揮，也不主攻。她在後面，看著誰快不行了",
+  "self_summary": "她身上所有的東西，都是為了把人帶回來",
+  "abilities": [
+   {
+    "id": "crane_return",
+    "label": "白鶴歸真",
+    "label_note": "※ 檔案標示。界裡沒有人替它取過，她自己也沒有",
+    "in_story_wording": "把他帶出來／我先過去／那個先",
+    "in_story_note": "而每一次講的都不一樣",
+    "target_class": "ally",
+    "⚠_target_note": "這一格是新的。前面六份的能力對象全部是敵人",
+    "range_m": 50,
+    "range_note": "超出去她到不了",
+    "can_save": [
+     "大量出血",
+     "骨折",
+     "內出血",
+     "意識模糊"
+    ],
+    "cannot_save": [
+     "腦死",
+     "心臟完全停止超過五分鐘"
+    ],
+    "wound_effect": "傷勢降一級",
+    "cost": "scaling",
+    "charge_rule": "距離越遠、傷勢越重，扣得越多",
+    "cooldown": null,
+    "cooldown_note": "冷卻制已全面廢除。原本的 30 分鐘作廢",
+    "concurrency": 1,
+    "⚠_selection_cost": {
+     "desc": "一場戰鬥可能有三個人同時倒下。而她只能救一個",
+     "engine_note": "這不是技能限制，這是一個選單。而選單上是名字",
+     "the_real_limit": true
+    },
+    "her_process": "第一個人在幾公尺外、傷成什麼樣子、中間有沒有東西擋著——她一邊過去一邊就在扣那個數字。而回來的時候，她已經知道自己還夠不夠再來一次"
+   },
+   {
+    "id": "field_surgery",
+    "label": "緊急外科",
+    "target_class": "ally",
+    "cost": 0,
+    "is_ability": false,
+    "⚠": "這一項不是能力，是她練出來的。醫學系七年＋急診科",
+    "effect": "不需要手術台、任何環境都能處理、比普通外科醫師快三倍",
+    "cooldown": null
+   },
+   {
+    "id": "field_sense",
+    "label": "戰場感知",
+    "target_class": "ally",
+    "cost": null,
+    "always_on": true,
+    "range_m": 50,
+    "effect": "感知所有戰友的心跳、呼吸、傷勢嚴重度",
+    "⚠_worst_part": "而最痛苦的是——她感覺得到那個人在往下掉，而她可能正在處理另一個",
+    "cooldown": null
+   }
+  ],
+  "personal_combat": {
+   "武術與射擊": "頂級",
+   "小型手槍": "精準度極高",
+   "特殊外科手術刀": "在近身搏鬥中極為致命",
+   "engage_condition": "她不主動打。出手只有一種情況——有東西擋在她跟那個倒下的人中間",
+   "has_killed": true,
+   "has_killed_note": "次數不多。而每一次都是因為那個人擋在路上"
+  },
+  "empty_profile": {
+   "still_can": [
+    "緊急外科（不吃精氣）",
+    "戰場感知（常駐）",
+    "武術與射擊"
+   ],
+   "lost": [
+    "crane_return"
+   ],
+   "one_line": "一個到得了、看得到、而帶不回來的人",
+   "⚠": "這是最殘忍的一種空掉。她還是感覺得到那個人在往下掉"
+  },
+  "range_hard_cap": {
+   "from": "小說 46｜四十幾公尺",
+   "value": 50,
+   "unit": "公尺",
+   "tested": "她試了五年。練法、外物，全部試遍",
+   "result": "那個數字一次都沒有動過",
+   "why_not_told": "講了會變成一個安慰的場合。而她要的是那個數字變大"
+  }
+ },
+ "equipment": [
+  {
+   "id": "med_kit",
+   "label": "醫療包",
+   "note": "最頂級的緊急救援器材。來源留白"
+  },
+  {
+   "id": "pistol",
+   "label": "小型手槍"
+  },
+  {
+   "id": "scalpel",
+   "label": "特殊外科手術刀"
+  },
+  {
+   "id": "candy",
+   "label": "那包糖",
+   "medical_use": false,
+   "note": "口袋裡永遠有，不是給她自己吃的。而那是她整包裝備裡唯一一樣沒有醫療用途的東西"
+  }
+ ],
+ "tells": [
+  {
+   "action": "拆辮子，重綁成緊髮髻",
+   "trigger": "pre_field",
+   "why": "因為救人的時候頭髮不能掉下來",
+   "⚠": "而那在界裡面變成了訊號"
+  },
+  {
+   "action": "回到總部之後先去洗臉",
+   "trigger": "post_field",
+   "why": "而那是她把現場放下的方式"
+  },
+  {
+   "action": "拆辮子",
+   "note": "到現場之前。而那已經變成一個信號了"
+  },
+  {
+   "action": "一邊講話一邊點人數",
+   "note": "而她自己完全沒有意識到"
+  },
+  {
+   "action": "摸口袋裡那包糖",
+   "note": "想事情的時候"
+  },
+  {
+   "action": "蹲下來跟受傷的人講話",
+   "note": "而不是站著。每一次都蹲"
+  },
+  {
+   "action": "回到總部之後先去洗手間洗臉",
+   "note": "而那是她把現場放下的方式"
+  }
+ ],
+ "knowledge": {
+  "does_not_know": [
+   "順風不會武術",
+   "順風的存在",
+   "林雪芸讀了那份回報三遍"
+  ],
+  "carries": {
+   "fear": "怕的不是死，是怕她慢了"
+  }
+ },
+ "playable": {
+  "mode_b": true,
+  "unlock": "mid",
+  "note": "而扮演她的那一段，勝利條件不是打倒誰"
+ },
+ "routine": {
+  "daily": [
+   {
+    "t": "上班",
+    "act": "急診室。而那個地方本來就沒有固定的形狀"
+   },
+   {
+    "t": "下班",
+    "act": "補眠"
+   },
+   {
+    "t": "有事的時候",
+    "act": "放下一切，出勤"
+   },
+   {
+    "t": "回來之後",
+    "act": "寫回報。而她的回報只寫傷勢與處置"
+   },
+   {
+    "t": "休假",
+    "act": "在家，跟貓"
+   }
+  ]
+ },
+ "wardrobe": [
+  {
+   "id": "1",
+   "context": "醫院",
+   "items": "刷手服＋白袍＋好走的鞋。而那件白袍的口袋永遠是鼓的"
+  },
+  {
+   "id": "2",
+   "context": "出勤",
+   "items": "深藍色機能外套（背後有反光條）＋深色長褲＋耐操的靴子＋黑色手套"
+  },
+  {
+   "id": "3",
+   "context": "總部",
+   "items": "舒服的針織衫＋牛仔褲。而她在總部的時間不多"
+  },
+  {
+   "id": "4",
+   "context": "居家",
+   "items": "寬鬆長袖＋短褲＋襪子。而那隻貓通常在她腿上"
+  },
+  {
+   "context": "醫療包",
+   "note": "隨身。內裝最頂級的緊急救援器材"
+  },
+  {
+   "context": "小型手槍",
+   "note": "而她的準度極高"
+  },
+  {
+   "context": "特殊外科手術刀",
+   "note": "用來救人的。而它也可以用來做別的事（見 13.6）"
+  },
+  {
+   "context": "黑色手套",
+   "note": "極薄。而她連在醫院都習慣戴"
+  },
+  {
+   "context": "一包糖",
+   "note": "口袋裡永遠有。而那不是給她自己吃的（見 3.4）"
+  },
+  {
+   "context": "兩支手機",
+   "note": "一支公務，一支私人"
+  },
+  {
+   "context": "語言",
+   "note": "中文、台語、英文"
+  },
+  {
+   "context": "通訊",
+   "note": "兩支手機。而公務那支從來不關機"
+  }
+ ],
+ "body": {
+  "height_cm": 165,
+  "weight_kg": 51
+ }
+}

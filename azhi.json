@@ -1,0 +1,300 @@
+{
+  "schema_version": "0.2",
+  "id": "azhi",
+  "source_file": "角色檔案_阿智.docx",
+  "identity": {
+    "name_zh": "阿智",
+    "residence": {
+      "region": "宜蘭縣",
+      "district": "宜蘭市",
+      "spot": "中山路三段某大樓套房"
+    },
+    "faction": null,
+    "faction_note": "不隸屬於界，也不隸屬於任何組織",
+    "rank": {
+      "tier": 4,
+      "sub": "上",
+      "label": "異",
+      "under_ability": {
+        "id": "unleash_self",
+        "tier": 3,
+        "sub": "中"
+      }
+    },
+    "energy_system": {
+      "has": true,
+      "name": null,
+      "known_to_self": "partial",
+      "note": "他知道自己大概屬於哪一類，但沒有查完"
+    }
+  },
+  "resource": {
+    "stamina": {
+      "max": 95,
+      "regen_per_sec": 21,
+      "roll_cost": 19
+    },
+    "cun": {
+      "max_band": "medium_low",
+      "max": 85,
+      "in_combat_regen": 0
+    },
+    "ben": {
+      "can_force": true,
+      "forced_before": true,
+      "reversible": false,
+      "persistence": "outside_savefile"
+    },
+    "perception": "rough"
+  },
+  "combat": {
+    "role": "transform_control",
+    "abilities": [
+      {
+        "id": "paper_rewind",
+        "label": "剪紙回朔",
+        "cost": "variable",
+        "effect": "生成八秒前的自己，並可返回那個時間點",
+        "note": "而「返回」比「生成」貴得多",
+        "cooldown": null
+      },
+      {
+        "id": "chain_bomb",
+        "label": "連鎖炸",
+        "cost": "medium",
+        "effect": "周身十五公尺內布置最多五顆不可見炸彈",
+        "charge_rule": "布置就扣，不是引爆才扣",
+        "cooldown": null
+      },
+      {
+        "id": "gravity_shift",
+        "label": "重力改變",
+        "cost": "scaling",
+        "effect": "觸碰即可自由改變對象的重力",
+        "cooldown": null
+      },
+      {
+        "id": "green_mend",
+        "label": "清光青翠",
+        "cost": "medium",
+        "effect": "受傷即啟動的持續恢復",
+        "⚠": "自動觸發。而這一項最麻煩——它會在他不想扣的時候扣",
+        "cooldown": null
+      },
+      {
+        "id": "medium_convert",
+        "label": "介質轉換",
+        "cost": "medium",
+        "cooldown": null
+      },
+      {
+        "id": "limb_split",
+        "label": "組織分離",
+        "cost": "scaling",
+        "effect": "四肢可與本體分離，且各自能用全部能力",
+        "charge_rule": "分出去就扣，而且分越多扣越多",
+        "wording_rule": "全部檔案避免用「拆」。那是一個念頭的事",
+        "cooldown": null
+      },
+      {
+        "id": "lion_form",
+        "label": "動物型態·獅子",
+        "cost": "high",
+        "cooldown": null
+      },
+      {
+        "id": "unleash_self",
+        "label": "解禁自身",
+        "cost": "BEN",
+        "trigger": "臨界點時被強制推進。不是他啟動的",
+        "player_control": false,
+        "⚠": "這一項扣的是本，不是存。而且他不記得裡面發生什麼",
+        "cooldown": null
+      },
+      {
+        "id": "thunder",
+        "label": "天地異相",
+        "cost": null,
+        "effect": "獅子狀態時周身引發打雷",
+        "note": "那是被引來的，不是他放的",
+        "cooldown": null
+      },
+      {
+        "id": "afterimage",
+        "label": "時光殘像",
+        "cost": "medium",
+        "max": 3,
+        "cooldown": null
+      },
+      {
+        "id": "gravity_field",
+        "label": "重力場域",
+        "cost": "high",
+        "range_m": 3,
+        "cooldown": null
+      },
+      {
+        "id": "crane_msg",
+        "label": "紙鶴信使",
+        "cost": "very_low",
+        "range_km": 100,
+        "cooldown": null
+      }
+    ],
+    "no_cooldown": true,
+    "no_cooldown_note": "沒有一項有冷卻。他不需要等。他只是每一項都要付",
+    "hidden_trait": {
+      "id": "bomb_immune",
+      "desc": "連鎖炸對他本人與分離出去的肢體完全無效",
+      "known_by": [
+        "azhi"
+      ],
+      "known_by_others": false,
+      "cover": "所有人都以為他只是很會算距離。而他從來沒有更正過",
+      "in_books": false,
+      "in_books_note": "那些書上一個字都沒有寫"
+    },
+    "empty_profile": {
+      "still_can": [
+        "物理與工程的判斷",
+        "算距離",
+        "紙鶴（極少消耗）"
+      ],
+      "lost": [
+        "幾乎全部"
+      ],
+      "⚠": "而清光青翠是自動的——所以他就算空了，受傷還是會扣"
+    }
+  },
+  "knowledge": {
+    "does_not_know": [
+      "順風不是不教，是不會",
+      "園奏是分身",
+      "解禁自身裡發生了什麼（而別人記得）",
+      "他身上那套東西到底是哪一套"
+    ],
+    "partial": [
+      {
+        "he_knows": "他大概在哪一區",
+        "gap": "而再往下就是空的"
+      }
+    ]
+  },
+  "playable": {
+    "mode_b": true,
+    "unlock": "mid",
+    "note": "四階上。而解禁自身不可由玩家主動觸發"
+  },
+  "tells": [
+    {
+      "action": "邊講話邊比劃",
+      "note": "解釋能力或概念的時候，手會不自覺地在空中畫東西"
+    },
+    {
+      "action": "摸口袋確認筆記本",
+      "note": "那是他的習慣，跟呼吸一樣自然"
+    },
+    {
+      "action": "戰鬥中先看地形",
+      "note": "他的能力全部跟空間與位置有關，所以那是本能"
+    },
+    {
+      "action": "想事情時眼睛會往上飄",
+      "note": "在腦子裡跑模擬"
+    }
+  ],
+  "routine": {
+    "daily": [
+      {
+        "t": "吳紫儀",
+        "act": "訊息量最大。貼圖、自拍、隨手拍的東西，一天可以刷幾十則"
+      },
+      {
+        "t": "阿智",
+        "act": "梗圖製造機。他傳的圖有一半沒有人看得懂"
+      },
+      {
+        "t": "阿仁",
+        "act": "「OK」「好」。幾乎沒有第三種回覆"
+      },
+      {
+        "t": "阿和",
+        "act": "訊息簡短但有禮貌。每一則都完整標點"
+      },
+      {
+        "t": "程以今",
+        "act": "回得正常，不多不少"
+      },
+      {
+        "t": "張真琪",
+        "act": "已讀。需要的時候才回"
+      },
+      {
+        "t": "園奏",
+        "act": "有自己的手機，回得很有禮貌"
+      },
+      {
+        "t": "順風",
+        "act": "已讀，然後回一個「嗯」"
+      }
+    ]
+  },
+  "wardrobe": [
+    {
+      "id": "1",
+      "context": "日常",
+      "items": "牛津襯衫 + 卡其褲 + 皮製休閒鞋。整體不花俏，但有一種整理得很好、看起來乾淨舒服的感覺"
+    },
+    {
+      "id": "2",
+      "context": "學院書卷風",
+      "items": "深色針織背心 + 白色襯衫 + 灰色西裝褲。上課與教書時穿"
+    },
+    {
+      "id": "3",
+      "context": "宜蘭老家風",
+      "items": "寬鬆米色 T 恤 + 卡其色寬鬆短褲 + 木屐"
+    },
+    {
+      "id": "4",
+      "context": "戰鬥訓練服",
+      "items": "黑色貼身訓練服 + 黑色運動長褲"
+    },
+    {
+      "context": "小本子",
+      "note": "巴掌大，隨身帶著。臨時想到什麼就先寫一行，回家再整理"
+    },
+    {
+      "context": "手機",
+      "note": "拍照用。有時候現場來不及寫，他會先拍下來"
+    },
+    {
+      "context": "語言",
+      "note": "中文、英文"
+    },
+    {
+      "context": "通訊",
+      "note": "Line + Discord。會傳很多漫畫梗圖（見 4.4）"
+    },
+    {
+      "context": "作息",
+      "note": "早起，起床後三十分鐘能力基礎訓練。白天上課或教書，晚上研究，較晚睡"
+    },
+    {
+      "context": "飲食",
+      "note": "不挑食，幾乎什麼都吃。特別喜歡宜蘭牛舌餅、三星蔥油餅"
+    },
+    {
+      "context": "絕對不吃",
+      "note": "太辣的食物"
+    },
+    {
+      "context": "意外的技能",
+      "note": "會做菜。從父親那裡學的"
+    }
+  ],
+  "body": {
+    "height_cm": 176,
+    "weight_kg": 71
+  }
+}

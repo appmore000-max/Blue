@@ -1,0 +1,239 @@
+{
+ "id": "hei_shi",
+ "source_file": "角色檔案_黑石.docx",
+ "identity": {
+  "name_zh": "黑石",
+  "name_note": "而那兩個字是他自己取的",
+  "sex": "male",
+  "birthplace": "高雄",
+  "residence": {
+   "region": "台北",
+   "note": "離女兒住院的地方十五分鐘"
+  },
+  "public_identity": {
+   "label": "建築公司顧問",
+   "is_cover": false,
+   "note": "而他真的懂那一行"
+  },
+  "faction": {
+   "id": "jie",
+   "joined": 2022,
+   "registered": true
+  },
+  "rank": {
+   "tier": 4,
+   "sub": "上",
+   "label": "異"
+  },
+  "energy_system": {
+   "has": true,
+   "name": null,
+   "origin": "軍方那一套"
+  }
+ },
+ "body": {
+  "height_cm": 189,
+  "weight_kg": 95
+ },
+ "resource": {
+  "stamina": {
+   "max": 170,
+   "regen_per_sec": 17,
+   "roll_cost": 25
+  },
+  "cun": {
+   "max": 100,
+   "regen_band": "slow",
+   "in_combat_regen": 0,
+   "note": "他的量是中等，而他恢復得慢"
+  },
+  "ben": {
+   "can_force": true,
+   "forced_before": false
+  },
+  "perception": "rough"
+ },
+ "combat": {
+  "role": "heavy_bruiser",
+  "role_note": "重型攻防。而他的位置是站在前面",
+  "origin": "軍方十一年的訓練",
+  "signature": "他不是靠打贏的，是靠不倒",
+  "poise": 200,
+  "equipment": [
+   {
+    "id": "shield",
+    "label": "那面盾",
+    "used_count": null,
+    "⚠_fiction_derived": {
+     "from": "小說 75｜那面盾",
+     "self_made": true,
+     "design_tradeoff": "他刻意做輕。重的版本到位慢約 0.3 秒",
+     "why": "他問的不是「哪一種擋得多」，是「哪一種失敗他比較受得了」",
+     "answer": "「我擋得住，而我沒有到」他受不了",
+     "so": "防護值低於同級重型，而移動起手快",
+     "marks": "那些痕跡他一次都沒有處理過。每一道代表那一次他到了",
+     "hidden": "那面盾背後貼著一張他女兒畫的圖。沒有人看得到"
+    }
+   }
+  ],
+  "empty_profile": {
+   "still_can": [
+    "軍方十一年",
+    "體格",
+    "不倒"
+   ],
+   "lost": [
+    "能力的全部"
+   ],
+   "one_line": "一個還在前面、而已經沒有東西可以擋的人"
+  },
+  "one_liner": {
+   "value": "「我擋。」而那兩個字後面沒有任何東西",
+   "note": "不是「我擋，你們快走」。就只是「我擋」"
+  }
+ },
+ "knowledge": {
+  "does_not_know": [
+   "那幾天不排他的班是高志遠調的"
+  ],
+  "believes_falsely": [
+   {
+    "he_thinks": "那幾天不排他是巧合",
+    "actually": "是高志遠調的",
+    "secret_id": "gao_heishi_daughter"
+   }
+  ]
+ },
+ "family": {
+  "daughter": {
+   "status": "住院",
+   "calls_him": "爸爸"
+  },
+  "parents": {
+   "at": "高雄",
+   "call_him": "阿磐"
+  }
+ },
+ "playable": {
+  "mode_b": true,
+  "unlock": "mid"
+ },
+ "schema_version": "0.5",
+ "tells": [
+  {
+   "action": "站的時候會擋在門口",
+   "note": "而他自己完全沒有意識到"
+  },
+  {
+   "action": "手機每十分鐘看一次",
+   "note": "那不是滑手機。他在看有沒有醫院的來電"
+  },
+  {
+   "action": "摸左手那個缺口",
+   "note": "想事情的時候"
+  },
+  {
+   "action": "進屋會先看天花板",
+   "note": "軍方那十一年留下來的。他在看那個空間的承重"
+  },
+  {
+   "action": "抽菸",
+   "note": "而他抽得極兇"
+  }
+ ],
+ "routine": {
+  "daily": [
+   {
+    "t": "05:00",
+    "act": "起床"
+   },
+   {
+    "t": "05:00–06:00",
+    "act": "訓練"
+   },
+   {
+    "t": "06:00–07:00",
+    "act": "早餐。極簡單"
+   },
+   {
+    "t": "白天",
+    "act": "界的事，或者建築公司那邊的事"
+   },
+   {
+    "t": "18:00",
+    "act": "一個星期至少三次，這個時間他在醫院"
+   },
+   {
+    "t": "19:00–21:00",
+    "act": "陪女兒。吃飯、聊天、看她畫東西"
+   },
+   {
+    "t": "21:00",
+    "act": "離開。那是她睡覺的時間"
+   },
+   {
+    "t": "21:30–23:00",
+    "act": "一個人。抽菸，看醫療資料，或者什麼都不做"
+   },
+   {
+    "t": "23:00",
+    "act": "睡覺"
+   }
+  ]
+ },
+ "wardrobe": [
+  {
+   "id": "1",
+   "context": "日常",
+   "items": "深灰色寬鬆機能 T 恤（XXL）＋黑色寬鬆工作褲＋黑色作戰靴＋腰間一個小腰包"
+  },
+  {
+   "id": "2",
+   "context": "出勤",
+   "items": "深黑色半身式重型戰術裝甲＋深灰色加厚長褲＋重型戰鬥靴＋黑色戰術手套"
+  },
+  {
+   "id": "3",
+   "context": "建築公司顧問",
+   "items": "深藍色襯衫＋黑色長褲＋黑色皮鞋＋一個公事包。而那個公事包裡真的是建築的東西"
+  },
+  {
+   "id": "4",
+   "context": "去醫院",
+   "items": "寬鬆的白色短袖＋牛仔褲＋球鞋。而他會刻意穿得年輕一點"
+  },
+  {
+   "id": "5",
+   "context": "居家",
+   "items": "寬鬆灰色棉 T＋深色運動短褲＋拖鞋"
+  },
+  {
+   "context": "腰包",
+   "note": "鑰匙、手機、一張女兒畫的圖"
+  },
+  {
+   "context": "婚戒",
+   "note": "妻子過世之後仍然戴著。出勤的時候會用扣帶綁在裝甲內側"
+  },
+  {
+   "context": "一個舊的不鏽鋼水壺",
+   "note": "他父親送的。從軍方時期帶到現在"
+  },
+  {
+   "context": "菸",
+   "note": "而他抽得極兇"
+  },
+  {
+   "context": "語言",
+   "note": "中文、台語、英文"
+  },
+  {
+   "context": "通訊",
+   "note": "一支手機。Line 跟 Discord 都在，而他回得很簡短"
+  },
+  {
+   "context": "作息",
+   "note": "五點起床，十一點睡"
+  }
+ ]
+}
