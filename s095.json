@@ -1,0 +1,472 @@
+{
+ "id": "95_她記得每一個名字",
+ "title": "她記得每一個名字",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個群組上有一百多個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她記得每一個的名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有人知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她從來沒有叫過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她記得的方式跟多數人不一樣。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "多數人記名字，是配著臉記的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她多數人的臉沒有看過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為她的案子在晚上。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人的案子在白天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她這七年，見過面的大概二十幾個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她記那一百多個的方式，是記位置。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那則貼文上，那個名字排第幾。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個人多久被 @ 一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人被 @ 的時候，旁邊通常是誰。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是一張圖。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是一份名單。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她一開始不是刻意的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她只是每一則都看。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她每一則都看的理由，跟熱衷沒有關係。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那八年留下來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個六歲的小孩在街上，要知道誰在哪裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是為了社交。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是為了知道哪裡不能去。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個習慣她關不掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那七年裡，看出了一些東西。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "有幾個人幾乎每一則都在。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那幾個人裡面，有一個從來沒有被派過致死性風險的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有覺得那有什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事可以有很多種解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "有幾個人只在某些時段出現。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己也是那一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而有幾個人的名字，在某一年之後就沒有了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個她記得最清楚。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她算過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "七年，那個群組上消失的名字有幾個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她算出來的數字，她沒有寫下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一百多個名字裡面，有一個她記得的方式不太一樣。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個名字是統籌。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是那個人的位置。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個人每一年三月三十號會傳一則訊息給她。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那則訊息很短。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「生日快樂。」",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "四個字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有貼圖。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有驚嘆號。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月每一次都回：「謝謝。」",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩個字她每一次都打得很快。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她那一秒不想讓那個對話變長。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生了七次。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那七次她都記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她記得的不是那句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第一年是早上八點多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第二年是中午。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第三年是凌晨兩點多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第四年、第五年、第六年，都是早上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而今年是凌晨一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個時間她那一秒算過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她算出來的東西是：那個人那天很忙。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個早上傳的人，是在一天開始的時候想到的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個凌晨一點傳的人，是在一天要結束的時候才有空。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人沒有忘記。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人只是很晚才有空。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月那一秒回了「謝謝」。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒多打了兩個字。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字是：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「早點睡。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她打完之後，看了那四個字大概三秒。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她按了送出。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她七年來，第一次多打東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而對方回了一個字。",
+   "pause_before": 5
+  },
+  {
+   "t": "quote",
+   "text": "「好。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月那一秒把手機放下。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒在算那個字。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是她二十一年來的習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "任何一句話，先算對方要什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個「好」要什麼——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她算不出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有繼續算。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她這一年學會了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "有些話沒有要什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她是那天在計程車上想出來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事花了她三天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三天之後，那個模型多了一個選項。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個選項的存在，讓她那個晚上睡得比較好。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己沒有發現那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她把窗簾拉得很緊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一點光都不留。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她睡著了。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 90,
+  "narration": 35,
+  "emphasis": 52,
+  "speech": 0,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "su_yue",
+ "⚠_label_rule": {
+  "qiangzang": "那個人",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

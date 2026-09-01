@@ -1,0 +1,508 @@
+{
+ "id": "93_一百二十七",
+ "title": "一百二十七",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個數字不是總數。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他記得的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而總數是多少，他沒有算過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他不想算。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個東西不是一個可以被算的清單。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他記得的那一百二十七個，是怎麼變成一百二十七的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很簡單的規則。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他記得的，是那些他看見過臉的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話的意思要拆開講。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那六年他做的事情裡面，多數不需要看到臉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個從後面來的人，看到的是後腦。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個從遠處來的人，看到的是一個輪廓。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個在暗處的人，什麼都看不到。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些他不記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「不記得」的意思不是他忘了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那些東西沒有進去過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他記的是臉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一百二十七個，是那六年裡他看見過臉的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那些場合有幾種。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "有些是他必須確認。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "有些是那個人轉過來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而有些是他自己走過去的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而最後那一種最少。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他記得最清楚的也是那一種。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他記得的內容，不只是臉。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "地點。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "時間。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那一天的天氣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人身上穿什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那四樣東西為什麼會一起進去，他自己也說不上來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他刻意記的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他也沒有辦法不記。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一百二十七個裡面，有一個他記得的東西特別多。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是第幾個，他沒有編號。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他沒有編號。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那一百二十七個不是一份清單。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一百二十七個各自獨立的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人他記得的是：那個人那天穿的是一件很舊的外套。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那件外套的袖口磨白了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他二十幾年來想過幾次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他想的不是那個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他想的是那件外套。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一件袖口磨白的外套，代表那個人穿了很多年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個穿了很多年同一件外套的人，是一個有生活的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事在那六年裡，是不應該被想到的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒想到了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一秒是他二十幾年前的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事跟他二〇一三年停下來，有沒有關係——",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他沒有算過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也不打算算。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個算式只有兩種結果。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "有關係。 而那樣的話，他停下來的理由就變成一件很久以前的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不對。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那一天想的是一個老闆娘叫小孩快點寫作業。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有關係。 而那樣的話，那件外套就只是一件外套。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那也不對。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他不算。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一百二十七個現在還在。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們沒有變少。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "十二年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它們也沒有變多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他停了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字他從來沒有講過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有寫下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為寫下來就變成一份清單了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一份清單是可以被數的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個可以被數的東西，會變成一個數字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們不是數字。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個「一百二十七」他自己知道，是因為他數過一次。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一次是十二年前的某一個晚上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個晚上他坐在那張桌子前面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而桌上什麼都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一晚做的事情，是把他們一個一個過一遍。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事花了他一整晚。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他這輩子唯一一次做那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而數完之後，他沒有做任何一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "他沒有寫下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他沒有去查那些人的家在哪裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他也沒有做任何一種形式的補償。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事是刻意的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個做了補償的人，會覺得那件事處理過了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不要那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而現在他每個星期二上山。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那條路一公里，柏油變成碎石。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他走到最後那個彎的時候會停下來，站兩秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西在那裡繞圈。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它越來越慢。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他每個月會去一次那間早餐店。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事不在他的任務範圍裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人現在是第一百二十八個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人還活著。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他這一次做的事，是去看著他不要死。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事會不會讓那一百二十七變成別的——",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "不會。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是每個星期去。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 97,
+  "narration": 40,
+  "emphasis": 57,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yu_lengchuan",
+ "⚠_label_rule": {
+  "chen_wenbin": "那個做工的人",
+  "gao_zhiyuan": "那個人",
+  "⚠": "他不知道那個人叫什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

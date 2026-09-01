@@ -1,0 +1,607 @@
+{
+ "id": "61_而他從來沒有查過",
+ "title": "而他從來沒有查過",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個東西沒有名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁從來沒有替它取過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為他覺得取名字很俗。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他沒有想過那件事需要一個名字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那些書他知道在哪裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "阿智有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那本筆記本裡面有影本的來源。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他只要開口，隔天就會有。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有開口。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "四年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事阿智問過他一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是他們認識之後大概第三年。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「你要不要看那些書。」",
+   "pause_before": 3,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「什麼書。」",
+   "pause_before": 2,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「就那個。講體系的。」",
+   "pause_before": 1,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯看那個幹嘛。」",
+   "pause_before": 2,
+   "who": "aren",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那一秒停了兩秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：「就知道自己屬於哪一套啊。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「我又不是不會用。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那句話後來阿智寫進了筆記本。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是第五十一頁。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是最後面那幾頁。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一行是這樣寫的：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "阿仁：「我又不是不會用。」\n\n而那句話在邏輯上是完整的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的重點是這樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那些書上寫的東西，有四樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "怎麼消耗。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "怎麼恢復。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "上限能不能被推上去，以及怎麼推。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "硬逼會發生什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁那四樣全部知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "只是他不是從書上知道的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "怎麼消耗——他知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他知道那個東西用一次會少一塊。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那個「一塊」大概有多大。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他量出來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他打了四年打出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "怎麼恢復——他知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "睡一晚會回來一些。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而睡兩晚不會回來兩倍。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他十六歲那年就發現了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "上限——他知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個東西沒有變過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他試過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那三年他每天都在練，而那個量沒有動。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他停止試了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "硬逼——這一項他也知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他知道的方式是：他做過一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是他十七歲的時候。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次他不知道那叫硬逼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他只知道那個東西已經沒有了，而他還是動了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一次之後他躺了三天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三天他沒有辦法動。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是累。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他身體裡面有一個地方不對。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而三天之後那個東西回來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個地方沒有回來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候的理解是：那樣做會壞掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他不做了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個理解跟書上寫的是同一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "只是書上多了一個名字，跟一段解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個名字跟那段解釋，對他沒有用。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他要的只有結論。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個結論他已經有了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那才是那句話的意思。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「我又不是不會用。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那天回去之後想了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他想的是：那句話有沒有漏掉什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他想出來了一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話漏掉的是：如果有一天他遇到一件他沒有遇過的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為他所有的知識都是打出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而打出來的知識只涵蓋他打過的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事阿智那天想到之後，隔天就想跟他講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有講的理由，他寫在那一行下面。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "而如果我講了，他會去看。\n\n而他會看不下去。\n\n而看不下去這件事，會變成一個他沒有做到的東西。\n\n而他現在沒有那個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西——「一個他沒有做到的東西」——阿智很清楚那是什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為他自己身上有一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第五十一頁。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一頁到現在都還沒有寫滿。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁十九歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他在拳擊館教一些十歲到十六歲的小孩。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他教的方式很簡單。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他不解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他讓他們打。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而打錯了他就說「不對」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩問「哪裡不對」，他會說：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「你再打一次就知道了。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個教法有人不喜歡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而館主講過他一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「阿仁，你要講啊。」",
+   "pause_before": 3,
+   "who": "gym_owner",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「我不會講。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而館主看了他一會兒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：「⋯⋯那你打慢一點。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話阿仁聽懂了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從那天起，示範的時候會慢一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是不講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些小孩裡面，有幾個學得很快。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那幾個學得快的，全部是那種會自己再打一次的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那幾個是阿仁教得最好的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而學不會的那幾個，去別的教練那邊了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而阿仁沒有覺得那有什麼問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有想過跟他自己有關。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個穿拖鞋的人跟他講過一句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他以為那是一個考驗。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那從頭到尾都是字面意思。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人也不解釋。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人也讓他自己去。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人給不出來的原因，跟阿仁給不出來的原因完全不一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個是因為他自己什麼都不會。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而另一個是因為他覺得那不需要講。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事在阿仁那邊看起來，是同一件。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有人會告訴他。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 114,
+  "narration": 65,
+  "emphasis": 39,
+  "speech": 5,
+  "quote": 5,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "aren",
+ "⚠_label_rule": {
+  "shunfeng": "順風大哥",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   12,
+   15
+  ]
+ ]
+}

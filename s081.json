@@ -1,0 +1,528 @@
+{
+ "id": "81_那一秒",
+ "title": "那一秒",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "一九七五年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一天在哪裡，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而怎麼發生的，也沒有。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而這裡不會寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的是：那孩子在旁邊。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那條鐵則就是那個意思。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "分身一定在。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "九百五十年，一天都沒有分開過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一天也是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而在那之前的最後一段時間，他們在做的事情很普通。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他們在走。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子走在他的右前方半步。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個位置是那個人給的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人走在他的右後方半步。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置正好擋住風。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子從來沒有發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一天的最後一句話是什麼，沒有記載。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那也不會是一句特別的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那九百五十年裡，那個人講過幾千幾萬句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "哄的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "教的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "隨口回答的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "指著某樣東西告訴他那是什麼的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一天的最後一句，多數的機率是那一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒發生的時候，那孩子在看別的地方。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事是可以推的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那孩子那時候的習慣是抬頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個習慣從他睜開眼睛的第一秒就有了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而九百五十年來，那個習慣沒有變過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那一秒他很可能在看天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有人可以確定。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒之後，全部十六項灌了進來。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個過程是瞬間的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它沒有任何一種漸進。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一秒之前，他是一個什麼都沒有的分身。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一秒之後，他是這顆星球上最強的存在。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個落差有多大，沒有人形容過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事在這顆星球上，只有四萬多個存在經歷過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們沒有一個講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒低頭看自己的手。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那雙手還是小孩的手。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那雙手現在可以推動地球。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他的第一個念頭是：",
+   "pause_before": 5
+  },
+  {
+   "t": "quote",
+   "text": "這雙手，再也牽不到那個人了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個念頭的形狀很特別。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是「他不在了」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個關於手的念頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很實際的來源。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那九百五十年裡，他被牽過很多次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "過馬路——那個時代還沒有馬路，而有別的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "過河。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "過人多的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "還有他累的時候。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作是那個人做的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人做那個動作的方式，是伸出手。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後等。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都會把手放上去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事做了九百五十年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是一件他記得的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是每天都在發生的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而每天都在發生的事，不會被記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "它會變成別的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒他低頭看那雙手的時候，那件事出來了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而它出來的方式不是回憶。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那雙手在那一秒沒有東西可以放上去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個念頭之後，他做了什麼，沒有記載。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那二十年也沒有。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而至於平和那一秒在想什麼——",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有記載。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事永遠不會有人知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而能推的只有一件。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人知道那件事會發生。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為傳承者是這樣的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他們不會老。而他們會不在。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有預告。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人在那九百五十年裡，每一天都知道那件事可能是今天。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而知道那件事的人，會做兩件事的其中一件。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "第一件是：他會交代。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第二件是：他什麼都不交代。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人選了第二件。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而理由沒有記載。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而最接近的推測是這樣的：",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一個交代過的人，會讓那孩子開始等。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子還有九百五十年要過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個等了九百五十年的人，那九百五十年就不是他的了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有交代。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "沒有告別。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "沒有交代。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一個「接下來要怎麼辦」的說明。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他就只是不在了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的結果是這樣的：",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那孩子那九百五十年，是完整的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有等過任何一天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一天都在看。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟那個人一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人有沒有算過那件事——",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而如果他算過，那那件事是他這九百五十年裡做得最好的一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果他沒有算過——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那那件事就只是他不會講話而已。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事，這顆星球上沒有一個存在分得出來。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 101,
+  "narration": 47,
+  "emphasis": 53,
+  "speech": 0,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "shunfeng",
+ "⚠_label_rule": {
+  "yuanzou": "那孩子",
+  "pinghe": "那個人",
+  "⚠": "他從未提過平和的名字"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

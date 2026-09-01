@@ -1,0 +1,559 @@
+{
+ "id": "57_那邊妳看過了嗎",
+ "title": "那邊妳看過了嗎",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那是一個很普通的現場。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣那天在那裡，是因為她被 @ 到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她被 @ 的理由很固定。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "需要有人查東西的時候。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她做的事情不是查資料庫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事她在家裡就可以做。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她到現場做的，是看那個地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "哪裡不對。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "哪裡被動過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "哪裡的東西應該在而不在。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做得很好。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是能力。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是九年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天她在一個角落。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她蹲在那裡看一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西是什麼，不重要。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "重要的是她蹲了大概二十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那二十分鐘裡，沒有人跟她講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很正常。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為現場的人在做他們的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她在做她的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她這幾年一直是這樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她自己也習慣了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天有一個人走過來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一百八十八公分。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他走過來的時候，那個影子先到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣抬頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他停在她旁邊大概兩公尺的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有蹲下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他蹲下來會讓她抬頭抬得更累。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他自己沒有想過。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是站在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「那邊妳看過了嗎。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他指的是另外一個方向。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣那一秒愣了一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她愣的不是那個問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個問題很普通。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個現場的人問另一個現場的人「那邊看過了嗎」，那是每天都會發生的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她愣的是那個「妳」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她愣的是那個問句本身。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那是一個假設。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個問題假設了：她會去看那邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個假設的意思是：她在做的事情是這個現場的一部分。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而不是「她在旁邊做她自己的事」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她九年來沒有遇過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是因為別人排擠她。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為她自己不覺得那需要。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她進來的理由不是為了跟人一起做事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她進來是為了那個位置。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個可以合法接觸到大量資料的位置。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她從十六歲就很清楚。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以她從來沒有想過要融進去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她也做得很好。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她不遲到。她回報寫得很乾淨。她從來沒有出過錯。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那九年，她是一個非常好用的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她不是一個現場的一部分。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒有一個人假設了她是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒說的是：",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯還沒有。」",
+   "pause_before": 2,
+   "who": "xiao_yuyan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「喔。那我先過去。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就走了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那整件事花了不到十秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人走了之後，就沒有再回來過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那天之後也沒有再跟她講過話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣蹲在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒繼續看那個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她看不下去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上她回到內湖那間公寓。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她開了那台上網的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒想的是一件很奇怪的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她想不起來上一次有人那樣跟她講話是什麼時候。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她想了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她想到的是她父親。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是十四歲之前的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒把那台電腦關掉了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那天晚上什麼都沒有查。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那九年裡，那樣的晚上不到十次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那天晚上做的事情是：她煮了泡麵。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在那裡吃。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個房間很安靜。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，她多了一個習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她開始在現場多待一點。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "大概十幾分鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那十幾分鐘她什麼都沒有做。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她就是站在那裡，看那些人收東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她自己講不出來那是為什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果一定要講——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "大概是因為她想確認那件事會不會再發生一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事到現在都沒有再發生過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人也不知道有那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那句話對他而言，是他一天講幾十次的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他問的每一個人都是那樣問的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那正是那件事的重量。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為如果那是特別為她講的，那就是一個好意。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個好意是可以被感謝的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那個人的預設。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而預設代表：他從來沒有把她排在外面過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而蕭羽嫣二十五歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "包括她母親。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她們每個月見一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而見面的時候她們不談那件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她們什麼都不談。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 107,
+  "narration": 69,
+  "emphasis": 36,
+  "speech": 1,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "xiao_yuyan",
+ "⚠_label_rule": {
+  "gao_zhiyuan": "那個人",
+  "⚠": "她不知道那句話他一天講幾十次"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

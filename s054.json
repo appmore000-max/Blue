@@ -1,0 +1,558 @@
+{
+ "id": "54_第一次他站在外面",
+ "title": "第一次他站在外面",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件事發生過兩次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而第一次他沒有進去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那是他到界之後的第幾年，沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次的事件是什麼，也沒有。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而能確定的只有一件事：",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "有一個人沒有回來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在那個組織裡，不是第一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "也不是最後一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而流程是有的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "通知。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "處理。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "該給的東西給到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些事情不需要指揮去做。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他去了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他站在那棟公寓外面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是一個很普通的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "四樓公寓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "騎樓底下有幾台機車。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "而其中一台上面蓋著一塊布。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他站在對街。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他站了大概四十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那四十分鐘他在算。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他在算他進去要講什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他算不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那十六年裡，他沒有做過這件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那十六年他做的事情很清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "有人給他一個結果。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他去把那個結果做出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而中間有多少人不知道自己為什麼會在那裡——那不在他的範圍裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而「之後」也不在。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那些人的家在哪裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那些人有沒有小孩。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那些人的家裡有沒有人在等。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那十六年他一次都沒有想過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他冷血。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那個工作的結構。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "如果你想了，你就做不下去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那五年，那個老人帶他去看的，就是那個「之後」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是講道理。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是勸他改。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是帶他去看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事重複了幾百次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那幾百次裡，他站的位置永遠是外面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個老人也站在外面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人從來沒有講過為什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬那時候的理解是：那是為了不打擾。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個理解是錯的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他很多年之後才發現。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天他站在對街四十分鐘之後，他走了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他沒有進去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒的理由，他跟自己講的是：他沒有東西可以講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是真的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是全部。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而第二次是很多年之後。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次的事件是什麼，也沒有記載。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一次他進去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次發生了什麼，他到現在都沒講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而這裡也不會寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的只有兩件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一件是：他進去之前，在外面站了四十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟第一次一樣。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二件是：他出來之後，那件事他做了一次就沒有再做了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是因為那一次很糟。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是因為他被趕出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他那一次知道了那個老人為什麼站在外面。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個理由不是不打擾。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為進去的那個人，是要留在那個房間裡的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個進去講了話、然後走掉的人，會在那個家裡留下一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個東西是一個對象。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個可以恨的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個可以問「為什麼是他」的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一個可以在很多年之後，還被想起來的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西留在那裡，比不留下更糟。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一個沒有對象的失去，會慢慢變成別的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個有對象的失去，會停在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個老人知道那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他站在外面。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為講了，強葬就不會自己走進去。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不走進去的人不會懂。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，強葬做的事情變了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他不再去見那些家屬。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他開始做另外一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他調人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那九年他沒有把致死性風險的任務給某一個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他調的不是某一個人的任務，是誰跟那個人一起去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人也不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而某幾個時段，他不排某一個人的班。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人查過，然後決定那是巧合。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那些事情全部有一個共通點。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "它們發生在事情之前。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那才是他從那一次學到的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "站在外面沒有用。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "進去也沒有用。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那兩件事都是「之後」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那十六年做的每一件事，也全部是「之後」的來源。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他這輩子唯一能做的補償，是讓那個「之後」少發生一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有辦法被講出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為講出來就變成一個交代。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個交代是要被接受的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不需要被接受。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個打火機在他口袋裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而它打不出火。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次調完一件事之後，會把它拿出來，按一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作沒有任何意義。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他做了二十年。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 107,
+  "narration": 69,
+  "emphasis": 38,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "qiangzang",
+ "⚠_label_rule": {
+  "huabang": "那個老人",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫每一個人的全名——除了那個老人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

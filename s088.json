@@ -1,0 +1,508 @@
+{
+ "id": "88_他一年睡幾次",
+ "title": "他一年睡幾次",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "傳承者不需要睡眠。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是能力的一部分。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他可以連續醒著一千年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不會累。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不會恍神。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不會有任何影響。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而「不需要」不等於「不能」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他睡得著。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他一年睡幾次，沒有規律。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "有時候一年三次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "有時候一年一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而有一年他沒有睡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼那幾次會睡，他自己也說不上來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是「累了」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他不會累。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那也不是「想睡」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個感覺他沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生的方式是這樣的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他躺在那裡看天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就睡著了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而中間沒有一個「想睡」的過程。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子知道他在睡。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子知道的方式很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人的手會動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而醒著的時候他不動。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一整天躺在那裡，那隻手在腦後，一次都不動。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而睡著的時候，那隻手會換位置。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子第一次發現的時候，愣了很久。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那時候不知道那個人會睡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事那個人沒有講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子那時候大概跟了他兩年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那一次做的事情，是他這輩子做過最大膽的一件。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他走過去，蹲下來，看那個人的臉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他看了大概三十秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三十秒是他二十幾年來，唯一一次那樣看那個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為醒著的時候，那個人在看天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個在看天的人，你不會去看他的臉。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事會很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個睡著的臉，那孩子看到的是：很普通。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "一個二十五歲的男性。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而眼睛閉著。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那個顏色不在。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那一秒想的是：如果他不知道那是誰，他會怎麼看那張臉。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想出來的答案是：一個很普通的人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事讓他愣了一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人那一次睡了大概八個小時。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而醒過來的時候，他沒有講話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子也沒有問。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那之後二十幾年，那件事發生過幾十次。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子每一次都知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都沒有過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為第一次那三十秒之後，他覺得那件事不太對。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人會作夢。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子也知道那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他知道的方式是：那個人醒過來之後的第一秒，會愣一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個愣很短。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "大概半秒。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而醒著的人不會愣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為醒著的人知道自己在哪裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個剛醒過來、而且愣了半秒的人，是從別的地方回來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人夢到什麼，他從來沒有講過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "包括對那孩子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子問過一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是很久以前的事了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他問的方式很小心。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那時候在演七歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個七歲的小孩問那種問題，聽起來是天真的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「哥哥剛剛有作夢嗎。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人那一秒沒有立刻回答。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個停頓大概兩秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個停頓本身就是答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯有。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子說：「夢到什麼？」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯忘記了。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那一秒知道那不是真的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那個人不會忘記東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一千年，一件都沒有忘記過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子那一秒也知道，那個「忘記了」不是騙他。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個結束話題的方式。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人講謊的方式，跟那孩子講謊的方式不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那孩子講謊是為了守住東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人講謊，是為了不讓對方繼續問。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事的區別是：一個會經營，一個不會。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人的謊，一戳就破。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子沒有戳。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那之後二十幾年，那孩子沒有再問過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次那個人睡著的時候，會做一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他會去泡茶。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有用。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人醒過來的時候，那杯茶已經涼了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子知道那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是泡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人每一次都喝。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人從來沒有講過那杯是涼的。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 97,
+  "narration": 42,
+  "emphasis": 52,
+  "speech": 0,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yuanzou",
+ "⚠_label_rule": {
+  "shunfeng": "哥哥",
+  "zhang_zhenqi": "真琪姐姐",
+  "wu_ziyi": "紫儀姐姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

@@ -1,0 +1,647 @@
+{
+ "id": "75_那面盾",
+ "title": "那面盾",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那面盾不是界給的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他自己弄的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而「弄」的意思很字面。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他找了材料。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他畫了圖。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他找了一間工廠。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那間工廠是他建築公司那邊的關係。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他跟那個師傅講的是：他要一片會擋東西的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅問了一句：「擋什麼？」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「⋯⋯很多。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅看了他一會兒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就沒有再問了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那面盾做完之後，他自己不滿意。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為它太重。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而重不是問題——他一百八十九公分，九十五公斤。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他扛得動。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "問題是重會慢。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒算的是：慢多少。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他算出來的答案是：大概零點三秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而零點三秒在多數場合沒有意義。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而在一種場合有。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個場合是：他要從一個地方移動到另一個地方，去擋住某一樣東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那零點三秒，就是那樣東西已經過去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒做了一個決定。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他把它做輕。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而做輕的代價是：它擋不住那麼多了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒算的是另外一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一面擋得住很多、而到得比較慢的盾。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "跟一面擋得住比較少、而到得比較快的盾。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "哪一個救得到比較多人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案他算了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是一個可以算的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "它取決於現場。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "它取決於對面是什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它取決於那些人站在哪裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他算不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他用了另外一個方式。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他問自己：哪一種失敗他比較受得了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題他一秒就有答案了。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「我到了，而我擋不住。」",
+   "pause_before": 4,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "跟「我擋得住，而我沒有到。」",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而後面那一種他受不了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他把它做輕了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那面盾現在的重量是多少，沒有人問過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而界裡面的人看到它，多數的反應是：那看起來不太夠。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而有一次有人講了。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「石哥，你那個要不要換一個？」",
+   "pause_before": 3,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「不用。」",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「那個看起來擋不了什麼欸。」",
+   "pause_before": 3,
+   "who": "member",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「我會到。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字那個人沒有聽懂。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是一個答非所問的回答。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人「喔」了一聲，然後就沒有再提了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那面盾上有痕跡。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那些痕跡他沒有處理過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為他懶。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為每一道痕跡，代表那一次他到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有跟任何人講過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那面盾他用了三年。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而三年下來，那些痕跡多到看不出原本的表面了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而其中有一道特別深。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一道是二〇二二年的某一件案子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件案子他本來不在名單上。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他上去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事怎麼發生的，他到現在都不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那則貼文出來的時候，上面是另外一個名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而三天之後又換了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒的理解是：那是統籌調整。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事每個星期都在發生。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件案子他去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次很難。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一次到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他擋住了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一道痕跡是那天留下來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天回去之後，他去了醫院。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個時間是晚上八點多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他進去之前，先在樓下的廁所把身上處理了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他做過很多次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他的固定流程。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那天上去的時候，他女兒在畫畫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她抬頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「爸爸。」",
+   "pause_before": 4,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 1,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你今天很晚。」",
+   "pause_before": 1,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「加班。」",
+   "pause_before": 3,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「喔。」",
+   "pause_before": 3,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她低頭繼續畫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他坐下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他坐下來的那一秒，肩膀那邊痛了一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他女兒畫的是一個人。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個人手上有一個東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她畫完之後給他看。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「這什麼。」",
+   "pause_before": 4,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「人。」",
+   "pause_before": 2,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「什麼人。」",
+   "pause_before": 1,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不知道。」",
+   "pause_before": 1,
+   "who": "daughter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而黑石看了很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人手上那個東西是圓的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而它上面有很多線。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒問了一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「這個是什麼。」",
+   "pause_before": 4,
+   "who": "hei_shi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯不知道啊。就一個東西。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而黑石說：「喔。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：「不錯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「爸你每次都說不錯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他說：「因為都不錯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那張圖現在在他腰包裡。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是那一張。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那一張還是六歲那年畫的那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一座山，旁邊寫了兩個字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而這一張他收在另外一個地方。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "在那面盾的背後。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置沒有人會看到。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那面盾的背後是貼著他的。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 118,
+  "narration": 67,
+  "emphasis": 36,
+  "speech": 13,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "hei_shi",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   83,
+   87
+  ],
+  [
+   95,
+   98
+  ]
+ ]
+}

@@ -1,0 +1,626 @@
+{
+ "id": "78_他問過兩次",
+ "title": "他問過兩次",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "第一次是他十六歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那年他認識那個人大概兩年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他們在一個地方。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個地方是哪裡，不重要。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他跟那個人動過手。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「動手」在那個人身上是一個很奇怪的詞。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人不動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而程以今那時候十六歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他七歲就把該學的都學完了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一次用的是他當時最好的一套。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一套的核心是：讓對方沒有辦法預測第四拳。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "三秒內三十拳以上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而每一拳的力量分配都不同。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而對手沒有辦法從前三拳推算出第四拳。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一套在那個人身上完全沒有用。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有用的方式很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是被擋掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是被閃開。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是那三十拳全部到位了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而什麼都沒有發生。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他停下來的時候在喘。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人站在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人的姿勢從頭到尾沒有變過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而程以今那一秒問了一句。",
+   "pause_before": 5
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯你剛剛在幹嘛。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話的意思是：你用了什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人「喔」了一聲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯沒有啊。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而程以今那一秒的理解是：他不想講。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個理解很合理。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個世家出來的人，多數不會講自己的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是常態。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己也不講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以他那一秒說了：「⋯⋯喔。」",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就沒有再問了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而第二次是他二十歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那年他已經在界了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那四年他打過很多人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也看過很多種東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他又跟那個人動了一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次他用的不是最好的一套。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他用的是別的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他那一次做的事情是：他不打。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他繞。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他試角度。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他試那個人的反應。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他要看的是那個人怎麼動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有動。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次程以今看了大概十分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而十分鐘之後，他停下來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒看到的東西，跟四年前不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "四年前他看到的是：那個人化解得很漂亮。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一次他看到的是：那個人沒有化解。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人只是站在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而東西自己過去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事的差別非常大。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "化解需要一個動作。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作可以被看出來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人沒有動作。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒問了第二次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而這一次他問的不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯你會什麼。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話跟四年前那一句差別很大。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "四年前他問的是「你剛剛用了什麼」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個問題假設了：他用了某個東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而這一次他問的是「你會什麼」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問題沒有假設。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人那一秒沒有立刻回答。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個停頓大概兩秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯沒有。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而程以今說：「沒有什麼？」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「都沒有。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而程以今那天回家之後，想了一整晚。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他想的方式跟他做每一件事一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他把可能性列出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種：那個人在騙他。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他排除了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為騙一個二十歲的沒有意義。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二種：那個人在講一個他聽不懂的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一種哲學。一種說法。一種「無招勝有招」的講法。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也排除了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人不講那種話。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第三種：那是字面意思。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而第三種要成立，需要解釋一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那三十拳為什麼沒有用。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而程以今那一晚沒有解釋出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他隔天也沒有。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他到現在都沒有解釋出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那天晚上做了一個決定。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他不再問了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個決定的理由不是他放棄了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是他算出來，問下去會有一個結果。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個結果是：那個人會給他一個答案。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個給了答案的人，接下來要面對一個追問。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個追問會一直往下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人不是那種可以被追問的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想到的是另外一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "如果那是字面意思——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那那個人被問「你會什麼」的時候，是什麼感覺。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題他那一秒想到之後，停了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有跟任何人講過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他知道另外兩個人也問過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那三個人裡面，只有他們三個真的跟那個人動過手。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而三個人都問過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而三個人都沒有再問第二次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三個人從來沒有對過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們每一個都以為只有自己知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而在必須提到「跟那個人對練」的場合，程以今講的是好話。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "化解得多漂亮。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "時機抓得多準。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "力道收放得多細。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些全部是真的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而「他根本沒有任何招式」這一半，一個字都不會出現。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有人交代過他。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有人跟他約好。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是覺得那不需要被講出去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三個人，全部是這樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三個人從來沒有商量過。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 121,
+  "narration": 67,
+  "emphasis": 49,
+  "speech": 0,
+  "quote": 5,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "cheng_yijin",
+ "⚠_label_rule": {
+  "shunfeng": "那個人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

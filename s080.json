@@ -1,0 +1,527 @@
+{
+ "id": "80_陰天那一條",
+ "title": "陰天那一條",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件事阿和自己知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他比阿智早知道兩年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他知道的方式很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他每天在練。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個每天在練的人，會知道哪一項在動、哪一項沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那六年裡，晴天那一邊每一年都在往上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不快。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它在動。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而陰天那一邊，六年沒有動過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他一開始的理解是：他練得不夠。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "所以他多練。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩年他刻意挑陰天練。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "宜蘭的冬天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個季節連續下二十天不算稀奇。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那二十天每天都在外面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩年他練出來的結果是：沒有變化。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是變差。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是完全沒有動。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事跟「練得不夠」不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為練得不夠的東西，會慢慢往上。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "再慢也會。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而完全沒有動的東西，不是量的問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是結構的問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他十五歲那年想清楚了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他想清楚的方式，是他把那個東西的來源想了一遍。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他十歲那年抬頭，看到了一整片藍天白雲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個「看到」不是眼睛的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是形狀，也不是顏色。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一種「那裡有東西」的感覺。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天是一個很普通的晴天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是問題。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為他那六年做的每一件事，都是在重建那一天。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "他坐著。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他在腦子裡把那個畫面重建一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他試著讓它出來一點點。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個畫面裡面有天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個天是藍的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而在陰天，他也可以在腦子裡把那個畫面叫出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而叫出來的東西不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而不一樣的地方不是清晰度。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個「那裡有東西」的感覺弱掉了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他自己的解釋是：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "他不是在用天空。\n\n他是在用他那一天看到的東西。\n\n而那個東西，需要天空在那裡才叫得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個解釋對不對，他不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它可以解釋所有的現象。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個解釋有一個結論。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那個結構改不了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為改它要改的不是練法。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是要改掉他十歲那天看到的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有辦法做。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個結論他十五歲那年得到之後，做了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他停止在陰天練了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是放棄。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他把那兩年的時間拿回來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他拿回來的時間，全部投進另外一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "白天結界。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那一項不是攻擊，也不是防禦。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他用來讓自己可以正常運作的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一項的意義是：它把陰天變成晴天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "只在一小塊地方。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而只有幾分鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那就夠了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他十六歲那年，那一項可以撐九分鐘。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他十四歲那年是三分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那條線在往上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那才是他真正在練的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人以為他在練那三項。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "包括阿智。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那條曲線畫錯了一個地方。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他把那三項畫成兩個值。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "晴天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟陰天。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是對的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有畫第三條。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而第三條是白天結界的持續時間。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一條在往上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它往上的意思是：陰天那一條的長度在變長。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是高度。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事阿智沒有想到。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他畫曲線的方式是看結果。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他看到的是：阿和在陰天很弱。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事六年沒有變。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它確實六年沒有變。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它每一年變長了一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事阿和沒有跟阿智講。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是他要藏。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他覺得那件事講出來很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那要從十歲那天講起。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而要講十歲那天，就要講那個「那裡有東西」的感覺。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個東西他到現在都描述不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個描述不出來的東西，講出來會變成什麼——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他算得出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那會變成一個他自己也講不清楚的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不喜歡那樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那本筆記本最後面那個問號，到現在還在。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而它旁邊那一行寫的是對的。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "陰天那一條沒有動。\n\n而那才是重點。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個「重點」是什麼，他猜錯了方向。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他猜的是：那是阿和的上限。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是阿和的地基。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事在數據上長得一模一樣。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 101,
+  "narration": 47,
+  "emphasis": 52,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "ahe",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "zhang_zhenqi": "真琪姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

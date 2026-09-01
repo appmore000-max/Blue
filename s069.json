@@ -1,0 +1,578 @@
+{
+ "id": "69_那你早點回去",
+ "title": "那你早點回去",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那是總部的樓梯間。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個時間很晚了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人剛好在同一個時間下樓。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事本身很普通。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "兩個人下樓，那不需要任何解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那一秒在做的事情，是往下走。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他走樓梯的時候會靠邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是禮貌。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是那六年留下來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個樓梯間，中間那條線是所有人的視線交會的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而靠邊的人比較晚被看到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個習慣他做了二十幾年。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己沒有意識到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是從上面下來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一百八十八公分，九十五公斤。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而樓梯間的迴音讓那個腳步聲提早到了三秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那一秒沒有回頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不看人的眼睛。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那也不是禮貌。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他二十幾年來的做法。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個看人眼睛的人，會被記住。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個不看的人不會。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人走到他旁邊的時候，慢了下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是要講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是樓梯間太窄了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人並排走不下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在後面走了大概兩層樓。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而到一樓的時候，余冷川停下來開門。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他開門之後，往旁邊站了半步。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "讓那個人先出去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作是那六年留下來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個先出去的人，會先進入視線。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而後出去的人有半秒。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那半秒他做了二十幾年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有先出去。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人也停了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說：「你先。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川那一秒愣了半秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個動作被擋掉了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他二十幾年來讓過幾百次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那幾百次每一次都成功。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為多數人不會拒絕一個讓路。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒出去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人跟在後面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而外面很暗。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那棟建築外面那條路的燈壞了一盞。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川往左走。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他往左的理由是那邊比較暗。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在後面講了一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「那你早點回去。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川停下來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他停下來的理由，他那一秒沒有想清楚。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他就是停了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他轉過來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他那晚第一次看那個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人已經在往另外一個方向走了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有在等回答。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川站在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他站了大概十秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他繼續往左走。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話他想了一陣子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他想的不是那句話的內容。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話沒有內容。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "「早點回去」——那是一句所有人都會講的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他這輩子聽過那句話很多次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "在那六年裡也聽過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那六年聽到的時候，那句話的意思是：你今天的事情做完了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是關心。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個進度確認。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上那一句不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而不一樣的地方在於：那個人沒有在等回答。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個在做進度確認的人會等。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他要確認你聽到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人講完就走了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那代表那句話不是要給他一個指令。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而如果那不是指令——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那那句話是幹嘛的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而余冷川想了大概一個星期。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他一個星期之後想出來的答案是：那句話沒有幹嘛。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案讓他坐在那裡愣了一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為在他的模型裡面，一句話一定要做什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是那六年教他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "在那個圈子裡，一句沒有目的的話是危險的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那代表你沒有算出那個人要什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而算不出來的東西，你要離開。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個模型他用了二十幾年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個模型從來沒有錯過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話沒有幹嘛。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想的是：那那個人為什麼要講。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他想了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他最後想出來的是這樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人剛好看到他。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人剛好也要走。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他講了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而講完就沒有了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案他自己也覺得很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事太隨便了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一件太隨便的事，是不需要被想一個星期的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想了一個星期。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事到現在有幾年了，他沒有算。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人後來也沒有再跟他講過那句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他們幾乎不碰面。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是前線調度。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而余冷川多數時候不在前線。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那句話他到現在還是偶爾會想起來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想起來的方式，是他在往左走的時候。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那條路的燈還是壞的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都往左。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而每一次他都會想起那一句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人不知道有那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那句話他一天講幾十次。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 111,
+  "narration": 68,
+  "emphasis": 42,
+  "speech": 0,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yu_lengchuan",
+ "⚠_label_rule": {
+  "chen_wenbin": "那個做工的人",
+  "gao_zhiyuan": "那個人",
+  "⚠": "他不知道那個人叫什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

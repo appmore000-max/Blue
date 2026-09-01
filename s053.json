@@ -1,0 +1,585 @@
+{
+ "id": "53_那個鐵盒",
+ "title": "那個鐵盒",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個鐵盒在林口那棟透天的三樓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個抽屜最裡面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它本來是裝餅乾的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個牌子已經沒有了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "裡面是硬幣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "各國的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它們不是收藏品。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有一枚是稀有的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有一枚是有價值的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數是那種在當地連一杯水都買不到的面額。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它們全部是從潛入任務裡順手帶回來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是偷的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是找零。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是掉在地上的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是某個攤販給的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而每一枚他都記得是哪一次任務。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事聽起來很像一個人在講他的收藏。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為他記得的不是那個任務。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他記得的是那一枚是誰給的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "有一枚是一個賣飲料的老太太找的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那天他穿的是那套勞工階層的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "灰色 T 恤，寬鬆牛仔褲，鴨舌帽壓低。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而背是駝的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個老太太找錢的時候，多給了他一枚。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒說了一句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話他聽不懂。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是他會的那幾種語言。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她講的時候在笑。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她指了一下他的手。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒低頭看。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他手上有一道傷。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "不深。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是前一天晚上留下來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒的第一個反應，是把手收回去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他警覺。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他那一秒忘記自己現在是誰了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個做工的人手上有傷，是正常的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個潛入中的人手上有傷，是一個線索。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事在那一秒撞在一起。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把手收回去之後，那個老太太還是在笑。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她把那枚硬幣塞進他手裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她拍了一下他的手背。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一下很輕。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒站在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他說了一句「謝謝」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他那次任務裡講的唯一一句真話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那枚硬幣現在在那個鐵盒裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次任務他做完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那次任務的目標是什麼、結果怎麼樣，他也記得。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想起那一次的時候，先想起的是那個老太太。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個鐵盒裡有六十幾枚。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有跟任何人展示過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為那是秘密。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為他不知道要怎麼講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "如果有人問他那是什麼，他能講的只有一句：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「就出任務撿到的。」",
+   "pause_before": 1,
+   "who": "cheng_yijin",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那句話是真的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它把整件事講掉了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事真正的內容，是六十幾個他只見過一次、而且沒有講過幾句話的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些人不知道他是誰。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不知道他在那裡做什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也不知道他隔天就走了。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他們對他好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個「好」很小。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "多找一塊錢。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "指一下路。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "在他站得太久的時候問一句「你還好嗎」。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些人做那些事的時候，看到的是一個工人、一個上班族、一個路過的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是他。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是重點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為他這份工作的核心是偽裝。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而偽裝的意思是：沒有人在對他好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那些人對的是那個角色。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而角色是他編的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那六十幾枚硬幣，是那個矛盾的實體。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那些好是真的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而收下的那個人是假的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他把它們留著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他自己也說不上來那算什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個鐵盒有一次差一點被發現。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是紫儀姐來的時候。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她那天來還東西，而他家亂得像被搶劫過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她一邊念一邊收。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「以今哥你這樣真的不行欸。」",
+   "pause_before": 2,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她收到三樓那個抽屜的時候，拉開了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒看到那個鐵盒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒在樓下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有打開。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她把抽屜關上了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她下樓的時候什麼都沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他到現在都不知道有那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒為什麼沒有打開——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她自己也沒有想過那個問題。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "她就只是關上了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而現在那個鐵盒裡多了四枚。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個五十。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "兩個十塊。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "一個一塊。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那四枚是台灣的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是那個鐵盒裡唯一一組台灣的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而它們是一間麵店的老闆找的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他坐在靠窗的位置。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "面對門口。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他手指在敲桌面。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一次任務不是潛入。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那一次他只是去看一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人他沒有靠近過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人到現在都不知道有那件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而程以今知道，他這輩子都會記得那一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那四枚硬幣在那個鐵盒的最上面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們沒有跟其他的混在一起。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 112,
+  "narration": 74,
+  "emphasis": 36,
+  "speech": 2,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "cheng_yijin",
+ "⚠_label_rule": {
+  "shunfeng": "那個人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

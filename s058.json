@@ -1,0 +1,613 @@
+{
+ "id": "58_妳一天到底睡幾個小時",
+ "title": "妳一天到底睡幾個小時",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那天收工是凌晨四點多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個現場在新北的某個地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月做完了她那一部分。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "夜間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "潛入。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "近身。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她一次只處理一個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天現場還有幾個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她跟他們不熟。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她跟界裡面每一個人都不熟。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那不是她的問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她的工作時段的問題。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "多數人是白天出勤。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她的案子多半在半夜。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以她認識的人不多。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而認識她的人也不多。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天她要走的時候，有一個人叫住她。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「妳等一下。」",
+   "pause_before": 3,
+   "who": "qiangzang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她轉過來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一百八十八公分。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她一百六十五。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒下意識往後退了半步。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是害怕。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那八年留下來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個比你大很多的人靠近，先拉開距離。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作她做了二十一年。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人沒有再往前。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有發現她退了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他說：「妳要回哪裡。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「台北。」",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「那邊有計程車。」他指了一個方向，「那個時間比較好叫。」",
+   "pause_before": 2,
+   "who": "qiangzang",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「⋯⋯好。謝謝。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他點了一下頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他講了那句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「妳一天到底睡幾個小時。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月那一秒沒有回答。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的第一個反應是算。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "這個人為什麼問這個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是二十一年的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "任何一句話，先算對方要什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒跑過的可能性有幾種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他要她少接一點。 而那不合理，他不是排班的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他在念她。 而那個語氣不對。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他在客套。 而客套不會問這個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她算不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒說的是：「⋯⋯還好。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「喔。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就走了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而整件事花了不到二十秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她在計程車上想了一路。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "從新北到台北，那個時間大概三十幾分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三十幾分鐘她一直在算。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她算不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事讓她很不舒服。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她算得出來每一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是她的核心能力。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是氣，那是二十一年。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個她算不出來的東西，代表那裡面有一個她不認識的變數。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她到家的時候是五點多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她躺下來的時候，把窗簾拉得很緊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一點光都不留。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒還在想那句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她想到第三天的時候，想出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話沒有要什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案讓她坐在床上愣了一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為在她的模型裡面，那個選項是不存在的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人講一句話，一定是為了某件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是六歲到十四歲那八年教她的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "在街上，一個對你講話的人一定要什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而你要在三秒之內算出來那是什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而算不出來的，你就走開。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個模型讓她活了八年。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個模型從來沒有錯過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那句話沒有要什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒想的是：那那句話是幹嘛的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她想了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她最後得到的結論是這樣的：",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人大概就是覺得她看起來很累。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他問了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而問完就沒有了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個結論她自己也覺得很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事沒有結果。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他不會因為她回答「四個小時」而做什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他也不會因為她回答「還好」而做什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話問完就結束了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個問完就結束的問題，在她的世界裡是沒有用的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她二十七歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她想了三天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三天她沒有跟任何人講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人到現在都不知道有那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那句話他一天講幾十次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他問過另外幾個人一樣的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那幾個人的反應，他也沒有注意過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月那之後有一個小小的改變。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她開始回一句完整的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是對他。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是對所有人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "以前有人跟她講話，她回的是三個字以內。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「還好。」",
+   "pause_before": 2,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「嗯。」",
+   "pause_before": 0,
+   "who": "qiangzang",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「謝謝。」",
+   "pause_before": 0,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那之後她會多講一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「還好，我下午有睡。」",
+   "pause_before": 3,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個「我下午有睡」四個字沒有任何意義。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她開始講了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她自己沒有發現。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個補習班的賣魚阿姨發現了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個阿姨有一次跟她說：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「妳最近比較會講話喔。」",
+   "pause_before": 1,
+   "who": "fish_auntie",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月那一秒愣了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她說：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯有嗎。」",
+   "pause_before": 1,
+   "who": "su_yue",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個阿姨說：「有啊。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她們就繼續上課了。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 114,
+  "narration": 71,
+  "emphasis": 34,
+  "speech": 8,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "su_yue",
+ "⚠_label_rule": {
+  "qiangzang": "那個人",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   98,
+   100
+  ]
+ ]
+}

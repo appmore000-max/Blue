@@ -1,0 +1,644 @@
+{
+ "id": "51_那一次她沒有回來",
+ "title": "那一次她沒有回來",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "九點半，陳再壬上床。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "躺好。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "閉眼睛。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有睡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "十點四十幾分，門響了一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是她出去的聲音。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他睜開眼睛。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他躺在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他開始等第二次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上他等到一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一點不是很晚。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "有時候一點就回來了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他繼續等。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "兩點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "兩點也還可以。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "兩點回來的次數也很多。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "三點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而三點的時候他坐起來了一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是要去看。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他躺太久了，背在痛。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他坐起來，靠著牆，繼續等。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "四點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而四點的時候，他做了一件他從來沒有做過的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他下床了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他走到房門口。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他停在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個位置他七歲那年也站過一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一次他退回去了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而這一次他也退回去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由跟七歲那年一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他覺得姐姐不會想要他去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他回到床上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "躺好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "閉眼睛。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有睡。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "五點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而五點的時候天開始有一點亮了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他知道，因為窗簾底下那條縫變了顏色。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有想「她出事了」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他想的是另外一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "六點四十要起床。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是她叫他的時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果她沒有回來，那誰要叫他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題他想了大概十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他解決了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他把鬧鐘設好了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那支手機是她給的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那支手機他很少用。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "通訊錄裡只有一個人。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他把鬧鐘設在六點四十。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他躺回去。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他做完之後，就沒有那麼慌了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "六點四十，鬧鐘響了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他起來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他去廚房。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而鍋子裡有東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她前一天晚上煮好放著的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他熱了一下，吃完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他洗了碗。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那件事他很少做。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她不太讓他做。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那天洗了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "七點十分，他自己出門。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他背好書包。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他走出去之前，回頭看了一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個院子裡沒有機車。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他走到學校要二十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一路上他走得很慢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他一直在聽有沒有機車的聲音。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那天他在學校什麼都沒有吃。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而老師問他為什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「不餓。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是他這輩子唯一一次講謊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他講出來的時候，自己也知道那是謊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是講了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為老師如果知道他早上一個人出門，那件事會變成別的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而「別的」是什麼，他講不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那不好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那件事他是七歲那年就會的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是有人教他。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他自己算出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個十二歲跟一個六歲的小孩住在一起，而大人不在。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事如果被知道了，會有人來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他不知道那些人會做什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那些人會把他們分開。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有跟他姐姐講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他覺得她不知道他知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "中午的時候她回來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那時候在學校。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他下午回來的時候，機車在院子裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他站在門口停了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他進去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她在客廳。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她看起來很累。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有受傷。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他看得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她坐的姿勢是正的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他把書包放下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「妳要吃飯嗎。」",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那天愣了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她說好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有問他早上怎麼去學校的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有講。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天晚上他九點半上床。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "躺好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "閉眼睛。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上門沒有響。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他睡著了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是他那個星期睡得最好的一個晚上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而至於那一天她去了哪裡、發生了什麼、為什麼隔了那麼久——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他到現在都不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有問過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那支手機的鬧鐘，他後來沒有取消。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它每天早上六點四十響一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而多數時候她已經在叫他了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個鬧鐘還是會響。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她問過一次：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「你設鬧鐘幹嘛。」",
+   "pause_before": 1,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而他說：",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯怕遲到啊。」",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她「喔」了一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後那件事就過去了。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 124,
+  "narration": 88,
+  "emphasis": 32,
+  "speech": 1,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_zairen",
+ "⚠_label_rule": {
+  "chen_tingya": "姐姐",
+  "⚠": "他不知道她在做什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

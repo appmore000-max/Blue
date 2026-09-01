@@ -1,0 +1,559 @@
+{
+ "id": "91_他原本的名字",
+ "title": "他原本的名字",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那兩個字是他自己取的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事界裡面沒有人問過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "包括那個老人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為那個名字看起來很正常。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "它一點都不正常。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "強葬。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字放在一起是不通的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "「強」是一個形容。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "「葬」是一個動作。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩個字沒有辦法組成一個詞。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它也不像任何一個人的名字。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而界裡面有一百多個人。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一百多個人裡面，有幾個人的名字也是自己取的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "黑石。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "余冷川。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "蘇月。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三個名字看起來都像名字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而只有那一個不像。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事二十年來沒有人問。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是他們不好奇。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個人本身就是一個不會被問的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他原本那個名字，只有他自己知道。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他藏起來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個名字已經沒有人在用了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而「沒有人在用」的意思很具體。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有一份文件上有它。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有一個活著的人會叫它。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有一個地方會出現它。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事不是他做的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那十六年做的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個圈子裡面，一個人進去的時候會做一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他們把那個人原本的東西拿掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而拿掉的方式不是儀式。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是要求。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是沒有人問。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個沒有被問過名字的人，過了一年，那個名字就沒有用了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "過了五年，他自己也很少想到。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而過了十六年——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "它就變成了一個他知道、而沒有任何一個地方需要它的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而二〇〇五年那三天結束之後，他做了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他要取一個名字。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而理由很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他要走進去。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而走進去要一個名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三天他有兩個選項。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "第一個：用回原本那個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第二個：取一個新的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他選了第二個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是他要跟過去切斷。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事切不斷。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有想要切。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "理由是：那個名字是別人給他的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而給他那個名字的人，不知道他後來做了什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他用回那個名字，等於把那十六年掛到那個人身上。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他不做。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他取的那兩個字，是那幾天想出來的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字為什麼是那兩個字——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "這裡不寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的是另外一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他取那兩個字的時候，是在算。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他算的是：一個名字要做什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題多數人不會問。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為多數人的名字是被給的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個被給的名字，不需要有功能。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個自己取的，要。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他算出來的功能有一個。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那個名字要讓聽到的人記住。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而理由很實際。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他要進去的那個地方，有一百多個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他要那一百多個人記得他是誰。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是為了威望。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為一個記不住的名字，在現場喊出來會慢半秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而慢半秒會死人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字達成了那個功能。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為它不通。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個不通的東西，人會記住。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他二十年前就算出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事還有一個後果，是他那時候沒有算到的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那兩個字不像名字，所以沒有人會問它的來歷。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個像名字的名字，會被問。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「你哪裡人？」",
+   "pause_before": 3,
+   "who": "stranger",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「這個姓少見喔。」",
+   "pause_before": 1,
+   "who": "stranger",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你爸媽取的嗎？」",
+   "pause_before": 1,
+   "who": "stranger",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三句話會往下走。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩個字不會被問那三句。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為它不在那個系統裡面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事保護了他二十年。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他設計的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他二十年之後才發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他叫每一個人的全名。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那件事跟他自己那個名字，是同一件事的兩面。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那十六年，沒有一個人有名字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他叫全名。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己那個，已經沒有人在用了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "包括他自己。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而有一件事他從來沒有想過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那個老人叫他「孩子」的那一秒，是二十年來唯一一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "有一個人叫了他，而不是叫他的名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個「不是名字」剛好越過了整件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個名字要指認一個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而「孩子」不指認。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它只描述一個位置。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個位置是：有一個比他老的人，站在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事跟他叫什麼名字，完全沒有關係。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 105,
+  "narration": 36,
+  "emphasis": 66,
+  "speech": 3,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "qiangzang",
+ "⚠_label_rule": {
+  "huabang": "那個老人",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫每一個人的全名——除了那個老人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   81,
+   83
+  ]
+ ]
+}

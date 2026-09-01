@@ -1,0 +1,575 @@
+{
+ "id": "52_那一次他看對了",
+ "title": "那一次他看對了",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件事一輩子用過十二次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而知道這件事的人是零。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "連那個孩子都不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "它不是誰給的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "也不是什麼奇遇。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是「危險感知」練到極致之後，跑出來的另一個東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "危險感知讀的是「接下來會發生什麼」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而某一天他發現，同一套東西可以往反方向讀。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個地方發生過的事，會留下痕跡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "多數痕跡很快就消失了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而有些不會。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個代價不是「扣」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那一週他整個人就是那樣了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "躺著。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "動不了。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "什麼都做不成。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "所以十二次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "七十幾年，十二次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而每一次他都算過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一週。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一週裡如果有事，他去不了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事的代價，他要算進去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而十二次裡，有十一次他覺得值得。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那十一次是什麼，這裡不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不重要。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而重要的是那一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那一次是在某一年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個地方是一間房子。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他去那裡的理由，是有一個人不在了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有兩種說法。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種說法是：那是一場意外。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二種說法是別的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩種說法各有一群人在講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩群人裡面，有一群是死者的家人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而另一群，是界裡面的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個時候界已經成立很多年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生在一次任務之後。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個「之後」有多久，也有兩種說法。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而華邦那時候的位置，是這個組織的創立者。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他要做的判斷是：這件事要不要往下追。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他手上有一樣東西可以直接得到答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他用了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他去了那個地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "站在那個位置上。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他讀了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他看到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒他知道了那兩種說法裡面，哪一種是對的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他希望的那一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他躺了一個星期。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一個星期他沒有想那件事本身。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他在想另外一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他現在知道了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不能講。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為他講出來的東西沒有來源。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他不能說「我看到了」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那會讓一個沒有人知道的東西被知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西一旦被知道，接下來每一件模糊的事，都會有人來找他。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他做不到那麼多次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他也不能不講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事有人在等一個答案。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一個星期躺在那裡算了很多遍。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他算出來的結論是：他只能用普通的方式去追。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "證據。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "證詞。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "時間軸。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些東西他有。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們不夠。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而「不夠」的意思是：那件事追不下去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他知道那件事的答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有辦法讓那個答案變成一個可以被接受的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "所以那件事最後沒有結論。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而界那邊的紀錄上寫的是四個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「原因不明。」",
+   "pause_before": 2,
+   "who": "record",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四個字是他自己寫的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他寫那四個字的時候，手是穩的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一年他多寫了一個名字在日記上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是劃掉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他後悔的不是他看了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是他看了之後，那件事在他身上變成了另外一種東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "如果他沒有看，那件事就是一個未解的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個未解的東西，是可以放下的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為你不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而不知道的人沒有責任。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，他每一次見到那個家庭的人，都會想起那個答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他們不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們一直以為他在幫他們追。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他確實在追。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "只是他從第一天就知道追不到。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個星期結束之後，他做了一個決定。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事的答案，他這輩子不會講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是為了保護誰。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為講了只會多一個人痛，而那件事一樣不會改變。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個決定他到現在都在守。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "九十八歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還在守。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那本日記上有一頁只有三行。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三行沒有人看過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三行也不會寫在這裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而剩下那十一次，他都沒有後悔過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為那十一次比較輕鬆。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那十一次他看到的東西，都可以被講出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一次不行。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是差別。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他後來又活了幾十年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他一次都沒有再用過那一項去追那種東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他不敢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他學會了一件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "有些事情，知道了會比不知道更難處理。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事在他七十幾年的日記裡，一個字都沒有寫。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 110,
+  "narration": 65,
+  "emphasis": 43,
+  "speech": 1,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "huabang",
+ "⚠_label_rule": {
+  "qiangzang": "那個孩子",
+  "zhang_fugui": "那個人",
+  "chen_wenbin": "（未出場）"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

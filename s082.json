@@ -1,0 +1,609 @@
+{
+ "id": "82_他蹲了下來",
+ "title": "他蹲了下來",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "八歲那天，他做了一件不該做的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他在公園裡玩。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是在房間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是在後院。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是在一個會有人經過的地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而理由是：那天公園沒有人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想在比較開闊的地方試試看能分離多遠。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他之前試過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "在後院。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而後院的極限是四公尺。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他的極限。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那個後院的寬度。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那是一個八歲的小孩會犯的錯。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他把場地的限制，當成了自己的限制。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他那一秒沒有想到。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是想找一個比較大的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他讓右手離開身體。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "丟到了大概十公尺外。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒他很高興。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為十公尺比四公尺遠很多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後有腳步聲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "拖鞋在地上拖著。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "聲音很慢。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他整個人僵住。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那隻手還在十公尺外的草地上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他想把它收回來。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而已經來不及了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人已經走過來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而且已經看到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而接下來那二十秒，是他這輩子最重要的二十秒。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那時候不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是一個穿短袖、拖鞋、看起來很懶散的年輕人。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他站在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "低頭看著那隻躺在草地上的手。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後看了看阿智。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒阿智腦子裡跑的東西，他到現在都記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他在算那個人接下來會做什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個八歲的小孩算得出來的可能性有三種。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "尖叫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "跑掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "或者叫別人來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三種都很糟。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒站在那裡，什麼都沒有做。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那三種他都處理不了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人「喔」了一聲。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個聲音很短。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不在他那三種裡面。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後那個人做了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他蹲了下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作阿智記到現在。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他記得的不是那張臉。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個蹲下來的動作。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為一個大人蹲下來，是為了跟一個小孩平視。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作的意思是：他要講的東西，是講給那個小孩聽的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是講給一個「小孩」聽的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事差非常多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人說：",
+   "pause_before": 5
+  },
+  {
+   "t": "quote",
+   "text": "「在遇到任何危機情況的時候，加一點創意以及想像進去的話，你的手腳就能夠變為最強的矛與盾。」",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "說完就站起來，走了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "從頭到尾不到二十秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而阿智站在原地很久。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那隻手還在十公尺外。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他過了大概一分鐘才想起來要收回來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話裡面有很多東西。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而八歲的他只抓到一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "「你的手腳」。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字的意思是：那個人知道那是他的手。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是一個掉在地上的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事那個人沒有問。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "沒有問他是什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "沒有問他為什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有叫他不要給別人看到。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人只是告訴他：那可以拿來用。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而在那之前，他一直以為那是一個必須被藏起來的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那天回家之後，他做的第一件事是找漫畫。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他要弄清楚「創意」跟「想像」到底長什麼樣子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事聽起來很好笑。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是一個八歲的小孩，把一句話當成一個題目來解。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他家裡有大量的卡通與動漫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西裡面有各式各樣的「不可能」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那六年做的事情，是把那些「不可能」一個一個拿來對。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "這個我做得到嗎。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "這個呢。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那如果把這兩個接在一起呢。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而重力改變跟連鎖炸就是那樣弄出來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而六年之後，他十四歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那天他在羅東夜市。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他看到了那個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人穿的是同一套。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而六年來沒有換過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那一秒站在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有算。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事他不需要算。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他走過去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他講的第一句話是：",
+   "pause_before": 5
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯你記得我嗎。」",
+   "pause_before": 3,
+   "who": "azhi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人看了他一眼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯手。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而阿智那一秒愣住了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那一個字包含了所有的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他記得那是六年前。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他記得那個八歲的小孩是誰。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他用一個字講完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那六年那個人做了什麼，阿智從來沒有問過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有問那個人為什麼記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事他自己算出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個看過一隻手躺在草地上的人，會記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那不需要理由。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個算式是錯的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人記得的東西，不只那一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人記得每一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一千年。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而每一件他都記得。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事阿智不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人也不會講。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 117,
+  "narration": 54,
+  "emphasis": 60,
+  "speech": 1,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "azhi",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

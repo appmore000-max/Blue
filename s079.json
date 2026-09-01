@@ -1,0 +1,487 @@
+{
+ "id": "79_說過嘴",
+ "title": "說過嘴",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十五歲那年，他壓制了阿仁。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的過程很短。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那孩子衝過來的時候，他就知道自己硬碰硬打不贏。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為阿仁比他重、比他壯。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而且還很敢衝。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那不是什麼深仇大恨。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "就只是一個剛來的十四歲小孩，看到旁邊已經有一個比自己早來的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以他沒有硬碰。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他的左手離開了身體。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西那孩子沒有看過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人都沒有看過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次結束得很快。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁那一秒躺在地上。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒的表情不是不甘。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是「那是什麼」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，阿仁沒有再挑戰過他。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是他怕。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是他那一秒理解了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人跟他不是同一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是強弱的問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他打不到那個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而打不到就沒有意義。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事，阿智從來沒有拿來說過嘴。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那是一個二十歲的人，人生裡少數幾件可以拿出來講的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他一次都沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而理由他自己知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是他打贏的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是一個十四歲的小孩，第一次看到那種東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個東西的效果，來自於那個小孩沒有看過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而如果他們再打一次——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個小孩會知道那隻手會掉下來。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事就不成立了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事阿智那天晚上就算出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從那天起，就沒有把那一次算成一次勝利。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而五年之後，阿仁十九歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他現在打得比十四歲那年強太多了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那五年裡他們對練過很多次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而阿智贏的次數在往下掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他算過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第一年：他贏九成。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第三年：七成。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在大概是五成。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個曲線他畫過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "在那本筆記本的最後面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那條線往下的斜率很穩。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那代表它會繼續往下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他往下推了一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "兩年到三年之後，那個數字會過半。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他寫下來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他寫的那一行是：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "兩到三年後，我打不贏他。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一行的字是正常大小的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是他確定的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事阿仁不知道。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而阿仁如果知道，他的反應大概是：「喔。」",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他會繼續練。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為阿智的曲線是他自己畫的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而阿仁根本沒有在畫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個沒有在畫曲線的人，不會知道自己什麼時候會過半。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也不會為了那件事調整任何東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是每天練。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個曲線就是那樣長出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事阿智想過很多次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他想的是：那兩種哪一種比較好。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個知道自己會被超過的人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "跟一個不知道的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他算不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是一個可以算的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次想到最後，都會停在同一個地方。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "如果他不畫那條曲線，他就不會知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而不知道的話，他這五年會過得比較輕鬆。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是畫了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個理由他自己講得出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他碰到任何一件事，第一個反應都是弄清楚那是怎麼運作的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他關不掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那本筆記本的最後面有兩條曲線。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "一條是阿仁。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而另外一條是阿和。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而阿和那一條的形狀完全不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那一條有兩個值。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "晴天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟陰天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個值差非常多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那條曲線的晴天那一條，也在往上。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它上升的速度比阿仁慢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個斜率會不會變，阿智不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那條線的旁邊，他寫了一行。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "陰天那一條沒有動。\n\n而那才是重點。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一行下面，他畫了一個問號。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問號到現在還在。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 93,
+  "narration": 48,
+  "emphasis": 43,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "azhi",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

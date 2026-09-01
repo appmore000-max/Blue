@@ -1,0 +1,508 @@
+{
+ "id": "63_但別讓你媽擔心",
+ "title": "但別讓你媽擔心",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十八歲那年，他去當兵的前一天。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他父親載他去買東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而回程的路上，那個人講了那句話。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「做你想做的事。」\n\n「但別讓你媽擔心。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠那時候「喔」了一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那時候完全沒有想過那句話有多重。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "十六年之後他還在想那句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那句話裡面有一個他到現在都沒有解決的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那兩件事經常是相反的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那七年，他做他想做的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他做得很好。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他媽媽在那七年裡擔心了七年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他知道她在擔心的方式，是打電話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他一個星期打一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而每一次她接的速度，都比第二聲快。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事持續了七年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "二十五歲那年，那個單位找他談。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他們給的條件不差。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他講的理由只有一句：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「我要結婚了。」",
+   "pause_before": 2,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人看了他一會兒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說了兩個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「可惜。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字他走出去之後想了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是挽留。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個判斷。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個判斷的意思是：他們算過了，而他們算出來的結論是他做得到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那天走出去的時候，心裡很清楚一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他做得到那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他選擇不做。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個決定他從來沒有後悔過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "只是他那時候還不知道，他三個月之後會做什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "三個月之後，他填了另外一份表。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那份表上那一欄問的是：為什麼想加入。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他寫了六個字。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「我要有一個家。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的荒謬，他自己到很多年之後才看出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為他二十五歲那年做的兩個決定，是相反的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一個決定：他離開那個沒有「回得來」保證的地方。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "理由是他要有一個家。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二個決定：他加入了另外一個也沒有那個保證的地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "理由也是他要有一個家。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事之間的差別，他當時算得很清楚。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第一個是全職。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二個不是。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "第一個要求他人在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二個只要求他在有事的時候被派遣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他可以回家。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個算式是對的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它漏掉了一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他媽媽不知道那個差別。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她只知道她兒子退伍了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那年很開心。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那年講了一句話。",
+   "pause_before": 2
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯好啦，以後就正常上班了。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒說：「嗯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他這輩子講過最重的一個「嗯」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那之後九年，她再也沒有擔心過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為她不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事符不符合那句話，他算過很多遍。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「別讓你媽擔心。」",
+   "pause_before": 4,
+   "who": "father",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而字面上，他做到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她沒有在擔心。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是因為她不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話真正的意思是什麼——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他到現在都不確定。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人也不會再講第二次了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為他父親現在六十八歲，在高雄種一小塊菜。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠每個月回去一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他們見面的時候聊的是菜。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「那個番茄今年還是不行。」",
+   "pause_before": 3,
+   "who": "father",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那你要換位置啦。」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「換過了。」",
+   "pause_before": 1,
+   "who": "father",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那就土的問題。」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯你怎麼知道。」",
+   "pause_before": 1,
+   "who": "father",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「猜的。」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人笑了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他們每個月講一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有問過那句話是什麼意思。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為問了，那個人就會知道他一直在想那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個一直在想那件事的兒子，會讓一個父親擔心。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話的另外一半就破了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而三十四歲那年，他每天最大的願望是準時回家。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個願望裡面有兩件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "準時。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟回家。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而準時是給他老婆的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而回家是給那句話的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他自己沒有分過那兩件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他一天看很多次時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數時候他在算幾點可以回家。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 93,
+  "narration": 47,
+  "emphasis": 34,
+  "speech": 8,
+  "quote": 4,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "gao_zhiyuan",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   72,
+   77
+  ]
+ ]
+}

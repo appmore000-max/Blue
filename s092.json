@@ -1,0 +1,470 @@
+{
+ "id": "92_零點幾秒",
+ "title": "零點幾秒",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件事她自己沒有練過。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它就是有了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而十四歲那年她掌握了氣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，那個東西跟著出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她記得每一個她交手過的人的氣場。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是記名字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是記臉。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是記一個沒有辦法被描述的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西長什麼樣子，她試過講。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她試過三次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而三次都失敗了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為她講出來的都是比喻。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「像一個聲音。」",
+   "pause_before": 3,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「像一個味道。」",
+   "pause_before": 1,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「像那種你走進一個房間就知道有沒有人在的感覺。」",
+   "pause_before": 1,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三個都不對。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她第三次講完之後，就沒有再試了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三次的對象是誰，她也記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西的用法很簡單。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "下一次她碰到那個人，零點幾秒就辨識出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那零點幾秒在戰場上很重要。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個人第一次碰到你，要花時間判斷。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二次不用。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個差別大概就是那零點幾秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那零點幾秒是那個人的一個動作。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在她的工作上是一個很好用的東西。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而在別的地方不是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個東西是常駐的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她沒有辦法關掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的意思是：她記得每一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「每一個」的意思是字面的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "她十一歲那年在那些封鎖區裡壓制過的每一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個穿睡衣的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個手上還拿著遙控器的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個六十幾歲的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "還有那個街區裡的另外幾十個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她全部記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很麻煩的後果。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那些人裡面，有幾個後來又出現了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「出現」的意思不是他們來找她。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是她在路上碰到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生過四次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而第一次是她十七歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那是在台北的一個捷運站。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人從對面走過來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒認出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是那個穿睡衣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那天穿的是一件襯衫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他手上牽著一個小孩。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人從她旁邊走過去了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有看她。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不記得。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很合理。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那三年他們是被接管的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而被接管的人，那段時間是空的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒站在那裡。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有動。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人走過去之後，她轉頭看了一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她唯一一次轉頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那之後三次，她都沒有轉頭。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次都認出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那四次她從來沒有跟任何人講過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是那件事很重。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那件事沒有辦法講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為她要講的話，第一句是：",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「我今天在捷運站看到一個我十一歲壓制過的人。」",
+   "pause_before": 2,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話講出來之後，接下來每一句都會很糟。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有去查過那些人後來怎麼樣。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事跟這一件不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為「查」是一個動作。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她可以選擇不做。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而「認出來」不是。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個東西自己會跑。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那才是那個能力真正的樣子。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "它不是一個她可以用的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "它是一個一直在跑的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它剛好在戰場上有用。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她二十二歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她愛講話、愛拍照、愛黏人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在任何一個場合都不會冷場。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很實際的功能。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一個在講話的人，不會被問。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她十四歲那年學會的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一年剛好也是那個東西出來的那一年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩件事有沒有關係，她沒有想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也不打算想。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 87,
+  "narration": 39,
+  "emphasis": 44,
+  "speech": 4,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "wu_ziyi",
+ "⚠_label_rule": {
+  "shunfeng": "順風先生",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   12,
+   14
+  ]
+ ]
+}

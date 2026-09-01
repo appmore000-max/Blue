@@ -1,0 +1,602 @@
+{
+ "id": "96_日與靜",
+ "title": "日與靜",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "第一個叫日。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個字是他取的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他取的時候，那顆星球上還沒有任何一樣東西有名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的意思要拆開講。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為名字是一個給別人用的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "你叫一個東西，是為了跟另外一個人講到它。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那顆星球上只有兩個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而其中一個是他自己取名字的那一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那個名字沒有用。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他還是取了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來變成了四萬多代的慣例。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是規則。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "規則只有三條。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而名字不在裡面。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼取「日」。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事沒有記載。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而能推的只有一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個時候，那顆星球上最大的東西是天上那一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而它每天過去一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是那顆星球上唯一一件重複發生的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事的意思是：那是唯一一個可以拿來當單位的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而空在那之前，沒有辦法計算時間。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為沒有東西在動。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以沒有東西可以拿來量。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個孩子出現之後，他有了兩個東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一個是那個孩子。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而另外一個是「天」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把後面那個當成名字，給了前面那個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子睜開眼睛的第一個動作是抬頭。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他看到的就是那個東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事是不是一個巧合，沒有人知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而日死了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而怎麼死的，沒有記載。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，那顆星球安靜了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而「安靜」那兩個字要小心用。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那顆星球本來就是安靜的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它安靜了幾億年。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是一個狀態的變化。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那個安靜第一次有了對照。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而空一個人待了多久，沒有記載。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他那段時間做了什麼，也沒有。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而能推的只有一件：他沒有立刻做第二次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為如果他立刻做了，那個孩子的名字會是「日」的延續。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它不是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第二個叫靜。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個字有三種可能。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種：那是希望。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個解釋是這樣的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他要那個孩子過得安穩一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而「安穩」在那個時候不是一個抽象的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個很物理的狀態。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那顆星球那時候還在冷卻。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它有很多東西會動。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "熔岩。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "塌陷。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "還有天上掉下來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而「靜」是那些東西的反面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個解釋成立。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第二種：那是哀悼。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個解釋也成立。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那顆星球在日不在了之後，安靜了很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個字是那段時間的名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個人如果替一段時間取了名字，然後把那個名字給了下一個——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是取名字。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是搬東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他把那段時間搬到了那個孩子身上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個解釋比第一種難看。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它也成立。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "第三種：那是他當時腦子裡唯一剩下的東西。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個解釋最簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它可能是對的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個時候他要取一個名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他腦子裡有什麼，他就用什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不需要理由。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三種，沒有一種被寫下來。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為寫的人就是取名字的那一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那三種裡面，有一種是對的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "或者三種都對。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "或者三種都不對。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而四萬多代裡沒有一代問過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事在第三代之後，就已經沒有人記得了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而中間那四萬多代的名字，也沒有記載。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那不是全部失傳。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是多數沒有被留。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為名字不是規則。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一件不是規則的事情，會斷。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它斷過很多次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後又被接起來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而接起來的方式，是某一代覺得那件事應該做。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一代自己也不知道那是第一代做過的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而現在留下來的名字有幾個。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "日。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "靜。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "平和。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "順風。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而中間那四萬多個，沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很奇怪的後果。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那條線最開頭那兩個，跟最後面那兩個，是接在一起的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而中間那四萬多代，在名字上是空的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個看那張表的人，會覺得那中間什麼都沒有發生。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四萬多代裡，每一代都做了同一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他們走。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他們看。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而在必要的時候，他們做一件不會被任何人看見的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有一次被記下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那正是他們要的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而空那一天做的最後一件事，是把規則寫下來。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "三條。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那三條裡面沒有一條講名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他忘了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他知道那件事不能被規定。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一個被規定的名字，是一個編號。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個沒有被規定的名字，是有人決定要給的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個「決定要給」，是四十六億年裡唯一一件不需要理由的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他一個人在一顆還在燒的石頭上，第一次做出來的東西。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 116,
+  "narration": 41,
+  "emphasis": 75,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "kong",
+ "⚠_label_rule": {
+  "shunfeng": null,
+  "⚠": "四十六億年前，那些人還不存在"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

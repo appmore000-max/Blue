@@ -1,0 +1,664 @@
+{
+ "id": "98_一樣的下午",
+ "title": "一樣的下午",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "星期天下午三點，蘇澳。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而張福貴坐在門口。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那張藤椅的椅面已經凹下去一塊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個形狀是他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他兒子換過兩次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩次他都說不用。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是他念舊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是一張新的椅子，他要坐兩年才會回到現在這樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他一百零二歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個算式他不用算第二次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他前面那條巷子上，有一台機車經過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那是隔壁那個賣菜的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每個星期天下午三點多會經過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事張福貴知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有跟那個人講過話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而三十幾年了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而同一個下午，屏東潮州。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個三合院的門是開的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而陳婷雅在洗東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她洗的是一個鍋子。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個鍋子是她十二歲那年開始用的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它現在底下有一塊燒黑的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那塊洗不掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次還是會刷一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她弟弟在旁邊寫作業。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他寫的是數學。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他寫一題會停一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個停不是因為他不會。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他在確認。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個習慣他自己不知道從哪裡來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他姐姐知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是她的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有教過他。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而蘇澳那邊，三點二十幾分，那個十六歲的從樓上下來了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他手上拿著一本書。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他走到門口，在那張塑膠椅上坐下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那張椅子在藤椅旁邊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個位置是他自己選的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他六歲的時候就坐那裡了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那時候他的腳碰不到地。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人坐了大概二十分鐘。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人都沒有講話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子在看書。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個老人在看前面。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那二十分鐘裡，有一台車經過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "有一隻狗走過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而隔壁那個阿婆出來倒水。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三件事，兩個人都看到了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人都沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而潮州那邊，四點多。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子寫完了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他把本子收起來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他坐在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他姐姐在廚房。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有做任何事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是坐著。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個習慣他也是有的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他坐著的時候，會看院子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而院子裡有一面牆。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那面牆有一道裂縫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那道裂縫他看了很多年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它沒有變過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事讓他覺得很安心。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己說不出來為什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而蘇澳那邊，四點多。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那個老人講了一句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是那二十幾分鐘裡的第一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「今仔日天氣袂䆀。」",
+   "pause_before": 4,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（今天天氣不錯。）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子抬起頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他看了一下天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他說：「嗯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生過很多次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人講天氣，那孩子會抬頭看。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個順序很重要。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為多數人聽到「今天天氣不錯」，會回一句「對啊」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們不會抬頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那句話不是在講天氣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一句開場。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子每一次都抬頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個老人每一次都看到了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有講過那件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有想過那算什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是覺得那孩子很認真。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而潮州那邊，五點。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而陳婷雅從廚房出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她手上有一盤東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那一秒站起來，去拿碗。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作沒有人叫他做。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他做了四年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒也沒有說謝謝。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事已經不需要了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人坐下來吃。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子吃了兩口。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他抬頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「好吃。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「嗯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個字他講了四年。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她一直以為那是客套。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它不是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而它也不是感謝。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個確認。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為十二歲那年他吃到的第一鍋粥，太稀，而底下有一點焦。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那時候六歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒不知道那代表什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那個人在做飯。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事在那三天之後，是新的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他講了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒講的意思是：那個人還在。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一餐都講了四年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而蘇澳那邊，五點多。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那個老人站起來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他扶了一下旁邊的柱子。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子那一秒沒有伸手。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事是那孩子算過的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個伸手的人，是在說「你需要」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個老人不需要。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "至少他今天不需要。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子看得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他哪一天需要，那孩子也會看得出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一天還沒有到。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而兩個地方，同一個下午。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四個人不認識。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個小孩身上都有東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人都不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個老人都看得出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而其中一個是老人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而另外一個是一個十六歲的姐姐。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人都沒有問。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 129,
+  "narration": 60,
+  "emphasis": 67,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [],
+ "⚠_taigi_review": "見 _台語檢查表.md。未經母語者確認"
+}

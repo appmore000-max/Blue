@@ -1,0 +1,582 @@
+{
+ "id": "60_而那個數字不是零了",
+ "title": "而那個數字不是零了",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那天結束之後，她一個人在房間裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有哭。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有崩潰。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "就只是坐在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事怎麼發生的，這裡不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是因為那件事不能寫。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為那件事的內容跟這一篇沒有關係。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那天坐了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那幾個小時裡想的東西，跟多數人想的不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她沒有想那個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個人是什麼樣子、多大年紀、有沒有家人——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她那一秒一件都沒有想。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她後來覺得很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她想的是那四年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "十二歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "十三歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "十四歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "十五歲。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那四年她在那些封鎖區裡走過那麼多條路。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她繞過通風井。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她跑過十二公尺。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "她把手停在同一個位置停了幾百次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那四年她一次都沒有失手。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在那個數字不是零了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有在自責。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那不是「我怎麼可以」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個更冷的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個計數器動了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個計數器她從來沒有設過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她沒有在記那個數字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她也沒有想過要維持它。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而它就是零。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "四年。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它一直是零。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西回不去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒理解的「回不去」，也不是道德上的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是算術上的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個數字從零變成一，那件事沒有反向操作。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她接下來這輩子，那個數字最少是一。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在那裡的時候，窗外那片天變了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "整片。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "變成了一片乾淨得不像話的藍天白雲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她看著那片天，坐了很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而壓在她身上的那份東西，慢慢地隨著那片天空一起撐白。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後她慢慢地變回原本的那個張真琪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天的天氣是自然的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "沒有人為她做任何事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是一個剛好在那個時間點放晴的下午。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而這種事一年會發生很多次。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那天剛好輪到了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她認定那是他做的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有查證過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天之後，她去找了他。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一次沒有挑戰。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她坐下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她坐了大概兩個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她什麼都沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他也沒有問。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她走的時候，講了一句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話不是謝謝。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她那一秒如果講了謝謝，那件事就會被講出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她不想要那個。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她不確定他會不會承認。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果他說「那不是我」，那她就沒有那個東西了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以她講的是：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯我下個月再來。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「嗯。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個「嗯」是短的還是長的，她沒有分出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是很多年以後她才學會的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而七年後，她二十三歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字現在是多少，她沒有算。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是她記不得。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她記得每一個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "臉。地點。時間。那一天的天氣。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是她刻意去記的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有算的理由很簡單。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為零跟一之間，有一個差別。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一跟二之間沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她十六歲那天就算完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她現在的階位是二階上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字是別人替她推上去的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己從來沒有申請過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她不申請的理由，她跟別人講的是：那對她沒有幫助。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是真的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是全部。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為一個階位代表一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "你能造成多大的破壞。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那份評定的依據，是她做過的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她做過的事裡面，有一件她不想要被算進去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事一定被算進去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為評定的人不知道那件事對她而言是什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他們只知道那是一個數字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她二十三歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她在台北一間公司當業務員。輪休制。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她名片上印著她的名字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她每隔一陣子去台中。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她現在去，就只是去坐著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "帶筆電處理工作。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "替他梳一梳頭髮。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "跟那個孩子講幾句話。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她幾乎不再挑戰他了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而理由她自己講過一次，而且是對那個孩子講的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個孩子問她：「真琪姐姐為什麼不打了？」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她想了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後她說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯打不贏啊。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子笑了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也笑了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是真正的理由。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "真正的理由是：她十六歲那年之後，就沒有那麼想贏了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她從來沒有跟任何人講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "包括那個什麼都知道的七歲小孩。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 112,
+  "narration": 68,
+  "emphasis": 42,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_zhenqi",
+ "⚠_label_rule": {
+  "shunfeng": "他",
+  "yuanzou": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

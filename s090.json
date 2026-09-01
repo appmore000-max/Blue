@@ -1,0 +1,597 @@
+{
+ "id": "90_那陣風",
+ "title": "那陣風",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "三歲那年，她跟她祖母坐在老家的大窗邊。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是一個很普通的下午。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她記得的東西不多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那年她三歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而三歲的記憶多數是碎的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個顏色。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個聲音。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一個味道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西不會連在一起。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她記得的是那陣風。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她記得它的方式很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她不記得那天的天氣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她不記得她祖母那天講了什麼。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "她甚至不太確定那扇窗是往哪個方向的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她記得那陣風。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那陣風很溫暖。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而「溫暖」那兩個字是她長大之後才有的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個三歲的小孩沒有那個詞。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她三歲那年腦子裡的東西，是另外一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個「有東西在」的感覺。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而不是可怕的那種。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是相反的那種。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒做了什麼，她不記得。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她祖母後來講過一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是她十幾歲的時候。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她祖母那天講的是別的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事順帶被提到。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「妳三歲那年在窗邊，突然笑起來。」",
+   "pause_before": 4,
+   "who": "grandmother",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯笑什麼？」",
+   "pause_before": 3,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不知道啊。就笑。」",
+   "pause_before": 2,
+   "who": "grandmother",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「然後呢。」",
+   "pause_before": 3,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「然後妳就睡著了。」",
+   "pause_before": 2,
+   "who": "grandmother",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她祖母覺得很好笑。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有笑。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為她那一秒對上了一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她記得的那陣風。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而十歲那年，那件事又發生了一次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那年她離家。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在找一個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事是不可能的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "沒有名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有住處。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何線索。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人帶著一個小男孩到處走。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "今天在這裡，明天可能在幾百公里外。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她十歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而某一天，她感覺到了那陣風。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒認得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「認得」的意思不是她想起來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是她的身體先動了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她的腦子過了一秒才跟上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她朝著那個方向走。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她走到底，看見了兩個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個穿拖鞋的年輕人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "跟一個七歲的小男孩。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那陣風是哪來的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有答案。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是那個年輕人。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那天什麼都沒做。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那也不是那個小男孩。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那時候什麼能力都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它就是來了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "來得剛剛好。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後就散了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它只出現過那兩次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "三歲那一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "跟十歲那一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那之後十三年，一次都沒有。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她問過那個人一次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那是很久以後的事了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她問的方式很輕。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她那一秒不確定那個問題會不會很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯十三年前那個風，是你弄的嗎。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人那一秒轉過頭。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他轉頭這件事本身，就已經是一個回答了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個人不轉頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一次轉了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯不是。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而張真琪那一秒說：「喔。」",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有失望。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為她那一秒在算另外一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人為什麼要轉頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案她那一秒沒有想出來。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她後來想出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人也不知道那是什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個知道答案的人，不需要轉頭。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他可以躺在那裡回答。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個不知道的人，會轉頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那一秒也想知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她從來沒有跟任何人講過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為講出來會變成一個很奇怪的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個二十三歲的人，說她三歲跟十歲各感覺到一次風。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩次的風是同一陣。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事在任何一個標準底下都是不成立的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為風就是風。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而風沒有身分。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她就是知道那是同一陣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她二十三歲的時候，還在等第三次。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己知道那很蠢。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那兩次之間隔了七年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在已經十三年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個間隔沒有規律。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個沒有規律的東西，不能被等。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她還是在等。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她等的方式很小。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她在戶外的時候，會多注意一點。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她自己沒有意識到。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次風大的時候，會停半秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那半秒她自己也沒有發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作她做了十三年。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 112,
+  "narration": 50,
+  "emphasis": 55,
+  "speech": 5,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_zhenqi",
+ "⚠_label_rule": {
+  "shunfeng": "他",
+  "yuanzou": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   27,
+   31
+  ]
+ ]
+}

@@ -1,0 +1,594 @@
+{
+ "id": "74_那九年",
+ "title": "那九年",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那份名單每個星期出一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而出的方式是：統籌先排，指揮看過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數時候指揮不動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事界裡面的人都知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人不改東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他不改的理由，多數人的理解是：那個人相信統籌。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個理解是對的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它不是全部。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那九年裡，那份名單被動過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而次數不多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "大概一年兩三次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而每一次動的東西都很小。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "換一個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "或者加一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那些動作在紀錄上看起來，是很正常的調整。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那本來就是指揮該做的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些調整有一個共通點。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "它們全部發生在同一個人身上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是高志遠。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那些調整的內容是這樣的：",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那份名單上如果有一件致死性風險的案子，而高志遠在上面——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個名字會被換掉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而換上去的人，做得沒有他好。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事強葬知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是換。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而九年，大概二十幾次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事高志遠不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他看不到那份名單的前一版。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他看到的是貼出來的那一則。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那則上面沒有他。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不需要解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個名單上沒有你，那不是一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是常態。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那九年裡，另外有一件事在進行。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事是高志遠自己在做的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他二〇一六年進來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置慢慢變成他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "前線調度。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置的實際內容是：在現場決定誰上、誰退、誰不要動。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他做得很好。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那七年他學的就是那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個場地的形狀。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "誰在哪裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "什麼東西會從哪個方向來。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他在那個位置上做的事情裡面，有幾件不在職務範圍。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那幾件全部發生在名單之外。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "某幾個星期，某個人的班會被減掉一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "某幾個時段，某個人不會被排。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人查過，然後決定那是巧合。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事，是他在名單出來之後、貼出去之前做的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個空檔大概十幾分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那十幾分鐘他有權限。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事最奇怪的地方是這樣的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "兩個人在做同一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個在名單出來之前。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一個在名單出來之後。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人都沒有跟對方講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人都以為只有自己在做。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而有一次，那兩件事撞在一起了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那是二〇二二年的某一個星期。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個星期有一件案子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第一碼二。第二碼二。第四碼二。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那種案子需要重型防護。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而界裡面有兩個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "高志遠。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟黑石。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個星期，黑石那邊有事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事只有高志遠知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以那份名單上，統籌排的是高志遠。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是正確的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為另外那一個，統籌不知道他那個星期有事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬看到那份名單的時候，做了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他把高志遠換掉了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "理由是那件案子的第一碼是二，而第四碼是二。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個組合的致死性風險偏高。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他換上去的是黑石。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是唯一另外一個做得到的人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那份名單回到統籌那邊的時候，高志遠看到了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒愣了一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個名字不應該在上面。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒有兩個選項。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一個：講出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「那個星期他有事。」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話會被問「你怎麼知道」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "第二個：自己改回來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他選了第二個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他改回來的方式是：他把自己的名字放回去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他有權限。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個修改在系統上會留紀錄。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個紀錄沒有人會去看。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那則貼文出去了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而上面是高志遠。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件案子他去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一次傷得比平常重。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬那天晚上看到那則貼文。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒看到那個名字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那是誰改的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為系統上有紀錄。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他去看了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有問。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他算得出來理由。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個人把自己的名字放回一份名單上，理由只有幾種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那幾種裡面，多數是他覺得別人做不到。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個理由對高志遠不成立。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為另外那一個做得到。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那是另外一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一種是：他知道某件強葬不知道的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬那一秒沒有去查那是什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是他該知道的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他做的事情是：他把那個星期的紀錄留著。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那之後，那份名單上如果同時有那兩個名字，他不再換高志遠了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他換另外那一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事高志遠也不知道。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 115,
+  "narration": 62,
+  "emphasis": 52,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

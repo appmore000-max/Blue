@@ -1,0 +1,649 @@
+{
+ "id": "100_而那個東西還在山上",
+ "title": "而那個東西還在山上",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "隔年三月，陳文彬五十三歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他生日那天在工地。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他自己忘了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他太太晚上煮了一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒才想起來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一年他減班減到一個星期三天。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而工頭那邊沒有講什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他做的還是比多數人好。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "三天做的比別人五天做的多。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "只是他做完那三天之後，要躺一天。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他跟他太太講的是年紀。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她信了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個解釋很好用。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為它是對的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "一個五十三歲的做工的人會累，那不需要別的理由。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個紙箱還在床底下。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他去年十一月之後，沒有再拉出來過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有丟。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他自己有一個解釋。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他覺得他查完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個解釋不對。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那不對。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為他知道自己停在哪裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他停在一個問題上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問題他沒有問完。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題現在還在。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而它每隔一陣子會出來一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "多數是他很累的時候。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個時候他的腦子會亂跑。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問題會跑出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都把它推回去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而推回去的方式很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他去想別的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "女兒的學費。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那台機車該換輪胎了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "還有下個星期要不要去看那個新的醫生。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西比那個問題實在。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以它每一次都被推回去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那間早餐店他還是每天去。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "火腿蛋餅。冰奶茶。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而靠窗那個人現在一個月來一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而以前是兩三次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事陳文彬注意到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他注意到的方式是：那個人來的時候，他會多看一眼。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那不是警覺。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是他們互相點過頭。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個點過頭的人，就變成一個「認識的」了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那間店裡認識的人不多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人為什麼來得比較少，陳文彬沒有問。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他猜的是：那個人搬家了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "或者換工作了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩種都很正常。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而真正的理由是別的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那個東西越來越慢。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而慢代表週期變長。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而週期變長，代表每個星期看沒有意義了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那個回報改成兩個星期一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事是那個看的人自己建議的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而上面同意了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那份建議上還有一行。",
+   "pause_before": 5
+  },
+  {
+   "t": "quote",
+   "text": "「建議把觀察對象加一個。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一行到現在沒有回應。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是被忽略了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個決定還沒有做。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而做那個決定的人，一年多來想過幾次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次想到最後，都停在同一個地方。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為「加一個觀察對象」的意思是：有人要去看著一個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而看著一個人，跟看著一個東西不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個東西不會發現有人在看。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個人會。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人一旦發現了，那件事就變成別的了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個「別的」是什麼，那個人算得出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算完之後就沒有做那個決定。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西還在那條產業道路上。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而它繞著同一片空地轉。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它繞得很慢。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它沒有離開過那個範圍。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一年多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一帶的人不知道有那個東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那條路晚上沒有人走。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而白天它不在那裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它白天在哪裡，沒有人知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問題那個看的人問過一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那份回報上沒有答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬今年五十三歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他女兒下個月開學。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而補習費是九月十號要繳。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個數字他算過了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個月他要多做兩天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多做兩天，他要躺兩天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個算式是成立的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為躺的那兩天不用錢。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天上午十點多，工地那邊有一片模板鬆了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而它掉下來的位置底下沒有人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而它砸在地上，發出一聲很悶的響。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而陳文彬那時候在旁邊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有伸手。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他知道伸手也沒有用。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他就只是看著它掉下去。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他右手往前抬了大概五公分。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有發現。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而旁邊那個年輕的說：「彬哥，還好底下沒人。」",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他說：「嗯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他說：「那邊記得綁。」",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「好。」",
+   "pause_before": 4,
+   "who": "young_worker",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那天下午五點四十，他收工。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他騎車回新莊。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而路上塞了一段。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他停在一個紅燈前面的時候，抬頭看了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是一個很普通的下午。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而天是藍的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那沒有任何意義。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為八月的台北，多數的下午都是那樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他看了大概兩秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後綠燈了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那天晚上七點多到家。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他女兒在寫東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他太太問他今天怎麼樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他說：「還好。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他吃完飯，洗完澡，十點多躺下來。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那天晚上沒有醒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事一個星期會發生三、四次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他覺得那算不錯的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西還在山上。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而下個星期，他女兒的補習費要繳。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 125,
+  "narration": 52,
+  "emphasis": 71,
+  "speech": 1,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_wenbin",
+ "⚠_label_rule": {
+  "yu_lengchuan": "靠窗那個人",
+  "⚠": "絕對不能顯示「余冷川」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

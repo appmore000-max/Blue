@@ -1,0 +1,553 @@
+{
+ "id": "76_空著手",
+ "title": "空著手",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那年他們去了一次墾丁。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那是弟弟講的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那孩子九歲那年，在學校聽同學講的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他回家之後講了一句：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯我們可以去海邊嗎。」",
+   "pause_before": 2,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而陳婷雅那一秒說：「再說。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「再說」那兩個字，那孩子聽得懂。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她每一次講那兩個字，那件事後來都會發生。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "只是不一定是什麼時候。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次是四個月之後。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那四個月她在算。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "墾丁。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "從潮州過去大概兩個小時。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是騎車。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人騎兩個小時，那孩子會累。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以要坐客運。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而客運兩個人來回是幾百塊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個數字她要從那個月裡挖出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她挖出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她挖的方式是：那個月她多接了一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事那孩子不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那天早上他們六點多出門。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她背的是一個草編的包。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個包很大。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而裡面裝的是：毛巾、水、防曬、換洗的衣服、兩個麵包。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "還有一把槍。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那把槍是拆開的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她拆它的理由不是為了藏。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為一把拆開的槍，在一個草編包裡面摸起來像別的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子有一次摸到了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是他們在客運上的時候。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他要拿水。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把手伸進去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他摸到了一個硬的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒問了一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「這什麼？」",
+   "pause_before": 4,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而陳婷雅那一秒沒有慌。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她算過那件事會發生。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒說的是：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯手電筒。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子「喔」了一聲。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他把水拿出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他們在海邊待了大概四個小時。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子玩水。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她坐在旁邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個包放在她腿上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那四個小時裡沒有下水。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子問過一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「姐妳不下來喔？」",
+   "pause_before": 3,
+   "who": "chen_zairen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「我看包包。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子「喔」了一聲。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他繼續玩。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那四個小時在做的事情，不是看包包。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她在看那片海。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她在看的是：如果有事，往哪邊。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個習慣她自己知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有辦法關掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個十六歲的女生坐在墾丁的沙灘上，而她在算撤離路線。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她自己覺得很好笑。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她還是在算。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的核心，是那把槍。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那個東西不是一個武器。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個前提。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她手上有槍，那個東西才存在。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她手上沒有槍，那個東西連影子都不會出現。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是「消耗不足」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是不存在。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事在她的生活裡，差別非常大。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個消耗不足的人，還是那個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他只是這一秒做不到。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個手上空著的她，是另外一個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一個一百五十七公分、四十三公斤的十六歲女生。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在多數場合是弱的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是事實。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以她從來不讓自己空著手。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那句話聽起來像是一個習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是一個結構。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "在家：那把在客廳的抽屜。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "出門：腰後。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "書包裡：另外一把，拆開的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而去海邊：草編包。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做了四年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有算過那算不算多。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是一個可以拿來比較的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天回程的客運上，那孩子睡著了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他靠在她肩膀上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那兩個小時沒有動。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那兩個小時在想一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個包在她另外一邊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她拿得到。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她確認過三次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三次她自己沒有發現。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上他們九點多到家。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子洗完澡就睡了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "九點半。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那天沒有等第二次門聲。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那天她沒有出去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那天晚上在客廳把那把槍裝回去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她裝的時候，把燈開著。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她要看那條紅繩有沒有進沙子。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它進了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒拿了一支牙刷，很輕地刷。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事花了她大概十分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那十分鐘她刷得很慢。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是那一整天，她唯一一件不趕的事。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 105,
+  "narration": 66,
+  "emphasis": 35,
+  "speech": 3,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_tingya",
+ "⚠_label_rule": {
+  "chen_zairen": "他",
+  "⚠": "她不知道他知道"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

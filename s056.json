@@ -1,0 +1,545 @@
+{
+ "id": "56_包餃子",
+ "title": "包餃子",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "星期天晚上，鄭翊辰一個人在家。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "信義區那間中型公寓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他做的事情是包餃子。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那天他沒有事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有課。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "沒有被 @ 到。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他明天早上八點才要到拳館。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他七點多去了一趟超市。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "買了絞肉、韭菜、皮。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他買的量是一個人吃不完的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他每一次都這樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都吃不完。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而剩下的他冷凍。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個冷凍庫裡現在有三包。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而最舊的那一包是兩個月前的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他包得很慢。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是他唯一一件會慢下來做的事情裡面的第二件。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一件是纏繃帶。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而這兩件事的動作其實是同一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個東西在手上，繞、折、壓、收。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而中間不能急。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他自己沒有發現那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼會包，那件事的來源很清楚。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他母親會包。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他八歲之前在首爾，那個家裡包的是另外一種。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而八歲之後回台灣，他母親開了那間店。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那間店裡有一樣是餃子。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他小時候在旁邊看。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而看久了就會了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他母親教的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她一次都沒有教過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而有一天他自己包了一個。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她看了一眼，然後說：",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯欸，還可以。」",
+   "pause_before": 1,
+   "who": "mother",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她繼續做她的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事那年他大概十歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他包餃子這件事，沒有一個人知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "拳館的人不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "界的人不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他母親也不知道。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他母親不知道那件事，是因為他每個月回桃園的時候，包的是店裡的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是幫忙。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是這件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而這件事是他一個人在台北的時候做的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼要做，他自己沒有想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那不是因為他愛吃。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他其實沒有特別愛吃。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那也不是因為省錢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "買那些材料的錢，比他去外面吃貴。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而如果一定要講——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那大概是因為那件事會花掉一段時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個小時多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一個小時多裡面，他的手一直在動。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他的腦子沒有在跑。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事對他來說是稀有的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為他多數時候腦子在跑。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而跑的東西是同一件。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個閘門。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個沒有出來的人。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個房間裡喝了一半的杯子跟整理過的床。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他想了十一年。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有想出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而包餃子的時候他不想那個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他刻意不想。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他想不了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事要專心。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "皮要對齊。餡不能太多。摺要一個一個壓。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個沒有壓好的，下鍋會開。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他在意那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一個從來不算自己還剩幾次的人，會在意一個餃子有沒有壓好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而九點多，他煮了十幾個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他站在流理台旁邊吃。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有坐下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個動作他也沒有發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而剩下的他一排一排放進盤子，蓋起來，放進冷凍。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他放的時候會排整齊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一排十個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個習慣是從那間店裡看來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而十點多他洗完澡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他躺下來的時候，手機在旁邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他滑了一下那個群組。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "今天沒有事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他把手機放下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他碰了一下左耳那個銀環。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作他一天做幾十次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有發現過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西是他父親留下來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有人知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為看起來那就是一個二十幾歲的男生戴的耳環。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它銀色，圓的，直徑大概一公分。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那種東西哪裡都買得到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他戴著它睡覺。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "戴著它訓練。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "戴著它出勤。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而他從來沒有取下來過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他睡著之前想的是一件很小的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個冷凍庫裡有三包了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他下個月回桃園的時候，可以帶一包過去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他想到那件事的時候，笑了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那太蠢了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個開餃子店的人，不需要她兒子從台北帶餃子回去。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他還是想了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他下個月不會帶。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "跟前面那十一年一樣。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 105,
+  "narration": 71,
+  "emphasis": 33,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zheng_yichen",
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

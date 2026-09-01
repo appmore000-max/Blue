@@ -1,0 +1,550 @@
+{
+ "id": "67_多寫的那一段",
+ "title": "多寫的那一段",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二十二歲那年，她寫了一份回報。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是她進去的第二年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那份回報跟前面那幾十份沒有什麼不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "地點。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "傷勢。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "處置。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那四樣是格式規定的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一份她多寫了一段。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一段講的是兩個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那兩個人不是界的成員。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他們是那個現場的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個大概四十幾歲，一個十幾歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個人本來就在那裡——他們住在那附近。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們那天剛好經過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生的時候，那兩個人在中間。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而林若霜那天在後面。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的判斷很快。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那兩個人走不掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她做的事情跟她平常做的一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她過去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一次她沒有用那個東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那兩個人的傷不重。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她用手就可以處理。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她用手處理了大概二十分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那二十分鐘裡，那個十幾歲的一直在講話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是在講痛。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是在講他為什麼會在那裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "speech",
+   "text": "「我們只是要去買東西。」",
+   "pause_before": 3,
+   "who": "teen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「那間店在前面。」",
+   "pause_before": 1,
+   "who": "teen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我媽叫我去買醬油。」",
+   "pause_before": 1,
+   "who": "teen",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我們只是要去買東西。」",
+   "pause_before": 1,
+   "who": "teen",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那句話他講了大概八次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而林若霜那二十分鐘裡沒有回。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她在處理。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她處理的時候不講話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她處理完之後，那個人還在講。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒蹲在那裡，看著他。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後她從口袋裡拿出一顆糖。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "剝開。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "遞過去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "然後她說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「沒事了。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人接過去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他把那顆糖放進嘴裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就不講話了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她那天回到總部之後，寫進了回報。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她寫的那一段大概是這樣的：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "現場另有一般民眾二人，非本次目標關係人。\n\n一為四十餘歲男性，一為十餘歲男性。\n\n兩人均有輕度外傷，已現場處理，無需後送。\n\n兩人於現場停留約二十分鐘後自行離開。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四行是事實。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她在那四行後面，又寫了一段。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "而那個十餘歲的一直在解釋他為什麼會在那裡。\n\n他講了大概八次。\n\n而他不需要解釋。\n\n但我認為他自己不知道那件事。\n\n而我沒有跟他講。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一段跟任務沒有關係。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她寫的時候知道那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她還是寫了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她寫完之後，把那份東西交出去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那之後沒有任何反應。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "沒有人回。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有人問。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人提。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候的理解是：那一段被跳過去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是正常的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一份回報的功能是紀錄，不是講故事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一段是講故事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那之後沒有再寫過那種東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她的回報從那之後就只有四樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "時間。地點。傷勢。處置。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四樣她寫得非常乾淨。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而全界寫得最乾淨的回報是她的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事到現在七年了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她不知道的是：那一段有人讀了三遍。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第一遍是收到的時候。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "第二遍是那天晚上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而第三遍是隔了大概兩個星期。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人第三遍讀的時候，只讀了那一段。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒在做的事情，是決定一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那份回報要不要往上送。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她的判斷是不要。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "理由不是那一段不好。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "理由是那一段一旦被往上看到，那個寫的人就會被注意到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而一個被注意到的二十二歲，接下來會發生兩件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她會被交付更多。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她會開始被期待。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事對一個剛進來兩年、而且明顯很在意人的醫療人員來說——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "不一定是好的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以她沒有往上送。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她把那一段抄了下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "抄在那本紙的筆記本上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁是那個人的名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一段抄在名字下面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她抄的時候，字是正常的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而七年來，那本本子上抄過的東西不多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "多數是名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而名字後面是一些很短的東西——家裡有幾個人、哪一天不方便、哪一種現場他會退不掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而完整抄下來的段落，一共只有兩段。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而其中一段是那個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而另外一段是什麼，這裡不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而林若霜二十九歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她到現在都不知道那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她口袋裡永遠有一包糖。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她整包裝備裡唯一一樣沒有醫療用途的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有寫在任何一份任務說明裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她自己加上去的。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 103,
+  "narration": 67,
+  "emphasis": 29,
+  "speech": 4,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "lin_ruoshuang",
+ "⚠_label_rule": {
+  "lin_xueyun": "統籌",
+  "qiangzang": "指揮"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   28,
+   31
+  ]
+ ]
+}

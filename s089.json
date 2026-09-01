@@ -1,0 +1,523 @@
+{
+ "id": "89_那個順序",
+ "title": "那個順序",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件事是他自己推出來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而順風不知道他知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一天是這樣的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那個人講的是責罰。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是傳承的一部分。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "每一代都要把該告訴下一代的事，完整地告訴下一代。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那條規則從第一代起就沒有斷過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而順風那一天做的事情，就是那個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他把八項一項一項唸過去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "天閉修。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "天雷。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "削名。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "折源。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "緘言。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "凡守。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "溯憶。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "失格。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "講得非常完整。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一項都沒有漏。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那一秒在聽。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他聽的方式，跟多數人不一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他有一個成人的靈魂。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他已經用二十幾年的時間，只做觀察這一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事練出來的東西是：他會注意順序。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那八項的順序不對。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而「不對」的意思是：它不是任何一種自然的排法。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是按嚴重程度。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "不是按執行的先後。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不是按字數，也不是按筆劃。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那八項如果要排，最自然的排法有幾種。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人用的不是其中任何一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那一秒沒有問。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他那一秒在算。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算了大概三天。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而三天之後他算出來了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那八項的順序，是那個人自己的順序。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「自己的順序」的意思是：那是他當年選的順序。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而選的意思是：那些不是被指定的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在那條規則上沒有寫。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那條規則只寫：如果沒有做到，當代必須受罰。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它沒有寫誰決定罰什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子那一秒理解了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是自己選的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個理解讓他那三天過得很不好。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那件事的意思是：",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人在很早以前的某一天，坐下來，一項一項挑了他自己的懲罰。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他挑了八項。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而八項這個數字，那孩子也算過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為八不是一個必要的數字。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一項就夠了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "三項也夠。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而八項是一個過量的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而過量代表那個人不是在設計一個機制。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他是在確保一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事是：不要讓那孩子死掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而確保的方式，是把後果加到一個他自己承受不起的程度。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個「承受不起」是給誰看的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那件事沒有人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那是給他自己看的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子那三天算完之後，做了一個決定。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他不講。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而理由很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "如果他講了，那個人會知道他知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人會怎麼樣，那孩子算得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人會「嗯」一聲。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後就沒有了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是問題。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個人不會解釋。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個不解釋的「嗯」，會把那件事變成一個兩個人都知道、而誰都不能提的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那樣的話，那件事就會一直在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在它只在一個人身上。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個人扛得動。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，那孩子多了一個習慣。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他不跑。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他不跳。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他不爬高。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "過馬路一定牽手。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "走樓梯一定扶著。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不吃來路不明的東西——雖然他根本不需要吃。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些事情看起來像是一個很乖的小孩。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人的理解就是那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是一項每天都在執行的任務。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有跟那個人提過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為說了，那個人會知道他在害怕。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人知道他在害怕的話，會做一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人會開始跟著他。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事那孩子受不了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個人已經跟了他二十幾年了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是跟著。那是走在一起。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而「跟著」是另外一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子每天躺下來的時候，會把那八項唸一次。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "照那個人講的順序。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他唸的理由不是記。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他早就記住了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他唸是為了確認那個順序沒有變。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個記在他腦子裡的順序，不可能會變。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每天還是唸一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己也知道那沒有意義。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 100,
+  "narration": 40,
+  "emphasis": 60,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yuanzou",
+ "⚠_label_rule": {
+  "shunfeng": "哥哥",
+  "zhang_zhenqi": "真琪姐姐",
+  "wu_ziyi": "紫儀姐姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

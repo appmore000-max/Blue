@@ -1,0 +1,560 @@
+{
+ "id": "86_她沒有看出來",
+ "title": "她沒有看出來",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個人的名字在她本子上。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很重要。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那本本子上只有幾百個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那幾百個人後面，是一些很短的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "家裡有幾個人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "哪一天不方便。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "哪一種現場他會退不掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人後面寫的是三行。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三行是什麼，這裡不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生的時候，她已經在那個位置上很多年了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每天讀完所有進來的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是一個說法。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是字面的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "每一份回報。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "每一份通報。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "每一則群組上的訊息。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她做了十九年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人那幾個月的回報，她全部讀過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些回報沒有問題。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "格式正確。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "內容完整。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而傷勢那一欄是零。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一欄他自己填的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那幾個月讀的時候，沒有停下來過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那些回報看起來很正常。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「正常」的意思是：它們跟前面幾十份長得一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，她把那幾份重新讀了一次。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那一次她讀了大概四個小時。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她找到了三個地方。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一個是長度。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那個人的回報在那幾個月裡，變短了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而不多。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "大概每一份少兩行。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩行是他平常會多寫的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "現場的樣子。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "或者一句對別人的評論。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩行不是格式規定的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以少了不會被看出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第二個是時間。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那個人交回報的時間，往後移了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而以前他是當天。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那幾個月變成隔天。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事也不違規。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為規定是二十四小時內。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而第三個是最小的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那個人的回報上有一個習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他會在最後加一個句號。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而多數人不加。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那是一份表格，不是一句話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他加。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他加了很多年。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那幾個月，那個句號不見了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那三件事她那四個小時裡全部找到了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有覺得自己找到了什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那三件事加起來，還是什麼都不是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個人的回報少兩行。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個人交得比較晚。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一個人不加句號了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三件事在任何一個標準底下，都不構成一個訊號。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒真正想的是另外一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "如果她那幾個月讀的時候有停下來——她會做什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題她想了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她想出來的答案是：她大概會問一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「最近還好嗎。」",
+   "pause_before": 4,
+   "who": "lin_xueyun",
+   "label_as": null
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話她講過幾百次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那句話多數時候沒有用。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一個回答「還好」的人，那句話就結束了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人都回還好。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她自己也是。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒得到的結論是：她可能問了也沒有用。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個結論沒有讓她好過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為「問了也沒有用」跟「沒有問」是兩件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她做的是第二件。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，她改了一個東西。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她改的不是流程。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為流程改不了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人不寫出來的東西，系統讀不到。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她改的是她自己的讀法。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個改法是這樣的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "她開始記每一個人的回報長度。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "不是精確的行數。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是一個感覺。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "這個人平常寫幾行。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而這一次多還是少。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她沒有寫成任何一個工具。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個東西沒有辦法被寫成工具。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它只能在腦子裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做了幾年。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那幾年裡，她因為那個東西問過幾次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那幾次多數是誤判。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人就只是那天比較忙。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而有一次不是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次她問了一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人那一次沒有回「還好」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人講了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來怎麼樣，這裡不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人現在還在。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有跟那個人講過她為什麼那天會問。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個理由是一個句號。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事講出來很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那本本子上，那個沒有句號的人，名字還在。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有劃掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那三行她也沒有改。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次翻到那一頁，都會停一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個停頓大概一秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人看得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那本本子只有她自己在看。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 107,
+  "narration": 48,
+  "emphasis": 58,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "lin_xueyun",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫她「雪芸」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

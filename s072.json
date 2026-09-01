@@ -1,0 +1,628 @@
+{
+ "id": "72_那件深藍色的長袍",
+ "title": "那件深藍色的長袍",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件衣服在櫃子裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "深藍色。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "很舊。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而它的袖口有一點磨白。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件衣服只在一種場合穿。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "見那個孩子的時候。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事二十年了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一次都沒有被發現過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他每個月見他一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個時間是固定的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件衣服也是。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼要換衣服，那件事他自己也想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個孩子不會注意。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個孩子從來不看那種東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次來，穿的都是同一套。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人二十年來沒有換過一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而華邦每一次都換。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的理由，他講不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想出來最接近的說法是這樣的。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "那是一個場合。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個場合。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個五十一歲的人，每個月上山來看一個九十八歲的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而兩個人講的話不多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而多數是他在講。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而講的內容是菜、是天氣、是山上那條路又壞了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是一個需要換衣服的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他還是換。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個理由，二十年之後他自己想清楚了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為二〇〇五年那一天，他穿的是工作的衣服。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那天他七十八歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那天去的地方不是一個要見人的地方。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "他是去看一件事的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他看完了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他看到了一個三十一歲的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有計畫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是走過去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他手上有一包菸。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那包菸不是他的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他前一天在一個地方收到的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不抽菸。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他遞了一根。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒為什麼要遞，他到現在都講不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那天穿的是一件很普通的、髒了的衣服。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來他想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "如果那天他穿得整齊一點，那個人可能不會接。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個穿得整齊的老人遞菸給一個那樣的人，那件事有一個明顯的方向。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個方向是「我要跟你講什麼」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個要跟你講什麼的人，是可以被拒絕的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他穿得很髒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事讓那根菸變成一個沒有方向的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他算的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是運氣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他二十年之後才發現那是運氣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以他換衣服。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為現在那件事有方向了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而現在那個孩子每個月上山來，是為了來看他。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是一件有方向的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一件有方向的事，值得換一件衣服。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件衣服那個孩子沒有注意過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那正好。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那張照片在抽屜裡。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他每年拿出來看一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一天是那個孩子的生日。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那張照片上是什麼，這裡不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的是：那不是那個孩子的照片。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為他沒有那個孩子的照片。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一張都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很合理。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個孩子不拍照。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那二十年，他們兩個從來沒有一起被拍過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個生日他是怎麼知道的，也不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不難。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個孩子登錄的時候填了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一欄他自己填的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個日期是不是真的，華邦沒有查。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他每年那天做的事情很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他把那張照片拿出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "看一下。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "然後放回去。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事花不到一分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他做了二十年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子完全不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個孩子那天多數時候在總部。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那是一個很普通的日子。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而界裡面沒有人知道那是他的生日。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子自己知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有講過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一年出了一個很小的意外。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那一年那天，那個孩子上山了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是他的固定時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他來的理由是別的——某件事要當面講。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而華邦那天穿的是那件長袍。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事那個孩子沒有發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個抽屜那天是開著的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那張照片在上面。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子進來的時候，那個抽屜在他右手邊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他經過的時候看了一眼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他的習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個進到任何一個空間的人，會掃一遍。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是那十六年留下來的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他看到了那張照片。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他沒有看清楚。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那是一眼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一眼看不清楚一張照片上的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒的判斷是：那是一張照片。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事不需要處理。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他走過去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而華邦那一秒在泡茶。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他背對著。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不知道那個抽屜開著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，兩個人講了大概二十分鐘的話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那二十分鐘裡，那個孩子沒有提那張照片。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而華邦也沒有想到那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個孩子走了之後，華邦去收茶杯。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒看到那個抽屜開著。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他站在那裡大概三秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他把它關上了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有想那個孩子有沒有看到。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個問題沒有答案。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個沒有答案的問題，他不會去想。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 121,
+  "narration": 67,
+  "emphasis": 53,
+  "speech": 0,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "huabang",
+ "⚠_label_rule": {
+  "qiangzang": "那個孩子",
+  "zhang_fugui": "那個人",
+  "chen_wenbin": "（未出場）"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

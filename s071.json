@@ -1,0 +1,533 @@
+{
+ "id": "71_九十三歲",
+ "title": "九十三歲",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那是他最後一次動手。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "九十三歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事是什麼，這裡不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不重要。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而重要的是三件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一件是：那件事他本來可以不去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個時候他已經完全退出經營了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而界那邊有人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些人做得到。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "只是要多花一點時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第二件是：他知道那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他算過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算出來的差別是幾個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而第三件是：那幾個小時裡有一個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人是誰，也不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人現在還活著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次他用了多少，沒有人知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個現場只有他。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他回來之後躺了一年多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一年多裡，界那邊來過幾次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次都說：「還好。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是逞強。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他算過那句話會造成什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個九十三歲的人說「不太好」，那些人會做很多事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些事情裡面，沒有一件對他有用。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些事情會佔掉那些人的時間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一年多結束之後，他發現了一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個東西沒有完全回來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他花了一段時間才確定。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個明顯的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他還是做得出來每一項。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西的邊緣不見了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那個「邊緣」是什麼，他講不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他知道那是什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個做了七十幾年的人，會知道他那一項本來可以做到哪裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在做不到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有難過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他在算。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "八十七歲那一次，恢復花了三個月。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "九十一歲那一次，八個月。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而這一次，一年多。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而且沒有回來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個數列他看了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "三。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "八。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "十四以上。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是等差。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那也不是等比。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "但那個方向很清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒做的事情，是往下推一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "下一次會是幾年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他推出來的答案不是一個數字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個數列在下一項會超過一個東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個東西是他還剩下的時間。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "所以他那一秒得到的結論是：下一次可能回不來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個結論他接受了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而接受那件事花了他大概十秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個需要被接受的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個算出來的數字。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他這輩子沒有跟數字爭執過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他接下來做的事情，是往回算。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "如果下一次可能回不來，那還有幾次是安全的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題比較難。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為「安全」沒有定義。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己定了一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "安全的意思是：他做完那件事之後，還可以自己走回來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個定義很低。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是刻意的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一個定得太高的標準，會讓他在該用的時候不用。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事比用掉更糟。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他用那個定義算出來的答案是：三次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個三不是一個精確的數字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個他願意接受的上緣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而真正的數字可能是二。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "也可能是四。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他選了三。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他選三的理由，是因為三比較好記。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個理由聽起來很隨便。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是隨便。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個要在現場那一秒被拿出來用的數字，必須好記。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而在那一秒，他不會有時間去回想他當年是怎麼算的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他只會有一個數字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個數字要能夠在半秒之內被叫出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他算完之後，做了一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他把那個數字寫在日記上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁上只有一個字。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "三",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而沒有日期。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有說明。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有任何一個字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁在那一整面牆的本子裡面，是最短的一頁。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那本本子他寫了六十三年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一頁在中間。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而如果有人翻到那一頁，那個人會以為那是一個沒有寫完的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是寫完的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而五年之後，那個數字還是三。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他一次都沒有用。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那五年他做的事情是種菜。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那塊地大概十坪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那排番茄他每年都種，而每年都長不好。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每年都再種一次。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 102,
+  "narration": 54,
+  "emphasis": 46,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "huabang",
+ "⚠_label_rule": {
+  "qiangzang": "那個孩子",
+  "zhang_fugui": "那個人",
+  "chen_wenbin": "（未出場）"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

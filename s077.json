@@ -1,0 +1,533 @@
+{
+ "id": "77_那隻蝴蝶",
+ "title": "那隻蝴蝶",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二十歲那年，她去了一間店。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那間店在台北的一條巷子裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她挑那間的理由，跟多數人不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那間店的門是往內開的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒站在外面看了三十秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一扇往內開的門，代表她進去之後，那扇門在她背後。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一扇在背後的門，開的時候會有聲音。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一扇往外開的門，你要推。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而推是一個動作。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個動作要時間。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒選了會有聲音的那一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她自己也知道很荒謬。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為她只是要去刺一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她還是選了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅問她要刺什麼。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「蝴蝶。」",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「什麼樣的蝴蝶？」",
+   "pause_before": 4,
+   "who": "tattooist",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「⋯⋯就蝴蝶。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅拿了一本東西給她看。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而裡面有幾十種。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她看了大概兩分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她指了一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她指的那個，翅膀是張開的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她指的理由是：那個最大。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而「最大」在那一秒有一個很實際的意思。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅問她要刺在哪裡。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她把衣領拉下來一點。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她指的位置是：頸下到鎖骨那一片。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅看了一眼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他停了一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個位置上有東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是什麼，這裡不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個師傅也沒有問。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他只說了一句：",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「這個要蓋掉喔？」",
+   "pause_before": 2,
+   "who": "tattooist",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：「嗯。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅「喔」了一聲。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他就開始準備了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事花了大概三個小時。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那三個小時裡，那個師傅講了很多話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他的習慣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他講的是天氣、是這條巷子、是他前一個客人的一個很好笑的要求。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而蘇月「嗯」了幾次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那三個小時多數時候在看天花板。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個天花板是白的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有想那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她想了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個白色的、一直開著的燈，跟一個沒有窗戶的房間。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她記得的四件事裡面的第一件。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那三個小時裡，那件事一直在。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有講。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也沒有閉眼睛。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為閉眼睛的人看不到門。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事做完之後，那個師傅給她看鏡子。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她看了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那隻蝴蝶把那個東西蓋住了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "完整地。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒說：「謝謝。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個師傅說：「不會。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他說了一句：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯很好看喔。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒愣了半秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她那一秒在算那句話要什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是她二十年來的習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她算出來的答案是：他在推銷。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個店家講「很好看」，是要你下次再來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個答案是對的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它也可能不是。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她沒有再往下算。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那之後，那隻蝴蝶跟著她五年。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她夜場的衣服永遠是有肩帶的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個理由不是那隻蝴蝶。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是那隻蝴蝶底下那個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一隻蓋住東西的蝴蝶，只有在燈光正常的時候是完整的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而夜場的燈不正常。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而在某幾種燈底下，那個東西會透出來一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她試過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她二十一歲那年，在自己房間裡用手機的燈試了幾種角度。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而有兩種角度會透。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以她的衣服永遠有肩帶。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而有人問過她。",
+   "pause_before": 5
+  },
+  {
+   "t": "speech",
+   "text": "「這個蝴蝶好漂亮，為什麼弄這裡？」",
+   "pause_before": 4,
+   "who": "customer",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她說：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「上班比較好看啊。」",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她講的時候在笑。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話是她二十歲那年就準備好的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她準備它的方式，是在心裡講了大概十次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她講到那句話聽起來像是隨口的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做了五年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人多問過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那正好。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個位置她自己看不到。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那在鎖骨附近。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而人看不到自己的鎖骨。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "除非用鏡子。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那五年裡，用鏡子看過那個位置的次數是零。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是她不敢。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是她不需要。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她知道那底下有什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事看不看都一樣。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 101,
+  "narration": 56,
+  "emphasis": 40,
+  "speech": 3,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "su_yue",
+ "⚠_label_rule": {
+  "qiangzang": "那個人",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

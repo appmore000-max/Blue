@@ -1,0 +1,657 @@
+{
+ "id": "99_那一天",
+ "title": "那一天",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那天是星期四。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天沒有事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而「沒有事」的意思是：那個群組上一整天沒有貼文。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那種日子一個月大概有二十天。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人不會注意到。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "〇五：〇〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台中，龍井。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個頂樓上有一個人躺著。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而另外一個站在他左後方半步。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而太陽還沒有出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇五：〇〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "宜蘭，蘇澳。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個一百零二歲的坐下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個十六歲的坐在他旁邊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人的背都是直的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇五：一四",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "太陽出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "〇六：一〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "屏東，潮州。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個十六歲的在炒蛋。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而白飯是昨天晚上剩的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇六：三〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "新北，三峽。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個三十四歲的在弄小孩的書包。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他脖子上掛著一條毛巾。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇七：〇二",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "新北，某個工地。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個五十二歲的到了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他今天覺得還可以。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇七：二五",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "屏東，某間國小門口。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個十歲的下車，背好書包。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他走了幾步，回頭看了一次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她還在。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇八：〇〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，某間醫院。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個二十九歲的下班了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她今天沒有把辮子拆下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇九：三〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，總部。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個三十八歲的在讀昨天的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天進來的通報有十一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而十一件全部是零。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那種日子她一個月會遇到幾次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次讀完之後，會停兩秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩秒她自己沒有發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一〇：四〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "新莊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個十七歲的還在睡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他昨天晚上打到兩點多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一二：〇〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "宜蘭，員山。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個十九歲的在拳館。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而今天沒有小孩來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己打了兩個小時。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一三：一五",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，某間公司。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個二十三歲的在開會。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那個會很無聊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她坐在最靠近門的位置。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一四：二〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "新北，往山上那條產業道路。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個什麼都沒有的人站著。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個東西在繞圈。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而它今天比上個星期慢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一五：〇〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，內湖。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個二十五歲的在整理東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她把一台電腦上的灰擦掉了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有想那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她擦完之後坐了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一六：三〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台中，龍井。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個七歲的下樓去泡茶。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他那天第三次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一七：一〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，某個地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個五十一歲的把一份東西放下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從口袋裡拿出一個打火機。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他按了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它打不出火。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把它收回去。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一八：三〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "新北，三峽。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個三十四歲的到家。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他今天準時。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一九：〇〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，某間醫院，八樓。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個四十一歲的在削蘋果。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他削得不太好。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他女兒沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "二〇：一五",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，某間補習班。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個二十七歲的舉手了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她要問的是一個文法。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她今年第一次舉手。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "二一：三〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "屏東，潮州。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個十歲的上床。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他躺好，閉眼睛。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而今天那個門不會響。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他還是等。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "二二：三〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "宜蘭，蘇澳。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個十六歲的關燈。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而樓下那個老人已經睡了兩個小時了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "二三：四〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "台北，某間公寓。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個二十五歲的坐在三個螢幕前面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在等兩點。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "〇〇：〇〇",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那天結束了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個群組上一整天沒有貼文。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一百多個人裡面，沒有一個人被 @ 到。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那天發生的事情是這樣的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "有一個人炒了一個蛋。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "有一個人的背是直的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人回頭看了一次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人停了兩秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人打了兩個小時。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人坐在最靠近門的位置。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人擦掉了一層灰。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人按了一下打火機。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人削蘋果削得不太好。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有一個人舉了手。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而有一個人在等一個不會響的門。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一天什麼都沒有發生。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 128,
+  "narration": 61,
+  "emphasis": 67,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

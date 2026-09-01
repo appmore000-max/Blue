@@ -1,0 +1,523 @@
+{
+ "id": "59_那一行很小的字",
+ "title": "那一行很小的字",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那本本子的前面幾百頁是名字。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而中間某一頁，角落有一行很小的字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一行是幾年前寫的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她寫的時候，寫得比其他任何一行都小。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一行寫的是什麼，這裡不會寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而能寫的是她為什麼寫得那麼小。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那件事的起點是一個稱呼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "界裡面，那個人叫每一個人的全名。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一律全名。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "高志遠。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "林若霜。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "余冷川。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "張磐。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那不是規矩。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那個人自己的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而理由沒有人知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人也沒有想過那需要一個理由。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而某一年，她發現他叫她的方式不一樣了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "雪芸。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她是什麼時候發現的，她記不太清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是某一天突然發生的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那是一個慢慢的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "某一次他喊她，她愣了半秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那半秒她自己也不知道為什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而下一次她又愣了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而第三次她發現了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她做的第一件事是查。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事很她。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她把過去的紀錄調出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那些會議紀錄、那些通訊、那些她自己抄下來的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她一筆一筆看。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她要找的是：第一次是什麼時候。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她找到了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "大概是她進來的第七、八年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個年份她推出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個確切的日子她沒有找到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那不是一個會被寫下來的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有繼續往下查。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事很不她。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為她是那種會把三份看起來不相干的回報拼在一起的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一次停了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她停下來的理由，她自己知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為再往下查，就是問「為什麼」。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題有兩種可能的答案。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種：那沒有理由。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個人某一天就那樣叫了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他自己也沒有發現。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二種：那有理由。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒發現了一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她不想要第二種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為她整個工作就是在找理由。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "她每天讀完所有進來的東西，就是為了找出那些東西背後的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她第一次遇到一個她不想找的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒把那件事想清楚了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "如果那是第一種——那件事什麼都不是。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個習慣。一個口誤變成的常態。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那樣的話，她愣的那半秒就是多餘的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而如果那是第二種——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那她就要決定要不要做點什麼。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒發現，她兩種都不想要。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她真正想要的，是那件事維持現在這樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一個沒有被解釋的稱呼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它每一次出現，她會愣半秒。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人看得出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她想了大概一個星期。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個星期之後，她把那本本子翻開。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "翻到中間某一頁。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一頁上面已經有東西了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個名字。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她在那個名字下面的角落，寫了那一行。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她寫得很小。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是為了不被看見。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那本本子沒有人會看。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是為了省空間。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那一頁還有很多地方。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是因為她那一秒在做一件她不確定該不該做的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個人在做一件不確定該不該做的事的時候，動作會變小。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是她想出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她後來讀別人的回報的時候發現的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個人寫他很確定的東西，字會正常。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個人寫他不確定的東西，字會小、會擠、會往邊邊靠。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一行，是往邊邊靠的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，她沒有再看過那一行。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是她忘了在哪裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那本本子她閉著眼睛都翻得到那一頁。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次翻到那一頁，都是翻過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那一頁上面那個名字，是她要看的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一行不是。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個名字是誰，這裡不寫。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的是：那個人在二〇一四年沒有回來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個名字沒有被劃掉。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人現在還是叫她雪芸。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而全界只有她被他叫名字。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有問過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也不知道她發現了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事到現在已經十一年了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她三十八歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那本本子上有幾百個名字。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而只有一行是小的。",
+   "pause_before": 2
+  }
+ ],
+ "stats": {
+  "boxes": 100,
+  "narration": 60,
+  "emphasis": 40,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "lin_xueyun",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫她「雪芸」"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

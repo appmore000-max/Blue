@@ -1,0 +1,554 @@
+{
+ "id": "64_那些帳單",
+ "title": "那些帳單",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個屋主走了之後，那些費用還在跑。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "水費。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "電費。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "網路。",
+   "pause_before": 0
+  },
+  {
+   "t": "narration",
+   "text": "而那些東西是有名字的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個名字現在不會再繳了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事張真琪是第二個月才發現的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她那天去，而電是暗的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的第一個反應不是問。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是算。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一戶透天，兩個人，一個月沒繳。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事的原因只有兩種。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒錢。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "或者沒有人去繳。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩個人身上都沒有錢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們也不需要錢。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以是第二種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那天沒有問。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她上頂樓，坐了一個下午。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人躺在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子泡了茶。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而三個人一整個下午講的話不到二十句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她走的時候，跟那孩子講了一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯那個電費的單子在哪裡。」",
+   "pause_before": 3,
+   "who": "zhang_zhenqi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子看了她一秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他去拿了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那疊東西裡面有五張。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而最舊的那一張是三個月前的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有講「你們怎麼沒有繳」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個問題沒有意義。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個活了一千年、而且不需要錢的人，不會知道那個東西要繳。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個七歲的小孩，不會有一個可以繳費的身分。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那天把那五張帶走了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個月，她把全部的費用轉到自己名下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "水。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "電。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "網路。",
+   "pause_before": 0
+  },
+  {
+   "t": "emphasis",
+   "text": "還有那棟房子的稅。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她沒有問過那個人的意見。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "也沒有等他開口。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她就是從那個月開始，把那些東西接過去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人「嗯」了一聲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個「嗯」是短的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是「聽到了」。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是「他記住了」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她那時候沒有分出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她現在分得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有回去想過那一次是哪一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事到現在有幾年了，她沒有算。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而每個月那幾筆會自動扣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個金額對她來說不大。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她是一間上市公司的業務員。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而界依任務給付，而她的階位很高。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩份加起來，繳那些綽綽有餘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有拿那件事說過任何一句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不提。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不暗示。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "不在任何時候拿出來講。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "就像那件事本來就該是她做的一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的理由，她自己也沒有想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "如果一定要講，她講得出來的是：總要有人繳。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個回答是真的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是全部。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "真正的部分是這樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個人什麼都給得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他可以推動地球。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他可以換掉整片天空。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他可以在瞬間出現在這顆星球上的任何一個角落。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他繳不了電費。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在她十歲那年是不成立的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那一年她攻擊了他，而那一擊穿了過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人在她眼裡是一個不可能的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而十三年之後，她每個月在繳他的水電。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個落差就是她要的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個不可能的東西，是沒有辦法被靠近的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她從十歲開始做的每一件事，都是在找一個可以靠近的方式。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "挑戰。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而挑戰了十三年，一次都沒有贏過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "送衣服。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他只穿過一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "拍照。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都看鏡頭。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些全部是她在找。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些費用不是。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那些費用是他需要的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是十三年來，唯一一件她做得到而他做不到的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她從來沒有跟任何人講過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "包括紫儀。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而紫儀知道那件事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而紫儀從來沒有提過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子什麼都知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子從來沒有說過謝謝。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她那時候沒有想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她現在想過了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為如果那孩子說了謝謝——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那她做的事就變成幫忙了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她不要那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子知道那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒就知道了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那年他七歲多。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她每次去，那孩子會泡茶。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那杯茶她每一次都喝完。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有說過好喝。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子也沒有問過。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 106,
+  "narration": 63,
+  "emphasis": 42,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "zhang_zhenqi",
+ "⚠_label_rule": {
+  "shunfeng": "他",
+  "yuanzou": "那孩子"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

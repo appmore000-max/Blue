@@ -1,0 +1,702 @@
+{
+ "id": "84_第五發",
+ "title": "第五發",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十三歲那年，她差一點死掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件案子看起來很普通。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候已經做了一年多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一年多沒有出過問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而理由不是她厲害。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是她只接她算得出來的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個目標。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "夜間。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從後面來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一套她那一年多用了幾十次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天她從後面來。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她開了第一槍。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一槍打中了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的判斷是：結束了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人轉過來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有慌。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她開了第二槍。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而第二槍也打中了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人往前走了一步。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "第三槍。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "第四槍。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四槍全部打中了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒看到的東西，她到現在都記得。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那些子彈停住了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是被擋開。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "也不是打偏。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "是停在那裡。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "像打在一面牆上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它們沒有掉下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "它們就停在那個人身上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那時候十三歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她的第五發還在膛裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人離她八公尺。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而八公尺對一個一百五十幾公分、四十公斤的十三歲來說，是一個很短的距離。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人比她大很多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒在算。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她算的東西有三個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一個：跑。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她算出來的答案是：來不及。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為八公尺對那個人來說是兩步。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而她要轉身。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二個：刀。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她算出來的答案是：四十公斤。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而第三個是那一發。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一發跟前面四發是一樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "同一把槍。同一種子彈。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而前面四發沒有用。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以第五發也不會有用。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個算式很清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她開了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她開的理由不是她算錯了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是她沒有別的可以做了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一發穿了過去。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有懂。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為她做的動作跟前面四次一模一樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "同一個姿勢。同一個角度。同一根手指。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而結果不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人倒下去了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她站在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她站了大概三十秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三十秒她在做的事情，是重播。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她在想她那一秒做了什麼不一樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她想出來了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她花了大概兩個星期。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個差別不是動作。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "是她那一秒想的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "前面四發，她想的是：打中。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而第五發，她想的是別的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒想的是：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「那個東西擋得住我。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那句話很奇怪。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "因為那是一句認輸的話。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它是那個東西的開關。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她後來把那件事想清楚了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那個東西不是「威力變大」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "它是「這個東西擋不住我」這件事，對她而言不成立。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而要讓那件事不成立，前提是：那件事本來成立。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "所以她必須先認定那個東西擋得住她。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後那件事才會被推翻。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個邏輯她花了很久才接受。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不像一個能力。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那像一個很彆扭的規則。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，她的做法變了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她開始在扣扳機之前判斷。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個判斷只有一個問題。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "這個東西擋得住我嗎。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而如果答案是不，那就是普通的一發。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "零消耗。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果答案是是，那就放進去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個判斷她做了三年。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她判斷錯過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而錯的方式有兩種。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種：她以為擋得住，而其實擋不住。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那一發她白扣了。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個代價是存。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二種：她以為擋不住，而其實擋得住。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一發沒有用。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個代價是那一秒。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而第二種比較危險。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二種她遇過三次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三次她都活下來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從來沒有跟任何人講過那三次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很奇怪的後果。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她變成一個很會判斷「別人身上有沒有東西」的人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是感知。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她的感知抓不準。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "那是看。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人站的姿勢。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個人怎麼閃。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一個人在被指著的時候，怕不怕。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是三年練出來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她用在一個地方，而那個地方跟工作沒有關係。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那是她十四歲那年的某一天。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那天她弟弟從腳踏車上摔下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那是一個很普通的摔。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "側邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他滑出去了大概兩公尺。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她跑過去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子坐起來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他說：「沒事。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒把他的手臂翻過來看。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個地方是乾淨的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而柏油路上滑兩公尺，那個地方不應該是乾淨的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有講話。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒在做的事情，是那三年練出來的那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她在看他。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒知道了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒也知道了另外一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個東西，她那一發穿得過去。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有試過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她就是知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她從來沒有跟任何人講過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "包括他。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那天說的是：",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯下次騎慢一點。」",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子說：「喔。」",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 136,
+  "narration": 68,
+  "emphasis": 65,
+  "speech": 0,
+  "quote": 3,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_tingya",
+ "⚠_label_rule": {
+  "chen_zairen": "他",
+  "⚠": "她不知道他知道"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

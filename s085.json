@@ -1,0 +1,527 @@
+{
+ "id": "85_他很少受傷",
+ "title": "他很少受傷",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那件事他自己有一個解釋。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他覺得他運氣好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個解釋是他八歲那年想出來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而想出來的過程很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他跟同學打球。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而有一個人跌倒了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人膝蓋破了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人哭了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而陳再壬那一秒站在旁邊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒想的是：那個很痛嗎。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題他不是在同情。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他是真的在問。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為他自己沒有那樣過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那天回家之後，做了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他去看自己的膝蓋。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他的膝蓋是乾淨的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是那天的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一直以來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒想了很久。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而一個八歲的小孩想不出「他身上有東西」。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個選項不在他的世界裡面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他世界裡面有的選項是：",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他比較小心。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他運氣比較好。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "或者他比較不會跌倒。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒挑了第二個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為前面那兩個他知道是假的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他不小心。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也很會跌倒。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以是運氣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個解釋他用了兩年。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那兩年裡，那個解釋有幾次不太夠用。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "有一次他從樓梯上摔下來。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "三合院那個門檻很高。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那次是往前摔的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他的手撐在地上。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而地上有一塊碎掉的磚。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他站起來之後，看了一下手。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個地方有一點紅。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有破。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個紅過了大概十分鐘就沒有了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一次他那個解釋不太夠。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為運氣不會讓一塊碎磚變成不會割人的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒有兩個選項。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一個：他繼續用那個解釋。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第二個：他去想別的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他選了第一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個選擇的理由，他到現在都講不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果一定要講——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那大概是因為第二個會讓他變成一個不一樣的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有跟他姐姐講過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而理由跟那個第二選項是同一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為如果他講了，她會處理。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她處理的方式，他算得出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她會帶他去看醫生。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那要錢。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他知道那件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他知道家裡有多少。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他知道家裡有多少，是他自己算的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而算的方式很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他看她買什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個星期的菜。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個牌子的洗衣精。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "還有她每一次結帳的時候看一下發票的動作。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作她做了四年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她自己沒有發現。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他發現了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以他不講。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把那件事變成了一個習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他不喊痛。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他不給她看。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而如果有一個地方紅了，他會用袖子蓋住。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他做了三年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不知道那件事本身就是不對的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個十歲的小孩，不會知道「不喊痛」是一件需要被注意的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他只知道那樣比較不麻煩。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西是什麼，他到現在都不知道。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他也不知道那不是運氣。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他知道的只有一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他姐姐晚上會出門。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他七歲那年就知道了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他知道的方式是：門會響。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事之間有沒有關係，他想過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而他想不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為一個晚上會出門的姐姐，跟一個很少受傷的弟弟，那兩件事在他的世界裡沒有連在一起的方式。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有問。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他每天晚上等第二次門聲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他等到那個聲音之後就睡著了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一千多個晚上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她不知道。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他也不知道，她知道他身上有東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也不知道，他知道她晚上會出門。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而兩個人住在同一個三合院裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個紙箱在他床底下。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而裡面是圖。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些圖全部是同一個女生，跟同一間房子。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個女生每一張都在門口。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而每一張的方向都是往裡面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而不是往外。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他自己沒有發現。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他畫了四年。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 101,
+  "narration": 56,
+  "emphasis": 45,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_zairen",
+ "⚠_label_rule": {
+  "chen_tingya": "姐姐",
+  "⚠": "他不知道她在做什麼"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

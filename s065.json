@@ -1,0 +1,613 @@
+{
+ "id": "65_那個小皮夾",
+ "title": "那個小皮夾",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個東西是路邊撿的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "破的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個角磨掉了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而拉鍊卡住。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人撿的時候，那孩子在旁邊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他撿它的動作很自然。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "蹲下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "撿起來。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後遞給那孩子。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他沒有講話。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子接過去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒也沒有問「這要幹嘛」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他不需要問。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個人給他東西的時候，從來不解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那孩子從來不問。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他們做了二十幾年。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個小皮夾裡面，一開始是空的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而後來裡面有東西了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "零錢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些零錢是別人給的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那二十幾年他們在流浪。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個看起來七歲的小男孩跟著一個看起來二十五歲的男人，走在那個時代的路上——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "會有人給東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "多數是吃的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而有幾次是錢。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那些人給的方式都很像。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他們不會問。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他們就是塞過來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個十塊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個五塊。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而有一次是一個五十。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人從來沒有拒絕過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一次都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事那孩子後來想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個人不需要那些錢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人也不會用。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都收下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而理由那孩子想出來了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那些人不是在給錢。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他們是在做一件他們決定要做的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個決定要做那件事的人，如果被拒絕了——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事就沒有發生。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人不會讓一件已經開始的事沒有發生。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以他收下。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他遞給那孩子。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子從來沒有花過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一塊都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是他捨不得。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他不需要。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他不會餓。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他不會冷。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "他不需要買任何一樣東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些零錢就在那個小皮夾裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而二十幾年下來，那個數字不小。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子算過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他算過的方式很奇怪。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他算的不是總數。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他算的是「如果他們是兩個普通人，那些錢可以撐多久」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案是：一個月綽綽有餘。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他算那個數字的理由，他自己也說不上來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他們不是兩個普通人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個數字沒有任何用處。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是算了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而後來他們有了那棟透天。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子開始去買東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他用的不是那個小皮夾裡的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他用的是另外一筆。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是真琪姐塞給他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生過很多次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而每一次的方式都一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她走的時候，蹲下來，把錢塞進他手裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她說：「拿去買東西吃。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子每一次都說謝謝。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都收下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她不知道他們不需要吃東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子沒有講。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "理由跟那個人收下那些零錢，是同一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些錢他只拿來做一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "茶葉蛋。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "巷口那間便利商店。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他一次買一顆。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不是每天買。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "大概一個星期兩三次。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他做了很多年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他為什麼買茶葉蛋——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事沒有理由。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他不需要吃。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他也不是特別喜歡那個味道。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他就是買。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事跟泡茶是同一類的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他做的每一件事都有目的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "演七歲。應付鄰居。設定手機。記日期。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "不跑、不跳、不冒任何險。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些全部是為了那個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而泡茶不是。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而買茶葉蛋也不是。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩件事之間有一個差別。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "泡茶是給那個人的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而茶葉蛋是他自己的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個小皮夾現在還在。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "在四樓那間房間的抽屜裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些零錢還在裡面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一塊都沒有動過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子偶爾會打開看一下。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他看的不是那些錢。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他看的是那個皮夾本身。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那是那個人給他的第一樣東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二樣是那個吊飾。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那兩樣的順序，是先皮夾，後吊飾。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的意思，那孩子想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個吊飾有四十六億年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個皮夾是路邊撿的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人先給的是後面那一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有任何意義。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人給的時候，什麼都沒有想。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他就是撿到了，然後遞過去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那孩子知道那件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是想了很多年。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 118,
+  "narration": 67,
+  "emphasis": 51,
+  "speech": 0,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "yuanzou",
+ "⚠_label_rule": {
+  "shunfeng": "哥哥",
+  "zhang_zhenqi": "真琪姐姐",
+  "wu_ziyi": "紫儀姐姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

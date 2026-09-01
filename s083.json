@@ -1,0 +1,562 @@
+{
+ "id": "83_凌晨兩點到三點",
+ "title": "凌晨兩點到三點",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那一個小時是固定的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是她排的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是那套系統排的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個時段是通報最少的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個通報最少的時段，是唯一一個可以動系統的時段。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那三年裡改過的每一個東西，都是在那一個小時。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事有一個很實際的後果。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "她那三年沒有在凌晨三點以前睡過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是她熬夜。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是她的班。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個班是她自己排的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人知道有那個班。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一個小時裡，她做的事情有兩種。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種是維護。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很無聊。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "檢查日誌。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "清掉異常。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "確認昨天沒有東西掉。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事花她大概十五分鐘。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二種是另外一件。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而第二種她自己沒有名字。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她在那個資料夾上寫的是三個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「小東西」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個資料夾裡面現在有四十幾個檔案。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而每一個檔案都很小。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "多數不到一百行。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而它們做的事情，全部是同一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "讓某一個人少做一個動作。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而其中一個是這樣的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那套系統的回報介面上，有一個下拉選單。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個選單裡面是傷勢等級。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "零到四。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個選單的預設值是零。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很合理。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為多數任務的傷勢是零。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她把它改成了「上一次的值」。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個改動的理由是：有一個人的回報，連續三次是二。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人每一次都要點三下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而現在他點零下。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人不會注意到一個下拉選單的預設值。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而另外一個是這樣的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "有一個人的回報永遠是最短的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "四行。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "時間、地點、傷勢、處置。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那四行她看過幾百份。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四行的格式從來沒有變過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她做了一個東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個東西會把那四行的格式，在她一打開就自動排好。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個東西省下的時間是幾秒鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那三年做了四十幾個那種東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那四十幾個東西加起來，省下的時間她算過。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "四百六十二小時。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字她算得非常仔細。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "每一個動作省幾秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一天發生幾次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "乘上天數。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她做得比她的正職還仔細。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字是給誰的，她沒有寫。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個檔案裡面沒有名字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一個都沒有。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "只有動作、日期、跟秒數。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她自己知道理由。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一旦寫上名字，那個檔案就變成一份禮物清單了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她不要那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而有一個晚上，那件事差一點被發現。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "那是二〇二三年的某一天。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那天凌晨兩點二十幾分，系統上有另外一個人在線。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是不應該的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個時段只有她。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三年，一次都沒有例外過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒的第一個反應是查。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她查出來那是誰。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是統籌。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在做的事情是讀。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那天的通報。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很正常。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人每天都會讀完所有進來的東西。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那天的東西比較多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐那一秒做的事情，是把她那個視窗關掉。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那一秒沒有想清楚為什麼要關。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她關了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在線上待到三點多。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐那四十幾分鐘什麼都沒有做。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她就是看著那個線上的標記。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而三點多的時候，那個標記消失了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而白嵐那一秒把視窗打開，做了那天要做的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那天她做的那一個，跟那個人有關。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是一個排序。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那天的通報進來的時候，是照時間排的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她把它改成：待判的排前面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個改動省下的時間是：大概三分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那三分鐘她記在那個檔案上了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事到現在有幾年了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字現在超過五百小時了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個檔案沒有備份。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "沒有雲端。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "沒有第二台。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而它就在那台電腦裡。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事很不像她。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她是一個會備份所有東西的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個理由她想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為一個沒有備份的東西，代表她接受它會不見。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她要的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個檔案如果不見了，那四百多個小時還在。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些小時本來就不在那個檔案裡。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "它們在別人的一天裡面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是重點。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 108,
+  "narration": 58,
+  "emphasis": 49,
+  "speech": 0,
+  "quote": 1,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "bai_lan",
+ "⚠_label_rule": {
+  "lin_xueyun": "統籌",
+  "⚠": "而她記了七年"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

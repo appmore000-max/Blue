@@ -1,0 +1,572 @@
+{
+ "id": "66_兩百個字",
+ "title": "兩百個字",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那個群組她兩年來打過的字，不到兩百個。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字是她自己算的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "不是因為她在意。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為她在意過一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是她十五歲那年的某一天。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那天有一個人在群組裡發了一段很長的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "大概是某一次任務的檢討。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而底下有十幾個人回。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "有人講技術。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "有人補充。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "有人講了一個笑話，而那個笑話有五個人回。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而陳婷雅那天在潮州。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她在煮飯。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她一邊煮一邊滑。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她從頭滑到尾。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事花了她十幾分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她那十幾分鐘裡沒有回任何一個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那天晚上躺在床上的時候，想了一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她想的是：她進去之後在那個群組裡打過幾個字。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她算了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她真的去算了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "她把那個群組從最前面滑到最後面。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她把自己講過的每一句抓出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事花了她大概兩個小時。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她算出來的數字是：一百八十幾個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那些字的內容，幾乎全部是同一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「收到。」",
+   "pause_before": 3,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「好。」",
+   "pause_before": 1,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我到了。」",
+   "pause_before": 1,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「處理完了。」",
+   "pause_before": 1,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「這次不行。」",
+   "pause_before": 1,
+   "who": "chen_tingya",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個晚上她算完之後，沒有什麼感覺。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事本身才是重點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為一個十五歲的女生花兩個小時去算那件事，代表她那一秒是在意的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她算完之後沒有感覺，代表那個在意在那兩個小時裡被算掉了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她算掉它的方式是這樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她問自己：如果我多打一點會怎麼樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而答案是：沒有怎麼樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她再問：那我為什麼會在意。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個答案她花了比較久。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個群組裡面，那些人在講的東西她都聽得懂。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "技術。裝備。哪一種現場該怎麼處理。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她全部聽得懂。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她有些地方懂得比他們多。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而她一次都沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她不講的理由，她那天晚上想清楚了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她講出來的東西，來源是另外一份工作。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她十二歲開始接的那些案子，教她的東西比界多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些東西如果講出來——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "有人會問她在哪裡學的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個問題她答不出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以她不講。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是隱瞞。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是算過的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上之後，她做了一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她把那個群組的通知關掉了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她沒有退出。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為被 @ 到還是會跳。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她要的就是那個。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那之後她的做法變成這樣。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "被 @ 到而有空就去。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "時間卡到上課或接弟弟就看情況。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "沒被 @ 到就連看都不看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個做法在界裡面，看起來就是一個不太熱衷的成員。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個印象是對的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "只是理由不對。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而多數人以為她不熱衷，是因為她十六歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "一個十六歲的高中生，在那個組織裡不熱衷是很正常的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她讓那個印象維持著。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個印象是最安全的一種。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個群組上有一件事她每一次都會做。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "她會看名單。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是看誰被 @ 了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是看那則貼文底下，誰已讀了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她從第一天就在做。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個功能是那個系統本來就有的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人不會去點。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她每一次都點。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她看的是：這一次，那幾個人在不在。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「那幾個人」是誰，她自己也講不出一個清單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是一個清單。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是幾張臉。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那幾張臉是她這兩年在現場看過的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她跟他們沒有講過話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "或者講過，而不超過三句。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她連他們叫什麼都不太確定。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她記的是那個人在現場的樣子。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個往前站的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那個綁頭髮的。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那個永遠站在門口的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而她點開已讀名單，看的就是那幾個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的意義是什麼，她從來沒有想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而如果一定要講——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那大概是因為，一個已讀代表那個人還在。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個群組裡面，這兩年有幾個名字消失了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她注意到的方式，是那幾個名字不再出現在已讀名單上。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她從來沒有問過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個問題不是她可以問的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個兩年打過一百八十幾個字的人，不能突然問「那個人怎麼了」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她也算過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而現在那個數字是兩百多一點。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那多出來的幾十個字，是二〇二四年之後的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是因為她變得比較熱衷。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是因為她那一年之後，回訊息回得比較快。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而快跟多是兩件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個差別沒有人會注意到。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "包括那個每天讀完所有東西的人。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 107,
+  "narration": 65,
+  "emphasis": 37,
+  "speech": 5,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "chen_tingya",
+ "⚠_label_rule": {
+  "chen_zairen": "他",
+  "⚠": "她不知道他知道"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   26,
+   30
+  ]
+ ]
+}

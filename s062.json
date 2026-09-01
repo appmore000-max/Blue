@@ -1,0 +1,795 @@
+{
+ "id": "62_他去看那雙眼睛",
+ "title": "他去看那雙眼睛",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "十三歲那年，他發現了那座寺。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "山上那座。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "很舊。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而香火不旺。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他發現它的方式很普通。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他走上去的時候看到了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那條路他走過很多次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那座寺一直都在。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他一直沒有進去過。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那天他進去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "理由他自己也說不上來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而裡面很暗。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而正中間有一尊神像。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那尊像的眼睛是藍的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他站在那裡看了大概兩分鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個藍，跟他的眼睛是同一個顏色。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事的機率是多少，他那時候沒有算。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他十三歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個十三歲的小孩看到那種東西，不會算機率。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他會走近一點。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他走近了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而寺裡有一個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "一個看起來六十幾歲的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個人在掃地。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而阿和問了。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯請問，這個是什麼？」",
+   "pause_before": 3,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人抬起頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他看了那尊像一眼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「那個喔。那個很老了。」",
+   "pause_before": 2,
+   "who": "temple_keeper",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「多老？」",
+   "pause_before": 3,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「⋯⋯幾千年吧。」",
+   "pause_before": 2,
+   "who": "temple_keeper",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「幾千年？」",
+   "pause_before": 2,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「聽人講的啦。」",
+   "pause_before": 2,
+   "who": "temple_keeper",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人繼續掃他的地。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿和又問了一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「那⋯⋯它是誰？」",
+   "pause_before": 3,
+   "who": "ahe",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個人停了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯無人知影。」",
+   "pause_before": 2,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（沒有人知道。）",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而阿和那一秒沒有再問。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他從那之後每個星期都去。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他不是去拜的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他是去看那雙眼睛。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事家裡不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "不是他隱瞞。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是他們以為那是信仰。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個家本來就是那樣的家。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "吃素。拜拜。初一十五。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個十三歲的孩子每個星期去廟裡，那件事沒有人會多問。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "所以他不用解釋。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那對他來說是最方便的一種狀況。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他去那裡做的事情很單純。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他坐下來。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他看。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他看的不是那尊像。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那雙眼睛。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他看了三年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他在找的東西，他自己講不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而如果一定要講——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那大概是「那個顏色代表什麼」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那個顏色他從小就有。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而所有人問的都是同一句：",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「你的眼睛怎麼會這樣？」",
+   "pause_before": 2,
+   "who": "stranger",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那句話的意思是：那不對。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他從六歲聽到十二歲。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他每一次的回答都是：「⋯⋯天生的。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個回答每一次都讓對方「喔」一聲，然後就沒有了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那六年，那個顏色是一個要被解釋的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而十二歲那年，有一個人問了不一樣的。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯那個顏色，你自己弄的？」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那句話的預設完全相反。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那句話的意思是：那可能是你做的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是六年來第一次，有人把那個顏色當成一件他可能有份的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他說不是，那是天生的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人「喔」了一聲。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個「喔」跟前面六年那些「喔」不一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那個人接著問了：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「那你做得出來嗎。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他不知道那個人在講什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他把那個東西做了出來。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "硬幣那麼大。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "浮在手掌上。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "三秒鐘。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人看了三秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「嗯。可以。」",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字他到現在都記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字是什麼意思，他也想了很多年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "「可以」是一個評價。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個評價需要一個標準。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人拿的是什麼標準。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他沒有想出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他也沒有機會問。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人講完就走了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而一年之後，他發現了那座寺。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那尊像的眼睛，跟他的是同一個顏色。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那三年在那裡坐著的時候，腦子裡跑的是一件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個顏色是從哪裡來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他推出來的可能性有幾種。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種：巧合。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個幾千年前的人刻了一尊像，而顏色剛好一樣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他排除了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為那個藍不是一般的藍。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個很特定的顏色。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二種：那尊像刻的是一個跟他有關係的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那也不可能。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "因為他們家沒有任何一個人有那個顏色。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他問過他爺爺。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他爺爺說：「⋯⋯無。」",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第三種：",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而第三種他想不出來。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他十六歲的時候，還在那裡。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "每個星期。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個掃地的人現在七十幾了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們幾乎不講話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個人偶爾會說一句：「來啦。」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿和會說：「嗯。」",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那就是全部。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而有一次，那個人問了他一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那是他去了大概兩年之後。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「囡仔，你逐擺攏來咧看啥？」",
+   "pause_before": 3,
+   "who": "temple_keeper",
+   "label_as": null,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（孩子，你每次都來看什麼？）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而阿和那一秒愣了一下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯看目睭。」",
+   "pause_before": 2,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（看眼睛。）",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個人看了他一會兒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後他說：",
+   "pause_before": 3
+  },
+  {
+   "t": "quote",
+   "text": "「⋯⋯嘿也是。」",
+   "pause_before": 2,
+   "⚠_taigi": true
+  },
+  {
+   "t": "narration",
+   "text": "（那也是。）",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他繼續掃他的地。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三個字阿和也想了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他到現在都不確定那是什麼意思。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那尊像刻的是誰。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有人知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在幾千年前發生過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一天有一個人在陰天的山路上，看到了另外一個人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人的眼睛是天空藍的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而後來那個人化成了藍天白雲，往天上去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而整片陰雲當場散開。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個看到的人命人刻了那尊像。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那些事情沒有紀錄。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而寺裡那個人不知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而阿和不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個被刻進去的人，也不知道。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那已經是幾千年前的事了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一代早就不在了。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 149,
+  "narration": 89,
+  "emphasis": 45,
+  "speech": 9,
+  "quote": 6,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "ahe",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "zhang_zhenqi": "真琪姐"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   29,
+   33
+  ]
+ ],
+ "⚠_taigi_review": "見 _台語檢查表.md。未經母語者確認"
+}

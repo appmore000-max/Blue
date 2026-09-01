@@ -1,0 +1,637 @@
+{
+ "id": "73_那則貼文",
+ "title": "那則貼文",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那張照片是她隨手拍的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "三十幾張。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她選了一張。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她選的標準很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "哪一張看起來最可愛。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做了很多年。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而兩萬多個追蹤者是那樣來的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她發東西的頻率是一天一到兩則。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而內容很雜。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "吃的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "看到的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "天氣。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "一隻路邊的貓。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那則貼文她發的時候沒有想太多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她寫的字是四個。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「好可愛喔🦆」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那則貼文那天有兩萬多個讚。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個數字對她來說是正常的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為她多數的貼文都是那個量。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而留言有三百多則。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她回了一百多則。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一則都回。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而回不完的那些，她隔天會補。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她做了很多年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是她的習慣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而留言的內容多數是同一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「好可愛」",
+   "pause_before": 3,
+   "who": "commenter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「這哪裡」",
+   "pause_before": 1,
+   "who": "commenter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「我也想養」",
+   "pause_before": 1,
+   "who": "commenter",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「柯爾鴨嗎」",
+   "pause_before": 1,
+   "who": "commenter",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她回的也是同一種。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「對啊超可愛的～」",
+   "pause_before": 3,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「朋友家的啦」",
+   "pause_before": 1,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不是我養的喔哈哈」",
+   "pause_before": 1,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而「朋友家的」那四個字，是她那一秒隨口打的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那四個字是真的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而它同時是一句完全沒有資訊的話。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她沒有想過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那則貼文底下，有一個讚是她認識的人按的。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而她不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為兩萬多個讚裡面，她不會去看是誰。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個功能她從來沒有點開過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而理由很簡單。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "兩萬多個名字，點開來要滑很久。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有意義。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天她去那個頂樓，是一件很普通的事。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "她一個月會去一兩次。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她去的時候會帶東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "貼紙。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "糖果。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "便利貼。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些東西是給那個小孩的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩每一次都會說謝謝。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都收下。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天她上去的時候，那個人不在。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "至少她以為不在。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩在洗杯子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她走過去，把他抱起來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作她做了很多次。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她每一次都會問一堆有的沒的。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「今天吃了什麼？」",
+   "pause_before": 3,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有沒有乖乖的？」",
+   "pause_before": 1,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「茶好不好喝？」",
+   "pause_before": 1,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩每一次都答得很好。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「吃了麵。」",
+   "pause_before": 4,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「有。」",
+   "pause_before": 1,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「好喝。」",
+   "pause_before": 1,
+   "who": "yuanzou",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒沒有覺得哪裡不對。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那些回答是對的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她放他下來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "然後她回頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她看到了那隻鴨子。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "矮矮胖胖的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "蹲在水塔旁邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒整個人亮了起來。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "她蹲下去。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "然後她拍了大概三十張。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那隻鴨子沒有動。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事她那一秒也沒有覺得奇怪。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為柯爾鴨本來就很鈍。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她拍完之後，才想起來問。",
+   "pause_before": 4
+  },
+  {
+   "t": "speech",
+   "text": "「诶?對了，順風先生咧？」",
+   "pause_before": 4,
+   "who": "wu_ziyi",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那個小孩頭也沒抬。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「去他想去的地方了吧。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個回答含糊到沒有任何資訊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她完全沒有多想。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那個回答很正常。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那個人本來就會不見。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個小孩本來就會那樣講話。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她那天下山之後，在客運上選照片。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而她選了很久。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為三十幾張裡面，有幾張差不多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她最後選的那一張，是那隻鴨子抬頭的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而她選那一張的理由是：那個角度最可愛。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那不是全部。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而另外一個理由她那一秒沒有想清楚。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事她到現在都沒有想清楚。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那三十幾張裡面，只有那一張是抬頭的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而其他的都是低頭。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一隻在原地不動的鴨子，多數時候是低頭的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一張它在看天。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她那一秒選的時候，覺得那張最好。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她沒有問自己為什麼。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那則貼文她發了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而三年前她也發過一張。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一張也是那隻鴨子。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她那時候沒有把兩件事放在一起。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那是三年前。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她一天發一到兩則。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而三年是一千多則。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而沒有人會記得一千多則之前的那一張。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而有一個人記得。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人那天也按了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而她也不知道。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 114,
+  "narration": 62,
+  "emphasis": 36,
+  "speech": 14,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "wu_ziyi",
+ "⚠_label_rule": {
+  "shunfeng": "順風先生",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   26,
+   29
+  ],
+  [
+   31,
+   33
+  ],
+  [
+   60,
+   62
+  ],
+  [
+   64,
+   66
+  ]
+ ]
+}

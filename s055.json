@@ -1,0 +1,619 @@
+{
+ "id": "55_他每天回家吃飯",
+ "title": "他每天回家吃飯",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "六歲那天下午，他把自己裝回去了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "四肢散在草地上。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "沒有血。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "沒有斷面、沒有傷口、沒有任何一個正常人體該有的樣子。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "就只是分開了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "像積木被分開來放在旁邊。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒沒有哭。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他躺在那裡，看著自己的一隻手在旁邊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "然後他想著「回來」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們回來了。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他站起來，拍拍身上的草。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "然後他進屋去了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那天晚上吃飯的時候，什麼都沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是隱瞞。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是一個六歲的小孩，覺得那不算什麼大事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為他家裡有大量的卡通跟動漫。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那些東西裡面有各式各樣的「不可能」。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他六歲那年的世界裡，一個人的手可以掉下來然後裝回去，跟一隻貓會講話是同一個等級的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他那天晚上唯一在想的事情是：那是怎麼運作的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他父親是高中物理老師。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他父親給了他一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "「為什麼」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "那不是教的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是那個人講話的方式。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "一個小孩問「天為什麼是藍的」，多數大人的回答是一個答案。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他父親的回答是另外一個問題。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「你覺得咧。」",
+   "pause_before": 2,
+   "who": "father",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那件事發生了幾千次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個被問了幾千次「你覺得咧」的小孩，會變成一種特定的人。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他碰到任何一件事，第一個反應都是弄清楚那是怎麼運作的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他母親是插畫家。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他母親給了他另外一個東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "「如果」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "她畫的東西裡面有很多不存在的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而她畫的時候，那個小孩會坐在旁邊看。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而她會問他：「你覺得這個東西住在哪裡？」",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他會回答。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而她會照著他講的畫。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那件事也發生了幾千次。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那兩樣東西在他六歲那天下午，接在一起了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "「為什麼」讓他去問那是怎麼運作的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而「如果」讓他不覺得那件事不可能。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那兩樣東西是那個家給他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們兩個到現在都不知道自己給了他什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他妹妹小他六歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "國中生。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是他極度疼愛的對象。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個「疼愛」的樣子很普通。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他會被她煩。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他會跟她鬥嘴。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次都輸。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那個輸不是他讓的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "是一個二十歲的人在一個十四歲面前，本來就講不贏。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "因為那個十四歲不需要講理。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而他需要。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三個人都不知道他有那個體質。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "十四年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那不是刻意隱瞞。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "六歲那天他覺得那不算什麼大事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而後來——",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "已經沒有講的時機了。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而「沒有時機」這件事，他自己分析過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是一個時間點的問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個累積的問題。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "一個六歲的小孩講那件事，那是一個有趣的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "一個十歲的小孩講，那是一件要處理的事。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個二十歲的人講，那是一件他隱瞞了十四年的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個「隱瞞了十四年」才是問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個東西每過一年就變大一點。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "所以他算出來的結論是：那件事已經不能講了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個結論他十五歲那年就算出來了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那之後五年，他一次都沒有再算過。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而他每天回家吃飯。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個家對他而言是完全正常的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他父親會問他學校的事。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他母親會問他有沒有吃飽。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他妹妹會搶他的東西。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那些對話裡面，沒有一句話需要被算。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事在他的生活裡，是唯一的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為他在別的地方，每一句話都要算。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "補習班：他要算那個小孩聽不聽得懂。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "宜蘭那兩個：他要算那句話會不會讓他們覺得他在講他們笨。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那三個人：他要算自己現在是不是在麻煩他們。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個穿拖鞋的人：他要算什麼問題可以問，什麼不可以。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個家不用。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那是他唯一一個不需要算任何東西的地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個地方是靠一件事維持的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "他沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他也算過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "如果他講了，那個家會怎麼樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他算出來的答案不是「他們會不接受」。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他們會接受。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他父親會問「那是怎麼運作的」。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "他母親會問「那會不會痛」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他妹妹大概會叫他表演一次。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那正是問題。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那三個反應全部是好的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而好的反應，會讓那件事變成那個家的一部分。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而一旦那件事變成那個家的一部分——",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個家就會開始有那件事的重量。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "他母親會開始擔心。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他父親會開始查。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而他妹妹會開始跟同學講。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個唯一不需要算的地方，就沒有了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他二十歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他守了十四年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那是他這輩子做過最久的一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "比補習班久。比筆記本久。比那三個人久。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那本筆記本的第五十一頁上，有一個標題。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個標題是一個問句。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那一頁到現在都還沒有寫滿。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個問句是什麼，這裡不寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的是另外一件事。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "那個問句他寫下去的時候，字很小。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他寫得小的東西只有兩種。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "一種是他不確定的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而另一種是他不想被人看到的。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那本筆記本從來沒有給任何人看過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "所以那個小，是第一種。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 119,
+  "narration": 74,
+  "emphasis": 44,
+  "speech": 1,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "azhi",
+ "⚠_label_rule": {
+  "shunfeng": "那個人",
+  "yuanzou": "那個小孩"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}

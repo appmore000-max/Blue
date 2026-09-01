@@ -1,0 +1,525 @@
+{
+ "id": "87_那一瞬間他沒有喊",
+ "title": "那一瞬間他沒有喊",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "那是一個很普通的現場。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而他照樣在前面。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "照樣在喊。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而「喊」在他身上是一個很具體的東西。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那不是加油。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是鼓勵。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是指令。",
+   "pause_before": 2
+  },
+  {
+   "t": "speech",
+   "text": "「左邊！」",
+   "pause_before": 3,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「退！」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「不要動！」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「上！」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那些指令一個字到三個字。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那是刻意的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為現場很吵。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而一個五個字的指令，會被聽成別的。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他在那七年學的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那天他有一瞬間沒有喊。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而理由很單純。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個狀況他不確定。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而不確定的東西他不會喊。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為喊錯比不喊糟。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事他也是那七年學的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一瞬間大概是一秒半。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而現場停了。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那不是有人喊停。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "是那些人在等。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒站在那裡。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個感覺非常糟。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為他那一秒發現了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他如果不講，那些人就不會動。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事聽起來像是一個好消息。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "一個所有人都聽他的人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而多數人會覺得那是威信。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他那一秒想的不是那個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "他想的是：如果他錯了呢。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題有一個很簡單的答案。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那些人會照著錯的做。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他們不會停下來想。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他們已經不想了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事是他自己造成的。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他造成它的方式，不是他要求的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "是他那幾年每一次都對。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而一個每一次都對的人，會讓旁邊的人省掉一個動作。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作是判斷。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而省掉那個動作，會讓現場快很多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而快是好的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個好，是拿他們的判斷換來的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那一秒他想的是他老婆那四個字。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那四個字是：「你要回來。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話那一秒為什麼會出現，他自己也說不上來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他後來想清楚了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那句話的結構跟他那一秒面對的東西是同一種。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那句話沒有給他任何一個做法。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "它沒有說「小心」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "它沒有說「不要去」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它沒有說「你要怎麼做」。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "它只給了一個結果。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而怎麼達成，那是他的事。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他那一秒理解了。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "那個人沒有替他判斷。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那才是那四個字的重量。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他那天之後，改了一件事。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "他開始問。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那個「問」很短。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "跟他的指令一樣短。",
+   "pause_before": 3
+  },
+  {
+   "t": "speech",
+   "text": "「那邊呢。」",
+   "pause_before": 4,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你看得到嗎。」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "speech",
+   "text": "「你覺得咧。」",
+   "pause_before": 1,
+   "who": "gao_zhiyuan",
+   "label_as": null
+  },
+  {
+   "t": "narration",
+   "text": "而那三句話在現場聽起來，跟指令沒有什麼差別。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他的音量偏大。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他的語氣一向是那樣的。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而它們的功能完全相反。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他做了四年。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而那四年裡，現場慢了一點。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "大概每一次多兩三秒。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩三秒他算過。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而它有代價。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個代價他也算過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他還是做。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事沒有人跟他提過。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而多數人以為那是他的習慣。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個理解是對的。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "只是那個習慣是他自己裝上去的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那四年裡，有幾次那個「問」救到了東西。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而次數不多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "大概三、四次。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "而那三、四次的形狀都一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "他問了一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而有一個人回了一句他不知道的事。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事改了那一次的做法。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那三、四次裡，回話的人不知道自己救到了什麼。",
+   "pause_before": 5
+  },
+  {
+   "t": "emphasis",
+   "text": "因為他們只是回答了一個問題。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而高志遠三十四歲。",
+   "pause_before": 5
+  },
+  {
+   "t": "narration",
+   "text": "而他現在在現場問的次數，比講的次數多。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事沒有人注意過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那些問題聽起來像指令。",
+   "pause_before": 4
+  }
+ ],
+ "stats": {
+  "boxes": 96,
+  "narration": 44,
+  "emphasis": 45,
+  "speech": 7,
+  "quote": 0,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "gao_zhiyuan",
+ "⚠_label_rule": {
+  "qiangzang": "指揮",
+  "lin_xueyun": "統籌"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": [
+  [
+   7,
+   10
+  ],
+  [
+   65,
+   67
+  ]
+ ]
+}

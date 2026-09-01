@@ -1,0 +1,523 @@
+{
+ "id": "68_三秒鐘",
+ "title": "三秒鐘",
+ "boxes": [
+  {
+   "t": "narration",
+   "text": "二〇一〇年，他三十六歲。",
+   "pause_before": 1
+  },
+  {
+   "t": "narration",
+   "text": "那是那五年的第五年。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那一次是一個很普通的現場。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而「普通」的意思是：那件事在他做過的裡面，排不進任何一種特別。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天他一個人。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個老人不在場。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來變得很重要。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為如果那個老人在場，那件事就不算數。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而現場那個人被他壓在地上。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人動不了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而接下來要發生什麼，那個人也知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人看得出他是誰。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬那一秒的動作已經開始了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那不是猶豫。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是一個已經在進行的動作。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個動作他做過幾百次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他從來沒有失手過。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個動作停了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "三秒鐘。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那三秒鐘裡他想了什麼，他從來沒有講過。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而這裡也不會寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而能寫的只有兩件事。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一件是：那三秒鐘裡，那個現場的其他人沒有發現。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "因為那三秒鐘看起來像是他在判斷。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而他本來就是那種會判斷的人。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而第二件是：三秒之後，他放手了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個人跑掉了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事在那個現場沒有造成任何後果。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那個人本來就不是關鍵。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事後來也沒有被寫進任何一份紀錄。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那不是一個需要被寫的東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那天晚上他回去了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人在。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他在做他每天在做的事情——他在寫東西。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他抬起頭，看了強葬一眼。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "然後他繼續寫。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那一整個晚上，那個老人沒有問。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而強葬也沒有講。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事之後，那五年結束了。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而「結束」的意思不是那個老人不帶他去看了。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而是他不需要再被帶了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事是誰決定的，也沒有人講。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那就只是有一天，那件事不再發生了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而十五年之後，強葬五十一歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他到現在都不知道那件事對那個老人的意義。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他想過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他想的方式跟他做每一件事的方式一樣。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "他算。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他算的是：那個老人知不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個問題有兩種答案。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "第一種：不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那三秒鐘沒有人看到。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那個現場的紀錄上什麼都沒有。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個人也沒有出現。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "第二種：知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而第二種要成立，需要一個前提。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那個老人要有一個知道那件事的方式。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬算不出來那是什麼。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他算了十五年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他每一次算完，都停在同一個地方。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那五年結束在那一天之後。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那件事是一個很強的訊號。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而一個很強的訊號，通常代表對方知道。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個訊號也可能是巧合。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "因為那五年本來就要結束了。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "因為第五年結束是一個很自然的時間點。",
+   "pause_before": 2
+  },
+  {
+   "t": "narration",
+   "text": "而那兩種可能，強葬分不出來。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而他分不出來的東西不多。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那件事他從來沒有問過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他不問的理由，跟他不講那三秒鐘的理由是同一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "因為那三秒鐘是他自己的。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "那不是那個老人給他的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "那不是那五年的成果。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那不是任何一個人的功勞。",
+   "pause_before": 1
+  },
+  {
+   "t": "emphasis",
+   "text": "那是他一個人站在那裡，然後手停了三秒。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而如果那個老人知道，並且講了——",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那件事就變成那五年的結果了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而那樣的話，那三秒鐘就不是他的了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "所以他不問。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個老人也沒有講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而那個老人不講的理由，強葬也算過。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他算出來的答案是：那個人不講的理由，跟他不問的理由是同一個。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那個結論是不是對的，他不知道。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而那個結論讓他停止算了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而現在那個老人九十八歲。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而他在山裡種菜。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬每個月去一次。",
+   "pause_before": 3
+  },
+  {
+   "t": "emphasis",
+   "text": "而那件事二十年了。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而他去的時候，兩個人講的話不多。",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "多數是那個老人在講。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而講的內容是菜、是天氣、是山上那條路又壞了。",
+   "pause_before": 2
+  },
+  {
+   "t": "emphasis",
+   "text": "而強葬「嗯」。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而每一次他走之前，那個老人會講同一句話。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「路上小心。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那句話沒有任何特別的。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "那是每一個老人都會講的。",
+   "pause_before": 3
+  },
+  {
+   "t": "narration",
+   "text": "而強葬每一次都回同一句。",
+   "pause_before": 4
+  },
+  {
+   "t": "quote",
+   "text": "「好。」",
+   "pause_before": 4
+  },
+  {
+   "t": "narration",
+   "text": "而那兩句話他們講了二十年。",
+   "pause_before": 4
+  },
+  {
+   "t": "emphasis",
+   "text": "而一次都沒有變過。",
+   "pause_before": 3
+  }
+ ],
+ "stats": {
+  "boxes": 100,
+  "narration": 61,
+  "emphasis": 37,
+  "speech": 0,
+  "quote": 2,
+  "screen": 0,
+  "section": 0
+ },
+ "pov": "qiangzang",
+ "⚠_label_rule": {
+  "huabang": "那個老人",
+  "yu_lengchuan": "那個人",
+  "⚠": "而他叫每一個人的全名——除了那個老人"
+ },
+ "⚠_speaker_pass": "done",
+ "⚠_dialogue_runs": []
+}
